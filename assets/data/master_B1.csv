@@ -1,0 +1,877 @@
+﻿level,english,german,russian
+B1,to achieve,erreichen,достигать
+B1,to improve,verbessern,улучшать
+B1,to develop,entwickeln,развивать
+B1,to compare,vergleichen,сравнивать
+B1,to suggest,vorschlagen,предлагать
+B1,to depend on,abhängen von,зависеть от
+B1,"to realize, to recognize",erkennen,"осознавать, узнавать"
+B1,to decide (judge),entscheiden,решать
+B1,to criticize,kritisieren,критиковать
+B1,to emphasize,betonen,подчёркивать
+B1,to claim,behaupten,утверждать
+B1,to doubt,zweifeln,сомневаться
+B1,to assume,annehmen,предполагать
+B1,to prove,beweisen,доказывать
+B1,to confirm,bestätigen,подтверждать
+B1,to deny,leugnen,отрицать
+B1,to admit,zugeben,признавать
+B1,"to refuse, to reject",ablehnen,отклонять
+B1,to accept,akzeptieren,принимать
+B1,to approve,genehmigen,одобрять
+B1,to support,unterstützen,поддерживать
+B1,to finance,finanzieren,финансировать
+B1,"to manage, to head",leiten,руководить
+B1,to treat,behandeln,"лечить, обращаться"
+B1,to solve,lösen,решать (задачу)
+B1,to avoid,vermeiden,избегать
+B1,to prevent,verhindern,предотвращать
+B1,to protect,schützen,защищать
+B1,to threaten,drohen,угрожать
+B1,to risk,riskieren,рисковать
+B1,to damage,beschädigen,повреждать
+B1,to destroy,zerstören,разрушать
+B1,to build,bauen,строить
+B1,to erect,errichten,возводить
+B1,to install,installieren,устанавливать
+B1,"to produce, to manufacture",herstellen,производить
+B1,to invent,erfinden,изобретать
+B1,to discover,entdecken,открывать
+B1,to research,forschen,исследовать
+B1,to investigate,ermitteln,расследовать
+B1,to analyse,analysieren,анализировать
+B1,to calculate,berechnen,рассчитывать
+B1,to estimate,schätzen,оценивать
+B1,to expect,erwarten,ожидать
+B1,to predict,vorhersagen,предсказывать
+B1,to prefer (over),vorziehen,предпочитать
+B1,to demand,fordern,требовать
+B1,to require,verlangen,"требовать, запрашивать"
+B1,to oblige,verpflichten,обязывать
+B1,to convince,überzeugen,убеждать
+B1,to persuade,überreden,уговаривать
+B1,to warn,warnen,предупреждать
+B1,to accuse,beschuldigen,обвинять
+B1,to punish,bestrafen,наказывать
+B1,to forgive,verzeihen,прощать
+B1,to trust,vertrauen,доверять
+B1,to rely on,sich verlassen auf,полагаться на
+B1,to count on,rechnen mit,рассчитывать на
+B1,to take care of,sich kümmern um,заботиться о
+B1,to look after,betreuen,присматривать
+B1,"to bring up, to raise",erziehen,воспитывать
+B1,to teach,unterrichten,преподавать
+B1,to complete (a course),abschließen,"завершать, заканчивать"
+B1,to enrol,sich anmelden,записываться
+B1,to register,registrieren,регистрировать
+B1,to subscribe,abonnieren,подписываться
+B1,to publish,veröffentlichen,публиковать
+B1,"to broadcast, to send",senden,передавать
+B1,to announce,ankündigen,объявлять
+B1,to inform,informieren,информировать
+B1,to contact,kontaktieren,связываться
+B1,to communicate,kommunizieren,общаться
+B1,to express,ausdrücken,выражать
+B1,to mention,erwähnen,упоминать
+B1,"to establish, to notice",feststellen,констатировать
+B1,to determine,bestimmen,определять
+B1,to define,definieren,определять (понятие)
+B1,to include,einschließen,включать
+B1,to contain,enthalten,содержать
+B1,to consist of,bestehen aus,состоять из
+B1,to concern,betreffen,касаться
+B1,to influence,beeinflussen,влиять
+B1,to cause,verursachen,вызывать
+B1,to lead to,führen zu,приводить к
+B1,to occur,vorkommen,встречаться
+B1,to take place,stattfinden,происходить
+B1,to succeed,gelingen,удаваться
+B1,to fail (project),scheitern,терпеть неудачу
+B1,to manage (achieve),schaffen,справляться
+B1,"to increase, to rise",steigen,"расти, подниматься"
+B1,"to decrease, to sink",sinken,снижаться
+B1,to reduce,reduzieren,сокращать
+B1,to extend,verlängern,продлевать
+B1,to shorten,verkürzen,сокращать (время)
+B1,to postpone,verschieben,переносить
+B1,to move (something),bewegen,двигать
+B1,to transport,transportieren,перевозить
+B1,to hand over,übergeben,передавать
+B1,to take over,übernehmen,принимать на себя
+B1,to accompany,begleiten,сопровождать
+B1,to represent,vertreten,представлять
+B1,to vote,abstimmen,голосовать
+B1,to demonstrate,demonstrieren,демонстрировать
+B1,to protest,protestieren,протестовать
+B1,to strike,streiken,бастовать
+B1,to defend,verteidigen,защищать
+B1,to attack,angreifen,нападать
+B1,to rescue,retten,спасать
+B1,to survive,überleben,выживать
+B1,to die,sterben,умирать
+B1,to be born,geboren werden,родиться
+B1,to grow up,aufwachsen,вырастать
+B1,to get used to,sich gewöhnen an,привыкать
+B1,to adapt,sich anpassen,приспосабливаться
+B1,to integrate,integrieren,интегрировать
+B1,to immigrate,einwandern,иммигрировать
+B1,to emigrate,auswandern,эмигрировать
+B1,to approach,sich nähern,приближаться
+B1,to overtake,überholen,обгонять
+B1,to brake,bremsen,тормозить
+B1,to accelerate,beschleunigen,ускорять
+B1,to collide,zusammenstoßen,сталкиваться
+B1,to steal,stehlen,красть
+B1,"to cheat, to deceive",betrügen,обманывать
+B1,to lie (tell untruth),lügen,лгать
+B1,to swear,schwören,клясться
+B1,to bet,wetten,спорить на деньги
+B1,to rent out,vermieten,сдавать в аренду
+B1,to invest,investieren,инвестировать
+B1,to profit,profitieren,"выигрывать, получать выгоду"
+B1,to compete,konkurrieren,конкурировать
+B1,to negotiate,verhandeln,вести переговоры
+B1,to sign,unterschreiben,подписывать
+B1,to attach,anhängen,прикреплять
+B1,to enclose,beilegen,прилагать
+B1,to forward,weiterleiten,пересылать
+B1,to wonder,sich wundern,удивляться
+B1,to marvel,staunen,изумляться
+B1,to enjoy,genießen,наслаждаться
+B1,to suffer,leiden,страдать
+B1,to tolerate,ertragen,переносить
+B1,to endure,aushalten,выдерживать
+B1,to cope with,bewältigen,справляться с
+B1,to deal with,umgehen mit,обращаться с
+B1,to reflect,nachdenken,размышлять
+B1,to consider,überlegen,обдумывать
+B1,to imagine,sich vorstellen,представлять себе
+B1,to resemble,ähneln,походить
+B1,to differ,sich unterscheiden,отличаться
+B1,to correspond,entsprechen,соответствовать
+B1,to fit,passen,подходить
+B1,to dare,wagen,осмеливаться
+B1,to hesitate,zögern,колебаться
+B1,independent,selbstständig,самостоятельный
+B1,available,verfügbar,доступный
+B1,responsible,verantwortlich,ответственный
+B1,reliable,zuverlässig,надёжный
+B1,flexible,flexibel,гибкий
+B1,creative,kreativ,творческий
+B1,efficient,effizient,эффективный
+B1,effective,wirksam,действенный
+B1,economic,wirtschaftlich,экономический
+B1,financial,finanziell,финансовый
+B1,political,politisch,политический
+B1,social,sozial,социальный
+B1,cultural,kulturell,культурный
+B1,historical,historisch,исторический
+B1,technical,technisch,технический
+B1,scientific,wissenschaftlich,научный
+B1,environmentally friendly,umweltfreundlich,экологичный
+B1,sustainable,nachhaltig,устойчивый
+B1,renewable,erneuerbar,возобновляемый
+B1,legal,legal,законный
+B1,illegal,illegal,незаконный
+B1,official,offiziell,официальный
+B1,personal,persönlich,личный
+B1,general,allgemein,общий
+B1,"specific, concrete",konkret,конкретный
+B1,approximate,ungefähr,приблизительный
+B1,essential,wesentlich,существенный
+B1,obvious,offensichtlich,очевидный
+B1,likely,wahrscheinlich,вероятный
+B1,unlikely,unwahrscheinlich,маловероятный
+B1,uncertain,unsicher,"неуверенный, неопределённый"
+B1,positive,positiv,положительный
+B1,negative,negativ,отрицательный
+B1,objective,objektiv,объективный
+B1,subjective,subjektiv,субъективный
+B1,logical,logisch,логичный
+B1,emotional,emotional,эмоциональный
+B1,mental,psychisch,психический
+B1,physical,körperlich,физический
+B1,chronic,chronisch,хронический
+B1,mild,mild,"мягкий (о климате, болезни)"
+B1,serious,ernst,серьёзный
+B1,temporary,vorübergehend,временный
+B1,permanent,dauerhaft,постоянный
+B1,constant,ständig,постоянный
+B1,regular,regelmäßig,регулярный
+B1,irregular,unregelmäßig,нерегулярный
+B1,gradual,allmählich,постепенный
+B1,current,aktuell,актуальный
+B1,former,ehemalig,бывший
+B1,future,zukünftig,будущий
+B1,previous,vorherig,предыдущий
+B1,following,folgend,следующий
+B1,final,endgültig,окончательный
+B1,complete,vollständig,полный
+B1,partial,teilweise,частичный
+B1,total,gesamt,"общий, совокупный"
+B1,additional,zusätzlich,дополнительный
+B1,separate,getrennt,раздельный
+B1,joint,gemeinsam,совместный
+B1,mutual,gegenseitig,взаимный
+B1,similar,ähnlich,похожий
+B1,identical,identisch,идентичный
+B1,different,anders,"другой, иной"
+B1,fair,gerecht,справедливый
+B1,unfair,ungerecht,несправедливый
+B1,guilty,schuldig,виновный
+B1,innocent,unschuldig,невиновный
+B1,strict,streng,строгий
+B1,tolerant,tolerant,терпимый
+B1,open-minded,aufgeschlossen,открытый
+B1,ambitious,ehrgeizig,амбициозный
+B1,self-confident,selbstbewusst,уверенный в себе
+B1,sensitive,empfindlich,чувствительный
+B1,calm,ruhig,спокойный
+B1,relaxed,entspannt,расслабленный
+B1,stressed,gestresst,в стрессе
+B1,exhausted,erschöpft,измотанный
+B1,active,aktiv,активный
+B1,passive,passiv,пассивный
+B1,lively,lebhaft,оживлённый
+B1,exciting,spannend,захватывающий
+B1,entertaining,unterhaltsam,занимательный
+B1,disgusting,ekelhaft,отвратительный
+B1,terrible,schrecklich,ужасный
+B1,awful,furchtbar,страшный
+B1,fantastic,fantastisch,фантастический
+B1,excellent,ausgezeichnet,отличный
+B1,perfect,perfekt,идеальный
+B1,ideal,ideal,идеальный (образцовый)
+B1,suitable,geeignet,подходящий
+B1,appropriate,angemessen,уместный
+B1,sufficient,ausreichend,достаточный
+B1,limited,begrenzt,ограниченный
+B1,unlimited,unbegrenzt,неограниченный
+B1,enormous,enorm,огромный
+B1,"minor, small",gering,незначительный
+B1,remarkable,bemerkenswert,замечательный
+B1,extraordinary,außergewöhnlich,необыкновенный
+B1,ordinary,gewöhnlich,обычный
+B1,strange,seltsam,странный
+B1,mysterious,geheimnisvoll,таинственный
+B1,secret,geheim,тайный
+B1,hidden,versteckt,скрытый
+B1,visible,sichtbar,видимый
+B1,invisible,unsichtbar,невидимый
+B1,poisonous,giftig,ядовитый
+B1,harmless,harmlos,безвредный
+B1,harmful,schädlich,вредный
+B1,risky,riskant,рискованный
+B1,protected,geschützt,защищённый
+B1,wild,wild,дикий
+B1,fertile,fruchtbar,плодородный
+B1,urban,städtisch,городской
+B1,rural,ländlich,сельский
+B1,regional,regional,региональный
+B1,global,global,глобальный
+B1,European,europäisch,европейский
+B1,nevertheless,trotzdem,тем не менее
+B1,otherwise,sonst,иначе
+B1,furthermore,ferner,кроме того
+B1,consequently,folglich,следовательно
+B1,indeed,tatsächlich,действительно
+B1,actually,eigentlich,собственно
+B1,certainly,sicherlich,несомненно
+B1,possibly,möglicherweise,возможно
+B1,hardly,kaum,едва
+B1,approximately,etwa,приблизительно
+B1,at most,höchstens,самое большее
+B1,even,sogar,даже
+B1,mainly,hauptsächlich,главным образом
+B1,particularly,insbesondere,в особенности
+B1,generally,im Allgemeinen,в целом
+B1,finally,schließlich,наконец
+B1,in the end,letztendlich,в конечном счёте
+B1,meanwhile,inzwischen,тем временем
+B1,afterwards,danach,потом
+B1,previously,früher,раньше
+B1,nowadays,heutzutage,в наше время
+B1,in future,künftig,в будущем
+B1,for the first time,zum ersten Mal,в первый раз
+B1,once,einmal,однажды
+B1,twice,zweimal,дважды
+B1,at the same time,gleichzeitig,одновременно
+B1,in time,rechtzeitig,вовремя
+B1,punctual,pünktlich,пунктуальный
+B1,in advance,im Voraus,заранее
+B1,on the contrary,im Gegenteil,наоборот
+B1,on the other hand,andererseits,с другой стороны
+B1,on the one hand,einerseits,с одной стороны
+B1,for example,zum Beispiel,например
+B1,that is,das heißt,то есть
+B1,in my opinion,meiner Meinung nach,по моему мнению
+B1,according to,laut,согласно
+B1,thanks to,dank,благодаря
+B1,regarding,bezüglich,относительно
+B1,apart from,außer,кроме
+B1,including,einschließlich,включая
+B1,per,pro,"за, на"
+B1,community,die Gemeinschaft,сообщество
+B1,generation,die Generation,поколение
+B1,minority,die Minderheit,меньшинство
+B1,population,die Bevölkerung,население
+B1,immigrant,der Einwanderer,иммигрант
+B1,foreigner,der Ausländer,иностранец
+B1,integration,die Integration,интеграция
+B1,discrimination,die Diskriminierung,дискриминация
+B1,equality,die Gleichberechtigung,равноправие
+B1,poverty,die Armut,бедность
+B1,wealth,der Reichtum,богатство
+B1,social security,die Sozialversicherung,социальное страхование
+B1,pension,die Rente,пенсия
+B1,retirement,der Ruhestand,выход на пенсию
+B1,volunteer,der Freiwillige,волонтёр
+B1,donation,die Spende,пожертвование
+B1,protest,der Protest,протест
+B1,demonstration,die Demonstration,демонстрация
+B1,strike,der Streik,забастовка
+B1,trade union,die Gewerkschaft,профсоюз
+B1,political party,die Partei,партия
+B1,parliament,das Parlament,парламент
+B1,minister,der Minister,министр
+B1,"politics, policy",die Politik,политика
+B1,politician,der Politiker,политик
+B1,opposition,die Opposition,оппозиция
+B1,constitution,die Verfassung,конституция
+B1,freedom,die Freiheit,свобода
+B1,democracy,die Demokratie,демократия
+B1,dictatorship,die Diktatur,диктатура
+B1,human rights,die Menschenrechte,права человека
+B1,justice,die Gerechtigkeit,справедливость
+B1,judge,der Richter,судья
+B1,lawyer,der Rechtsanwalt,адвокат
+B1,witness,der Zeuge,свидетель
+B1,"trial, process",der Prozess,"процесс, суд"
+B1,"penalty, punishment",die Strafe,наказание
+B1,prison,das Gefängnis,тюрьма
+B1,thief,der Dieb,вор
+B1,theft,der Diebstahl,кража
+B1,murder,der Mord,убийство
+B1,violence,die Gewalt,насилие
+B1,terrorism,der Terrorismus,терроризм
+B1,army,die Armee,армия
+B1,soldier,der Soldat,солдат
+B1,weapon,die Waffe,оружие
+B1,security,die Sicherheit,безопасность
+B1,refugee,der Flüchtling,беженец
+B1,asylum,das Asyl,убежище
+B1,economy,die Wirtschaft,экономика
+B1,industry,die Industrie,промышленность
+B1,trade,der Handel,торговля
+B1,export,der Export,экспорт
+B1,import,der Import,импорт
+B1,competition (economic),die Konkurrenz,конкуренция
+B1,profit,der Gewinn,прибыль
+B1,loss,der Verlust,"потеря, убыток"
+B1,turnover,der Umsatz,оборот
+B1,costs,die Kosten,расходы
+B1,budget,das Budget,бюджет
+B1,investment,die Investition,инвестиция
+B1,share (stock),die Aktie,акция
+B1,inflation,die Inflation,инфляция
+B1,crisis,die Krise,кризис
+B1,growth,das Wachstum,рост
+B1,development,die Entwicklung,развитие
+B1,production,die Produktion,производство
+B1,product,das Produkt,продукт
+B1,service,die Dienstleistung,услуга
+B1,supplier,der Lieferant,поставщик
+B1,order (goods),die Bestellung,заказ
+B1,invoice,die Rechnung,счёт-фактура
+B1,delivery,die Lieferung,поставка
+B1,"supply, stock",der Vorrat,запас
+B1,promotion (job),die Beförderung,повышение в должности
+B1,pay rise,die Gehaltserhöhung,повышение зарплаты
+B1,part-time,die Teilzeit,неполная занятость
+B1,full-time,die Vollzeit,полная занятость
+B1,working hours,die Arbeitszeit,рабочее время
+B1,freelancer,der Freiberufler,фрилансер
+B1,teamwork,die Teamarbeit,командная работа
+B1,responsibility,die Verantwortung,ответственность
+B1,competence,die Kompetenz,компетенция
+B1,"skill, ability",die Fähigkeit,способность
+B1,strength (quality),die Stärke,сильная сторона
+B1,weakness,die Schwäche,слабость
+B1,"aim, target",das Ziel,цель
+B1,"achievement, performance",die Leistung,достижение
+B1,motivation,die Motivation,мотивация
+B1,pressure,der Druck,давление
+B1,further training,die Fortbildung,повышение квалификации
+B1,job advertisement,die Stellenanzeige,объявление о вакансии
+B1,period of notice,die Kündigungsfrist,срок уведомления об увольнении
+B1,dismissal,die Entlassung,увольнение
+B1,education,die Bildung,образование
+B1,knowledge,das Wissen,знание
+B1,science,die Wissenschaft,наука
+B1,research,die Forschung,исследование
+B1,studies (degree course),das Studium,учёба в вузе
+B1,seminar,das Seminar,семинар
+B1,thesis,die Abschlussarbeit,выпускная работа
+B1,scholarship,das Stipendium,стипендия
+B1,tuition fees,die Studiengebühren,плата за обучение
+B1,campus,der Campus,кампус
+B1,professor,der Professor,профессор
+B1,primary school,die Grundschule,начальная школа
+B1,school-leaving exam,das Abitur,аттестат зрелости
+B1,kindergarten,der Kindergarten,детский сад
+B1,headmaster,der Schulleiter,директор школы
+B1,talent,das Talent,талант
+B1,intelligence,die Intelligenz,интеллект
+B1,memory (faculty),das Gedächtnis,память
+B1,attention,die Aufmerksamkeit,внимание
+B1,concentration,die Konzentration,концентрация
+B1,imagination,die Fantasie,фантазия
+B1,creativity,die Kreativität,креативность
+B1,curiosity,die Neugier,любопытство
+B1,the media,die Medien,СМИ
+B1,press,die Presse,пресса
+B1,journalist,der Journalist,журналист
+B1,headline,die Schlagzeile,заголовок
+B1,"programme, broadcast",die Sendung,передача
+B1,documentary,die Dokumentation,документальный фильм
+B1,series,die Serie,сериал
+B1,audience,das Publikum,публика
+B1,viewer,der Zuschauer,зритель
+B1,reader,der Leser,читатель
+B1,author,der Autor,автор
+B1,novel,der Roman,роман
+B1,poem,das Gedicht,стихотворение
+B1,fairy tale,das Märchen,сказка
+B1,comedy,die Komödie,комедия
+B1,crime novel,der Krimi,детектив
+B1,actor,der Schauspieler,актёр
+B1,director,der Regisseur,режиссёр
+B1,painting,das Gemälde,картина (живопись)
+B1,exhibition,die Ausstellung,выставка
+B1,sculpture,die Skulptur,скульптура
+B1,singer,der Sänger,певец
+B1,band,die Band,группа (музыкальная)
+B1,instrument,das Instrument,инструмент
+B1,song,das Lied,песня
+B1,guitar,die Gitarre,гитара
+B1,piano,das Klavier,пианино
+B1,social media,die sozialen Medien,социальные сети
+B1,blog,der Blog,блог
+B1,user account,das Benutzerkonto,учётная запись
+B1,data,die Daten,данные
+B1,software,die Software,программное обеспечение
+B1,network,das Netzwerk,сеть
+B1,link,der Link,ссылка
+B1,search engine,die Suchmaschine,поисковая система
+B1,technology,die Technologie,технология
+B1,invention,die Erfindung,изобретение
+B1,machine,die Maschine,машина (механизм)
+B1,device,das Gerät,прибор
+B1,tool,das Werkzeug,инструмент (рабочий)
+B1,"engine, motor",der Motor,двигатель
+B1,robot,der Roboter,робот
+B1,artificial intelligence,die künstliche Intelligenz,искусственный интеллект
+B1,progress,der Fortschritt,прогресс
+B1,pollution,die Verschmutzung,загрязнение
+B1,exhaust fumes,die Abgase,выхлопные газы
+B1,climate change,der Klimawandel,изменение климата
+B1,global warming,die Erderwärmung,глобальное потепление
+B1,solar energy,die Sonnenenergie,солнечная энергия
+B1,wind power,die Windkraft,энергия ветра
+B1,nuclear power,die Atomkraft,атомная энергия
+B1,resource,die Ressource,ресурс
+B1,raw material,der Rohstoff,сырьё
+B1,waste,der Abfall,отходы
+B1,recycling,das Recycling,переработка
+B1,drought,die Dürre,засуха
+B1,flood,das Hochwasser,наводнение
+B1,earthquake,das Erdbeben,землетрясение
+B1,fire,das Feuer,огонь
+B1,disaster,die Katastrophe,катастрофа
+B1,species,die Art,вид
+B1,national park,der Nationalpark,национальный парк
+B1,protection,der Schutz,защита
+B1,illness,die Krankheit,болезнь
+B1,symptom,das Symptom,симптом
+B1,treatment,die Behandlung,лечение
+B1,operation,die Operation,операция
+B1,therapy,die Therapie,терапия
+B1,vaccination,die Impfung,прививка
+B1,virus,das Virus,вирус
+B1,infection,die Infektion,инфекция
+B1,health insurance,die Krankenversicherung,медицинская страховка
+B1,waiting room,das Wartezimmer,приёмная
+B1,specialist doctor,der Facharzt,врач-специалист
+B1,dentist,der Zahnarzt,стоматолог
+B1,pharmacist,der Apotheker,фармацевт
+B1,side effect,die Nebenwirkung,побочный эффект
+B1,nutrition,die Ernährung,питание
+B1,vitamin,das Vitamin,витамин
+B1,muscle,der Muskel,мышца
+B1,brain,das Gehirn,мозг
+B1,lung,die Lunge,лёгкое
+B1,disability,die Behinderung,инвалидность
+B1,addiction,die Sucht,зависимость
+B1,alcohol,der Alkohol,алкоголь
+B1,drug,die Droge,наркотик
+B1,cigarette,die Zigarette,сигарета
+B1,personality,die Persönlichkeit,личность
+B1,identity,die Identität,идентичность
+B1,self-confidence,das Selbstbewusstsein,уверенность в себе
+B1,attitude,die Einstellung,"отношение, установка"
+B1,"belief, faith",der Glaube,вера
+B1,value,der Wert,ценность
+B1,conscience,das Gewissen,совесть
+B1,pride,der Stolz,гордость
+B1,envy,der Neid,зависть
+B1,jealousy,die Eifersucht,ревность
+B1,"sadness, grief",die Trauer,"печаль, траур"
+B1,disappointment,die Enttäuschung,разочарование
+B1,excitement,die Aufregung,волнение
+B1,boredom,die Langeweile,скука
+B1,loneliness,die Einsamkeit,одиночество
+B1,friendship,die Freundschaft,дружба
+B1,relationship,die Beziehung,отношения
+B1,partner,der Partner,партнёр
+B1,marriage,die Ehe,брак
+B1,divorce,die Scheidung,развод
+B1,relative,der Verwandte,родственник
+B1,upbringing,die Erziehung,воспитание
+B1,childhood,die Kindheit,детство
+B1,youth,die Jugend,молодость
+B1,teenager,der Jugendliche,подросток
+B1,adult,der Erwachsene,взрослый
+B1,senior citizen,der Senior,пожилой человек
+B1,advantage,der Vorteil,преимущество
+B1,disadvantage,der Nachteil,недостаток
+B1,possibility,die Möglichkeit,возможность
+B1,"requirement, prerequisite",die Voraussetzung,предпосылка
+B1,condition,die Bedingung,условие
+B1,circumstance,der Umstand,обстоятельство
+B1,situation,die Situation,ситуация
+B1,point of view,der Standpunkt,точка зрения
+B1,purpose,der Zweck,"цель, назначение"
+B1,meaning,die Bedeutung,значение
+B1,effect,die Wirkung,"действие, эффект"
+B1,consequence,die Folge,последствие
+B1,cause,die Ursache,причина (источник)
+B1,influence,der Einfluss,влияние
+B1,change,die Veränderung,изменение
+B1,improvement,die Verbesserung,улучшение
+B1,"decline, decrease",der Rückgang,снижение
+B1,level,das Niveau,уровень
+B1,standard,der Standard,стандарт
+B1,risk,das Risiko,риск
+B1,danger,die Gefahr,опасность
+B1,damage,der Schaden,ущерб
+B1,benefit,der Nutzen,польза
+B1,"proof, evidence",der Beweis,доказательство
+B1,argument,das Argument,аргумент
+B1,conclusion,die Schlussfolgerung,вывод
+B1,comparison,der Vergleich,сравнение
+B1,contrast,der Gegensatz,противоположность
+B1,similarity,die Ähnlichkeit,сходство
+B1,"connection, context",der Zusammenhang,взаимосвязь
+B1,process,der Prozess,процесс
+B1,method,die Methode,метод
+B1,system,das System,система
+B1,structure,die Struktur,структура
+B1,function,die Funktion,функция
+B1,principle,das Prinzip,принцип
+B1,theory,die Theorie,теория
+B1,fact,die Tatsache,факт
+B1,detail,das Detail,деталь
+B1,aspect,der Aspekt,аспект
+B1,factor,der Faktor,фактор
+B1,exception,die Ausnahme,исключение
+B1,"occasion, opportunity",die Gelegenheit,"возможность, случай"
+B1,event,das Ereignis,событие
+B1,incident,der Vorfall,происшествие
+B1,effort,die Mühe,усилие
+B1,attempt,der Versuch,попытка
+B1,"need, demand",der Bedarf,потребность
+B1,lack,der Mangel,нехватка
+B1,priority,die Priorität,приоритет
+B1,atmosphere,die Atmosphäre,атмосфера
+B1,reputation,der Ruf,репутация
+B1,honour,die Ehre,честь
+B1,respect,der Respekt,уважение
+B1,patience,die Geduld,терпение
+B1,courage,der Mut,мужество
+B1,power,die Macht,"власть, сила"
+B1,control,die Kontrolle,контроль
+B1,permission,die Erlaubnis,разрешение
+B1,ban,das Verbot,запрет
+B1,obligation,die Verpflichtung,обязательство
+B1,"guilt, blame",die Schuld,вина
+B1,tourism,der Tourismus,туризм
+B1,package holiday,die Pauschalreise,комплексный тур
+B1,guided tour,die Führung,экскурсия с гидом
+B1,youth hostel,die Jugendherberge,молодёжный хостел
+B1,luxury,der Luxus,роскошь
+B1,sun cream,die Sonnencreme,солнцезащитный крем
+B1,swimsuit,der Badeanzug,купальник
+B1,adventure,das Abenteuer,приключение
+B1,hiking trail,der Wanderweg,туристическая тропа
+B1,summit,der Gipfel,вершина
+B1,cable car,die Seilbahn,канатная дорога
+B1,ski,der Ski,лыжа
+B1,skiing,das Skifahren,катание на лыжах
+B1,tournament,das Turnier,турнир
+B1,championship,die Meisterschaft,чемпионат
+B1,referee,der Schiedsrichter,судья (спорт)
+B1,fan,der Fan,болельщик
+B1,stadium,das Stadion,стадион
+B1,athlete,der Sportler,спортсмен
+B1,to apply for (officially),beantragen,подавать заявление
+B1,to deduct,abziehen,вычитать
+B1,to transfer (money),überweisen,переводить (деньги)
+B1,to withdraw (cash),abheben,снимать (деньги)
+B1,to pay in,einzahlen,вносить (деньги)
+B1,to pay back,zurückzahlen,возвращать долг
+B1,to refund,erstatten,возмещать
+B1,to exchange (goods),umtauschen,обменивать
+B1,"to return, to give back",zurückgeben,возвращать
+B1,to try on,anprobieren,примерять
+B1,"to match, to go together",zusammenpassen,сочетаться
+B1,to iron,bügeln,гладить
+B1,to sew,nähen,шить
+B1,to knit,stricken,вязать
+B1,to tidy up,aufräumen,"убирать, наводить порядок"
+B1,to vacuum,staubsaugen,пылесосить
+B1,to wipe,abwischen,вытирать
+B1,to wash up,abspülen,мыть посуду
+B1,to hang up,aufhängen,вешать
+B1,to connect (device),anschließen,подключать
+B1,"to connect, to link",verbinden,соединять
+B1,to separate,trennen,разделять
+B1,"to adjust, to set",einstellen,настраивать
+B1,to charge (battery),aufladen,заряжать
+B1,to scan,scannen,сканировать
+B1,to upload,hochladen,загружать
+B1,to update,aktualisieren,обновлять
+B1,to restart,neu starten,перезапускать
+B1,to crash (computer),abstürzen,"зависать, разбиваться"
+B1,to peel,schälen,чистить (овощи)
+B1,to stir,rühren,помешивать
+B1,to season,würzen,приправлять
+B1,to serve,servieren,подавать
+B1,to set the table,den Tisch decken,накрывать на стол
+B1,to clear the table,abräumen,убирать со стола
+B1,to grill,grillen,жарить на гриле
+B1,to freeze,einfrieren,замораживать
+B1,to defrost,auftauen,размораживать
+B1,to melt,schmelzen,таять
+B1,to dry,trocknen,сушить
+B1,to plant,pflanzen,сажать
+B1,to harvest,ernten,собирать урожай
+B1,to dig,graben,копать
+B1,"to stick, to glue",kleben,клеить
+B1,to screw,schrauben,завинчивать
+B1,to drill,bohren,сверлить
+B1,to paint (walls),streichen,красить
+B1,to renovate,renovieren,ремонтировать
+B1,to decorate,dekorieren,украшать
+B1,to furnish,einrichten,обставлять
+B1,to move in,einziehen,въезжать
+B1,to move out,ausziehen,съезжать
+B1,to knock,klopfen,стучать
+B1,to enter,betreten,входить
+B1,to stroll,bummeln,прогуливаться
+B1,"to run, to rush",rennen,бежать
+B1,to slip,ausrutschen,поскользнуться
+B1,to trip,stolpern,споткнуться
+B1,to fall over,hinfallen,упасть
+B1,to sit down,sich setzen,садиться
+B1,to lie down,sich legen,ложиться
+B1,to bend down,sich bücken,наклоняться
+B1,to stretch,strecken,вытягивать
+B1,to lift,heben,поднимать
+B1,to shake,schütteln,трясти
+B1,to wave,winken,махать
+B1,to nod,nicken,кивать
+B1,to whistle,pfeifen,свистеть
+B1,to whisper,flüstern,шептать
+B1,to chat,plaudern,болтать
+B1,to gossip,tratschen,сплетничать
+B1,to argue,streiten,"спорить, ссориться"
+B1,to make up,sich versöhnen,мириться
+B1,to flirt,flirten,флиртовать
+B1,to fall in love,sich verlieben,влюбляться
+B1,to get engaged,sich verloben,обручаться
+B1,to break up,Schluss machen,расставаться
+B1,to split up,sich trennen,разойтись
+B1,to get divorced,sich scheiden lassen,разводиться
+B1,to babysit,aufpassen,присматривать за детьми
+B1,to bully,mobben,травить
+B1,damp,feucht,влажный
+B1,foggy,neblig,туманный
+B1,cloudy,bewölkt,облачный
+B1,sunny,sonnig,солнечный
+B1,windy,windig,ветреный
+B1,rainy,regnerisch,дождливый
+B1,icy,eisig,ледяной
+B1,"humid, muggy",schwül,душный
+B1,frozen,gefroren,замёрзший
+B1,ripe,reif,спелый
+B1,"spoilt, rotten",verdorben,испорченный
+B1,"spicy, aromatic",würzig,пряный
+B1,greasy,fettig,жирный
+B1,low-fat,fettarm,нежирный
+B1,organic,biologisch,органический
+B1,homemade,selbstgemacht,домашний
+B1,vegan,vegan,веганский
+B1,shiny,glänzend,блестящий
+B1,transparent,durchsichtig,прозрачный
+B1,colourful,bunt,разноцветный
+B1,pale,blass,бледный
+B1,striped,gestreift,полосатый
+B1,checked,kariert,клетчатый
+B1,plain (colour),einfarbig,однотонный
+B1,loose,weit,свободный (об одежде)
+B1,fashionable,modisch,модный
+B1,old-fashioned,altmodisch,старомодный
+B1,casual,leger,непринуждённый
+B1,formal,förmlich,официальный (о манере)
+B1,well-groomed,gepflegt,ухоженный
+B1,torn,zerrissen,порванный
+B1,second-hand,gebraucht,подержанный
+B1,defective,defekt,неисправный
+B1,crowded,überfüllt,переполненный
+B1,"deserted, abandoned",verlassen,покинутый
+B1,peaceful,friedlich,мирный
+B1,"silent, still",still,"тихий, безмолвный"
+B1,spacious,geräumig,просторный
+B1,cosy,gemütlich,уютный
+B1,central,zentral,центральный
+B1,remote,abgelegen,отдалённый
+B1,neighbouring,benachbart,соседний
+B1,ground floor,das Erdgeschoss,первый этаж
+B1,stairwell,das Treppenhaus,лестничная клетка
+B1,doorbell,die Klingel,звонок
+B1,letterbox,der Briefkasten,почтовый ящик
+B1,lock,das Schloss,замок
+B1,socket,die Steckdose,розетка
+B1,plug,der Stecker,вилка (электрическая)
+B1,cable,das Kabel,кабель
+B1,switch,der Schalter,выключатель
+B1,light bulb,die Glühbirne,лампочка
+B1,candle,die Kerze,свеча
+B1,matchstick,das Streichholz,спичка
+B1,lighter,das Feuerzeug,зажигалка
+B1,blanket,die Decke,одеяло
+B1,pillow,das Kissen,подушка
+B1,mattress,die Matratze,матрас
+B1,towel,das Handtuch,полотенце
+B1,soap,die Seife,мыло
+B1,shampoo,das Shampoo,шампунь
+B1,toothbrush,die Zahnbürste,зубная щётка
+B1,toothpaste,die Zahnpasta,зубная паста
+B1,comb,der Kamm,расчёска
+B1,razor,der Rasierer,бритва
+B1,perfume,das Parfüm,духи
+B1,tissue,das Taschentuch,носовой платок
+B1,toilet paper,das Toilettenpapier,туалетная бумага
+B1,sponge,der Schwamm,губка
+B1,bucket,der Eimer,ведро
+B1,broom,der Besen,метла
+B1,vacuum cleaner,der Staubsauger,пылесос
+B1,iron (appliance),das Bügeleisen,утюг
+B1,washing powder,das Waschmittel,стиральный порошок
+B1,dishwasher,die Spülmaschine,посудомоечная машина
+B1,microwave,die Mikrowelle,микроволновка
+B1,kettle,der Wasserkocher,чайник электрический
+B1,toaster,der Toaster,тостер
+B1,frying pan,die Pfanne,сковорода
+B1,pot,der Topf,кастрюля
+B1,lid,der Deckel,крышка
+B1,bowl,die Schüssel,миска
+B1,jug,der Krug,кувшин
+B1,tray,das Tablett,поднос
+B1,napkin,die Serviette,салфетка
+B1,tablecloth,die Tischdecke,скатерть
+B1,bottle opener,der Flaschenöffner,открывашка
+B1,corkscrew,der Korkenzieher,штопор
+B1,straw,der Strohhalm,соломинка
+B1,dustbin,der Mülleimer,мусорное ведро
+B1,shopping bag,die Einkaufstasche,сумка для покупок
+B1,purse,das Portemonnaie,кошелёк
+B1,wallet,die Brieftasche,бумажник
+B1,handbag,die Handtasche,женская сумка
+B1,hammer,der Hammer,молоток
+B1,screwdriver,der Schraubenzieher,отвёртка
+B1,nail,der Nagel,гвоздь
+B1,screw,die Schraube,винт
+B1,power drill,der Bohrer,дрель
+B1,ladder,die Leiter,лестница (приставная)
+B1,rope,das Seil,верёвка
+B1,chain,die Kette,цепь
+B1,wheel,das Rad,колесо
+B1,tyre,der Reifen,шина
+B1,brake,die Bremse,тормоз
+B1,steering wheel,das Lenkrad,руль
+B1,seat belt,der Sicherheitsgurt,ремень безопасности
+B1,petrol,das Benzin,бензин
+B1,diesel,der Diesel,дизель
+B1,speed limit,die Höchstgeschwindigkeit,ограничение скорости
+B1,driving licence,der Führerschein,водительские права
+B1,fine (penalty),das Bußgeld,штраф
+B1,number plate,das Nummernschild,номерной знак
+B1,motorbike,das Motorrad,мотоцикл
+B1,lorry,der Lastwagen,грузовик
+B1,ship,das Schiff,корабль
+B1,boat,das Boot,лодка
+B1,harbour,der Hafen,порт
+B1,ferry,die Fähre,паром
+B1,pilot,der Pilot,пилот
+B1,passenger,der Passagier,пассажир
+B1,boarding card,die Bordkarte,посадочный талон
+B1,seat,der Sitzplatz,место для сидения
+B1,spice,das Gewürz,специя
+B1,herb,das Kraut,трава (пряная)
+B1,garlic,der Knoblauch,чеснок
+B1,cucumber,die Gurke,огурец
+B1,cabbage,der Kohl,капуста
+B1,pepper (vegetable),die Paprika,болгарский перец
+B1,mushroom,der Pilz,гриб
+B1,pea,die Erbse,горошина
+B1,bean,die Bohne,фасоль
+B1,corn,der Mais,кукуруза
+B1,peach,der Pfirsich,персик
+B1,pear,die Birne,груша
+B1,plum,die Pflaume,слива
+B1,cherry,die Kirsche,вишня
+B1,melon,die Melone,дыня
+B1,pineapple,die Ananas,ананас
+B1,nut,die Nuss,орех
+B1,almond,die Mandel,миндаль
+B1,raisin,die Rosine,изюм
+B1,yoghurt,der Joghurt,йогурт
+B1,cream,die Sahne,сливки
+B1,pudding,der Pudding,пудинг
+B1,biscuit,der Keks,печенье
+B1,sweets,die Süßigkeit,сладость
+B1,crisps,die Chips,чипсы
+B1,toast,der Toast,тост
+B1,muesli,das Müsli,мюсли
+B1,pancake,der Pfannkuchen,блин
+B1,dumpling,der Knödel,кнедль
+B1,sauce,die Soße,соус
+B1,vinegar,der Essig,уксус
+B1,mustard,der Senf,горчица
+B1,ketchup,der Ketchup,кетчуп
+B1,mayonnaise,die Mayonnaise,майонез
+B1,lamb,das Lamm,баранина
+B1,beef,das Rindfleisch,говядина
+B1,pork,das Schweinefleisch,свинина
+B1,turkey,die Pute,индейка
+B1,bacon,der Speck,бекон
+B1,steak,das Steak,стейк
+B1,seafood,die Meeresfrüchte,морепродукты
+B1,prawn,die Garnele,креветка
+B1,tuna,der Thunfisch,тунец
+B1,cocktail,der Cocktail,коктейль
+B1,schnapps,der Schnaps,крепкий алкоголь
+B1,lemonade,die Limonade,лимонад
+B1,tap water,das Leitungswasser,водопроводная вода
+B1,tip (money),das Trinkgeld,чаевые

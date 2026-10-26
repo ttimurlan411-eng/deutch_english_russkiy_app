@@ -1,0 +1,668 @@
+﻿level,english,german,russian
+A1,mother,die Mutter,мама
+A1,father,der Vater,папа
+A1,parents,die Eltern,родители
+A1,brother,der Bruder,брат
+A1,sister,die Schwester,сестра
+A1,son,der Sohn,сын
+A1,daughter,die Tochter,дочь
+A1,child,das Kind,ребёнок
+A1,grandmother,die Oma,бабушка
+A1,grandfather,der Opa,дедушка
+A1,husband,der Ehemann,муж
+A1,wife,die Ehefrau,жена
+A1,friend,der Freund,друг
+A1,man,der Mann,мужчина
+A1,woman,die Frau,женщина
+A1,boy,der Junge,мальчик
+A1,girl,das Mädchen,девочка
+A1,bread,das Brot,хлеб
+A1,water,das Wasser,вода
+A1,milk,die Milch,молоко
+A1,coffee,der Kaffee,кофе
+A1,tea,der Tee,чай
+A1,juice,der Saft,сок
+A1,beer,das Bier,пиво
+A1,wine,der Wein,вино
+A1,apple,der Apfel,яблоко
+A1,banana,die Banane,банан
+A1,orange,die Orange,апельсин
+A1,potato,die Kartoffel,картофель
+A1,tomato,die Tomate,помидор
+A1,cheese,der Käse,сыр
+A1,egg,das Ei,яйцо
+A1,meat,das Fleisch,мясо
+A1,fish,der Fisch,рыба
+A1,rice,der Reis,рис
+A1,soup,die Suppe,суп
+A1,salad,der Salat,салат
+A1,sugar,der Zucker,сахар
+A1,salt,das Salz,соль
+A1,butter,die Butter,масло
+A1,breakfast,das Frühstück,завтрак
+A1,lunch,das Mittagessen,обед
+A1,dinner,das Abendessen,ужин
+A1,restaurant,das Restaurant,ресторан
+A1,menu,die Speisekarte,меню
+A1,bill,die Rechnung,счёт
+A1,house,das Haus,дом
+A1,flat,die Wohnung,квартира
+A1,room,das Zimmer,комната
+A1,kitchen,die Küche,кухня
+A1,bathroom,das Badezimmer,ванная
+A1,bedroom,das Schlafzimmer,спальня
+A1,door,die Tür,дверь
+A1,window,das Fenster,окно
+A1,table,der Tisch,стол
+A1,chair,der Stuhl,стул
+A1,bed,das Bett,кровать
+A1,garden,der Garten,сад
+A1,key,der Schlüssel,ключ
+A1,lamp,die Lampe,лампа
+A1,street,die Straße,улица
+A1,city,die Stadt,город
+A1,village,das Dorf,деревня
+A1,country,das Land,страна
+A1,school,die Schule,школа
+A1,university,die Universität,университет
+A1,shop,das Geschäft,магазин
+A1,supermarket,der Supermarkt,супермаркет
+A1,bank,die Bank,банк
+A1,hospital,das Krankenhaus,больница
+A1,pharmacy,die Apotheke,аптека
+A1,post office,die Post,почта
+A1,station,der Bahnhof,вокзал
+A1,airport,der Flughafen,аэропорт
+A1,hotel,das Hotel,гостиница
+A1,park,der Park,парк
+A1,market,der Markt,рынок
+A1,car,das Auto,машина
+A1,bus,der Bus,автобус
+A1,train,der Zug,поезд
+A1,bicycle,das Fahrrad,велосипед
+A1,plane,das Flugzeug,самолёт
+A1,ticket,die Fahrkarte,билет
+A1,taxi,das Taxi,такси
+A1,day,der Tag,день
+A1,week,die Woche,неделя
+A1,month,der Monat,месяц
+A1,year,das Jahr,год
+A1,hour,die Stunde,час
+A1,minute,die Minute,минута
+A1,morning,der Morgen,утро
+A1,evening,der Abend,вечер
+A1,night,die Nacht,ночь
+A1,today,heute,сегодня
+A1,tomorrow,morgen,завтра
+A1,yesterday,gestern,вчера
+A1,now,jetzt,сейчас
+A1,Monday,der Montag,понедельник
+A1,Tuesday,der Dienstag,вторник
+A1,Wednesday,der Mittwoch,среда
+A1,Thursday,der Donnerstag,четверг
+A1,Friday,der Freitag,пятница
+A1,Saturday,der Samstag,суббота
+A1,Sunday,der Sonntag,воскресенье
+A1,January,der Januar,январь
+A1,February,der Februar,февраль
+A1,March,der März,март
+A1,April,der April,апрель
+A1,May,der Mai,май
+A1,June,der Juni,июнь
+A1,July,der Juli,июль
+A1,August,der August,август
+A1,September,der September,сентябрь
+A1,October,der Oktober,октябрь
+A1,November,der November,ноябрь
+A1,December,der Dezember,декабрь
+A1,red,rot,красный
+A1,blue,blau,синий
+A1,green,grün,зелёный
+A1,yellow,gelb,жёлтый
+A1,black,schwarz,чёрный
+A1,white,weiß,белый
+A1,one,eins,один
+A1,two,zwei,два
+A1,three,drei,три
+A1,four,vier,четыре
+A1,five,fünf,пять
+A1,six,sechs,шесть
+A1,seven,sieben,семь
+A1,eight,acht,восемь
+A1,nine,neun,девять
+A1,ten,zehn,десять
+A1,twenty,zwanzig,двадцать
+A1,hundred,hundert,сто
+A1,thousand,tausend,тысяча
+A1,head,der Kopf,голова
+A1,hand,die Hand,рука (кисть)
+A1,eye,das Auge,глаз
+A1,ear,das Ohr,ухо
+A1,mouth,der Mund,рот
+A1,nose,die Nase,нос
+A1,foot,der Fuß,нога (стопа)
+A1,arm,der Arm,рука
+A1,leg,das Bein,нога
+A1,heart,das Herz,сердце
+A1,hair,das Haar,волосы
+A1,to be,sein,быть
+A1,to have,haben,иметь
+A1,to go,gehen,идти
+A1,to come,kommen,приходить
+A1,"to do, to make",machen,делать
+A1,to say,sagen,сказать
+A1,to speak,sprechen,говорить
+A1,to see,sehen,видеть
+A1,to eat,essen,есть
+A1,to drink,trinken,пить
+A1,to sleep,schlafen,спать
+A1,to live (reside),wohnen,жить
+A1,to work,arbeiten,работать
+A1,to learn,lernen,учить
+A1,to read,lesen,читать
+A1,to write,schreiben,писать
+A1,to buy,kaufen,покупать
+A1,to know (a fact),wissen,знать
+A1,to like,mögen,"любить, нравиться"
+A1,to want,wollen,хотеть
+A1,to be able to,können,"мочь, уметь"
+A1,to have to,müssen,быть должным
+A1,to give,geben,давать
+A1,to take,nehmen,брать
+A1,to ask,fragen,спрашивать
+A1,to answer,antworten,отвечать
+A1,to play,spielen,играть
+A1,to help,helfen,помогать
+A1,to wait,warten,ждать
+A1,to open,öffnen,открывать
+A1,to close,schließen,закрывать
+A1,to love,lieben,любить
+A1,to find,finden,находить
+A1,to stay,bleiben,оставаться
+A1,to drive,fahren,ехать
+A1,to call (phone),anrufen,звонить
+A1,to hear,hören,слышать
+A1,to cook,kochen,готовить
+A1,to pay,bezahlen,платить
+A1,to begin,anfangen,начинать
+A1,to understand,verstehen,понимать
+A1,to run,laufen,бежать
+A1,to sit,sitzen,сидеть
+A1,to stand,stehen,стоять
+A1,to think,denken,думать
+A1,to be called,heißen,называться
+A1,to sing,singen,петь
+A1,to dance,tanzen,танцевать
+A1,to swim,schwimmen,плавать
+A1,to repeat,wiederholen,повторять
+A1,to visit,besuchen,посещать
+A1,to meet,treffen,встречать
+A1,big,groß,большой
+A1,small,klein,маленький
+A1,good,gut,хороший
+A1,bad,schlecht,плохой
+A1,new,neu,новый
+A1,old,alt,старый
+A1,young,jung,молодой
+A1,beautiful,schön,красивый
+A1,fast,schnell,быстрый
+A1,slow,langsam,медленный
+A1,hot,heiß,горячий
+A1,cold,kalt,холодный
+A1,warm,warm,тёплый
+A1,long,lang,длинный
+A1,short,kurz,короткий
+A1,cheap,billig,дешёвый
+A1,expensive,teuer,дорогой
+A1,easy,leicht,лёгкий
+A1,difficult,schwer,трудный
+A1,happy,glücklich,счастливый
+A1,sad,traurig,грустный
+A1,tired,müde,усталый
+A1,hungry,hungrig,голодный
+A1,thirsty,durstig,жаждущий
+A1,sick,krank,больной
+A1,healthy,gesund,здоровый
+A1,"right, correct",richtig,правильный
+A1,wrong,falsch,неправильный
+A1,clean,sauber,чистый
+A1,dirty,schmutzig,грязный
+A1,important,wichtig,важный
+A1,"nice, kind",nett,приятный
+A1,I,ich,я
+A1,you (informal),du,ты
+A1,he,er,он
+A1,she,sie,она
+A1,it,es,оно
+A1,we,wir,мы
+A1,you (plural),ihr,вы
+A1,they,sie,они
+A1,you (formal),Sie,Вы
+A1,and,und,и
+A1,but,aber,но
+A1,or,oder,или
+A1,because,weil,потому что
+A1,yes,ja,да
+A1,no,nein,нет
+A1,please,bitte,пожалуйста
+A1,thank you,danke,спасибо
+A1,"sorry, excuse me",Entschuldigung,извините
+A1,hello,Hallo,привет
+A1,goodbye,Auf Wiedersehen,до свидания
+A1,good morning,Guten Morgen,доброе утро
+A1,good night,Gute Nacht,спокойной ночи
+A1,what,was,что
+A1,who,wer,кто
+A1,where,wo,где
+A1,when,wann,когда
+A1,why,warum,почему
+A1,how,wie,как
+A1,how much,wie viel,сколько
+A1,here,hier,здесь
+A1,there,dort,там
+A1,very,sehr,очень
+A1,also,auch,тоже
+A1,not,nicht,не
+A1,always,immer,всегда
+A1,never,nie,никогда
+A1,often,oft,часто
+A1,sometimes,manchmal,иногда
+A1,again,wieder,снова
+A1,only,nur,только
+A1,with,mit,с
+A1,without,ohne,без
+A1,for,für,для
+A1,name,der Name,имя
+A1,address,die Adresse,адрес
+A1,telephone,das Telefon,телефон
+A1,mobile phone,das Handy,мобильный телефон
+A1,computer,der Computer,компьютер
+A1,book,das Buch,книга
+A1,pen,der Kugelschreiber,ручка
+A1,paper,das Papier,бумага
+A1,bag,die Tasche,сумка
+A1,money,das Geld,деньги
+A1,price,der Preis,цена
+A1,"job, profession",der Beruf,профессия
+A1,work (noun),die Arbeit,работа
+A1,teacher,der Lehrer,учитель
+A1,doctor,der Arzt,врач
+A1,student,der Student,студент
+A1,weather,das Wetter,погода
+A1,sun,die Sonne,солнце
+A1,rain,der Regen,дождь
+A1,snow,der Schnee,снег
+A1,wind,der Wind,ветер
+A1,animal,das Tier,животное
+A1,dog,der Hund,собака
+A1,cat,die Katze,кошка
+A1,bird,der Vogel,птица
+A1,clothes,die Kleidung,одежда
+A1,shirt,das Hemd,рубашка
+A1,trousers,die Hose,брюки
+A1,shoes,die Schuhe,обувь
+A1,dress,das Kleid,платье
+A1,jacket,die Jacke,куртка
+A1,hat,der Hut,шляпа
+A1,birthday,der Geburtstag,день рождения
+A1,"holiday, vacation",der Urlaub,отпуск
+A1,party,die Party,вечеринка
+A1,music,die Musik,музыка
+A1,film,der Film,фильм
+A1,sport,der Sport,спорт
+A1,football,der Fußball,футбол
+A1,newspaper,die Zeitung,газета
+A1,letter,der Brief,письмо
+A1,email,die E-Mail,электронная почта
+A1,photo,das Foto,фото
+A1,"present, gift",das Geschenk,подарок
+A1,problem,das Problem,проблема
+A1,question,die Frage,вопрос
+A1,answer,die Antwort,ответ
+A1,language,die Sprache,язык
+A1,word,das Wort,слово
+A1,sentence,der Satz,предложение
+A1,exam,die Prüfung,экзамен
+A1,lesson,der Unterricht,урок
+A1,to arrive,ankommen,прибывать
+A1,to depart,abfahren,отправляться
+A1,to get up,aufstehen,вставать
+A1,to wash,waschen,мыть
+A1,to shower,duschen,принимать душ
+A1,to clean,putzen,убирать
+A1,to bring,bringen,приносить
+A1,to send,schicken,посылать
+A1,"to receive, to get",bekommen,получать
+A1,to rent,mieten,снимать
+A1,to pick up,abholen,забирать
+A1,to invite,einladen,приглашать
+A1,to celebrate,feiern,праздновать
+A1,to travel,reisen,путешествовать
+A1,to fly,fliegen,летать
+A1,to go for a walk,spazieren gehen,гулять
+A1,to count,zählen,считать
+A1,to try,versuchen,пытаться
+A1,to use,benutzen,использовать
+A1,to need,brauchen,нуждаться
+A1,to show,zeigen,показывать
+A1,to explain,erklären,объяснять
+A1,to forget,vergessen,забывать
+A1,to sell,verkaufen,продавать
+A1,to cost,kosten,стоить
+A1,to look,schauen,смотреть
+A1,to watch TV,fernsehen,смотреть телевизор
+A1,to put (lay),legen,класть
+A1,to put (stand upright),stellen,ставить
+A1,to lie,liegen,лежать
+A1,to ring (doorbell),klingeln,звонить в дверь
+A1,to thank,danken,благодарить
+A1,to wish,wünschen,желать
+A1,to hope,hoffen,надеяться
+A1,to believe,glauben,верить
+A1,to mean,meinen,иметь в виду
+A1,to belong to,gehören,принадлежать
+A1,to wear,tragen,носить
+A1,to marry,heiraten,жениться
+A1,to study (university),studieren,учиться в вузе
+A1,to listen to,zuhören,слушать
+A1,to fill out,ausfüllen,заполнять
+A1,to spell,buchstabieren,говорить по буквам
+A1,to book,buchen,бронировать
+A1,to order,bestellen,заказывать
+A1,to taste,schmecken,быть вкусным
+A1,to switch off,ausmachen,выключать
+A1,to switch on,anmachen,включать
+A1,to change (money),wechseln,менять
+A1,to lose,verlieren,терять
+A1,to win,gewinnen,побеждать
+A1,to leave,verlassen,покидать
+A1,time,die Zeit,время
+A1,moment,der Moment,момент
+A1,date,das Datum,дата
+A1,appointment,der Termin,назначенная встреча
+A1,"clock, watch",die Uhr,часы
+A1,half,halb,половина
+A1,quarter,das Viertel,четверть
+A1,midday,der Mittag,полдень
+A1,afternoon,der Nachmittag,после обеда
+A1,weekend,das Wochenende,выходные
+A1,season,die Jahreszeit,время года
+A1,spring,der Frühling,весна
+A1,summer,der Sommer,лето
+A1,autumn,der Herbst,осень
+A1,winter,der Winter,зима
+A1,building,das Gebäude,здание
+A1,museum,das Museum,музей
+A1,cinema,das Kino,кинотеатр
+A1,theatre,das Theater,театр
+A1,library,die Bibliothek,библиотека
+A1,swimming pool,das Schwimmbad,бассейн
+A1,church,die Kirche,церковь
+A1,bridge,die Brücke,мост
+A1,square,der Platz,площадь
+A1,corner,die Ecke,угол
+A1,"way, path",der Weg,"путь, дорога"
+A1,"floor, storey",der Stock,этаж
+A1,lift,der Aufzug,лифт
+A1,stairs,die Treppe,лестница
+A1,entrance,der Eingang,вход
+A1,exit,der Ausgang,выход
+A1,toilet,die Toilette,туалет
+A1,balcony,der Balkon,балкон
+A1,wall,die Wand,стена
+A1,"ground, floor",der Boden,"пол, земля"
+A1,roof,das Dach,крыша
+A1,cup,die Tasse,чашка
+A1,glass,das Glas,стакан
+A1,plate,der Teller,тарелка
+A1,knife,das Messer,нож
+A1,fork,die Gabel,вилка
+A1,spoon,der Löffel,ложка
+A1,bottle,die Flasche,бутылка
+A1,picture,das Bild,картина
+A1,television,der Fernseher,телевизор
+A1,radio,das Radio,радио
+A1,glasses,die Brille,очки
+A1,umbrella,der Regenschirm,зонт
+A1,suitcase,der Koffer,чемодан
+A1,passport,der Pass,паспорт
+A1,card,die Karte,"карта, открытка"
+A1,credit card,die Kreditkarte,кредитная карта
+A1,stamp,die Briefmarke,марка
+A1,page,die Seite,страница
+A1,notebook,das Heft,тетрадь
+A1,dictionary,das Wörterbuch,словарь
+A1,exercise,die Übung,упражнение
+A1,pizza,die Pizza,пицца
+A1,sausage,die Wurst,колбаса
+A1,ham,der Schinken,ветчина
+A1,chicken,das Hähnchen,курица
+A1,noodles,die Nudeln,"лапша, макароны"
+A1,vegetables,das Gemüse,овощи
+A1,fruit,das Obst,фрукты
+A1,cake,der Kuchen,"торт, пирог"
+A1,chocolate,die Schokolade,шоколад
+A1,ice cream,das Eis,мороженое
+A1,jam,die Marmelade,джем
+A1,honey,der Honig,мёд
+A1,oil,das Öl,масло (растительное)
+A1,carrot,die Karotte,морковь
+A1,onion,die Zwiebel,лук
+A1,lemon,die Zitrone,лимон
+A1,strawberry,die Erdbeere,клубника
+A1,grape,die Traube,виноград
+A1,bread roll,das Brötchen,булочка
+A1,pepper,der Pfeffer,перец
+A1,mineral water,das Mineralwasser,минеральная вода
+A1,people,die Leute,люди
+A1,person,die Person,человек
+A1,guest,der Gast,гость
+A1,neighbour,der Nachbar,сосед
+A1,colleague,der Kollege,коллега
+A1,boss,der Chef,начальник
+A1,customer,der Kunde,клиент
+A1,waiter,der Kellner,официант
+A1,policeman,der Polizist,полицейский
+A1,driver,der Fahrer,водитель
+A1,cook,der Koch,повар
+A1,worker,der Arbeiter,рабочий
+A1,engineer,der Ingenieur,инженер
+A1,nurse,die Krankenschwester,медсестра
+A1,lady,die Dame,дама
+A1,gentleman,der Herr,господин
+A1,life,das Leben,жизнь
+A1,world,die Welt,мир
+A1,idea,die Idee,идея
+A1,"story, history",die Geschichte,история
+A1,news,die Nachricht,новость
+A1,reason,der Grund,причина
+A1,example,das Beispiel,пример
+A1,number,die Nummer,номер
+A1,telephone number,die Telefonnummer,номер телефона
+A1,age,das Alter,возраст
+A1,family,die Familie,семья
+A1,married,verheiratet,"женатый, замужем"
+A1,single (unmarried),ledig,"холостой, незамужняя"
+A1,surname,der Nachname,фамилия
+A1,first name,der Vorname,имя
+A1,place of residence,der Wohnort,место жительства
+A1,signature,die Unterschrift,подпись
+A1,form,das Formular,"бланк, форма"
+A1,pain,der Schmerz,боль
+A1,headache,die Kopfschmerzen,головная боль
+A1,fever,das Fieber,"температура, жар"
+A1,cold (illness),die Erkältung,простуда
+A1,medicine,das Medikament,лекарство
+A1,thin,dünn,тонкий
+A1,"fat, thick",dick,толстый
+A1,strong,stark,сильный
+A1,weak,schwach,слабый
+A1,heavy,schwer,тяжёлый
+A1,full,voll,полный
+A1,empty,leer,пустой
+A1,open,offen,открытый
+A1,closed,geschlossen,закрытый
+A1,early,früh,рано
+A1,late,spät,поздно
+A1,near,nah,близкий
+A1,far,weit,далёкий
+A1,next,nächste,следующий
+A1,last,letzte,последний
+A1,first,erste,первый
+A1,whole,ganz,целый
+A1,other,andere,другой
+A1,same,gleich,одинаковый
+A1,free of charge,kostenlos,бесплатный
+A1,possible,möglich,возможный
+A1,ready,fertig,готовый
+A1,angry,böse,злой
+A1,friendly,freundlich,дружелюбный
+A1,funny,lustig,весёлый
+A1,interesting,interessant,интересный
+A1,boring,langweilig,скучный
+A1,wonderful,wunderbar,чудесный
+A1,great,toll,классный
+A1,sweet,süß,сладкий
+A1,sour,sauer,кислый
+A1,fresh,frisch,свежий
+A1,delicious,lecker,вкусный
+A1,loud,laut,громкий
+A1,quiet,leise,тихий
+A1,bright,hell,светлый
+A1,dark,dunkel,тёмный
+A1,wet,nass,мокрый
+A1,dry,trocken,сухой
+A1,rich,reich,богатый
+A1,poor,arm,бедный
+A1,alone,allein,один (в одиночестве)
+A1,in,in,в
+A1,on,auf,на
+A1,under,unter,под
+A1,"over, above",über,над
+A1,behind,hinter,за
+A1,in front of,vor,перед
+A1,next to,neben,рядом с
+A1,between,zwischen,между
+A1,"at, with (someone)",bei,у
+A1,to,zu,к
+A1,from,von,от
+A1,from (origin),aus,из
+A1,after,nach,после
+A1,until,bis,до
+A1,since,seit,с (какого времени)
+A1,around,um,вокруг
+A1,against,gegen,против
+A1,left,links,налево
+A1,right,rechts,направо
+A1,straight ahead,geradeaus,прямо
+A1,"up, above",oben,наверху
+A1,"down, below",unten,внизу
+A1,inside,drinnen,внутри
+A1,outside,draußen,снаружи
+A1,soon,bald,скоро
+A1,then,dann,потом
+A1,at first,zuerst,сначала
+A1,later,später,позже
+A1,more,mehr,больше
+A1,less,weniger,меньше
+A1,enough,genug,достаточно
+A1,all,alle,все
+A1,every,jeder,каждый
+A1,nothing,nichts,ничего
+A1,something,etwas,что-то
+A1,everything,alles,всё
+A1,nobody,niemand,никто
+A1,perhaps,vielleicht,возможно
+A1,really,wirklich,действительно
+A1,too (excessively),zu,слишком
+A1,quite,ziemlich,довольно
+A1,almost,fast,почти
+A1,exactly,genau,точно
+A1,together,zusammen,вместе
+A1,which,welcher,какой
+A1,you're welcome,gern geschehen,пожалуйста (в ответ)
+A1,good day,Guten Tag,добрый день
+A1,good evening,Guten Abend,добрый вечер
+A1,bye,Tschüs,пока
+A1,see you later,bis später,до скорого
+A1,welcome,Willkommen,добро пожаловать
+A1,congratulations,Herzlichen Glückwunsch,поздравляю
+A1,all the best,Alles Gute,всего хорошего
+A1,cheers,Prost,за здоровье
+A1,enjoy your meal,Guten Appetit,приятного аппетита
+A1,how are you,Wie geht's?,как дела?
+A1,never mind,macht nichts,ничего страшного
+A1,of course,natürlich,конечно
+A1,zero,null,ноль
+A1,eleven,elf,одиннадцать
+A1,twelve,zwölf,двенадцать
+A1,thirteen,dreizehn,тринадцать
+A1,fourteen,vierzehn,четырнадцать
+A1,fifteen,fünfzehn,пятнадцать
+A1,sixteen,sechzehn,шестнадцать
+A1,seventeen,siebzehn,семнадцать
+A1,eighteen,achtzehn,восемнадцать
+A1,nineteen,neunzehn,девятнадцать
+A1,thirty,dreißig,тридцать
+A1,forty,vierzig,сорок
+A1,fifty,fünfzig,пятьдесят
+A1,sixty,sechzig,шестьдесят
+A1,seventy,siebzig,семьдесят
+A1,eighty,achtzig,восемьдесят
+A1,ninety,neunzig,девяносто
+A1,brown,braun,коричневый
+A1,grey,grau,серый
+A1,pink,rosa,розовый
+A1,purple,lila,фиолетовый
+A1,Germany,Deutschland,Германия
+A1,Russia,Russland,Россия
+A1,Kyrgyzstan,Kirgisistan,Кыргызстан
+A1,Kazakhstan,Kasachstan,Казахстан
+A1,Uzbekistan,Usbekistan,Узбекистан
+A1,England,England,Англия
+A1,Europe,Europa,Европа
+A1,Austria,Österreich,Австрия
+A1,Switzerland,die Schweiz,Швейцария
+A1,Turkey,die Türkei,Турция
+A1,China,China,Китай
+A1,America,Amerika,Америка
+A1,Asia,Asien,Азия
+A1,tooth,der Zahn,зуб
+A1,finger,der Finger,палец
+A1,back,der Rücken,спина
+A1,"stomach, belly",der Bauch,живот
+A1,face,das Gesicht,лицо
+A1,neck,der Hals,шея
+A1,tree,der Baum,дерево
+A1,flower,die Blume,цветок
+A1,river,der Fluss,река
+A1,mountain,der Berg,гора
+A1,lake,der See,озеро
+A1,sea,das Meer,море
+A1,sky,der Himmel,небо
+A1,moon,der Mond,луна
+A1,star,der Stern,звезда
+A1,forest,der Wald,лес
+A1,horse,das Pferd,лошадь
+A1,cow,die Kuh,корова
+A1,sheep,das Schaf,овца
+A1,mouse,die Maus,мышь
+A1,internet,das Internet,интернет
+A1,text message,die SMS,СМС
+A1,hobby,das Hobby,хобби
+A1,game,das Spiel,игра
+A1,"trip, journey",die Reise,поездка
+A1,walk (noun),der Spaziergang,прогулка
+A1,concert,das Konzert,концерт
+A1,cash,das Bargeld,наличные
+A1,change (coins),das Wechselgeld,сдача
+A1,carrier bag,die Tüte,пакет
+A1,"offer, special offer",das Angebot,предложение
+A1,receipt,der Kassenbon,чек
+A1,size,die Größe,размер
+A1,class (school),die Klasse,класс
+A1,pupil,der Schüler,школьник
+A1,homework,die Hausaufgabe,домашнее задание
+A1,"grade, mark",die Note,оценка
+A1,course,der Kurs,курс
+A1,test,der Test,тест

@@ -1,0 +1,566 @@
+﻿level,english,german,russian
+A2,to remember,sich erinnern,помнить
+A2,to decide,sich entscheiden,решаться
+A2,to prepare,vorbereiten,"готовить, подготавливать"
+A2,to organize,organisieren,организовывать
+A2,to plan,planen,планировать
+A2,to repair,reparieren,ремонтировать
+A2,to change,ändern,изменять
+A2,to move (house),umziehen,переезжать
+A2,"to arrange, to agree on",vereinbaren,договариваться
+A2,to cancel,absagen,отменять
+A2,to agree,zustimmen,соглашаться
+A2,to complain,sich beschweren,жаловаться
+A2,to apologize,sich entschuldigen,извиняться
+A2,to promise,versprechen,обещать
+A2,to allow,erlauben,разрешать
+A2,to forbid,verbieten,запрещать
+A2,to recommend,empfehlen,рекомендовать
+A2,to advise,raten,советовать
+A2,to describe,beschreiben,описывать
+A2,to report,berichten,сообщать
+A2,"to tell, to narrate",erzählen,рассказывать
+A2,to discuss,besprechen,обсуждать
+A2,to introduce,vorstellen,представлять
+A2,to get to know,kennenlernen,знакомиться
+A2,to follow,folgen,следовать
+A2,to lead,führen,вести
+A2,to pull,ziehen,тянуть
+A2,"to push, to press",drücken,"нажимать, давить"
+A2,to throw,werfen,бросать
+A2,to catch,fangen,ловить
+A2,to break,brechen,ломать
+A2,to cut,schneiden,резать
+A2,to burn,brennen,гореть
+A2,to grow,wachsen,расти
+A2,to happen,passieren,происходить
+A2,to appear,erscheinen,появляться
+A2,to disappear,verschwinden,исчезать
+A2,to fall,fallen,падать
+A2,to climb,klettern,лазить
+A2,to jump,springen,прыгать
+A2,to cry,weinen,плакать
+A2,to laugh,lachen,смеяться
+A2,to smile,lächeln,улыбаться
+A2,to shout,schreien,кричать
+A2,to kiss,küssen,целовать
+A2,to hug,umarmen,обнимать
+A2,to fight,kämpfen,бороться
+A2,to worry,sich Sorgen machen,беспокоиться
+A2,to be afraid,Angst haben,бояться
+A2,to be pleased,sich freuen,радоваться
+A2,to be interested in,sich interessieren für,интересоваться
+A2,to be bored,sich langweilen,скучать
+A2,to hurry,sich beeilen,спешить
+A2,to relax,sich entspannen,расслабляться
+A2,to get dressed,sich anziehen,одеваться
+A2,to get undressed,sich ausziehen,раздеваться
+A2,to brush teeth,Zähne putzen,чистить зубы
+A2,to shave,sich rasieren,бриться
+A2,to bathe,baden,купаться
+A2,to wake up,aufwachen,просыпаться
+A2,to fall asleep,einschlafen,засыпать
+A2,to dream,träumen,"мечтать, видеть сны"
+A2,to breathe,atmen,дышать
+A2,to cough,husten,кашлять
+A2,to hurt,wehtun,болеть
+A2,to recover,sich erholen,"отдыхать, поправляться"
+A2,to examine,untersuchen,обследовать
+A2,to measure,messen,измерять
+A2,to weigh,wiegen,взвешивать
+A2,to choose,wählen,выбирать
+A2,to collect,sammeln,собирать
+A2,to save (money),sparen,"копить, экономить"
+A2,to spend (money),ausgeben,тратить
+A2,to borrow,leihen,одалживать (брать)
+A2,to lend,verleihen,одалживать (давать)
+A2,to earn,verdienen,зарабатывать
+A2,to deliver,liefern,доставлять
+A2,to pack,packen,упаковывать
+A2,to unpack,auspacken,распаковывать
+A2,to check,kontrollieren,проверять
+A2,to test,testen,испытывать
+A2,to copy,kopieren,копировать
+A2,to print,drucken,печатать
+A2,to download,herunterladen,скачивать
+A2,to click,klicken,кликать
+A2,to save (file),speichern,сохранять
+A2,to delete,löschen,удалять
+A2,to search for,suchen,искать
+A2,to hand in,abgeben,сдавать
+A2,to take part,teilnehmen,участвовать
+A2,to apply,sich bewerben,подавать заявку
+A2,to hire,einstellen,нанимать
+A2,"to resign, to cancel",kündigen,"увольняться, расторгать"
+A2,to train,trainieren,тренироваться
+A2,to practise,üben,практиковаться
+A2,to correct,korrigieren,исправлять
+A2,to translate,übersetzen,переводить
+A2,to pronounce,aussprechen,произносить
+A2,"to mean, to signify",bedeuten,значить
+A2,to seem,scheinen,казаться
+A2,to look like,aussehen,выглядеть
+A2,to sound,klingen,звучать
+A2,to smell,riechen,пахнуть
+A2,to feel,fühlen,чувствовать
+A2,to touch,berühren,касаться
+A2,to turn (direction),abbiegen,поворачивать
+A2,to cross,überqueren,переходить
+A2,to park,parken,парковать
+A2,to refuel,tanken,заправляться
+A2,"to get on, to board",einsteigen,садиться
+A2,to get off,aussteigen,выходить (из транспорта)
+A2,to change (trains),umsteigen,делать пересадку
+A2,"to stop, to hold",halten,"останавливаться, держать"
+A2,to rest,sich ausruhen,отдыхать
+A2,to reserve,reservieren,резервировать
+A2,to pass (an exam),bestehen,сдать (экзамен)
+A2,to fail,durchfallen,провалиться
+A2,to stay overnight,übernachten,ночевать
+A2,to hike,wandern,ходить в поход
+A2,to photograph,fotografieren,фотографировать
+A2,to paint,malen,рисовать красками
+A2,to draw,zeichnen,рисовать
+A2,to bake,backen,печь
+A2,to fry,braten,жарить
+A2,to mix,mischen,смешивать
+A2,to pour,gießen,"наливать, лить"
+A2,to smoke,rauchen,курить
+A2,to throw away,wegwerfen,выбрасывать
+A2,to recycle,recyceln,перерабатывать
+A2,doctor's appointment,der Arzttermin,запись к врачу
+A2,patient,der Patient,пациент
+A2,prescription,das Rezept,рецепт
+A2,"tablet, pill",die Tablette,таблетка
+A2,injection,die Spritze,"укол, шприц"
+A2,wound,die Wunde,рана
+A2,accident,der Unfall,несчастный случай
+A2,ambulance,der Krankenwagen,скорая помощь
+A2,emergency,der Notfall,экстренный случай
+A2,allergy,die Allergie,аллергия
+A2,blood,das Blut,кровь
+A2,skin,die Haut,кожа
+A2,bone,der Knochen,кость
+A2,cough,der Husten,кашель
+A2,diet,die Diät,диета
+A2,weight,das Gewicht,вес
+A2,sleep,der Schlaf,сон
+A2,"calm, rest",die Ruhe,покой
+A2,stress,der Stress,стресс
+A2,gym,das Fitnessstudio,тренажёрный зал
+A2,training,das Training,тренировка
+A2,team,die Mannschaft,команда
+A2,winner,der Sieger,победитель
+A2,result,das Ergebnis,результат
+A2,goal,das Tor,"гол, ворота"
+A2,sock,die Socke,носок
+A2,underwear,die Unterwäsche,нижнее бельё
+A2,skirt,der Rock,юбка
+A2,sweater,der Pullover,свитер
+A2,coat,der Mantel,пальто
+A2,scarf,der Schal,шарф
+A2,glove,der Handschuh,перчатка
+A2,belt,der Gürtel,ремень
+A2,boot,der Stiefel,сапог
+A2,jewellery,der Schmuck,украшения
+A2,ring,der Ring,кольцо
+A2,fashion,die Mode,мода
+A2,worried,besorgt,обеспокоенный
+A2,nervous,nervös,нервный
+A2,surprised,überrascht,удивлённый
+A2,satisfied,zufrieden,довольный
+A2,disappointed,enttäuscht,разочарованный
+A2,proud,stolz,гордый
+A2,lonely,einsam,одинокий
+A2,jealous,eifersüchtig,ревнивый
+A2,shy,schüchtern,застенчивый
+A2,lazy,faul,ленивый
+A2,hard-working,fleißig,трудолюбивый
+A2,clever,klug,умный
+A2,stupid,dumm,глупый
+A2,honest,ehrlich,честный
+A2,polite,höflich,вежливый
+A2,rude,unhöflich,невежливый
+A2,patient (adj),geduldig,терпеливый
+A2,impatient,ungeduldig,нетерпеливый
+A2,generous,großzügig,щедрый
+A2,curious,neugierig,любопытный
+A2,careful,vorsichtig,осторожный
+A2,dangerous,gefährlich,опасный
+A2,"safe, sure",sicher,"безопасный, уверенный"
+A2,pregnant,schwanger,беременная
+A2,broken,kaputt,сломанный
+A2,wide,breit,широкий
+A2,"narrow, tight",eng,"узкий, тесный"
+A2,steep,steil,крутой
+A2,round,rund,круглый
+A2,straight,gerade,прямой
+A2,sharp,scharf,острый
+A2,soft,weich,мягкий
+A2,hard,hart,твёрдый
+A2,deep,tief,глубокий
+A2,high,hoch,высокий
+A2,low,niedrig,низкий
+A2,huge,riesig,огромный
+A2,tiny,winzig,крошечный
+A2,modern,modern,современный
+A2,traditional,traditionell,традиционный
+A2,typical,typisch,типичный
+A2,special,besonders,особенный
+A2,normal,normal,нормальный
+A2,usual,üblich,обычный
+A2,rare,selten,редкий
+A2,various,verschieden,разный
+A2,clear,klar,ясный
+A2,simple,einfach,простой
+A2,complicated,kompliziert,сложный
+A2,useful,nützlich,полезный
+A2,useless,nutzlos,бесполезный
+A2,necessary,nötig,необходимый
+A2,free (available),frei,свободный
+A2,busy,beschäftigt,занятой
+A2,occupied,besetzt,занятый (о месте)
+A2,public,öffentlich,общественный
+A2,private,privat,частный
+A2,international,international,международный
+A2,foreign,fremd,чужой
+A2,local,örtlich,местный
+A2,famous,berühmt,знаменитый
+A2,popular,beliebt,популярный
+A2,successful,erfolgreich,успешный
+A2,unemployed,arbeitslos,безработный
+A2,slim,schlank,стройный
+A2,sporty,sportlich,спортивный
+A2,elegant,elegant,элегантный
+A2,comfortable,bequem,удобный
+A2,uncomfortable,unbequem,неудобный
+A2,tidy,ordentlich,аккуратный
+A2,untidy,unordentlich,неаккуратный
+A2,bitter,bitter,горький
+A2,salty,salzig,солёный
+A2,raw,roh,сырой
+A2,vegetarian,vegetarisch,вегетарианский
+A2,company,die Firma,фирма
+A2,office,das Büro,офис
+A2,factory,die Fabrik,завод
+A2,"profession, career",die Karriere,карьера
+A2,salary,das Gehalt,зарплата
+A2,wage,der Lohn,заработная плата
+A2,contract,der Vertrag,договор
+A2,application,die Bewerbung,"заявление, отклик на вакансию"
+A2,interview,das Vorstellungsgespräch,собеседование
+A2,CV,der Lebenslauf,резюме
+A2,experience,die Erfahrung,опыт
+A2,qualification,die Qualifikation,квалификация
+A2,"training, apprenticeship",die Ausbildung,профессиональное обучение
+A2,internship,das Praktikum,стажировка
+A2,colleague (female),die Kollegin,коллега (женщина)
+A2,meeting,die Besprechung,совещание
+A2,conference,die Konferenz,конференция
+A2,task,die Aufgabe,задача
+A2,project,das Projekt,проект
+A2,plan,der Plan,план
+A2,deadline,die Frist,срок
+A2,break,die Pause,перерыв
+A2,overtime,die Überstunden,сверхурочные
+A2,holiday (leave),der Urlaub,отпуск
+A2,shift,die Schicht,смена
+A2,unemployment,die Arbeitslosigkeit,безработица
+A2,manager,der Leiter,руководитель
+A2,employee,der Angestellte,сотрудник
+A2,employer,der Arbeitgeber,работодатель
+A2,tax,die Steuer,налог
+A2,insurance,die Versicherung,страховка
+A2,bank account,das Konto,счёт в банке
+A2,loan,der Kredit,кредит
+A2,debt,die Schuld,долг
+A2,cash machine,der Geldautomat,банкомат
+A2,coin,die Münze,монета
+A2,banknote,der Geldschein,банкнота
+A2,rent,die Miete,аренда
+A2,deposit,die Kaution,залог
+A2,landlord,der Vermieter,арендодатель
+A2,tenant,der Mieter,арендатор
+A2,move,der Umzug,переезд
+A2,furniture,die Möbel,мебель
+A2,sofa,das Sofa,диван
+A2,armchair,der Sessel,кресло
+A2,cupboard,der Schrank,шкаф
+A2,shelf,das Regal,полка
+A2,carpet,der Teppich,ковёр
+A2,curtain,der Vorhang,занавеска
+A2,mirror,der Spiegel,зеркало
+A2,fridge,der Kühlschrank,холодильник
+A2,oven,der Herd,плита
+A2,washing machine,die Waschmaschine,стиральная машина
+A2,heating,die Heizung,отопление
+A2,electricity,der Strom,электричество
+A2,light,das Licht,свет
+A2,cellar,der Keller,подвал
+A2,attic,der Dachboden,чердак
+A2,"hall, corridor",der Flur,коридор
+A2,living room,das Wohnzimmer,гостиная
+A2,dining room,das Esszimmer,столовая
+A2,yard,der Hof,двор
+A2,fence,der Zaun,забор
+A2,neighbourhood,die Nachbarschaft,соседство
+A2,district,der Stadtteil,район города
+A2,centre,das Zentrum,центр
+A2,suburb,der Vorort,пригород
+A2,traffic,der Verkehr,движение
+A2,traffic light,die Ampel,светофор
+A2,crossing,die Kreuzung,перекрёсток
+A2,pavement,der Bürgersteig,тротуар
+A2,motorway,die Autobahn,автомагистраль
+A2,petrol station,die Tankstelle,заправка
+A2,parking space,der Parkplatz,парковка
+A2,underground,die U-Bahn,метро
+A2,tram,die Straßenbahn,трамвай
+A2,platform,der Bahnsteig,платформа
+A2,timetable,der Fahrplan,расписание
+A2,delay,die Verspätung,опоздание
+A2,departure,die Abfahrt,отправление
+A2,arrival,die Ankunft,прибытие
+A2,connection,die Verbindung,"пересадка, связь"
+A2,single ticket,die einfache Fahrt,билет в один конец
+A2,return ticket,die Rückfahrkarte,обратный билет
+A2,luggage,das Gepäck,багаж
+A2,border,die Grenze,граница
+A2,customs,der Zoll,таможня
+A2,visa,das Visum,виза
+A2,flight,der Flug,рейс
+A2,gate,das Gate,выход на посадку
+A2,tourist,der Tourist,турист
+A2,sightseeing,die Sehenswürdigkeit,достопримечательность
+A2,guide,der Reiseführer,"путеводитель, гид"
+A2,reservation,die Reservierung,бронь
+A2,single room,das Einzelzimmer,одноместный номер
+A2,double room,das Doppelzimmer,двухместный номер
+A2,reception,die Rezeption,стойка регистрации
+A2,campsite,der Campingplatz,кемпинг
+A2,tent,das Zelt,палатка
+A2,beach,der Strand,пляж
+A2,island,die Insel,остров
+A2,coast,die Küste,побережье
+A2,"trip, excursion",der Ausflug,экскурсия
+A2,souvenir,das Souvenir,сувенир
+A2,postcard,die Postkarte,открытка
+A2,parcel,das Paket,посылка
+A2,address book,das Adressbuch,адресная книга
+A2,shopping centre,das Einkaufszentrum,торговый центр
+A2,department store,das Kaufhaus,универмаг
+A2,bakery,die Bäckerei,пекарня
+A2,butcher,die Metzgerei,мясная лавка
+A2,chemist,die Drogerie,аптека-магазин
+A2,bookshop,die Buchhandlung,книжный магазин
+A2,cash desk,die Kasse,касса
+A2,trolley,der Einkaufswagen,тележка
+A2,shopping list,der Einkaufszettel,список покупок
+A2,discount,der Rabatt,скидка
+A2,bargain,das Sonderangebot,выгодное предложение
+A2,brand,die Marke,"марка, бренд"
+A2,quality,die Qualität,качество
+A2,guarantee,die Garantie,гарантия
+A2,complaint,die Beschwerde,жалоба
+A2,refund,die Rückerstattung,возврат денег
+A2,packaging,die Verpackung,упаковка
+A2,weight (goods),das Gewicht,вес
+A2,kilo,das Kilo,килограмм
+A2,litre,der Liter,литр
+A2,metre,der Meter,метр
+A2,kilometre,der Kilometer,километр
+A2,piece,das Stück,"штука, кусок"
+A2,pair,das Paar,пара
+A2,dozen,das Dutzend,дюжина
+A2,newspaper article,der Artikel,статья
+A2,magazine,die Zeitschrift,журнал
+A2,programme,das Programm,программа
+A2,channel,der Sender,канал
+A2,advertisement,die Werbung,реклама
+A2,interview (media),das Interview,интервью
+A2,report (news),der Bericht,"репортаж, отчёт"
+A2,website,die Webseite,веб-сайт
+A2,password,das Passwort,пароль
+A2,app,die App,приложение
+A2,file,die Datei,файл
+A2,keyboard,die Tastatur,клавиатура
+A2,screen,der Bildschirm,экран
+A2,mouse (computer),die Maus,мышь (компьютерная)
+A2,printer,der Drucker,принтер
+A2,charger,das Ladegerät,зарядное устройство
+A2,battery,die Batterie,батарея
+A2,message,die Nachricht,сообщение
+A2,society,die Gesellschaft,общество
+A2,government,die Regierung,правительство
+A2,law,das Gesetz,закон
+A2,rule,die Regel,правило
+A2,duty,die Pflicht,обязанность
+A2,police,die Polizei,полиция
+A2,court,das Gericht,суд
+A2,crime,das Verbrechen,преступление
+A2,war,der Krieg,война
+A2,peace,der Frieden,мир (отсутствие войны)
+A2,election,die Wahl,выборы
+A2,president,der Präsident,президент
+A2,mayor,der Bürgermeister,мэр
+A2,citizen,der Bürger,гражданин
+A2,nationality,die Staatsangehörigkeit,гражданство
+A2,religion,die Religion,религия
+A2,culture,die Kultur,культура
+A2,tradition,die Tradition,традиция
+A2,custom,der Brauch,обычай
+A2,festival,das Fest,праздник
+A2,Christmas,Weihnachten,Рождество
+A2,Easter,Ostern,Пасха
+A2,New Year,Silvester,Новый год (канун)
+A2,wedding,die Hochzeit,свадьба
+A2,funeral,die Beerdigung,похороны
+A2,guest (invited),der Besucher,посетитель
+A2,invitation,die Einladung,приглашение
+A2,surprise,die Überraschung,сюрприз
+A2,wish,der Wunsch,желание
+A2,greeting,der Gruß,привет
+A2,hug,die Umarmung,объятие
+A2,love,die Liebe,любовь
+A2,joy,die Freude,радость
+A2,fear,die Angst,страх
+A2,anger,der Ärger,"досада, злость"
+A2,luck,das Glück,"счастье, удача"
+A2,trust,das Vertrauen,доверие
+A2,hope,die Hoffnung,надежда
+A2,memory,die Erinnerung,воспоминание
+A2,dream,der Traum,"мечта, сон"
+A2,thought,der Gedanke,мысль
+A2,feeling,das Gefühl,чувство
+A2,mood,die Stimmung,настроение
+A2,character,der Charakter,характер
+A2,behaviour,das Verhalten,поведение
+A2,habit,die Gewohnheit,привычка
+A2,success,der Erfolg,успех
+A2,mistake,der Fehler,ошибка
+A2,chance,die Chance,шанс
+A2,decision,die Entscheidung,решение
+A2,difference,der Unterschied,разница
+A2,solution,die Lösung,решение (проблемы)
+A2,information,die Information,информация
+A2,advice,der Rat,совет
+A2,opinion,die Meinung,мнение
+A2,discussion,die Diskussion,обсуждение
+A2,explanation,die Erklärung,объяснение
+A2,description,die Beschreibung,описание
+A2,instruction,die Anweisung,указание
+A2,rule of grammar,die Grammatik,грамматика
+A2,pronunciation,die Aussprache,произношение
+A2,text,der Text,текст
+A2,title,der Titel,заглавие
+A2,topic,das Thema,тема
+A2,content,der Inhalt,содержание
+A2,beginning,der Anfang,начало
+A2,end,das Ende,конец
+A2,middle,die Mitte,середина
+A2,part,der Teil,часть
+A2,side,die Seite,сторона
+A2,direction,die Richtung,направление
+A2,distance,die Entfernung,расстояние
+A2,height,die Höhe,высота
+A2,length,die Länge,длина
+A2,width,die Breite,ширина
+A2,speed,die Geschwindigkeit,скорость
+A2,temperature,die Temperatur,температура
+A2,degree,der Grad,градус
+A2,percent,das Prozent,процент
+A2,amount,die Menge,количество
+A2,majority,die Mehrheit,большинство
+A2,group,die Gruppe,группа
+A2,couple,das Paar,пара
+A2,member,das Mitglied,член
+A2,club,der Verein,"клуб, объединение"
+A2,association,die Organisation,организация
+A2,university lecture,die Vorlesung,лекция
+A2,subject (school),das Fach,предмет
+A2,timetable (school),der Stundenplan,расписание уроков
+A2,certificate,das Zeugnis,"аттестат, справка"
+A2,degree (university),der Abschluss,"диплом, окончание"
+A2,teacher (female),die Lehrerin,учительница
+A2,student (female),die Studentin,студентка
+A2,classroom,das Klassenzimmer,класс (комната)
+A2,blackboard,die Tafel,доска
+A2,"rubber, eraser",der Radiergummi,ластик
+A2,ruler,das Lineal,линейка
+A2,pencil,der Bleistift,карандаш
+A2,scissors,die Schere,ножницы
+A2,glue,der Kleber,клей
+A2,backpack,der Rucksack,рюкзак
+A2,environment,die Umwelt,окружающая среда
+A2,nature,die Natur,природа
+A2,climate,das Klima,климат
+A2,air,die Luft,воздух
+A2,earth,die Erde,земля
+A2,rubbish,der Müll,мусор
+A2,energy,die Energie,энергия
+A2,storm,der Sturm,буря
+A2,thunderstorm,das Gewitter,гроза
+A2,fog,der Nebel,туман
+A2,cloud,die Wolke,облако
+A2,ice,das Eis,лёд
+A2,heat,die Hitze,жара
+A2,grass,das Gras,трава
+A2,leaf,das Blatt,лист
+A2,plant,die Pflanze,растение
+A2,stone,der Stein,камень
+A2,sand,der Sand,песок
+A2,road sign,das Schild,знак
+A2,hill,der Hügel,холм
+A2,valley,das Tal,долина
+A2,village life,das Landleben,сельская жизнь
+A2,farm,der Bauernhof,ферма
+A2,farmer,der Bauer,"крестьянин, фермер"
+A2,pig,das Schwein,свинья
+A2,chicken (hen),das Huhn,курица (птица)
+A2,rabbit,das Kaninchen,кролик
+A2,insect,das Insekt,насекомое
+A2,pet,das Haustier,домашнее животное
+A2,therefore,deshalb,поэтому
+A2,however,aber,однако
+A2,although,obwohl,хотя
+A2,if,wenn,если
+A2,whether,ob,ли
+A2,that (conjunction),dass,что
+A2,"as, when",als,когда (в прошлом)
+A2,while,während,в то время как
+A2,before (conj.),bevor,прежде чем
+A2,after (conj.),nachdem,после того как
+A2,so that,damit,чтобы
+A2,instead,statt,вместо
+A2,besides,außerdem,кроме
+A2,at least,mindestens,как минимум
+A2,at the latest,spätestens,самое позднее
+A2,immediately,sofort,немедленно
+A2,suddenly,plötzlich,вдруг
+A2,recently,neulich,недавно
+A2,usually,normalerweise,обычно
+A2,rarely,selten,редко
+A2,mostly,meistens,в основном
+A2,at the moment,im Moment,в данный момент
+A2,for a long time,lange,долго
+A2,the day after tomorrow,übermorgen,послезавтра
+A2,the day before yesterday,vorgestern,позавчера
+A2,every day,jeden Tag,каждый день
+A2,during,während,во время
+A2,through,durch,через
+A2,along,entlang,вдоль
+A2,across,über,через
+A2,towards,gegen,к (о времени)
+A2,opposite,gegenüber,напротив
+A2,out of,aus,из
+A2,outside of,außerhalb,за пределами
+A2,inside of,innerhalb,внутри
+A2,instead of,anstatt,вместо
+A2,because of,wegen,из-за
+A2,despite,trotz,несмотря на
+A2,each other,einander,друг друга
+A2,both,beide,оба
+A2,several,mehrere,несколько
+A2,few,wenige,немногие
+A2,many,viele,многие
+A2,another,ein anderer,другой
