@@ -72,6 +72,21 @@ class MemorizationController extends ChangeNotifier {
     await _repository.saveLearnedIds(_learnedIds);
   }
 
+  /// Marks several words as learned in one batch.
+  ///
+  /// Already learned words are ignored, so the operation is idempotent and
+  /// the learned ids are stored only once per batch.
+  Future<void> markLearnedAll(Iterable<String> wordIds) async {
+    var changed = false;
+    for (final wordId in wordIds) {
+      if (wordId.isEmpty) continue;
+      if (_learnedIds.add(wordId)) changed = true;
+    }
+    if (!changed) return;
+    notifyListeners();
+    await _repository.saveLearnedIds(_learnedIds);
+  }
+
   /// Moves the word back to the new words.
   ///
   /// Calling this for a new word does nothing.

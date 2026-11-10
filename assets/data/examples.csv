@@ -1,0 +1,1233 @@
+word_id,sentence_en,sentence_de,sentence_ru
+A1|mother,My mother is a teacher.,Meine Mutter ist Lehrerin.,Моя мама — учительница.
+A1|father,My father works in a bank.,Mein Vater arbeitet in einer Bank.,Мой папа работает в банке.
+A1|parents,My parents live in the village.,Meine Eltern wohnen im Dorf.,Мои родители живут в деревне.
+A1|brother,I have one brother.,Ich habe einen Bruder.,У меня один брат.
+A1|sister,My sister is ten years old.,Meine Schwester ist zehn Jahre alt.,Моей сестре десять лет.
+A1|son,Their son plays football.,Ihr Sohn spielt Fußball.,Их сын играет в футбол.
+A1|daughter,Her daughter is at school.,Ihre Tochter ist in der Schule.,Её дочь в школе.
+A1|child,The child is sleeping.,Das Kind schläft.,Ребёнок спит.
+A1|grandmother,My grandmother cooks well.,Meine Oma kocht gut.,Моя бабушка хорошо готовит.
+A1|grandfather,My grandfather reads the newspaper.,Mein Opa liest die Zeitung.,Мой дедушка читает газету.
+A1|husband,Her husband is a doctor.,Ihr Ehemann ist Arzt.,Её муж — врач.
+A1|wife,His wife is very nice.,Seine Ehefrau ist sehr nett.,Его жена очень приятная.
+A1|friend,He is my best friend.,Er ist mein bester Freund.,Он мой лучший друг.
+A1|man,The man is old.,Der Mann ist alt.,Мужчина старый.
+A1|woman,The woman is reading a book.,Die Frau liest ein Buch.,Женщина читает книгу.
+A1|boy,The boy is playing.,Der Junge spielt.,Мальчик играет.
+A1|girl,The girl is singing.,Das Mädchen singt.,Девочка поёт.
+A1|bread,I buy bread every day.,Ich kaufe jeden Tag Brot.,Я каждый день покупаю хлеб.
+A1|water,Can I have some water?,Kann ich Wasser haben?,Можно мне воды?
+A1|milk,The milk is cold.,Die Milch ist kalt.,Молоко холодное.
+A1|coffee,I drink coffee in the morning.,Ich trinke morgens Kaffee.,Утром я пью кофе.
+A1|tea,Do you want tea?,Willst du Tee?,Ты хочешь чай?
+A1|juice,The juice is sweet.,Der Saft ist süß.,Сок сладкий.
+A1|beer,He drinks a beer.,Er trinkt ein Bier.,Он пьёт пиво.
+A1|wine,We drink red wine.,Wir trinken Rotwein.,Мы пьём красное вино.
+A1|apple,The apple is red.,Der Apfel ist rot.,Яблоко красное.
+A1|banana,I like bananas.,Ich mag Bananen.,Я люблю бананы.
+A1|orange,She eats an orange.,Sie isst eine Orange.,Она ест апельсин.
+A1|potato,We cook potatoes.,Wir kochen Kartoffeln.,Мы варим картошку.
+A1|tomato,The tomato is fresh.,Die Tomate ist frisch.,Помидор свежий.
+A1|cheese,I want cheese.,Ich will Käse.,Я хочу сыр.
+A1|egg,I eat an egg for breakfast.,Ich esse ein Ei zum Frühstück.,На завтрак я ем яйцо.
+A1|meat,He does not eat meat.,Er isst kein Fleisch.,Он не ест мясо.
+A1|fish,We eat fish on Fridays.,Wir essen freitags Fisch.,По пятницам мы едим рыбу.
+A1|rice,Rice is cheap.,Reis ist billig.,Рис дешёвый.
+A1|soup,The soup is hot.,Die Suppe ist heiß.,Суп горячий.
+A1|salad,I make a salad.,Ich mache einen Salat.,Я делаю салат.
+A1|sugar,"No sugar, please.","Keinen Zucker, bitte.","Без сахара, пожалуйста."
+A1|salt,The salt is on the table.,Das Salz steht auf dem Tisch.,Соль на столе.
+A1|butter,"Bread and butter, please.","Brot und Butter, bitte.","Хлеб и масло, пожалуйста."
+A1|breakfast,Breakfast is at eight.,Das Frühstück ist um acht.,Завтрак в восемь.
+A1|lunch,Lunch is at one o'clock.,Das Mittagessen ist um eins.,Обед в час.
+A1|dinner,Dinner is ready.,Das Abendessen ist fertig.,Ужин готов.
+A1|restaurant,The restaurant is full.,Das Restaurant ist voll.,Ресторан полный.
+A1|menu,Can I see the menu?,Kann ich die Speisekarte sehen?,Можно посмотреть меню?
+A1|bill,"The bill, please.","Die Rechnung, bitte.","Счёт, пожалуйста."
+A1|house,Our house is big.,Unser Haus ist groß.,Наш дом большой.
+A1|flat,My flat is small.,Meine Wohnung ist klein.,Моя квартира маленькая.
+A1|room,The room is clean.,Das Zimmer ist sauber.,Комната чистая.
+A1|kitchen,She is in the kitchen.,Sie ist in der Küche.,Она на кухне.
+A1|bathroom,The bathroom is on the left.,Das Badezimmer ist links.,Ванная слева.
+A1|bedroom,My bedroom is small.,Mein Schlafzimmer ist klein.,Моя спальня маленькая.
+A1|door,"Open the door, please.","Öffne die Tür, bitte.","Открой дверь, пожалуйста."
+A1|window,The window is open.,Das Fenster ist offen.,Окно открыто.
+A1|table,The book is on the table.,Das Buch liegt auf dem Tisch.,Книга лежит на столе.
+A1|chair,Take a chair.,Nimm einen Stuhl.,Возьми стул.
+A1|bed,The bed is new.,Das Bett ist neu.,Кровать новая.
+A1|garden,We have a garden.,Wir haben einen Garten.,У нас есть сад.
+A1|key,Where is my key?,Wo ist mein Schlüssel?,Где мой ключ?
+A1|lamp,The lamp is on the table.,Die Lampe steht auf dem Tisch.,Лампа стоит на столе.
+A1|street,The street is long.,Die Straße ist lang.,Улица длинная.
+A1|city,I live in a big city.,Ich wohne in einer großen Stadt.,Я живу в большом городе.
+A1|village,My grandmother lives in a village.,Meine Oma wohnt in einem Dorf.,Моя бабушка живёт в деревне.
+A1|country,My country is beautiful.,Mein Land ist schön.,Моя страна красивая.
+A1|school,School starts at eight.,Die Schule beginnt um acht.,Школа начинается в восемь.
+A1|university,She is at the university.,Sie ist an der Universität.,Она в университете.
+A1|shop,The shop is closed.,Das Geschäft ist geschlossen.,Магазин закрыт.
+A1|supermarket,I go to the supermarket.,Ich gehe zum Supermarkt.,Я иду в супермаркет.
+A1|bank,The bank is here.,Die Bank ist hier.,Банк здесь.
+A1|hospital,He is in the hospital.,Er ist im Krankenhaus.,Он в больнице.
+A1|pharmacy,The pharmacy is open.,Die Apotheke ist offen.,Аптека открыта.
+A1|post office,The post office is there.,Die Post ist dort.,Почта там.
+A1|station,The station is big.,Der Bahnhof ist groß.,Вокзал большой.
+A1|airport,We are at the airport.,Wir sind am Flughafen.,Мы в аэропорту.
+A1|hotel,The hotel is good.,Das Hotel ist gut.,Гостиница хорошая.
+A1|park,We walk in the park.,Wir gehen im Park spazieren.,Мы гуляем в парке.
+A1|market,I buy apples at the market.,Ich kaufe Äpfel auf dem Markt.,Я покупаю яблоки на рынке.
+A1|car,My car is new.,Mein Auto ist neu.,Моя машина новая.
+A1|bus,The bus comes late.,Der Bus kommt spät.,Автобус приходит поздно.
+A1|train,The train is fast.,Der Zug ist schnell.,Поезд быстрый.
+A1|bicycle,I ride my bicycle.,Ich fahre Fahrrad.,Я езжу на велосипеде.
+A1|plane,The plane is big.,Das Flugzeug ist groß.,Самолёт большой.
+A1|ticket,I need a ticket.,Ich brauche eine Fahrkarte.,Мне нужен билет.
+A1|taxi,We take a taxi.,Wir nehmen ein Taxi.,Мы берём такси.
+A1|day,It is a nice day.,Es ist ein schöner Tag.,Сегодня хороший день.
+A1|week,A week has seven days.,Eine Woche hat sieben Tage.,В неделе семь дней.
+A1|month,This month is cold.,Dieser Monat ist kalt.,Этот месяц холодный.
+A1|year,A year has twelve months.,Ein Jahr hat zwölf Monate.,В году двенадцать месяцев.
+A1|hour,I wait one hour.,Ich warte eine Stunde.,Я жду один час.
+A1|minute,Wait a minute.,Warte eine Minute.,Подожди минуту.
+A1|morning,I get up in the morning.,Ich stehe morgens auf.,Я встаю утром.
+A1|evening,We eat in the evening.,Wir essen am Abend.,Вечером мы едим.
+A1|night,The night is dark.,Die Nacht ist dunkel.,Ночь тёмная.
+A1|today,Today I work.,Heute arbeite ich.,Сегодня я работаю.
+A1|tomorrow,Tomorrow I have a test.,Morgen habe ich einen Test.,Завтра у меня тест.
+A1|yesterday,Yesterday I was at home.,Gestern war ich zu Hause.,Вчера я был дома.
+A1|now,I am eating now.,Ich esse jetzt.,Сейчас я ем.
+A1|Monday,On Monday I work.,Am Montag arbeite ich.,В понедельник я работаю.
+A1|Tuesday,On Tuesday I learn German.,Am Dienstag lerne ich Deutsch.,Во вторник я учу немецкий.
+A1|Wednesday,On Wednesday I go to school.,Am Mittwoch gehe ich zur Schule.,В среду я иду в школу.
+A1|Thursday,On Thursday we play football.,Am Donnerstag spielen wir Fußball.,В четверг мы играем в футбол.
+A1|Friday,On Friday we eat fish.,Am Freitag essen wir Fisch.,В пятницу мы едим рыбу.
+A1|Saturday,On Saturday I sleep long.,Am Samstag schlafe ich lange.,В субботу я долго сплю.
+A1|Sunday,On Sunday we visit grandma.,Am Sonntag besuchen wir Oma.,В воскресенье мы навещаем бабушку.
+A1|January,January is cold.,Der Januar ist kalt.,Январь холодный.
+A1|February,February is short.,Der Februar ist kurz.,Февраль короткий.
+A1|March,In March it is warm.,Im März ist es warm.,В марте тепло.
+A1|April,In April it rains.,Im April regnet es.,В апреле идёт дождь.
+A1|May,May is beautiful.,Der Mai ist schön.,Май прекрасный.
+A1|June,June is hot.,Der Juni ist heiß.,Июнь жаркий.
+A1|July,In July we travel.,Im Juli reisen wir.,В июле мы путешествуем.
+A1|August,August is warm.,Der August ist warm.,Август тёплый.
+A1|September,School starts in September.,Die Schule beginnt im September.,Школа начинается в сентябре.
+A1|October,October is cold.,Der Oktober ist kalt.,Октябрь холодный.
+A1|November,In November it is dark.,Im November ist es dunkel.,В ноябре темно.
+A1|December,December has snow.,Im Dezember gibt es Schnee.,В декабре бывает снег.
+A1|red,I have a red car.,Ich habe ein rotes Auto.,У меня красная машина.
+A1|blue,The sky is blue.,Der Himmel ist blau.,Небо синее.
+A1|green,The tree is green.,Der Baum ist grün.,Дерево зелёное.
+A1|yellow,The sun is yellow.,Die Sonne ist gelb.,Солнце жёлтое.
+A1|black,The cat is black.,Die Katze ist schwarz.,Кошка чёрная.
+A1|white,The snow is white.,Der Schnee ist weiß.,Снег белый.
+A1|one,One and one is two.,Eins und eins ist zwei.,Один и один — два.
+A1|two,I have two dogs.,Ich habe zwei Hunde.,У меня две собаки.
+A1|three,I have three cats.,Ich habe drei Katzen.,У меня три кошки.
+A1|four,The table has four legs.,Der Tisch hat vier Beine.,У стола четыре ножки.
+A1|five,Five students are here.,Fünf Studenten sind hier.,Здесь пять студентов.
+A1|six,It is six o'clock.,Es ist sechs Uhr.,Сейчас шесть часов.
+A1|seven,A week has seven days.,Eine Woche hat sieben Tage.,В неделе семь дней.
+A1|eight,School starts at eight.,Die Schule beginnt um acht.,Школа начинается в восемь.
+A1|nine,I sleep until nine.,Ich schlafe bis neun.,Я сплю до девяти.
+A1|ten,I am ten years old.,Ich bin zehn Jahre alt.,Мне десять лет.
+A1|twenty,The book costs twenty euros.,Das Buch kostet zwanzig Euro.,Книга стоит двадцать евро.
+A1|hundred,The house is a hundred years old.,Das Haus ist hundert Jahre alt.,Дому сто лет.
+A1|thousand,A thousand people are here.,Tausend Menschen sind hier.,Здесь тысяча человек.
+A1|head,My head hurts.,Mein Kopf tut weh.,У меня болит голова.
+A1|hand,My hand is cold.,Meine Hand ist kalt.,Моя рука холодная.
+A1|eye,She has blue eyes.,Sie hat blaue Augen.,У неё голубые глаза.
+A1|ear,My ear hurts.,Mein Ohr tut weh.,У меня болит ухо.
+A1|mouth,Open your mouth.,Mach den Mund auf.,Открой рот.
+A1|nose,His nose is big.,Seine Nase ist groß.,Его нос большой.
+A1|foot,My foot hurts.,Mein Fuß tut weh.,У меня болит нога.
+A1|arm,His arm is strong.,Sein Arm ist stark.,Его рука сильная.
+A1|leg,My leg hurts.,Mein Bein tut weh.,У меня болит нога.
+A1|heart,I love you with all my heart.,Ich liebe dich von Herzen.,Я люблю тебя всем сердцем.
+A1|hair,She has long hair.,Sie hat lange Haare.,У неё длинные волосы.
+A1|to be,I am at home.,Ich bin zu Hause.,Я дома.
+A1|to have,I have a car.,Ich habe ein Auto.,У меня есть машина.
+A1|to go,I go to school.,Ich gehe zur Schule.,Я иду в школу.
+A1|to come,She comes at eight.,Sie kommt um acht.,Она приходит в восемь.
+"A1|to do, to make",What are you doing?,Was machst du?,Что ты делаешь?
+A1|to say,He says hello.,Er sagt Hallo.,Он говорит «привет».
+A1|to speak,I speak German.,Ich spreche Deutsch.,Я говорю по-немецки.
+A1|to see,I see a dog.,Ich sehe einen Hund.,Я вижу собаку.
+A1|to eat,We eat bread.,Wir essen Brot.,Мы едим хлеб.
+A1|to drink,I drink water.,Ich trinke Wasser.,Я пью воду.
+A1|to sleep,The baby sleeps.,Das Baby schläft.,Малыш спит.
+A1|to live (reside),We live in Bishkek.,Wir wohnen in Bischkek.,Мы живём в Бишкеке.
+A1|to work,My father works.,Mein Vater arbeitet.,Мой папа работает.
+A1|to learn,I learn German.,Ich lerne Deutsch.,Я учу немецкий.
+A1|to read,She reads a book.,Sie liest ein Buch.,Она читает книгу.
+A1|to write,I write a letter.,Ich schreibe einen Brief.,Я пишу письмо.
+A1|to buy,I buy bread.,Ich kaufe Brot.,Я покупаю хлеб.
+A1|to know (a fact),I know his name.,Ich weiß seinen Namen.,Я знаю его имя.
+A1|to like,I like tea.,Ich mag Tee.,Я люблю чай.
+A1|to want,I want water.,Ich will Wasser.,Я хочу воды.
+A1|to be able to,I can swim.,Ich kann schwimmen.,Я умею плавать.
+A1|to have to,I must work.,Ich muss arbeiten.,Я должен работать.
+A1|to give,Give me the book.,Gib mir das Buch.,Дай мне книгу.
+A1|to take,I take an apple.,Ich nehme einen Apfel.,Я беру яблоко.
+A1|to ask,I ask the teacher.,Ich frage den Lehrer.,Я спрашиваю учителя.
+A1|to answer,He answers the question.,Er antwortet auf die Frage.,Он отвечает на вопрос.
+A1|to play,The children play.,Die Kinder spielen.,Дети играют.
+A1|to help,Can you help me?,Kannst du mir helfen?,Можешь мне помочь?
+A1|to wait,I wait for the bus.,Ich warte auf den Bus.,Я жду автобус.
+A1|to open,Open the window.,Öffne das Fenster.,Открой окно.
+A1|to close,Close the door.,Schließe die Tür.,Закрой дверь.
+A1|to love,I love my mother.,Ich liebe meine Mutter.,Я люблю свою маму.
+A1|to find,I find my key.,Ich finde meinen Schlüssel.,Я нахожу свой ключ.
+A1|to stay,I stay at home.,Ich bleibe zu Hause.,Я остаюсь дома.
+A1|to drive,He drives to work.,Er fährt zur Arbeit.,Он едет на работу.
+A1|to call (phone),I call my mother.,Ich rufe meine Mutter an.,Я звоню маме.
+A1|to hear,I hear music.,Ich höre Musik.,Я слышу музыку.
+A1|to cook,She cooks soup.,Sie kocht Suppe.,Она готовит суп.
+A1|to pay,I pay the bill.,Ich bezahle die Rechnung.,Я плачу по счёту.
+A1|to begin,The lesson begins now.,Der Unterricht fängt jetzt an.,Урок начинается сейчас.
+A1|to understand,I understand German.,Ich verstehe Deutsch.,Я понимаю немецкий.
+A1|to run,He runs in the park.,Er läuft im Park.,Он бежит в парке.
+A1|to sit,I sit on the chair.,Ich sitze auf dem Stuhl.,Я сижу на стуле.
+A1|to stand,He stands at the door.,Er steht an der Tür.,Он стоит у двери.
+A1|to think,I think of you.,Ich denke an dich.,Я думаю о тебе.
+A1|to be called,My name is Aibek.,Ich heiße Aibek.,Меня зовут Айбек.
+A1|to sing,She sings well.,Sie singt gut.,Она хорошо поёт.
+A1|to dance,We dance.,Wir tanzen.,Мы танцуем.
+A1|to swim,I swim in the lake.,Ich schwimme im See.,Я плаваю в озере.
+A1|to repeat,Please repeat.,Bitte wiederholen Sie.,"Повторите, пожалуйста."
+A1|to visit,We visit our grandmother.,Wir besuchen unsere Oma.,Мы навещаем нашу бабушку.
+A1|to meet,I meet my friend.,Ich treffe meinen Freund.,Я встречаю своего друга.
+A1|big,The house is big.,Das Haus ist groß.,Дом большой.
+A1|small,The room is small.,Das Zimmer ist klein.,Комната маленькая.
+A1|good,The soup is good.,Die Suppe ist gut.,Суп хороший.
+A1|bad,The weather is bad.,Das Wetter ist schlecht.,Погода плохая.
+A1|new,I have a new phone.,Ich habe ein neues Handy.,У меня новый телефон.
+A1|old,My car is old.,Mein Auto ist alt.,Моя машина старая.
+A1|young,My sister is young.,Meine Schwester ist jung.,Моя сестра молодая.
+A1|beautiful,The city is beautiful.,Die Stadt ist schön.,Город красивый.
+A1|fast,The train is fast.,Der Zug ist schnell.,Поезд быстрый.
+A1|slow,The bus is slow.,Der Bus ist langsam.,Автобус медленный.
+A1|hot,The tea is hot.,Der Tee ist heiß.,Чай горячий.
+A1|cold,The water is cold.,Das Wasser ist kalt.,Вода холодная.
+A1|warm,It is warm today.,Heute ist es warm.,Сегодня тепло.
+A1|long,The road is long.,Der Weg ist lang.,Дорога длинная.
+A1|short,The film is short.,Der Film ist kurz.,Фильм короткий.
+A1|cheap,The bread is cheap.,Das Brot ist billig.,Хлеб дешёвый.
+A1|expensive,The car is expensive.,Das Auto ist teuer.,Машина дорогая.
+A1|easy,The test is easy.,Der Test ist leicht.,Тест лёгкий.
+A1|difficult,German is difficult.,Deutsch ist schwer.,Немецкий трудный.
+A1|happy,I am happy.,Ich bin glücklich.,Я счастлив.
+A1|sad,She is sad.,Sie ist traurig.,Она грустная.
+A1|tired,I am tired.,Ich bin müde.,Я устал.
+A1|hungry,The child is hungry.,Das Kind ist hungrig.,Ребёнок голоден.
+A1|thirsty,I am thirsty.,Ich bin durstig.,Я хочу пить.
+A1|sick,My father is sick.,Mein Vater ist krank.,Мой папа болен.
+A1|healthy,The food is healthy.,Das Essen ist gesund.,Еда полезная.
+"A1|right, correct",Your answer is correct.,Deine Antwort ist richtig.,Твой ответ правильный.
+A1|wrong,This word is wrong.,Dieses Wort ist falsch.,Это слово неправильное.
+A1|clean,The kitchen is clean.,Die Küche ist sauber.,Кухня чистая.
+A1|dirty,The shoes are dirty.,Die Schuhe sind schmutzig.,Обувь грязная.
+A1|important,This is important.,Das ist wichtig.,Это важно.
+"A1|nice, kind",Your friend is nice.,Dein Freund ist nett.,Твой друг приятный.
+A1|I,I am a student.,Ich bin Student.,Я студент.
+A1|you (informal),You are my friend.,Du bist mein Freund.,Ты мой друг.
+A1|he,He is at work.,Er ist bei der Arbeit.,Он на работе.
+A1|she,She is at home.,Sie ist zu Hause.,Она дома.
+A1|it,It is cold.,Es ist kalt.,Холодно.
+A1|we,We live here.,Wir wohnen hier.,Мы живём здесь.
+A1|you (plural),You are my friends.,Ihr seid meine Freunde.,Вы мои друзья.
+A1|they,They are in the park.,Sie sind im Park.,Они в парке.
+A1|you (formal),Are you the teacher?,Sind Sie der Lehrer?,Вы учитель?
+A1|and,I have a cat and a dog.,Ich habe eine Katze und einen Hund.,У меня есть кошка и собака.
+A1|but,"I am tired, but happy.","Ich bin müde, aber glücklich.","Я устал, но счастлив."
+A1|or,Tea or coffee?,Tee oder Kaffee?,Чай или кофе?
+A1|because,I stay home because I am sick.,"Ich bleibe zu Hause, weil ich krank bin.","Я остаюсь дома, потому что болен."
+A1|yes,"Yes, I understand.","Ja, ich verstehe.","Да, я понимаю."
+A1|no,"No, thank you.","Nein, danke.","Нет, спасибо."
+A1|please,"Water, please.","Wasser, bitte.","Воды, пожалуйста."
+A1|thank you,Thank you very much.,Vielen Dank.,Большое спасибо.
+"A1|sorry, excuse me","Excuse me, where is the station?","Entschuldigung, wo ist der Bahnhof?","Извините, где вокзал?"
+A1|hello,"Hello, my name is Aibek.","Hallo, ich heiße Aibek.","Привет, меня зовут Айбек."
+A1|goodbye,"Goodbye, see you soon.","Auf Wiedersehen, bis bald.","До свидания, до скорого."
+A1|good morning,"Good morning, Mr. Müller.","Guten Morgen, Herr Müller.","Доброе утро, господин Мюллер."
+A1|good night,"Good night, mother.","Gute Nacht, Mutter.","Спокойной ночи, мама."
+A1|what,What is this?,Was ist das?,Что это?
+A1|who,Who is that?,Wer ist das?,Кто это?
+A1|where,Where is the bank?,Wo ist die Bank?,Где банк?
+A1|when,When does the lesson start?,Wann beginnt der Unterricht?,Когда начинается урок?
+A1|why,Why are you late?,Warum bist du spät?,Почему ты опоздал?
+A1|how,How are you?,Wie geht es dir?,Как у тебя дела?
+A1|how much,How much is the bread?,Wie viel kostet das Brot?,Сколько стоит хлеб?
+A1|here,The book is here.,Das Buch ist hier.,Книга здесь.
+A1|there,The shop is there.,Das Geschäft ist dort.,Магазин там.
+A1|very,The food is very good.,Das Essen ist sehr gut.,Еда очень вкусная.
+A1|also,I also like tea.,Ich mag auch Tee.,Я тоже люблю чай.
+A1|not,I am not tired.,Ich bin nicht müde.,Я не устал.
+A1|always,She is always late.,Sie ist immer spät.,Она всегда опаздывает.
+A1|never,I never drink beer.,Ich trinke nie Bier.,Я никогда не пью пиво.
+A1|often,We often eat fish.,Wir essen oft Fisch.,Мы часто едим рыбу.
+A1|sometimes,Sometimes I walk.,Manchmal gehe ich zu Fuß.,Иногда я хожу пешком.
+A1|again,Please say it again.,Bitte sag es wieder.,"Пожалуйста, скажи ещё раз."
+A1|only,I have only one book.,Ich habe nur ein Buch.,У меня только одна книга.
+A1|with,I go with my friend.,Ich gehe mit meinem Freund.,Я иду с другом.
+A1|without,Tea without sugar.,Tee ohne Zucker.,Чай без сахара.
+A1|for,This book is for you.,Dieses Buch ist für dich.,Эта книга для тебя.
+A1|name,My name is Aibek.,Mein Name ist Aibek.,Моё имя Айбек.
+A1|address,What is your address?,Wie ist deine Adresse?,Какой у тебя адрес?
+A1|telephone,The telephone is on the table.,Das Telefon liegt auf dem Tisch.,Телефон лежит на столе.
+A1|mobile phone,My mobile phone is new.,Mein Handy ist neu.,Мой мобильный новый.
+A1|computer,I work on the computer.,Ich arbeite am Computer.,Я работаю за компьютером.
+A1|book,I read a book.,Ich lese ein Buch.,Я читаю книгу.
+A1|pen,I need a pen.,Ich brauche einen Kugelschreiber.,Мне нужна ручка.
+A1|paper,I need paper.,Ich brauche Papier.,Мне нужна бумага.
+A1|bag,My bag is heavy.,Meine Tasche ist schwer.,Моя сумка тяжёлая.
+A1|money,I have no money.,Ich habe kein Geld.,У меня нет денег.
+A1|price,The price is low.,Der Preis ist niedrig.,Цена низкая.
+"A1|job, profession",What is your profession?,Was ist dein Beruf?,Кем ты работаешь?
+A1|work (noun),I have a lot of work.,Ich habe viel Arbeit.,У меня много работы.
+A1|teacher,The teacher is nice.,Der Lehrer ist nett.,Учитель приятный.
+A1|doctor,The doctor helps me.,Der Arzt hilft mir.,Врач мне помогает.
+A1|student,My brother is a student.,Mein Bruder ist Student.,Мой брат студент.
+A1|weather,The weather is good.,Das Wetter ist gut.,Погода хорошая.
+A1|sun,The sun is hot.,Die Sonne ist heiß.,Солнце жаркое.
+A1|rain,The rain is cold.,Der Regen ist kalt.,Дождь холодный.
+A1|snow,The snow is white.,Der Schnee ist weiß.,Снег белый.
+A1|wind,The wind is strong.,Der Wind ist stark.,Ветер сильный.
+A1|animal,A dog is an animal.,Ein Hund ist ein Tier.,Собака — животное.
+A1|dog,The dog is big.,Der Hund ist groß.,Собака большая.
+A1|cat,The cat sleeps.,Die Katze schläft.,Кошка спит.
+A1|bird,The bird sings.,Der Vogel singt.,Птица поёт.
+A1|clothes,I buy new clothes.,Ich kaufe neue Kleidung.,Я покупаю новую одежду.
+A1|shirt,The shirt is white.,Das Hemd ist weiß.,Рубашка белая.
+A1|trousers,The trousers are long.,Die Hose ist lang.,Брюки длинные.
+A1|shoes,My shoes are new.,Meine Schuhe sind neu.,Моя обувь новая.
+A1|dress,The dress is beautiful.,Das Kleid ist schön.,Платье красивое.
+A1|jacket,I wear a jacket.,Ich trage eine Jacke.,Я ношу куртку.
+A1|hat,He wears a hat.,Er trägt einen Hut.,Он носит шляпу.
+A1|birthday,Today is my birthday.,Heute ist mein Geburtstag.,Сегодня мой день рождения.
+"A1|holiday, vacation",I am on holiday.,Ich habe Urlaub.,Я в отпуске.
+A1|party,We have a party.,Wir haben eine Party.,У нас вечеринка.
+A1|music,I like music.,Ich mag Musik.,Я люблю музыку.
+A1|film,The film is good.,Der Film ist gut.,Фильм хороший.
+A1|sport,I like sport.,Ich mag Sport.,Я люблю спорт.
+A1|football,We play football.,Wir spielen Fußball.,Мы играем в футбол.
+A1|newspaper,He reads the newspaper.,Er liest die Zeitung.,Он читает газету.
+A1|letter,I write a letter.,Ich schreibe einen Brief.,Я пишу письмо.
+A1|email,I send an email.,Ich schicke eine E-Mail.,Я отправляю электронное письмо.
+A1|photo,This is a photo of my family.,Das ist ein Foto von meiner Familie.,Это фото моей семьи.
+"A1|present, gift",This is a gift for you.,Das ist ein Geschenk für dich.,Это подарок для тебя.
+A1|problem,I have a problem.,Ich habe ein Problem.,У меня проблема.
+A1|question,I have a question.,Ich habe eine Frage.,У меня вопрос.
+A1|answer,The answer is right.,Die Antwort ist richtig.,Ответ правильный.
+A1|language,German is a language.,Deutsch ist eine Sprache.,Немецкий — это язык.
+A1|word,I learn a new word.,Ich lerne ein neues Wort.,Я учу новое слово.
+A1|sentence,This sentence is short.,Dieser Satz ist kurz.,Это предложение короткое.
+A1|exam,The exam is difficult.,Die Prüfung ist schwer.,Экзамен трудный.
+A1|lesson,The lesson is long.,Der Unterricht ist lang.,Урок длинный.
+A1|to arrive,The train arrives at six.,Der Zug kommt um sechs an.,Поезд прибывает в шесть.
+A1|to depart,The bus leaves at eight.,Der Bus fährt um acht ab.,Автобус отправляется в восемь.
+A1|to get up,I get up at seven.,Ich stehe um sieben auf.,Я встаю в семь.
+A1|to wash,I wash my hands.,Ich wasche meine Hände.,Я мою руки.
+A1|to shower,I shower in the morning.,Ich dusche morgens.,Утром я принимаю душ.
+A1|to clean,She cleans the room.,Sie putzt das Zimmer.,Она убирает комнату.
+A1|to bring,I bring water.,Ich bringe Wasser.,Я приношу воду.
+A1|to send,I send a letter.,Ich schicke einen Brief.,Я посылаю письмо.
+"A1|to receive, to get",I get a letter.,Ich bekomme einen Brief.,Я получаю письмо.
+A1|to rent,We rent a flat.,Wir mieten eine Wohnung.,Мы снимаем квартиру.
+A1|to pick up,I pick up my child.,Ich hole mein Kind ab.,Я забираю своего ребёнка.
+A1|to invite,I invite my friends.,Ich lade meine Freunde ein.,Я приглашаю своих друзей.
+A1|to celebrate,We celebrate his birthday.,Wir feiern seinen Geburtstag.,Мы празднуем его день рождения.
+A1|to travel,We travel in summer.,Im Sommer reisen wir.,Летом мы путешествуем.
+A1|to fly,The bird flies.,Der Vogel fliegt.,Птица летит.
+A1|to go for a walk,We go for a walk.,Wir gehen spazieren.,Мы идём гулять.
+A1|to count,I count to ten.,Ich zähle bis zehn.,Я считаю до десяти.
+A1|to try,I try again.,Ich versuche es noch einmal.,Я пробую ещё раз.
+A1|to use,I use a pen.,Ich benutze einen Kugelschreiber.,Я пользуюсь ручкой.
+A1|to need,I need water.,Ich brauche Wasser.,Мне нужна вода.
+A1|to show,Show me the book.,Zeig mir das Buch.,Покажи мне книгу.
+A1|to explain,The teacher explains the word.,Der Lehrer erklärt das Wort.,Учитель объясняет слово.
+A1|to forget,I forget my key.,Ich vergesse meinen Schlüssel.,Я забываю свой ключ.
+A1|to sell,He sells bread.,Er verkauft Brot.,Он продаёт хлеб.
+A1|to cost,The book costs ten euros.,Das Buch kostet zehn Euro.,Книга стоит десять евро.
+A1|to look,Look at the picture.,Schau das Bild an.,Посмотри на картинку.
+A1|to watch TV,I watch TV in the evening.,Abends sehe ich fern.,Вечером я смотрю телевизор.
+A1|to put (lay),I put the book on the table.,Ich lege das Buch auf den Tisch.,Я кладу книгу на стол.
+A1|to put (stand upright),I put the bottle on the table.,Ich stelle die Flasche auf den Tisch.,Я ставлю бутылку на стол.
+A1|to lie,The book lies on the table.,Das Buch liegt auf dem Tisch.,Книга лежит на столе.
+A1|to ring (doorbell),Someone rings the doorbell.,Es klingelt an der Tür.,Звонят в дверь.
+A1|to thank,I thank you.,Ich danke dir.,Я благодарю тебя.
+A1|to wish,I wish you luck.,Ich wünsche dir Glück.,Я желаю тебе удачи.
+A1|to hope,I hope you are well.,"Ich hoffe, es geht dir gut.","Надеюсь, у тебя всё хорошо."
+A1|to believe,I believe you.,Ich glaube dir.,Я верю тебе.
+A1|to mean,What do you mean?,Was meinst du?,Что ты имеешь в виду?
+A1|to belong to,The car belongs to my father.,Das Auto gehört meinem Vater.,Машина принадлежит моему отцу.
+A1|to wear,She wears a red dress.,Sie trägt ein rotes Kleid.,Она носит красное платье.
+A1|to marry,They marry in May.,Sie heiraten im Mai.,Они женятся в мае.
+A1|to study (university),He studies in Berlin.,Er studiert in Berlin.,Он учится в Берлине.
+A1|to listen to,I listen to the teacher.,Ich höre dem Lehrer zu.,Я слушаю учителя.
+A1|to fill out,I fill out the form.,Ich fülle das Formular aus.,Я заполняю бланк.
+A1|to spell,Please spell your name.,Bitte buchstabieren Sie Ihren Namen.,"Назовите, пожалуйста, своё имя по буквам."
+A1|to book,I book a room.,Ich buche ein Zimmer.,Я бронирую комнату.
+A1|to order,I order a coffee.,Ich bestelle einen Kaffee.,Я заказываю кофе.
+A1|to taste,The soup tastes good.,Die Suppe schmeckt gut.,Суп вкусный.
+A1|to switch off,Switch off the light.,Mach das Licht aus.,Выключи свет.
+A1|to switch on,Switch on the lamp.,Mach die Lampe an.,Включи лампу.
+A1|to change (money),I change money.,Ich wechsle Geld.,Я меняю деньги.
+A1|to lose,I lose my key.,Ich verliere meinen Schlüssel.,Я теряю свой ключ.
+A1|to win,We win the game.,Wir gewinnen das Spiel.,Мы выигрываем игру.
+A1|to leave,I leave the house at eight.,Ich verlasse um acht das Haus.,Я выхожу из дома в восемь.
+A1|time,I have no time.,Ich habe keine Zeit.,У меня нет времени.
+A1|moment,"One moment, please.","Einen Moment, bitte.","Один момент, пожалуйста."
+A1|date,What is the date today?,Welches Datum ist heute?,Какое сегодня число?
+A1|appointment,I have an appointment.,Ich habe einen Termin.,У меня назначена встреча.
+"A1|clock, watch",The clock is on the wall.,Die Uhr hängt an der Wand.,Часы висят на стене.
+A1|half,It is half past two.,Es ist halb drei.,Сейчас половина третьего.
+A1|quarter,A quarter of an hour.,Eine Viertelstunde.,Четверть часа.
+A1|midday,At midday we eat.,Am Mittag essen wir.,В полдень мы едим.
+A1|afternoon,In the afternoon I work.,Am Nachmittag arbeite ich.,После обеда я работаю.
+A1|weekend,At the weekend I sleep long.,Am Wochenende schlafe ich lange.,В выходные я долго сплю.
+A1|season,Summer is my favourite season.,Der Sommer ist meine Lieblingsjahreszeit.,Лето — моё любимое время года.
+A1|spring,Spring is warm.,Der Frühling ist warm.,Весна тёплая.
+A1|summer,Summer is hot.,Der Sommer ist heiß.,Лето жаркое.
+A1|autumn,Autumn is beautiful.,Der Herbst ist schön.,Осень красивая.
+A1|winter,Winter is cold.,Der Winter ist kalt.,Зима холодная.
+A1|building,The building is old.,Das Gebäude ist alt.,Здание старое.
+A1|museum,We visit the museum.,Wir besuchen das Museum.,Мы посещаем музей.
+A1|cinema,We go to the cinema.,Wir gehen ins Kino.,Мы идём в кино.
+A1|theatre,The theatre is big.,Das Theater ist groß.,Театр большой.
+A1|library,I read in the library.,Ich lese in der Bibliothek.,Я читаю в библиотеке.
+A1|swimming pool,We swim in the swimming pool.,Wir schwimmen im Schwimmbad.,Мы плаваем в бассейне.
+A1|church,The church is old.,Die Kirche ist alt.,Церковь старая.
+A1|bridge,The bridge is long.,Die Brücke ist lang.,Мост длинный.
+A1|square,The square is big.,Der Platz ist groß.,Площадь большая.
+A1|corner,The shop is on the corner.,Das Geschäft ist an der Ecke.,Магазин на углу.
+"A1|way, path",Which way is it?,Welchen Weg gehst du?,Какой дорогой ты идёшь?
+"A1|floor, storey",I live on the third floor.,Ich wohne im dritten Stock.,Я живу на третьем этаже.
+A1|lift,The lift is broken.,Der Aufzug ist kaputt.,Лифт сломан.
+A1|stairs,I take the stairs.,Ich nehme die Treppe.,Я иду по лестнице.
+A1|entrance,The entrance is there.,Der Eingang ist dort.,Вход там.
+A1|exit,Where is the exit?,Wo ist der Ausgang?,Где выход?
+A1|toilet,Where is the toilet?,Wo ist die Toilette?,Где туалет?
+A1|balcony,We sit on the balcony.,Wir sitzen auf dem Balkon.,Мы сидим на балконе.
+A1|wall,The picture is on the wall.,Das Bild hängt an der Wand.,Картина висит на стене.
+"A1|ground, floor",The book is on the floor.,Das Buch liegt auf dem Boden.,Книга лежит на полу.
+A1|roof,The roof is red.,Das Dach ist rot.,Крыша красная.
+A1|cup,I drink from a cup.,Ich trinke aus einer Tasse.,Я пью из чашки.
+A1|glass,"A glass of water, please.","Ein Glas Wasser, bitte.","Стакан воды, пожалуйста."
+A1|plate,The plate is clean.,Der Teller ist sauber.,Тарелка чистая.
+A1|knife,The knife is sharp.,Das Messer ist scharf.,Нож острый.
+A1|fork,I need a fork.,Ich brauche eine Gabel.,Мне нужна вилка.
+A1|spoon,I eat soup with a spoon.,Ich esse die Suppe mit einem Löffel.,Я ем суп ложкой.
+A1|bottle,The bottle is empty.,Die Flasche ist leer.,Бутылка пустая.
+A1|picture,The picture is beautiful.,Das Bild ist schön.,Картина красивая.
+A1|television,The television is on.,Der Fernseher ist an.,Телевизор включён.
+A1|radio,I listen to the radio.,Ich höre Radio.,Я слушаю радио.
+A1|glasses,I wear glasses.,Ich trage eine Brille.,Я ношу очки.
+A1|umbrella,I take an umbrella.,Ich nehme einen Regenschirm.,Я беру зонт.
+A1|suitcase,My suitcase is heavy.,Mein Koffer ist schwer.,Мой чемодан тяжёлый.
+A1|passport,I need my passport.,Ich brauche meinen Pass.,Мне нужен мой паспорт.
+A1|card,I pay with a card.,Ich zahle mit Karte.,Я плачу картой.
+A1|credit card,I have a credit card.,Ich habe eine Kreditkarte.,У меня есть кредитная карта.
+A1|stamp,I buy a stamp.,Ich kaufe eine Briefmarke.,Я покупаю марку.
+A1|page,Open page ten.,Öffne Seite zehn.,Открой страницу десять.
+A1|notebook,My notebook is blue.,Mein Heft ist blau.,Моя тетрадь синяя.
+A1|dictionary,I use a dictionary.,Ich benutze ein Wörterbuch.,Я пользуюсь словарём.
+A1|exercise,This exercise is easy.,Diese Übung ist leicht.,Это упражнение лёгкое.
+A1|pizza,I eat pizza.,Ich esse Pizza.,Я ем пиццу.
+A1|sausage,He eats a sausage.,Er isst eine Wurst.,Он ест колбасу.
+A1|ham,"Bread with ham, please.","Brot mit Schinken, bitte.","Хлеб с ветчиной, пожалуйста."
+A1|chicken,We eat chicken today.,Wir essen heute Hähnchen.,Сегодня мы едим курицу.
+A1|noodles,I cook noodles.,Ich koche Nudeln.,Я варю лапшу.
+A1|vegetables,I like vegetables.,Ich mag Gemüse.,Я люблю овощи.
+A1|fruit,Fruit is healthy.,Obst ist gesund.,Фрукты полезны.
+A1|cake,The cake is sweet.,Der Kuchen ist süß.,Торт сладкий.
+A1|chocolate,I like chocolate.,Ich mag Schokolade.,Я люблю шоколад.
+A1|ice cream,The children eat ice cream.,Die Kinder essen Eis.,Дети едят мороженое.
+A1|jam,I like jam on bread.,Ich mag Marmelade auf Brot.,Я люблю джем на хлебе.
+A1|honey,Honey is sweet.,Honig ist süß.,Мёд сладкий.
+A1|oil,I need oil for cooking.,Ich brauche Öl zum Kochen.,Мне нужно масло для готовки.
+A1|carrot,The carrot is orange.,Die Karotte ist orange.,Морковь оранжевая.
+A1|onion,I cut an onion.,Ich schneide eine Zwiebel.,Я режу лук.
+A1|lemon,The lemon is sour.,Die Zitrone ist sauer.,Лимон кислый.
+A1|strawberry,The strawberry is red.,Die Erdbeere ist rot.,Клубника красная.
+A1|grape,The grapes are sweet.,Die Trauben sind süß.,Виноград сладкий.
+A1|bread roll,I eat a bread roll.,Ich esse ein Brötchen.,Я ем булочку.
+A1|pepper,"Salt and pepper, please.","Salz und Pfeffer, bitte.","Соль и перец, пожалуйста."
+A1|mineral water,I drink mineral water.,Ich trinke Mineralwasser.,Я пью минеральную воду.
+A1|people,Many people are here.,Viele Leute sind hier.,Здесь много людей.
+A1|person,He is a nice person.,Er ist eine nette Person.,Он приятный человек.
+A1|guest,We have a guest.,Wir haben einen Gast.,У нас гость.
+A1|neighbour,My neighbour is old.,Mein Nachbar ist alt.,Мой сосед старый.
+A1|colleague,My colleague is nice.,Mein Kollege ist nett.,Мой коллега приятный.
+A1|boss,My boss is in the office.,Mein Chef ist im Büro.,Мой начальник в офисе.
+A1|customer,The customer is waiting.,Der Kunde wartet.,Клиент ждёт.
+A1|waiter,The waiter brings the menu.,Der Kellner bringt die Speisekarte.,Официант приносит меню.
+A1|policeman,The policeman helps us.,Der Polizist hilft uns.,Полицейский нам помогает.
+A1|driver,The driver is nice.,Der Fahrer ist nett.,Водитель приятный.
+A1|cook,The cook makes soup.,Der Koch macht Suppe.,Повар готовит суп.
+A1|worker,The worker is tired.,Der Arbeiter ist müde.,Рабочий устал.
+A1|engineer,My uncle is an engineer.,Mein Onkel ist Ingenieur.,Мой дядя — инженер.
+A1|nurse,The nurse is nice.,Die Krankenschwester ist nett.,Медсестра приятная.
+A1|lady,The lady is old.,Die Dame ist alt.,Дама пожилая.
+A1|gentleman,The gentleman is waiting.,Der Herr wartet.,Господин ждёт.
+A1|life,Life is beautiful.,Das Leben ist schön.,Жизнь прекрасна.
+A1|world,The world is big.,Die Welt ist groß.,Мир большой.
+A1|idea,That is a good idea.,Das ist eine gute Idee.,Это хорошая идея.
+"A1|story, history",I read a story.,Ich lese eine Geschichte.,Я читаю историю.
+A1|news,I read the news.,Ich lese die Nachrichten.,Я читаю новости.
+A1|reason,What is the reason?,Was ist der Grund?,В чём причина?
+A1|example,Here is an example.,Hier ist ein Beispiel.,Вот пример.
+A1|number,What is your number?,Wie ist deine Nummer?,Какой у тебя номер?
+A1|telephone number,My telephone number is new.,Meine Telefonnummer ist neu.,Мой номер телефона новый.
+A1|age,What is your age?,Wie ist dein Alter?,Какой у тебя возраст?
+A1|family,My family is big.,Meine Familie ist groß.,Моя семья большая.
+A1|married,He is married.,Er ist verheiratet.,Он женат.
+A1|single (unmarried),She is single.,Sie ist ledig.,Она не замужем.
+A1|surname,My surname is Karimov.,Mein Nachname ist Karimov.,Моя фамилия Каримов.
+A1|first name,My first name is Aibek.,Mein Vorname ist Aibek.,Моё имя Айбек.
+A1|place of residence,My place of residence is Bishkek.,Mein Wohnort ist Bischkek.,Моё место жительства — Бишкек.
+A1|signature,"Your signature, please.","Ihre Unterschrift, bitte.","Ваша подпись, пожалуйста."
+A1|form,I fill out a form.,Ich fülle ein Formular aus.,Я заполняю бланк.
+A1|pain,I have pain.,Ich habe Schmerzen.,У меня боль.
+A1|headache,I have a headache.,Ich habe Kopfschmerzen.,У меня болит голова.
+A1|fever,The child has a fever.,Das Kind hat Fieber.,У ребёнка температура.
+A1|cold (illness),I have a cold.,Ich habe eine Erkältung.,У меня простуда.
+A1|medicine,I take the medicine.,Ich nehme das Medikament.,Я принимаю лекарство.
+A1|thin,The book is thin.,Das Buch ist dünn.,Книга тонкая.
+"A1|fat, thick",The book is thick.,Das Buch ist dick.,Книга толстая.
+A1|strong,My father is strong.,Mein Vater ist stark.,Мой папа сильный.
+A1|weak,The tea is weak.,Der Tee ist schwach.,Чай слабый.
+A1|heavy,The bag is heavy.,Die Tasche ist schwer.,Сумка тяжёлая.
+A1|full,The bus is full.,Der Bus ist voll.,Автобус полный.
+A1|empty,The glass is empty.,Das Glas ist leer.,Стакан пустой.
+A1|open,The shop is open.,Das Geschäft ist offen.,Магазин открыт.
+A1|closed,The bank is closed.,Die Bank ist geschlossen.,Банк закрыт.
+A1|early,I get up early.,Ich stehe früh auf.,Я встаю рано.
+A1|late,The train is late.,Der Zug ist spät.,Поезд опаздывает.
+A1|near,The station is near.,Der Bahnhof ist nah.,Вокзал близко.
+A1|far,The school is far.,Die Schule ist weit.,Школа далеко.
+A1|next,The next bus comes at eight.,Der nächste Bus kommt um acht.,Следующий автобус приходит в восемь.
+A1|last,This is the last bus.,Das ist der letzte Bus.,Это последний автобус.
+A1|first,This is my first lesson.,Das ist meine erste Stunde.,Это мой первый урок.
+A1|whole,I read the whole book.,Ich lese das ganze Buch.,Я читаю всю книгу.
+A1|other,I take the other bag.,Ich nehme die andere Tasche.,Я беру другую сумку.
+A1|same,We have the same book.,Wir haben das gleiche Buch.,У нас одна и та же книга.
+A1|free of charge,The tea is free.,Der Tee ist kostenlos.,Чай бесплатный.
+A1|possible,That is possible.,Das ist möglich.,Это возможно.
+A1|ready,Dinner is ready.,Das Essen ist fertig.,Ужин готов.
+A1|angry,My father is angry.,Mein Vater ist böse.,Мой папа сердится.
+A1|friendly,The teacher is friendly.,Der Lehrer ist freundlich.,Учитель дружелюбный.
+A1|funny,The film is funny.,Der Film ist lustig.,Фильм смешной.
+A1|interesting,The book is interesting.,Das Buch ist interessant.,Книга интересная.
+A1|boring,The lesson is boring.,Der Unterricht ist langweilig.,Урок скучный.
+A1|wonderful,The day is wonderful.,Der Tag ist wunderbar.,День чудесный.
+A1|great,The film is great.,Der Film ist toll.,Фильм классный.
+A1|sweet,The cake is sweet.,Der Kuchen ist süß.,Торт сладкий.
+A1|sour,The lemon is sour.,Die Zitrone ist sauer.,Лимон кислый.
+A1|fresh,The bread is fresh.,Das Brot ist frisch.,Хлеб свежий.
+A1|delicious,The soup is delicious.,Die Suppe ist lecker.,Суп вкусный.
+A1|loud,The music is loud.,Die Musik ist laut.,Музыка громкая.
+A1|quiet,The room is quiet.,Das Zimmer ist leise.,В комнате тихо.
+A1|bright,The room is bright.,Das Zimmer ist hell.,Комната светлая.
+A1|dark,The night is dark.,Die Nacht ist dunkel.,Ночь тёмная.
+A1|wet,The street is wet.,Die Straße ist nass.,Улица мокрая.
+A1|dry,The bread is dry.,Das Brot ist trocken.,Хлеб сухой.
+A1|rich,He is rich.,Er ist reich.,Он богатый.
+A1|poor,The family is poor.,Die Familie ist arm.,Семья бедная.
+A1|alone,I am alone at home.,Ich bin allein zu Hause.,Я один дома.
+A1|in,The book is in the bag.,Das Buch ist in der Tasche.,Книга в сумке.
+A1|on,The cup is on the table.,Die Tasse steht auf dem Tisch.,Чашка стоит на столе.
+A1|under,The cat is under the table.,Die Katze ist unter dem Tisch.,Кошка под столом.
+"A1|over, above",The lamp hangs over the table.,Die Lampe hängt über dem Tisch.,Лампа висит над столом.
+A1|behind,The garden is behind the house.,Der Garten ist hinter dem Haus.,Сад за домом.
+A1|in front of,The car is in front of the house.,Das Auto steht vor dem Haus.,Машина стоит перед домом.
+A1|next to,The bank is next to the shop.,Die Bank ist neben dem Geschäft.,Банк рядом с магазином.
+A1|between,The park is between two streets.,Der Park ist zwischen zwei Straßen.,Парк между двумя улицами.
+"A1|at, with (someone)",I am at my grandmother's.,Ich bin bei meiner Oma.,Я у бабушки.
+A1|to,I go to the shop.,Ich gehe zum Geschäft.,Я иду в магазин.
+A1|from,The gift is from my friend.,Das Geschenk ist von meinem Freund.,Подарок от моего друга.
+A1|from (origin),I come from Kyrgyzstan.,Ich komme aus Kirgisistan.,Я родом из Кыргызстана.
+A1|after,After school I go home.,Nach der Schule gehe ich nach Hause.,После школы я иду домой.
+A1|until,I work until six.,Ich arbeite bis sechs.,Я работаю до шести.
+A1|since,I live here since May.,Ich wohne seit Mai hier.,Я живу здесь с мая.
+A1|around,We walk around the park.,Wir gehen um den Park.,Мы идём вокруг парка.
+A1|against,I am against the idea.,Ich bin gegen die Idee.,Я против этой идеи.
+A1|left,Turn left.,Gehen Sie links.,Поверните налево.
+A1|right,Turn right.,Gehen Sie rechts.,Поверните направо.
+A1|straight ahead,Go straight ahead.,Gehen Sie geradeaus.,Идите прямо.
+"A1|up, above",The lamp is up there.,Die Lampe ist oben.,Лампа наверху.
+"A1|down, below",The shop is downstairs.,Das Geschäft ist unten.,Магазин внизу.
+A1|inside,It is warm inside.,Drinnen ist es warm.,Внутри тепло.
+A1|outside,It is cold outside.,Draußen ist es kalt.,Снаружи холодно.
+A1|soon,See you soon.,Bis bald.,До скорого.
+A1|then,"First I eat, then I work.","Zuerst esse ich, dann arbeite ich.","Сначала я ем, потом работаю."
+A1|at first,At first I read the text.,Zuerst lese ich den Text.,Сначала я читаю текст.
+A1|later,I call you later.,Ich rufe dich später an.,Я позвоню тебе позже.
+A1|more,I want more water.,Ich will mehr Wasser.,Я хочу больше воды.
+A1|less,I eat less bread.,Ich esse weniger Brot.,Я ем меньше хлеба.
+A1|enough,That is enough.,Das ist genug.,Этого достаточно.
+A1|all,All students are here.,Alle Studenten sind hier.,Все студенты здесь.
+A1|every,Every day I learn words.,Jeder Tag bringt neue Wörter.,Каждый день приносит новые слова.
+A1|nothing,I have nothing.,Ich habe nichts.,У меня ничего нет.
+A1|something,I want something.,Ich will etwas.,Я хочу что-нибудь.
+A1|everything,Everything is good.,Alles ist gut.,Всё хорошо.
+A1|nobody,Nobody is here.,Niemand ist hier.,Никого нет.
+A1|perhaps,Perhaps he comes.,Vielleicht kommt er.,"Возможно, он придёт."
+A1|really,Is that really true?,Ist das wirklich wahr?,Это правда?
+A1|too (excessively),The tea is too hot.,Der Tee ist zu heiß.,Чай слишком горячий.
+A1|quite,The film is quite good.,Der Film ist ziemlich gut.,Фильм довольно хороший.
+A1|almost,I am almost ready.,Ich bin fast fertig.,Я почти готов.
+A1|exactly,That is exactly right.,Das ist genau richtig.,Это совершенно верно.
+A1|together,We learn together.,Wir lernen zusammen.,Мы учимся вместе.
+A1|which,Which book do you want?,Welches Buch willst du?,Какую книгу ты хочешь?
+A1|you're welcome,Thank you! — You're welcome.,Danke! — Gern geschehen.,Спасибо! — Пожалуйста.
+A1|good day,"Good day, Mrs. Weber.","Guten Tag, Frau Weber.","Добрый день, госпожа Вебер."
+A1|good evening,"Good evening, everyone.","Guten Abend, alle zusammen.",Добрый вечер всем.
+A1|bye,"Bye, see you tomorrow.","Tschüs, bis morgen.","Пока, до завтра."
+A1|see you later,"See you later, friend.","Bis später, Freund.","До скорого, друг."
+A1|welcome,Welcome to Germany.,Willkommen in Deutschland.,Добро пожаловать в Германию.
+A1|congratulations,Congratulations on your birthday.,Herzlichen Glückwunsch zum Geburtstag.,Поздравляю с днём рождения.
+A1|all the best,All the best for the exam.,Alles Gute für die Prüfung.,Всего хорошего на экзамене.
+A1|cheers,"Cheers, my friends.","Prost, meine Freunde.","За здоровье, друзья."
+A1|enjoy your meal,Enjoy your meal.,Guten Appetit.,Приятного аппетита.
+A1|how are you,"Hello, how are you?","Hallo, wie geht's?","Привет, как дела?"
+A1|never mind,"Never mind, no problem.","Macht nichts, kein Problem.","Ничего страшного, не проблема."
+A1|of course,Of course I help you.,Natürlich helfe ich dir.,"Конечно, я тебе помогу."
+A1|zero,The temperature is zero.,Die Temperatur ist null.,Температура ноль.
+A1|eleven,It is eleven o'clock.,Es ist elf Uhr.,Сейчас одиннадцать часов.
+A1|twelve,A year has twelve months.,Ein Jahr hat zwölf Monate.,В году двенадцать месяцев.
+A1|thirteen,He is thirteen years old.,Er ist dreizehn Jahre alt.,Ему тринадцать лет.
+A1|fourteen,The bus comes in fourteen minutes.,Der Bus kommt in vierzehn Minuten.,Автобус придёт через четырнадцать минут.
+A1|fifteen,I wait fifteen minutes.,Ich warte fünfzehn Minuten.,Я жду пятнадцать минут.
+A1|sixteen,She is sixteen.,Sie ist sechzehn.,Ей шестнадцать.
+A1|seventeen,I have seventeen books.,Ich habe siebzehn Bücher.,У меня семнадцать книг.
+A1|eighteen,He is eighteen years old.,Er ist achtzehn Jahre alt.,Ему восемнадцать лет.
+A1|nineteen,There are nineteen students.,Es gibt neunzehn Studenten.,Там девятнадцать студентов.
+A1|thirty,The book costs thirty euros.,Das Buch kostet dreißig Euro.,Книга стоит тридцать евро.
+A1|forty,My father is forty.,Mein Vater ist vierzig.,Моему папе сорок.
+A1|fifty,The ticket costs fifty euros.,Die Fahrkarte kostet fünfzig Euro.,Билет стоит пятьдесят евро.
+A1|sixty,My grandfather is sixty.,Mein Opa ist sechzig.,Моему дедушке шестьдесят.
+A1|seventy,My grandmother is seventy.,Meine Oma ist siebzig.,Моей бабушке семьдесят.
+A1|eighty,The house is eighty years old.,Das Haus ist achtzig Jahre alt.,Дому восемьдесят лет.
+A1|ninety,The book has ninety pages.,Das Buch hat neunzig Seiten.,В книге девяносто страниц.
+A1|brown,The dog is brown.,Der Hund ist braun.,Собака коричневая.
+A1|grey,The sky is grey.,Der Himmel ist grau.,Небо серое.
+A1|pink,The dress is pink.,Das Kleid ist rosa.,Платье розовое.
+A1|purple,The flower is purple.,Die Blume ist lila.,Цветок фиолетовый.
+A1|Germany,I want to go to Germany.,Ich will nach Deutschland fahren.,Я хочу поехать в Германию.
+A1|Russia,Russia is big.,Russland ist groß.,Россия большая.
+A1|Kyrgyzstan,I live in Kyrgyzstan.,Ich wohne in Kirgisistan.,Я живу в Кыргызстане.
+A1|Kazakhstan,Kazakhstan is near.,Kasachstan ist nah.,Казахстан близко.
+A1|Uzbekistan,My friend is from Uzbekistan.,Mein Freund kommt aus Usbekistan.,Мой друг из Узбекистана.
+A1|England,England is in Europe.,England liegt in Europa.,Англия находится в Европе.
+A1|Europe,Europe is big.,Europa ist groß.,Европа большая.
+A1|Austria,Austria is beautiful.,Österreich ist schön.,Австрия красивая.
+A1|Switzerland,Switzerland has mountains.,Die Schweiz hat Berge.,В Швейцарии есть горы.
+A1|Turkey,We travel to Turkey.,Wir reisen in die Türkei.,Мы едем в Турцию.
+A1|China,China is big.,China ist groß.,Китай большой.
+A1|America,My uncle lives in America.,Mein Onkel wohnt in Amerika.,Мой дядя живёт в Америке.
+A1|Asia,Kyrgyzstan is in Asia.,Kirgisistan liegt in Asien.,Кыргызстан находится в Азии.
+A1|tooth,My tooth hurts.,Mein Zahn tut weh.,У меня болит зуб.
+A1|finger,My finger hurts.,Mein Finger tut weh.,У меня болит палец.
+A1|back,My back hurts.,Mein Rücken tut weh.,У меня болит спина.
+"A1|stomach, belly",My stomach hurts.,Mein Bauch tut weh.,У меня болит живот.
+A1|face,She has a nice face.,Sie hat ein nettes Gesicht.,У неё приятное лицо.
+A1|neck,My neck hurts.,Mein Hals tut weh.,У меня болит шея.
+A1|tree,The tree is big.,Der Baum ist groß.,Дерево большое.
+A1|flower,The flower is red.,Die Blume ist rot.,Цветок красный.
+A1|river,The river is long.,Der Fluss ist lang.,Река длинная.
+A1|mountain,The mountain is high.,Der Berg ist hoch.,Гора высокая.
+A1|lake,The lake is blue.,Der See ist blau.,Озеро синее.
+A1|sea,The sea is big.,Das Meer ist groß.,Море большое.
+A1|sky,The sky is blue.,Der Himmel ist blau.,Небо голубое.
+A1|moon,The moon is bright.,Der Mond ist hell.,Луна яркая.
+A1|star,I see a star.,Ich sehe einen Stern.,Я вижу звезду.
+A1|forest,We walk in the forest.,Wir gehen im Wald spazieren.,Мы гуляем в лесу.
+A1|horse,The horse is fast.,Das Pferd ist schnell.,Лошадь быстрая.
+A1|cow,The cow gives milk.,Die Kuh gibt Milch.,Корова даёт молоко.
+A1|sheep,The sheep is white.,Das Schaf ist weiß.,Овца белая.
+A1|mouse,The mouse is small.,Die Maus ist klein.,Мышь маленькая.
+A1|internet,I use the internet.,Ich benutze das Internet.,Я пользуюсь интернетом.
+A1|text message,I send a text message.,Ich schicke eine SMS.,Я отправляю СМС.
+A1|hobby,My hobby is music.,Mein Hobby ist Musik.,Моё хобби — музыка.
+A1|game,The game is fun.,Das Spiel macht Spaß.,Игра весёлая.
+"A1|trip, journey",The trip is long.,Die Reise ist lang.,Поездка долгая.
+A1|walk (noun),We take a walk.,Wir machen einen Spaziergang.,Мы совершаем прогулку.
+A1|concert,The concert is tonight.,Das Konzert ist heute Abend.,Концерт сегодня вечером.
+A1|cash,I pay in cash.,Ich zahle bar.,Я плачу наличными.
+A1|change (coins),I have no change.,Ich habe kein Wechselgeld.,У меня нет сдачи.
+A1|carrier bag,I need a bag.,Ich brauche eine Tüte.,Мне нужен пакет.
+"A1|offer, special offer",This is a good offer.,Das ist ein gutes Angebot.,Это хорошее предложение.
+A1|receipt,Here is your receipt.,Hier ist Ihr Kassenbon.,Вот ваш чек.
+A1|size,What size do you have?,Welche Größe haben Sie?,Какой у вас размер?
+A1|class (school),My class is big.,Meine Klasse ist groß.,Мой класс большой.
+A1|pupil,The pupil reads.,Der Schüler liest.,Школьник читает.
+A1|homework,I do my homework.,Ich mache meine Hausaufgabe.,Я делаю домашнее задание.
+"A1|grade, mark",I have a good grade.,Ich habe eine gute Note.,У меня хорошая оценка.
+A1|course,I take a German course.,Ich besuche einen Deutschkurs.,Я хожу на курс немецкого.
+A1|test,The test is tomorrow.,Der Test ist morgen.,Тест завтра.
+A2|to remember,I remember his name.,Ich erinnere mich an seinen Namen.,Я помню его имя.
+A2|to decide,I decide to stay.,Ich entscheide mich zu bleiben.,Я решаю остаться.
+A2|to prepare,I prepare dinner.,Ich bereite das Abendessen vor.,Я готовлю ужин.
+A2|to organize,We organize a party.,Wir organisieren eine Party.,Мы организуем вечеринку.
+A2|to plan,I plan a trip.,Ich plane eine Reise.,Я планирую поездку.
+A2|to repair,He repairs the car.,Er repariert das Auto.,Он ремонтирует машину.
+A2|to change,I change my plans.,Ich ändere meine Pläne.,Я меняю свои планы.
+A2|to move (house),We move to Berlin.,Wir ziehen nach Berlin um.,Мы переезжаем в Берлин.
+"A2|to arrange, to agree on",We agree on a date.,Wir vereinbaren einen Termin.,Мы договариваемся о встрече.
+A2|to cancel,I cancel the meeting.,Ich sage das Treffen ab.,Я отменяю встречу.
+A2|to agree,I agree with you.,Ich stimme dir zu.,Я с тобой согласен.
+A2|to complain,He complains about the food.,Er beschwert sich über das Essen.,Он жалуется на еду.
+A2|to apologize,I apologize for being late.,Ich entschuldige mich für die Verspätung.,Я извиняюсь за опоздание.
+A2|to promise,I promise to come.,Ich verspreche zu kommen.,Я обещаю прийти.
+A2|to allow,The teacher allows it.,Der Lehrer erlaubt es.,Учитель это разрешает.
+A2|to forbid,The doctor forbids sugar.,Der Arzt verbietet Zucker.,Врач запрещает сахар.
+A2|to recommend,I recommend this restaurant.,Ich empfehle dieses Restaurant.,Я рекомендую этот ресторан.
+A2|to advise,I advise you to wait.,Ich rate dir zu warten.,Я советую тебе подождать.
+A2|to describe,Describe the picture.,Beschreibe das Bild.,Опиши картину.
+A2|to report,He reports about the trip.,Er berichtet über die Reise.,Он сообщает о поездке.
+"A2|to tell, to narrate",She tells a story.,Sie erzählt eine Geschichte.,Она рассказывает историю.
+A2|to discuss,We discuss the plan.,Wir besprechen den Plan.,Мы обсуждаем план.
+A2|to introduce,I introduce my friend.,Ich stelle meinen Freund vor.,Я представляю своего друга.
+A2|to get to know,I get to know new people.,Ich lerne neue Leute kennen.,Я знакомлюсь с новыми людьми.
+A2|to follow,The dog follows me.,Der Hund folgt mir.,Собака следует за мной.
+A2|to lead,He leads the group.,Er führt die Gruppe.,Он ведёт группу.
+A2|to pull,Pull the door.,Zieh an der Tür.,Потяни дверь.
+"A2|to push, to press",Press the button.,Drück auf den Knopf.,Нажми на кнопку.
+A2|to throw,He throws the ball.,Er wirft den Ball.,Он бросает мяч.
+A2|to catch,I catch the ball.,Ich fange den Ball.,Я ловлю мяч.
+A2|to break,He breaks the stick.,Er bricht den Stock.,Он ломает палку.
+A2|to cut,I cut the bread.,Ich schneide das Brot.,Я режу хлеб.
+A2|to burn,The fire burns.,Das Feuer brennt.,Огонь горит.
+A2|to grow,The tree grows.,Der Baum wächst.,Дерево растёт.
+A2|to happen,What happens here?,Was passiert hier?,Что здесь происходит?
+A2|to appear,The sun appears.,Die Sonne erscheint.,Появляется солнце.
+A2|to disappear,The cat disappears.,Die Katze verschwindet.,Кошка исчезает.
+A2|to fall,The leaf falls.,Das Blatt fällt.,Лист падает.
+A2|to climb,We climb the mountain.,Wir klettern auf den Berg.,Мы лезем на гору.
+A2|to jump,The dog jumps.,Der Hund springt.,Собака прыгает.
+A2|to cry,The baby cries.,Das Baby weint.,Малыш плачет.
+A2|to laugh,We laugh together.,Wir lachen zusammen.,Мы смеёмся вместе.
+A2|to smile,She smiles at me.,Sie lächelt mich an.,Она улыбается мне.
+A2|to shout,Do not shout.,Schrei nicht.,Не кричи.
+A2|to kiss,He kisses his wife.,Er küsst seine Frau.,Он целует свою жену.
+A2|to hug,She hugs her mother.,Sie umarmt ihre Mutter.,Она обнимает маму.
+A2|to fight,They fight for the ball.,Sie kämpfen um den Ball.,Они борются за мяч.
+A2|to worry,I worry about my father.,Ich mache mir Sorgen um meinen Vater.,Я беспокоюсь о папе.
+A2|to be afraid,I am afraid of dogs.,Ich habe Angst vor Hunden.,Я боюсь собак.
+A2|to be pleased,I am pleased about the gift.,Ich freue mich über das Geschenk.,Я рад подарку.
+A2|to be interested in,I am interested in music.,Ich interessiere mich für Musik.,Я интересуюсь музыкой.
+A2|to be bored,I am bored.,Ich langweile mich.,Мне скучно.
+A2|to hurry,Hurry up!,Beeil dich!,Поторопись!
+A2|to relax,I relax at home.,Ich entspanne mich zu Hause.,Я расслабляюсь дома.
+A2|to get dressed,I get dressed quickly.,Ich ziehe mich schnell an.,Я быстро одеваюсь.
+A2|to get undressed,The child gets undressed.,Das Kind zieht sich aus.,Ребёнок раздевается.
+A2|to brush teeth,I brush my teeth twice a day.,Ich putze mir zweimal am Tag die Zähne.,Я чищу зубы два раза в день.
+A2|to shave,He shaves every morning.,Er rasiert sich jeden Morgen.,Он бреется каждое утро.
+A2|to bathe,We bathe in the lake.,Wir baden im See.,Мы купаемся в озере.
+A2|to wake up,I wake up at six.,Ich wache um sechs auf.,Я просыпаюсь в шесть.
+A2|to fall asleep,I fall asleep quickly.,Ich schlafe schnell ein.,Я быстро засыпаю.
+A2|to dream,I dream about a trip.,Ich träume von einer Reise.,Я мечтаю о поездке.
+A2|to breathe,Breathe slowly.,Atme langsam.,Дыши медленно.
+A2|to cough,He coughs a lot.,Er hustet viel.,Он много кашляет.
+A2|to hurt,My back hurts.,Mein Rücken tut weh.,У меня болит спина.
+A2|to recover,I recover after the illness.,Ich erhole mich nach der Krankheit.,Я поправляюсь после болезни.
+A2|to examine,The doctor examines me.,Der Arzt untersucht mich.,Врач обследует меня.
+A2|to measure,I measure the table.,Ich messe den Tisch.,Я измеряю стол.
+A2|to weigh,The bag weighs five kilos.,Die Tasche wiegt fünf Kilo.,Сумка весит пять килограммов.
+A2|to choose,I choose a book.,Ich wähle ein Buch.,Я выбираю книгу.
+A2|to collect,He collects stamps.,Er sammelt Briefmarken.,Он собирает марки.
+A2|to save (money),I save money for a trip.,Ich spare Geld für eine Reise.,Я коплю деньги на поездку.
+A2|to spend (money),I spend a lot of money.,Ich gebe viel Geld aus.,Я трачу много денег.
+A2|to borrow,Can I borrow your pen?,Kann ich deinen Kugelschreiber leihen?,Можно одолжить твою ручку?
+A2|to lend,I lend him a book.,Ich verleihe ihm ein Buch.,Я одалживаю ему книгу.
+A2|to earn,She earns a lot.,Sie verdient viel.,Она много зарабатывает.
+A2|to deliver,They deliver the pizza.,Sie liefern die Pizza.,Они доставляют пиццу.
+A2|to pack,I pack my suitcase.,Ich packe meinen Koffer.,Я пакую чемодан.
+A2|to unpack,I unpack the bag.,Ich packe die Tasche aus.,Я распаковываю сумку.
+A2|to check,I check the time.,Ich kontrolliere die Zeit.,Я проверяю время.
+A2|to test,We test the new phone.,Wir testen das neue Handy.,Мы тестируем новый телефон.
+A2|to copy,I copy the text.,Ich kopiere den Text.,Я копирую текст.
+A2|to print,I print the ticket.,Ich drucke die Fahrkarte.,Я печатаю билет.
+A2|to download,I download the app.,Ich lade die App herunter.,Я скачиваю приложение.
+A2|to click,Click the link.,Klicke auf den Link.,Нажми на ссылку.
+A2|to save (file),I save the file.,Ich speichere die Datei.,Я сохраняю файл.
+A2|to delete,I delete the email.,Ich lösche die E-Mail.,Я удаляю письмо.
+A2|to search for,I search for my key.,Ich suche meinen Schlüssel.,Я ищу свой ключ.
+A2|to hand in,I hand in my homework.,Ich gebe meine Hausaufgabe ab.,Я сдаю домашнее задание.
+A2|to take part,I take part in the course.,Ich nehme am Kurs teil.,Я участвую в курсе.
+A2|to apply,I apply for a job.,Ich bewerbe mich um eine Stelle.,Я подаю заявку на работу.
+A2|to hire,The company hires workers.,Die Firma stellt Arbeiter ein.,Фирма нанимает рабочих.
+"A2|to resign, to cancel",He resigns from his job.,Er kündigt seine Arbeit.,Он увольняется с работы.
+A2|to train,We train twice a week.,Wir trainieren zweimal pro Woche.,Мы тренируемся два раза в неделю.
+A2|to practise,I practise German every day.,Ich übe jeden Tag Deutsch.,Я каждый день практикую немецкий.
+A2|to correct,The teacher corrects the mistakes.,Der Lehrer korrigiert die Fehler.,Учитель исправляет ошибки.
+A2|to translate,I translate the text.,Ich übersetze den Text.,Я перевожу текст.
+A2|to pronounce,I pronounce the word.,Ich spreche das Wort aus.,Я произношу слово.
+"A2|to mean, to signify",What does this word mean?,Was bedeutet dieses Wort?,Что значит это слово?
+A2|to seem,He seems tired.,Er scheint müde zu sein.,Он кажется усталым.
+A2|to look like,You look happy.,Du siehst glücklich aus.,Ты выглядишь счастливым.
+A2|to sound,That sounds good.,Das klingt gut.,Это звучит хорошо.
+A2|to smell,The soup smells good.,Die Suppe riecht gut.,Суп приятно пахнет.
+A2|to feel,I feel good.,Ich fühle mich gut.,Я чувствую себя хорошо.
+A2|to touch,Do not touch the picture.,Berühre das Bild nicht.,Не трогай картину.
+A2|to turn (direction),Turn left at the corner.,Biegen Sie an der Ecke links ab.,На углу поверните налево.
+A2|to cross,We cross the street.,Wir überqueren die Straße.,Мы переходим улицу.
+A2|to park,I park the car here.,Ich parke das Auto hier.,Я паркую машину здесь.
+A2|to refuel,I refuel at the petrol station.,Ich tanke an der Tankstelle.,Я заправляюсь на заправке.
+"A2|to get on, to board",I board the train.,Ich steige in den Zug ein.,Я сажусь в поезд.
+A2|to get off,I get off at the station.,Ich steige am Bahnhof aus.,Я выхожу на вокзале.
+A2|to change (trains),I change trains in Berlin.,Ich steige in Berlin um.,Я делаю пересадку в Берлине.
+"A2|to stop, to hold",The bus stops here.,Der Bus hält hier.,Автобус останавливается здесь.
+A2|to rest,I rest after work.,Ich ruhe mich nach der Arbeit aus.,Я отдыхаю после работы.
+A2|to reserve,I reserve a table.,Ich reserviere einen Tisch.,Я резервирую столик.
+A2|to pass (an exam),I pass the exam.,Ich bestehe die Prüfung.,Я сдаю экзамен.
+A2|to fail,He fails the test.,Er fällt durch den Test.,Он проваливает тест.
+A2|to stay overnight,We stay overnight in a hotel.,Wir übernachten in einem Hotel.,Мы ночуем в гостинице.
+A2|to hike,We hike in the mountains.,Wir wandern in den Bergen.,Мы ходим в горы в поход.
+A2|to photograph,I photograph the mountain.,Ich fotografiere den Berg.,Я фотографирую гору.
+A2|to paint,She paints a picture.,Sie malt ein Bild.,Она рисует картину.
+A2|to draw,The child draws a house.,Das Kind zeichnet ein Haus.,Ребёнок рисует дом.
+A2|to bake,I bake a cake.,Ich backe einen Kuchen.,Я пеку торт.
+A2|to fry,I fry an egg.,Ich brate ein Ei.,Я жарю яйцо.
+A2|to mix,I mix flour and water.,Ich mische Mehl und Wasser.,Я смешиваю муку и воду.
+A2|to pour,I pour milk into the glass.,Ich gieße Milch ins Glas.,Я наливаю молоко в стакан.
+A2|to smoke,He does not smoke.,Er raucht nicht.,Он не курит.
+A2|to throw away,I throw away the paper.,Ich werfe das Papier weg.,Я выбрасываю бумагу.
+A2|to recycle,We recycle bottles.,Wir recyceln Flaschen.,Мы перерабатываем бутылки.
+A2|doctor's appointment,I have a doctor's appointment.,Ich habe einen Arzttermin.,У меня запись к врачу.
+A2|patient,The patient is waiting.,Der Patient wartet.,Пациент ждёт.
+A2|prescription,I need a prescription.,Ich brauche ein Rezept.,Мне нужен рецепт.
+"A2|tablet, pill",I take a tablet.,Ich nehme eine Tablette.,Я принимаю таблетку.
+A2|injection,The nurse gives an injection.,Die Krankenschwester gibt eine Spritze.,Медсестра делает укол.
+A2|wound,The wound hurts.,Die Wunde tut weh.,Рана болит.
+A2|accident,There is an accident.,Es gibt einen Unfall.,Произошёл несчастный случай.
+A2|ambulance,Call an ambulance!,Ruf einen Krankenwagen!,Вызови скорую!
+A2|emergency,This is an emergency.,Das ist ein Notfall.,Это экстренный случай.
+A2|allergy,I have an allergy.,Ich habe eine Allergie.,У меня аллергия.
+A2|blood,I see blood.,Ich sehe Blut.,Я вижу кровь.
+A2|skin,My skin is dry.,Meine Haut ist trocken.,Моя кожа сухая.
+A2|bone,The bone hurts.,Der Knochen tut weh.,Кость болит.
+A2|cough,I have a cough.,Ich habe Husten.,У меня кашель.
+A2|diet,I am on a diet.,Ich mache eine Diät.,Я на диете.
+A2|weight,My weight is sixty kilos.,Mein Gewicht ist sechzig Kilo.,Мой вес шестьдесят килограммов.
+A2|sleep,I need more sleep.,Ich brauche mehr Schlaf.,Мне нужно больше сна.
+"A2|calm, rest",I need some rest.,Ich brauche Ruhe.,Мне нужен покой.
+A2|stress,I have a lot of stress.,Ich habe viel Stress.,У меня много стресса.
+A2|gym,I go to the gym.,Ich gehe ins Fitnessstudio.,Я хожу в тренажёрный зал.
+A2|training,Training starts at six.,Das Training beginnt um sechs.,Тренировка начинается в шесть.
+A2|team,Our team is good.,Unsere Mannschaft ist gut.,Наша команда хорошая.
+A2|winner,He is the winner.,Er ist der Sieger.,Он победитель.
+A2|result,What is the result?,Was ist das Ergebnis?,Каков результат?
+A2|goal,He scores a goal.,Er schießt ein Tor.,Он забивает гол.
+A2|sock,I need new socks.,Ich brauche neue Socken.,Мне нужны новые носки.
+A2|underwear,I buy underwear.,Ich kaufe Unterwäsche.,Я покупаю нижнее бельё.
+A2|skirt,The skirt is short.,Der Rock ist kurz.,Юбка короткая.
+A2|sweater,The sweater is warm.,Der Pullover ist warm.,Свитер тёплый.
+A2|coat,I wear a coat in winter.,Im Winter trage ich einen Mantel.,Зимой я ношу пальто.
+A2|scarf,She wears a scarf.,Sie trägt einen Schal.,Она носит шарф.
+A2|glove,I lose a glove.,Ich verliere einen Handschuh.,Я теряю перчатку.
+A2|belt,The belt is black.,Der Gürtel ist schwarz.,Ремень чёрный.
+A2|boot,The boot is wet.,Der Stiefel ist nass.,Сапог мокрый.
+A2|jewellery,She wears gold jewellery.,Sie trägt Goldschmuck.,Она носит золотые украшения.
+A2|ring,The ring is beautiful.,Der Ring ist schön.,Кольцо красивое.
+A2|fashion,She likes fashion.,Sie mag Mode.,Она любит моду.
+A2|worried,My mother is worried.,Meine Mutter ist besorgt.,Моя мама обеспокоена.
+A2|nervous,I am nervous before the exam.,Ich bin vor der Prüfung nervös.,Я нервничаю перед экзаменом.
+A2|surprised,I am surprised.,Ich bin überrascht.,Я удивлён.
+A2|satisfied,We are satisfied.,Wir sind zufrieden.,Мы довольны.
+A2|disappointed,He is disappointed.,Er ist enttäuscht.,Он разочарован.
+A2|proud,I am proud of you.,Ich bin stolz auf dich.,Я горжусь тобой.
+A2|lonely,She feels lonely.,Sie fühlt sich einsam.,Она чувствует себя одинокой.
+A2|jealous,He is jealous.,Er ist eifersüchtig.,Он ревнует.
+A2|shy,The boy is shy.,Der Junge ist schüchtern.,Мальчик застенчивый.
+A2|lazy,My brother is lazy.,Mein Bruder ist faul.,Мой брат ленивый.
+A2|hard-working,She is hard-working.,Sie ist fleißig.,Она трудолюбивая.
+A2|clever,The girl is clever.,Das Mädchen ist klug.,Девочка умная.
+A2|stupid,That is a stupid idea.,Das ist eine dumme Idee.,Это глупая идея.
+A2|honest,He is an honest man.,Er ist ein ehrlicher Mann.,Он честный человек.
+A2|polite,The waiter is polite.,Der Kellner ist höflich.,Официант вежливый.
+A2|rude,Do not be rude.,Sei nicht unhöflich.,Не будь невежливым.
+A2|patient (adj),The teacher is patient.,Der Lehrer ist geduldig.,Учитель терпеливый.
+A2|impatient,I am impatient.,Ich bin ungeduldig.,Я нетерпелив.
+A2|generous,My uncle is generous.,Mein Onkel ist großzügig.,Мой дядя щедрый.
+A2|curious,The child is curious.,Das Kind ist neugierig.,Ребёнок любопытный.
+A2|careful,Be careful!,Sei vorsichtig!,Будь осторожен!
+A2|dangerous,The road is dangerous.,Die Straße ist gefährlich.,Дорога опасная.
+"A2|safe, sure",Are you sure?,Bist du sicher?,Ты уверен?
+A2|pregnant,She is pregnant.,Sie ist schwanger.,Она беременна.
+A2|broken,The window is broken.,Das Fenster ist kaputt.,Окно разбито.
+A2|wide,The street is wide.,Die Straße ist breit.,Улица широкая.
+"A2|narrow, tight",The shoes are tight.,Die Schuhe sind eng.,Обувь тесная.
+A2|steep,The mountain is steep.,Der Berg ist steil.,Гора крутая.
+A2|round,The table is round.,Der Tisch ist rund.,Стол круглый.
+A2|straight,The line is straight.,Die Linie ist gerade.,Линия прямая.
+A2|sharp,The knife is sharp.,Das Messer ist scharf.,Нож острый.
+A2|soft,The bed is soft.,Das Bett ist weich.,Кровать мягкая.
+A2|hard,The bread is hard.,Das Brot ist hart.,Хлеб твёрдый.
+A2|deep,The lake is deep.,Der See ist tief.,Озеро глубокое.
+A2|high,The tree is high.,Der Baum ist hoch.,Дерево высокое.
+A2|low,The table is low.,Der Tisch ist niedrig.,Стол низкий.
+A2|huge,The house is huge.,Das Haus ist riesig.,Дом огромный.
+A2|tiny,The mouse is tiny.,Die Maus ist winzig.,Мышь крошечная.
+A2|modern,The flat is modern.,Die Wohnung ist modern.,Квартира современная.
+A2|traditional,This is a traditional dish.,Das ist ein traditionelles Gericht.,Это традиционное блюдо.
+A2|typical,That is typical.,Das ist typisch.,Это типично.
+A2|special,Today is a special day.,Heute ist ein besonderer Tag.,Сегодня особенный день.
+A2|normal,It is normal.,Das ist normal.,Это нормально.
+A2|usual,It is the usual price.,Das ist der übliche Preis.,Это обычная цена.
+A2|rare,This bird is rare.,Dieser Vogel ist selten.,Эта птица редкая.
+A2|various,We have various books.,Wir haben verschiedene Bücher.,У нас есть разные книги.
+A2|clear,The answer is clear.,Die Antwort ist klar.,Ответ ясен.
+A2|simple,The task is simple.,Die Aufgabe ist einfach.,Задача простая.
+A2|complicated,The problem is complicated.,Das Problem ist kompliziert.,Проблема сложная.
+A2|useful,This book is useful.,Dieses Buch ist nützlich.,Эта книга полезная.
+A2|useless,The tool is useless.,Das Werkzeug ist nutzlos.,Инструмент бесполезный.
+A2|necessary,Water is necessary.,Wasser ist nötig.,Вода необходима.
+A2|free (available),Is this seat free?,Ist dieser Platz frei?,Это место свободно?
+A2|busy,I am busy today.,Ich bin heute beschäftigt.,Сегодня я занят.
+A2|occupied,The toilet is occupied.,Die Toilette ist besetzt.,Туалет занят.
+A2|public,This is a public park.,Das ist ein öffentlicher Park.,Это общественный парк.
+A2|private,This is a private room.,Das ist ein privates Zimmer.,Это частная комната.
+A2|international,It is an international airport.,Es ist ein internationaler Flughafen.,Это международный аэропорт.
+A2|foreign,I speak a foreign language.,Ich spreche eine fremde Sprache.,Я говорю на иностранном языке.
+A2|local,I eat local food.,Ich esse örtliches Essen.,Я ем местную еду.
+A2|famous,He is a famous singer.,Er ist ein berühmter Sänger.,Он знаменитый певец.
+A2|popular,This song is popular.,Dieses Lied ist beliebt.,Эта песня популярна.
+A2|successful,She is successful.,Sie ist erfolgreich.,Она успешна.
+A2|unemployed,My neighbour is unemployed.,Mein Nachbar ist arbeitslos.,Мой сосед безработный.
+A2|slim,She is slim.,Sie ist schlank.,Она стройная.
+A2|sporty,My brother is sporty.,Mein Bruder ist sportlich.,Мой брат спортивный.
+A2|elegant,The dress is elegant.,Das Kleid ist elegant.,Платье элегантное.
+A2|comfortable,The sofa is comfortable.,Das Sofa ist bequem.,Диван удобный.
+A2|uncomfortable,The chair is uncomfortable.,Der Stuhl ist unbequem.,Стул неудобный.
+A2|tidy,My room is tidy.,Mein Zimmer ist ordentlich.,Моя комната аккуратная.
+A2|untidy,His desk is untidy.,Sein Schreibtisch ist unordentlich.,Его стол неаккуратный.
+A2|bitter,The coffee is bitter.,Der Kaffee ist bitter.,Кофе горький.
+A2|salty,The soup is salty.,Die Suppe ist salzig.,Суп солёный.
+A2|raw,The meat is raw.,Das Fleisch ist roh.,Мясо сырое.
+A2|vegetarian,I am vegetarian.,Ich bin Vegetarier.,Я вегетарианец.
+A2|company,The company is big.,Die Firma ist groß.,Фирма большая.
+A2|office,I work in an office.,Ich arbeite in einem Büro.,Я работаю в офисе.
+A2|factory,My father works in a factory.,Mein Vater arbeitet in einer Fabrik.,Мой папа работает на заводе.
+"A2|profession, career",She wants a good career.,Sie möchte eine gute Karriere.,Она хочет хорошую карьеру.
+A2|salary,The salary is good.,Das Gehalt ist gut.,Зарплата хорошая.
+A2|wage,The wage is low.,Der Lohn ist niedrig.,Заработная плата низкая.
+A2|contract,I sign the contract.,Ich unterschreibe den Vertrag.,Я подписываю договор.
+A2|application,I write an application.,Ich schreibe eine Bewerbung.,Я пишу заявление.
+A2|interview,I have an interview tomorrow.,Morgen habe ich ein Vorstellungsgespräch.,Завтра у меня собеседование.
+A2|CV,I send my CV.,Ich schicke meinen Lebenslauf.,Я отправляю своё резюме.
+A2|experience,I have experience.,Ich habe Erfahrung.,У меня есть опыт.
+A2|qualification,He has a good qualification.,Er hat eine gute Qualifikation.,У него хорошая квалификация.
+"A2|training, apprenticeship",She does an apprenticeship.,Sie macht eine Ausbildung.,Она проходит профессиональное обучение.
+A2|internship,I do an internship.,Ich mache ein Praktikum.,Я прохожу стажировку.
+A2|colleague (female),My colleague is friendly.,Meine Kollegin ist freundlich.,Моя коллега дружелюбная.
+A2|meeting,The meeting is at ten.,Die Besprechung ist um zehn.,Совещание в десять.
+A2|conference,The conference is in Berlin.,Die Konferenz ist in Berlin.,Конференция в Берлине.
+A2|task,This task is easy.,Diese Aufgabe ist leicht.,Это задание лёгкое.
+A2|project,We have a new project.,Wir haben ein neues Projekt.,У нас новый проект.
+A2|plan,I have a plan.,Ich habe einen Plan.,У меня есть план.
+A2|deadline,The deadline is Friday.,Die Frist ist Freitag.,Срок — пятница.
+A2|break,We have a break.,Wir haben eine Pause.,У нас перерыв.
+A2|overtime,I work overtime.,Ich mache Überstunden.,Я работаю сверхурочно.
+A2|holiday (leave),I take two weeks of leave.,Ich nehme zwei Wochen Urlaub.,Я беру двухнедельный отпуск.
+A2|shift,I work the night shift.,Ich arbeite in der Nachtschicht.,Я работаю в ночную смену.
+A2|unemployment,Unemployment is a problem.,Arbeitslosigkeit ist ein Problem.,Безработица — это проблема.
+A2|manager,The manager is in the office.,Der Leiter ist im Büro.,Руководитель в офисе.
+A2|employee,The company has fifty employees.,Die Firma hat fünfzig Angestellte.,В фирме пятьдесят сотрудников.
+A2|employer,My employer is good.,Mein Arbeitgeber ist gut.,Мой работодатель хороший.
+A2|tax,I pay tax.,Ich zahle Steuern.,Я плачу налог.
+A2|insurance,I have insurance.,Ich habe eine Versicherung.,У меня есть страховка.
+A2|bank account,I have a bank account.,Ich habe ein Konto.,У меня есть счёт в банке.
+A2|loan,I take a loan.,Ich nehme einen Kredit auf.,Я беру кредит.
+A2|debt,He has debts.,Er hat Schulden.,У него долги.
+A2|cash machine,Where is the cash machine?,Wo ist der Geldautomat?,Где банкомат?
+A2|coin,I have a coin.,Ich habe eine Münze.,У меня есть монета.
+A2|banknote,I have a banknote.,Ich habe einen Geldschein.,У меня есть банкнота.
+A2|rent,The rent is high.,Die Miete ist hoch.,Аренда высокая.
+A2|deposit,I pay a deposit.,Ich zahle eine Kaution.,Я плачу залог.
+A2|landlord,The landlord is nice.,Der Vermieter ist nett.,Арендодатель приятный.
+A2|tenant,The tenant pays the rent.,Der Mieter zahlt die Miete.,Арендатор платит аренду.
+A2|move,The move is on Saturday.,Der Umzug ist am Samstag.,Переезд в субботу.
+A2|furniture,We buy new furniture.,Wir kaufen neue Möbel.,Мы покупаем новую мебель.
+A2|sofa,The sofa is blue.,Das Sofa ist blau.,Диван синий.
+A2|armchair,I sit in the armchair.,Ich sitze im Sessel.,Я сижу в кресле.
+A2|cupboard,The plates are in the cupboard.,Die Teller sind im Schrank.,Тарелки в шкафу.
+A2|shelf,The books are on the shelf.,Die Bücher stehen im Regal.,Книги стоят на полке.
+A2|carpet,The carpet is soft.,Der Teppich ist weich.,Ковёр мягкий.
+A2|curtain,I close the curtain.,Ich schließe den Vorhang.,Я закрываю занавеску.
+A2|mirror,There is a mirror on the wall.,An der Wand hängt ein Spiegel.,На стене висит зеркало.
+A2|fridge,The milk is in the fridge.,Die Milch ist im Kühlschrank.,Молоко в холодильнике.
+A2|oven,The cake is in the oven.,Der Kuchen ist im Herd.,Торт в духовке.
+A2|washing machine,The washing machine is broken.,Die Waschmaschine ist kaputt.,Стиральная машина сломана.
+A2|heating,The heating is on.,Die Heizung ist an.,Отопление включено.
+A2|electricity,Electricity is expensive.,Strom ist teuer.,Электричество дорогое.
+A2|light,Turn on the light.,Mach das Licht an.,Включи свет.
+A2|cellar,The cellar is cold.,Der Keller ist kalt.,Подвал холодный.
+A2|attic,The attic is dark.,Der Dachboden ist dunkel.,Чердак тёмный.
+"A2|hall, corridor",The hall is long.,Der Flur ist lang.,Коридор длинный.
+A2|living room,We sit in the living room.,Wir sitzen im Wohnzimmer.,Мы сидим в гостиной.
+A2|dining room,The dining room is big.,Das Esszimmer ist groß.,Столовая большая.
+A2|yard,The children play in the yard.,Die Kinder spielen im Hof.,Дети играют во дворе.
+A2|fence,The fence is high.,Der Zaun ist hoch.,Забор высокий.
+A2|neighbourhood,I like this neighbourhood.,Ich mag diese Nachbarschaft.,Мне нравится этот район.
+A2|district,This district is quiet.,Dieser Stadtteil ist ruhig.,Этот район тихий.
+A2|centre,The centre is near.,Das Zentrum ist nah.,Центр близко.
+A2|suburb,We live in a suburb.,Wir wohnen in einem Vorort.,Мы живём в пригороде.
+A2|traffic,There is a lot of traffic.,Es gibt viel Verkehr.,Большое движение.
+A2|traffic light,The traffic light is red.,Die Ampel ist rot.,Светофор красный.
+A2|crossing,Turn left at the crossing.,Biegen Sie an der Kreuzung links ab.,На перекрёстке поверните налево.
+A2|pavement,Walk on the pavement.,Geh auf dem Bürgersteig.,Иди по тротуару.
+A2|motorway,We drive on the motorway.,Wir fahren auf der Autobahn.,Мы едем по автомагистрали.
+A2|petrol station,The petrol station is open.,Die Tankstelle ist offen.,Заправка открыта.
+A2|parking space,I look for a parking space.,Ich suche einen Parkplatz.,Я ищу парковку.
+A2|underground,I take the underground.,Ich nehme die U-Bahn.,Я еду на метро.
+A2|tram,The tram comes every ten minutes.,Die Straßenbahn kommt alle zehn Minuten.,Трамвай приходит каждые десять минут.
+A2|platform,The train leaves from platform two.,Der Zug fährt von Gleis zwei ab.,Поезд отправляется с платформы два.
+A2|timetable,I look at the timetable.,Ich schaue auf den Fahrplan.,Я смотрю расписание.
+A2|delay,The train has a delay.,Der Zug hat Verspätung.,Поезд опаздывает.
+A2|departure,The departure is at nine.,Die Abfahrt ist um neun.,Отправление в девять.
+A2|arrival,The arrival is at noon.,Die Ankunft ist am Mittag.,Прибытие в полдень.
+A2|connection,I miss the connection.,Ich verpasse die Verbindung.,Я пропускаю пересадку.
+A2|single ticket,"A single ticket, please.","Eine einfache Fahrt, bitte.","Билет в один конец, пожалуйста."
+A2|return ticket,"A return ticket, please.","Eine Rückfahrkarte, bitte.","Обратный билет, пожалуйста."
+A2|luggage,My luggage is heavy.,Mein Gepäck ist schwer.,Мой багаж тяжёлый.
+A2|border,We cross the border.,Wir überqueren die Grenze.,Мы пересекаем границу.
+A2|customs,I go through customs.,Ich gehe durch den Zoll.,Я прохожу таможню.
+A2|visa,I need a visa.,Ich brauche ein Visum.,Мне нужна виза.
+A2|flight,The flight is long.,Der Flug ist lang.,Рейс долгий.
+A2|gate,The gate is number five.,Das Gate ist Nummer fünf.,Выход на посадку — номер пять.
+A2|tourist,The tourist takes photos.,Der Tourist macht Fotos.,Турист делает фото.
+A2|sightseeing,The castle is a sight.,Das Schloss ist eine Sehenswürdigkeit.,Замок — достопримечательность.
+A2|guide,I buy a guide.,Ich kaufe einen Reiseführer.,Я покупаю путеводитель.
+A2|reservation,I have a reservation.,Ich habe eine Reservierung.,У меня есть бронь.
+A2|single room,I need a single room.,Ich brauche ein Einzelzimmer.,Мне нужен одноместный номер.
+A2|double room,We take a double room.,Wir nehmen ein Doppelzimmer.,Мы берём двухместный номер.
+A2|reception,Go to the reception.,Gehen Sie zur Rezeption.,Идите на стойку регистрации.
+A2|campsite,We stay at a campsite.,Wir übernachten auf einem Campingplatz.,Мы ночуем на кемпинге.
+A2|tent,The tent is small.,Das Zelt ist klein.,Палатка маленькая.
+A2|beach,We lie on the beach.,Wir liegen am Strand.,Мы лежим на пляже.
+A2|island,The island is beautiful.,Die Insel ist schön.,Остров красивый.
+A2|coast,We drive along the coast.,Wir fahren an der Küste entlang.,Мы едем вдоль побережья.
+"A2|trip, excursion",We make a trip.,Wir machen einen Ausflug.,Мы совершаем экскурсию.
+A2|souvenir,I buy a souvenir.,Ich kaufe ein Souvenir.,Я покупаю сувенир.
+A2|postcard,I write a postcard.,Ich schreibe eine Postkarte.,Я пишу открытку.
+A2|parcel,I send a parcel.,Ich schicke ein Paket.,Я отправляю посылку.
+A2|address book,My address book is old.,Mein Adressbuch ist alt.,Моя адресная книга старая.
+A2|shopping centre,We go to the shopping centre.,Wir gehen ins Einkaufszentrum.,Мы идём в торговый центр.
+A2|department store,The department store is big.,Das Kaufhaus ist groß.,Универмаг большой.
+A2|bakery,I buy bread at the bakery.,Ich kaufe Brot in der Bäckerei.,Я покупаю хлеб в пекарне.
+A2|butcher,I buy meat at the butcher.,Ich kaufe Fleisch in der Metzgerei.,Я покупаю мясо в мясной лавке.
+A2|chemist,I buy soap at the chemist.,Ich kaufe Seife in der Drogerie.,Я покупаю мыло в аптеке-магазине.
+A2|bookshop,The bookshop is near.,Die Buchhandlung ist nah.,Книжный магазин близко.
+A2|cash desk,I pay at the cash desk.,Ich zahle an der Kasse.,Я плачу на кассе.
+A2|trolley,I take a trolley.,Ich nehme einen Einkaufswagen.,Я беру тележку.
+A2|shopping list,I write a shopping list.,Ich schreibe einen Einkaufszettel.,Я пишу список покупок.
+A2|discount,There is a discount today.,Heute gibt es Rabatt.,Сегодня есть скидка.
+A2|bargain,This is a bargain.,Das ist ein Sonderangebot.,Это выгодное предложение.
+A2|brand,This is a good brand.,Das ist eine gute Marke.,Это хорошая марка.
+A2|quality,The quality is good.,Die Qualität ist gut.,Качество хорошее.
+A2|guarantee,The phone has a guarantee.,Das Handy hat eine Garantie.,У телефона есть гарантия.
+A2|complaint,I make a complaint.,Ich mache eine Beschwerde.,Я подаю жалобу.
+A2|refund,I want a refund.,Ich möchte eine Rückerstattung.,Я хочу возврат денег.
+A2|packaging,The packaging is damaged.,Die Verpackung ist beschädigt.,Упаковка повреждена.
+A2|weight (goods),The weight is two kilos.,Das Gewicht ist zwei Kilo.,Вес — два килограмма.
+A2|kilo,"One kilo of apples, please.","Ein Kilo Äpfel, bitte.","Килограмм яблок, пожалуйста."
+A2|litre,"A litre of milk, please.","Einen Liter Milch, bitte.","Литр молока, пожалуйста."
+A2|metre,The room is five metres long.,Das Zimmer ist fünf Meter lang.,Комната длиной пять метров.
+A2|kilometre,It is ten kilometres.,Es sind zehn Kilometer.,Это десять километров.
+A2|piece,"A piece of cake, please.","Ein Stück Kuchen, bitte.","Кусок торта, пожалуйста."
+A2|pair,I need a pair of shoes.,Ich brauche ein Paar Schuhe.,Мне нужна пара обуви.
+A2|dozen,"A dozen eggs, please.","Ein Dutzend Eier, bitte.","Дюжину яиц, пожалуйста."
+A2|newspaper article,I read an article.,Ich lese einen Artikel.,Я читаю статью.
+A2|magazine,I buy a magazine.,Ich kaufe eine Zeitschrift.,Я покупаю журнал.
+A2|programme,The programme starts at eight.,Das Programm beginnt um acht.,Программа начинается в восемь.
+A2|channel,I change the channel.,Ich wechsle den Sender.,Я переключаю канал.
+A2|advertisement,I see an advertisement.,Ich sehe eine Werbung.,Я вижу рекламу.
+A2|interview (media),The interview is on TV.,Das Interview ist im Fernsehen.,Интервью по телевизору.
+A2|report (news),I read a report.,Ich lese einen Bericht.,Я читаю репортаж.
+A2|website,The website is new.,Die Webseite ist neu.,Сайт новый.
+A2|password,I forget my password.,Ich vergesse mein Passwort.,Я забываю свой пароль.
+A2|app,I use this app.,Ich benutze diese App.,Я пользуюсь этим приложением.
+A2|file,I open the file.,Ich öffne die Datei.,Я открываю файл.
+A2|keyboard,The keyboard is new.,Die Tastatur ist neu.,Клавиатура новая.
+A2|screen,The screen is big.,Der Bildschirm ist groß.,Экран большой.
+A2|mouse (computer),I need a mouse.,Ich brauche eine Maus.,Мне нужна мышь.
+A2|printer,The printer is broken.,Der Drucker ist kaputt.,Принтер сломан.
+A2|charger,I need a charger.,Ich brauche ein Ladegerät.,Мне нужно зарядное устройство.
+A2|battery,The battery is empty.,Die Batterie ist leer.,Батарея села.
+A2|message,I have a message.,Ich habe eine Nachricht.,У меня сообщение.
+A2|society,Society is changing.,Die Gesellschaft verändert sich.,Общество меняется.
+A2|government,The government decides.,Die Regierung entscheidet.,Правительство решает.
+A2|law,This is a new law.,Das ist ein neues Gesetz.,Это новый закон.
+A2|rule,This is the rule.,Das ist die Regel.,Это правило.
+A2|duty,It is my duty.,Es ist meine Pflicht.,Это моя обязанность.
+A2|police,I call the police.,Ich rufe die Polizei.,Я вызываю полицию.
+A2|court,He is in court.,Er ist vor Gericht.,Он в суде.
+A2|crime,The crime is serious.,Das Verbrechen ist ernst.,Преступление серьёзное.
+A2|war,The war is over.,Der Krieg ist vorbei.,Война закончилась.
+A2|peace,We want peace.,Wir wollen Frieden.,Мы хотим мира.
+A2|election,The election is on Sunday.,Die Wahl ist am Sonntag.,Выборы в воскресенье.
+A2|president,The president speaks.,Der Präsident spricht.,Президент выступает.
+A2|mayor,The mayor opens the park.,Der Bürgermeister eröffnet den Park.,Мэр открывает парк.
+A2|citizen,He is a citizen.,Er ist ein Bürger.,Он гражданин.
+A2|nationality,What is your nationality?,Welche Staatsangehörigkeit haben Sie?,Какое у вас гражданство?
+A2|religion,Religion is important to him.,Religion ist ihm wichtig.,Религия для него важна.
+A2|culture,I like this culture.,Ich mag diese Kultur.,Мне нравится эта культура.
+A2|tradition,This is an old tradition.,Das ist eine alte Tradition.,Это старая традиция.
+A2|custom,This is a local custom.,Das ist ein örtlicher Brauch.,Это местный обычай.
+A2|festival,The festival is in July.,Das Fest ist im Juli.,Праздник в июле.
+A2|Christmas,At Christmas we visit grandma.,An Weihnachten besuchen wir Oma.,На Рождество мы навещаем бабушку.
+A2|Easter,Easter is in spring.,Ostern ist im Frühling.,Пасха весной.
+A2|New Year,We celebrate New Year.,Wir feiern Silvester.,Мы празднуем Новый год.
+A2|wedding,The wedding is in May.,Die Hochzeit ist im Mai.,Свадьба в мае.
+A2|funeral,The funeral is on Monday.,Die Beerdigung ist am Montag.,Похороны в понедельник.
+A2|guest (invited),We have many visitors.,Wir haben viele Besucher.,У нас много гостей.
+A2|invitation,I get an invitation.,Ich bekomme eine Einladung.,Я получаю приглашение.
+A2|surprise,This is a surprise.,Das ist eine Überraschung.,Это сюрприз.
+A2|wish,I have a wish.,Ich habe einen Wunsch.,У меня есть желание.
+A2|greeting,Many greetings from Berlin.,Viele Grüße aus Berlin.,Много приветов из Берлина.
+A2|hug,A hug for you.,Eine Umarmung für dich.,Объятие для тебя.
+A2|love,Love is important.,Liebe ist wichtig.,Любовь важна.
+A2|joy,I feel joy.,Ich fühle Freude.,Я чувствую радость.
+A2|fear,I have fear.,Ich habe Angst.,Мне страшно.
+A2|anger,I feel anger.,Ich fühle Ärger.,Я чувствую досаду.
+A2|luck,Good luck!,Viel Glück!,Удачи!
+A2|trust,I have trust in him.,Ich habe Vertrauen zu ihm.,Я доверяю ему.
+A2|hope,I have hope.,Ich habe Hoffnung.,У меня есть надежда.
+A2|memory,I have a good memory of the trip.,Ich habe eine gute Erinnerung an die Reise.,У меня хорошее воспоминание о поездке.
+A2|dream,I have a dream.,Ich habe einen Traum.,У меня есть мечта.
+A2|thought,That is a good thought.,Das ist ein guter Gedanke.,Это хорошая мысль.
+A2|feeling,I have a good feeling.,Ich habe ein gutes Gefühl.,У меня хорошее предчувствие.
+A2|mood,He is in a good mood.,Er hat gute Stimmung.,У него хорошее настроение.
+A2|character,She has a strong character.,Sie hat einen starken Charakter.,У неё сильный характер.
+A2|behaviour,His behaviour is strange.,Sein Verhalten ist seltsam.,Его поведение странное.
+A2|habit,It is a bad habit.,Das ist eine schlechte Gewohnheit.,Это плохая привычка.
+A2|success,I wish you success.,Ich wünsche dir Erfolg.,Желаю тебе успеха.
+A2|mistake,I make a mistake.,Ich mache einen Fehler.,Я делаю ошибку.
+A2|chance,This is a good chance.,Das ist eine gute Chance.,Это хороший шанс.
+A2|decision,It is my decision.,Es ist meine Entscheidung.,Это моё решение.
+A2|difference,What is the difference?,Was ist der Unterschied?,В чём разница?
+A2|solution,I find a solution.,Ich finde eine Lösung.,Я нахожу решение.
+A2|information,I need information.,Ich brauche Information.,Мне нужна информация.
+A2|advice,I need your advice.,Ich brauche deinen Rat.,Мне нужен твой совет.
+A2|opinion,What is your opinion?,Was ist deine Meinung?,Каково твоё мнение?
+A2|discussion,The discussion is long.,Die Diskussion ist lang.,Обсуждение долгое.
+A2|explanation,I need an explanation.,Ich brauche eine Erklärung.,Мне нужно объяснение.
+A2|description,The description is short.,Die Beschreibung ist kurz.,Описание короткое.
+A2|instruction,I read the instructions.,Ich lese die Anweisung.,Я читаю инструкцию.
+A2|rule of grammar,German grammar is difficult.,Die deutsche Grammatik ist schwer.,Немецкая грамматика трудная.
+A2|pronunciation,Your pronunciation is good.,Deine Aussprache ist gut.,У тебя хорошее произношение.
+A2|text,I read the text.,Ich lese den Text.,Я читаю текст.
+A2|title,What is the title?,Wie ist der Titel?,Какое название?
+A2|topic,The topic is interesting.,Das Thema ist interessant.,Тема интересная.
+A2|content,The content is good.,Der Inhalt ist gut.,Содержание хорошее.
+A2|beginning,The beginning is easy.,Der Anfang ist leicht.,Начало лёгкое.
+A2|end,The end is sad.,Das Ende ist traurig.,Конец грустный.
+A2|middle,I sit in the middle.,Ich sitze in der Mitte.,Я сижу посередине.
+A2|part,This is a part of the book.,Das ist ein Teil des Buches.,Это часть книги.
+A2|side,The shop is on the left side.,Das Geschäft ist auf der linken Seite.,Магазин на левой стороне.
+A2|direction,Which direction?,Welche Richtung?,Какое направление?
+A2|distance,The distance is far.,Die Entfernung ist weit.,Расстояние большое.
+A2|height,The height is two metres.,Die Höhe ist zwei Meter.,Высота — два метра.
+A2|length,The length is five metres.,Die Länge ist fünf Meter.,Длина — пять метров.
+A2|width,The width is three metres.,Die Breite ist drei Meter.,Ширина — три метра.
+A2|speed,The speed is high.,Die Geschwindigkeit ist hoch.,Скорость высокая.
+A2|temperature,The temperature is low.,Die Temperatur ist niedrig.,Температура низкая.
+A2|degree,It is ten degrees.,Es sind zehn Grad.,Десять градусов.
+A2|percent,Ten percent is cheap.,Zehn Prozent sind wenig.,Десять процентов — немного.
+A2|amount,The amount is small.,Die Menge ist klein.,Количество небольшое.
+A2|majority,The majority is for it.,Die Mehrheit ist dafür.,Большинство за.
+A2|group,We are a group.,Wir sind eine Gruppe.,Мы группа.
+A2|couple,A couple sits there.,Ein Paar sitzt dort.,Там сидит пара.
+A2|member,I am a member of the club.,Ich bin Mitglied im Verein.,Я член клуба.
+A2|club,I go to the club.,Ich gehe in den Verein.,Я хожу в клуб.
+A2|association,The association helps people.,Die Organisation hilft Menschen.,Организация помогает людям.
+A2|university lecture,The lecture starts at nine.,Die Vorlesung beginnt um neun.,Лекция начинается в девять.
+A2|subject (school),My favourite subject is German.,Mein Lieblingsfach ist Deutsch.,Мой любимый предмет — немецкий.
+A2|timetable (school),I look at the timetable.,Ich schaue auf den Stundenplan.,Я смотрю расписание уроков.
+A2|certificate,I get a certificate.,Ich bekomme ein Zeugnis.,Я получаю аттестат.
+A2|degree (university),He has a degree.,Er hat einen Abschluss.,У него есть диплом.
+A2|teacher (female),The teacher is nice.,Die Lehrerin ist nett.,Учительница приятная.
+A2|student (female),She is a student.,Sie ist Studentin.,Она студентка.
+A2|classroom,The classroom is big.,Das Klassenzimmer ist groß.,Класс большой.
+A2|blackboard,The teacher writes on the blackboard.,Die Lehrerin schreibt an die Tafel.,Учительница пишет на доске.
+"A2|rubber, eraser",I need an eraser.,Ich brauche einen Radiergummi.,Мне нужен ластик.
+A2|ruler,I have a ruler.,Ich habe ein Lineal.,У меня есть линейка.
+A2|pencil,I write with a pencil.,Ich schreibe mit einem Bleistift.,Я пишу карандашом.
+A2|scissors,I need scissors.,Ich brauche eine Schere.,Мне нужны ножницы.
+A2|glue,I need glue.,Ich brauche Kleber.,Мне нужен клей.
+A2|backpack,My backpack is heavy.,Mein Rucksack ist schwer.,Мой рюкзак тяжёлый.
+A2|environment,We protect the environment.,Wir schützen die Umwelt.,Мы защищаем окружающую среду.
+A2|nature,I love nature.,Ich liebe die Natur.,Я люблю природу.
+A2|climate,The climate is warm.,Das Klima ist warm.,Климат тёплый.
+A2|air,The air is clean.,Die Luft ist sauber.,Воздух чистый.
+A2|earth,The earth is round.,Die Erde ist rund.,Земля круглая.
+A2|rubbish,I throw away the rubbish.,Ich werfe den Müll weg.,Я выбрасываю мусор.
+A2|energy,We need energy.,Wir brauchen Energie.,Нам нужна энергия.
+A2|storm,The storm is strong.,Der Sturm ist stark.,Буря сильная.
+A2|thunderstorm,A thunderstorm is coming.,Ein Gewitter kommt.,Приближается гроза.
+A2|fog,There is fog today.,Heute gibt es Nebel.,Сегодня туман.
+A2|cloud,There is a cloud in the sky.,Am Himmel ist eine Wolke.,На небе облако.
+A2|ice,The lake is ice.,Der See ist zugefroren.,Озеро покрыто льдом.
+A2|heat,The heat is strong.,Die Hitze ist stark.,Жара сильная.
+A2|grass,The grass is green.,Das Gras ist grün.,Трава зелёная.
+A2|leaf,The leaf is yellow.,Das Blatt ist gelb.,Лист жёлтый.
+A2|plant,The plant needs water.,Die Pflanze braucht Wasser.,Растению нужна вода.
+A2|stone,The stone is heavy.,Der Stein ist schwer.,Камень тяжёлый.
+A2|sand,The sand is warm.,Der Sand ist warm.,Песок тёплый.
+A2|road sign,I read the road sign.,Ich lese das Schild.,Я читаю знак.
+A2|hill,The hill is green.,Der Hügel ist grün.,Холм зелёный.
+A2|valley,The valley is beautiful.,Das Tal ist schön.,Долина красивая.
+A2|village life,I like village life.,Ich mag das Landleben.,Мне нравится сельская жизнь.
+A2|farm,We visit a farm.,Wir besuchen einen Bauernhof.,Мы посещаем ферму.
+A2|farmer,The farmer works hard.,Der Bauer arbeitet hart.,Фермер много работает.
+A2|pig,The pig is big.,Das Schwein ist groß.,Свинья большая.
+A2|chicken (hen),The hen lays eggs.,Das Huhn legt Eier.,Курица несёт яйца.
+A2|rabbit,The rabbit is white.,Das Kaninchen ist weiß.,Кролик белый.
+A2|insect,The insect is small.,Das Insekt ist klein.,Насекомое маленькое.
+A2|pet,I have a pet.,Ich habe ein Haustier.,У меня есть домашнее животное.
+A2|therefore,"I am sick, therefore I stay home.","Ich bin krank, deshalb bleibe ich zu Hause.","Я болен, поэтому остаюсь дома."
+A2|however,"It is cold, however I go out.","Es ist kalt, aber ich gehe raus.","Холодно, но я иду на улицу."
+A2|although,"Although it rains, we go out.","Obwohl es regnet, gehen wir raus.","Хотя идёт дождь, мы идём на улицу."
+A2|if,"If it rains, I stay home.","Wenn es regnet, bleibe ich zu Hause.","Если идёт дождь, я остаюсь дома."
+A2|whether,I ask whether he comes.,"Ich frage, ob er kommt.","Я спрашиваю, придёт ли он."
+A2|that (conjunction),I know that he is here.,"Ich weiß, dass er hier ist.","Я знаю, что он здесь."
+"A2|as, when","When I was a child, I lived here.","Als ich Kind war, wohnte ich hier.","Когда я был ребёнком, я жил здесь."
+A2|while,"While I cook, he reads.","Während ich koche, liest er.","Пока я готовлю, он читает."
+A2|before (conj.),"Before I eat, I wash my hands.","Bevor ich esse, wasche ich meine Hände.","Прежде чем есть, я мою руки."
+A2|after (conj.),"After I ate, I slept.","Nachdem ich gegessen hatte, schlief ich.","После того как я поел, я спал."
+A2|so that,I learn so that I can pass.,"Ich lerne, damit ich bestehe.","Я учусь, чтобы сдать."
+A2|instead,Instead of tea I drink coffee.,Statt Tee trinke ich Kaffee.,Вместо чая я пью кофе.
+A2|besides,"Besides, I am tired.",Außerdem bin ich müde.,"Кроме того, я устал."
+A2|at least,I need at least ten euros.,Ich brauche mindestens zehn Euro.,Мне нужно как минимум десять евро.
+A2|at the latest,Come on Friday at the latest.,Komm spätestens am Freitag.,Приходи самое позднее в пятницу.
+A2|immediately,Come immediately.,Komm sofort.,Приходи немедленно.
+A2|suddenly,Suddenly it rains.,Plötzlich regnet es.,Вдруг идёт дождь.
+A2|recently,I was there recently.,Ich war neulich dort.,Я был там недавно.
+A2|usually,I usually get up at six.,Normalerweise stehe ich um sechs auf.,Обычно я встаю в шесть.
+A2|rarely,I rarely eat meat.,Ich esse selten Fleisch.,Я редко ем мясо.
+A2|mostly,I mostly walk.,Meistens gehe ich zu Fuß.,В основном я хожу пешком.
+A2|at the moment,At the moment I am busy.,Im Moment bin ich beschäftigt.,В данный момент я занят.
+A2|for a long time,I wait for a long time.,Ich warte lange.,Я долго жду.
+A2|the day after tomorrow,The day after tomorrow I travel.,Übermorgen reise ich.,Послезавтра я еду.
+A2|the day before yesterday,The day before yesterday I was ill.,Vorgestern war ich krank.,Позавчера я был болен.
+A2|every day,I learn German every day.,Ich lerne jeden Tag Deutsch.,Я каждый день учу немецкий.
+A2|during,During the lesson I write.,Während des Unterrichts schreibe ich.,Во время урока я пишу.
+A2|through,We go through the park.,Wir gehen durch den Park.,Мы идём через парк.
+A2|along,We walk along the river.,Wir gehen den Fluss entlang.,Мы идём вдоль реки.
+A2|across,We go across the street.,Wir gehen über die Straße.,Мы идём через улицу.
+A2|towards,Towards evening it rains.,Gegen Abend regnet es.,К вечеру идёт дождь.
+A2|opposite,The bank is opposite the shop.,Die Bank ist gegenüber dem Geschäft.,Банк напротив магазина.
+A2|out of,He comes out of the house.,Er kommt aus dem Haus.,Он выходит из дома.
+A2|outside of,He lives outside of the city.,Er wohnt außerhalb der Stadt.,Он живёт за городом.
+A2|inside of,Inside of the house it is warm.,Innerhalb des Hauses ist es warm.,Внутри дома тепло.
+A2|instead of,Instead of coffee I drink tea.,Anstatt Kaffee trinke ich Tee.,Вместо кофе я пью чай.
+A2|because of,Because of the rain we stay home.,Wegen des Regens bleiben wir zu Hause.,Из-за дождя мы остаёмся дома.
+A2|despite,Despite the rain we go out.,Trotz des Regens gehen wir raus.,"Несмотря на дождь, мы идём на улицу."
+A2|each other,We help each other.,Wir helfen einander.,Мы помогаем друг другу.
+A2|both,Both are my friends.,Beide sind meine Freunde.,Оба мои друзья.
+A2|several,I have several books.,Ich habe mehrere Bücher.,У меня несколько книг.
+A2|few,Few people are here.,Wenige Leute sind hier.,Здесь мало людей.
+A2|many,Many people are here.,Viele Leute sind hier.,Здесь много людей.
+A2|another,I take another book.,Ich nehme ein anderes Buch.,Я беру другую книгу.

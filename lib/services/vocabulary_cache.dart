@@ -3,6 +3,7 @@ import 'dart:convert';
 import 'package:flutter/foundation.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+import '../models/example_sentence.dart';
 import '../models/verb_forms.dart';
 import '../models/word.dart';
 import 'dictionary_data_service.dart';
@@ -10,9 +11,9 @@ import 'dictionary_data_service.dart';
 /// Persists the parsed dictionary so it can be shown without reading the
 /// bundled CSV assets again.
 ///
-/// The cache only contains vocabulary and verb records. User learning data
-/// (favorites, learned words, review history and settings) lives under
-/// different keys and is never touched here.
+/// The cache contains vocabulary, verb and example sentence records. User
+/// learning data (favorites, learned words, review history and settings) lives
+/// under different keys and is never touched here.
 ///
 /// The payload is versioned. An outdated or corrupted entry is discarded and
 /// the next successful asset load writes a fresh copy.
@@ -61,7 +62,8 @@ class VocabularyCacheRepository {
         throw const FormatException('The cache contains no vocabulary.');
       }
       final verbs = _decodeVerbs(decoded['verbs']);
-      return DictionaryData(words: words, verbs: verbs);
+      final examples = _decodeExamples(decoded['examples']);
+      return DictionaryData(words: words, verbs: verbs, examples: examples);
     } catch (error, stackTrace) {
       debugPrint(
         'VocabularyCacheRepository: discarding an unreadable cache: $error',
@@ -84,6 +86,7 @@ class VocabularyCacheRepository {
       'savedAt': DateTime.now().toUtc().toIso8601String(),
       'words': data.words.map(_encodeWord).toList(growable: false),
       'verbs': data.verbs.map(_encodeVerb).toList(growable: false),
+      'examples': data.examples.map(_encodeExample).toList(growable: false),
     });
     await prefs.setString(storageKey, payload);
   }
@@ -100,6 +103,15 @@ class VocabularyCacheRepository {
       'english': word.english,
       'german': word.german,
       'russian': word.russian,
+    };
+  }
+
+  static Map<String, Object?> _encodeExample(ExampleSentence example) {
+    return <String, Object?>{
+      'wordId': example.wordId,
+      'english': example.english,
+      'german': example.german,
+      'russian': example.russian,
     };
   }
 
@@ -144,6 +156,30 @@ class VocabularyCacheRepository {
       english: english,
       german: german,
       russian: russian,
+    );
+  }
+
+  static List<ExampleSentence> _decodeExamples(Object? value) {
+    if (value == null) return const <ExampleSentence>[];
+    if (value is! List) {
+      throw const FormatException('The cached example list is malformed.');
+    }
+    return value.map(_decodeExample).toList(growable: false);
+  }
+
+  static ExampleSentence _decodeExample(Object? value) {
+    if (value is! Map) {
+      throw const FormatException('A cached example entry is malformed.');
+    }
+    final wordId = _readString(value, 'wordId');
+    if (wordId.isEmpty) {
+      throw const FormatException('A cached example entry is incomplete.');
+    }
+    return ExampleSentence(
+      wordId: wordId,
+      english: _readString(value, 'english'),
+      german: _readString(value, 'german'),
+      russian: _readString(value, 'russian'),
     );
   }
 

@@ -18,6 +18,19 @@ class Word {
   /// Stable identity used for favorites and lookups.
   String get id => '$level|$english';
 
+  /// Returns the text of this word in [languageCode] (`en`, `de`, `ru`).
+  String textFor(String languageCode) {
+    switch (languageCode) {
+      case 'de':
+        return german;
+      case 'ru':
+        return russian;
+      case 'en':
+      default:
+        return english;
+    }
+  }
+
   @override
   String toString() => 'Word($level, $english, $german, $russian)';
 }

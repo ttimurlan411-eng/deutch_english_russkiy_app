@@ -66,6 +66,8 @@ void main() {
       expect(cached.verbs, hasLength(1));
       expect(cached.verbs.single.infinitiveEn, 'to be');
       expect(cached.verbs.single.hilfsverb, 'sein');
+      expect(cached.examples, hasLength(2));
+      expect(cached.examplesByWordId()['A1|mother'], isNotNull);
     });
 
     test('discards a corrupted cache and removes the bad entry', () async {
@@ -127,6 +129,7 @@ void main() {
       expect(state.words, hasLength(6));
       expect(state.verbs, hasLength(1));
       expect(state.words.first.english, 'mother');
+      expect(state.exampleFor(state.words.first), isNotNull);
     });
 
     test(

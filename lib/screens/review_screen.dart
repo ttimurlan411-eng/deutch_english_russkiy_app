@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../app_state.dart';
 import '../l10n/app_localizations.dart';
+import '../models/learning_languages.dart';
 import '../models/review_record.dart';
 import '../models/word.dart';
 import '../services/speech_service.dart';
@@ -210,6 +211,9 @@ class _ReviewScreenState extends State<ReviewScreen> {
             child: _ReviewCard(
               key: ValueKey<String>(word.id),
               word: word,
+              learningLanguageCode: widget.state.settings.learningLanguageCode,
+              translationLanguageCodes:
+                  widget.state.settings.translationLanguageCodes,
               revealed: _revealed,
               speech: widget.state.speech,
               onReveal: () => setState(() => _revealed = true),
@@ -266,12 +270,16 @@ class _ReviewCard extends StatelessWidget {
   const _ReviewCard({
     super.key,
     required this.word,
+    required this.learningLanguageCode,
+    required this.translationLanguageCodes,
     required this.revealed,
     required this.speech,
     required this.onReveal,
   });
 
   final Word word;
+  final String learningLanguageCode;
+  final Set<String> translationLanguageCodes;
   final bool revealed;
   final SpeechService speech;
   final VoidCallback onReveal;
@@ -280,6 +288,12 @@ class _ReviewCard extends StatelessWidget {
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
     final l10n = AppLocalizations.of(context);
+    final translationCodes = <String>[
+      for (final code in LearningLanguages.all)
+        if (code != learningLanguageCode &&
+            translationLanguageCodes.contains(code))
+          code,
+    ];
 
     return Container(
       width: double.infinity,
@@ -321,12 +335,16 @@ class _ReviewCard extends StatelessWidget {
                   ),
                 ),
                 const Spacer(),
-                SpeakerButton(text: word.english, speechService: speech),
+                SpeakerButton(
+                  text: word.textFor(learningLanguageCode),
+                  languageCode: learningLanguageCode,
+                  speechService: speech,
+                ),
               ],
             ),
             const SizedBox(height: 24),
             Text(
-              word.english,
+              word.textFor(learningLanguageCode),
               textAlign: TextAlign.center,
               style: TextStyle(
                 color: revealed ? AppTheme.textPrimary : Colors.white,
@@ -348,9 +366,13 @@ class _ReviewCard extends StatelessWidget {
               )
             else ...[
               const Divider(height: 24),
-              _Translation(label: l10n.german, value: word.german),
-              const SizedBox(height: 12),
-              _Translation(label: l10n.russian, value: word.russian),
+              for (var i = 0; i < translationCodes.length; i++) ...[
+                if (i > 0) const SizedBox(height: 12),
+                _Translation(
+                  label: l10n.languageName(translationCodes[i]),
+                  value: word.textFor(translationCodes[i]),
+                ),
+              ],
             ],
           ],
         ),

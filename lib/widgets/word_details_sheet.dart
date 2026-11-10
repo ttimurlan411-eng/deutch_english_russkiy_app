@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../l10n/app_localizations.dart';
+import '../models/learning_languages.dart';
 import '../models/verb_forms.dart';
 import '../models/word.dart';
 import '../services/speech_service.dart';
@@ -15,6 +16,8 @@ class WordDetailsSheet extends StatefulWidget {
   const WordDetailsSheet({
     super.key,
     required this.word,
+    required this.learningLanguageCode,
+    required this.translationLanguageCodes,
     required this.isFavorite,
     required this.onFavoriteToggle,
     required this.speech,
@@ -24,6 +27,13 @@ class WordDetailsSheet extends StatefulWidget {
   });
 
   final Word word;
+
+  /// Language shown as the main word and pronounced by the speaker button.
+  final String learningLanguageCode;
+
+  /// Additional languages shown as translations of the main word.
+  final Set<String> translationLanguageCodes;
+
   final bool isFavorite;
   final VoidCallback onFavoriteToggle;
   final SpeechService speech;
@@ -38,6 +48,8 @@ class WordDetailsSheet extends StatefulWidget {
   static Future<void> show(
     BuildContext context, {
     required Word word,
+    required String learningLanguageCode,
+    required Set<String> translationLanguageCodes,
     required bool isFavorite,
     required VoidCallback onFavoriteToggle,
     required SpeechService speech,
@@ -51,6 +63,8 @@ class WordDetailsSheet extends StatefulWidget {
       isScrollControlled: true,
       builder: (_) => WordDetailsSheet(
         word: word,
+        learningLanguageCode: learningLanguageCode,
+        translationLanguageCodes: translationLanguageCodes,
         isFavorite: isFavorite,
         onFavoriteToggle: onFavoriteToggle,
         speech: speech,
@@ -87,6 +101,13 @@ class _WordDetailsSheetState extends State<WordDetailsSheet> {
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
     final l10n = AppLocalizations.of(context);
+    final languageCodes = <String>[
+      widget.learningLanguageCode,
+      for (final code in LearningLanguages.all)
+        if (code != widget.learningLanguageCode &&
+            widget.translationLanguageCodes.contains(code))
+          code,
+    ];
 
     return SafeArea(
       child: ConstrainedBox(
@@ -103,7 +124,7 @@ class _WordDetailsSheetState extends State<WordDetailsSheet> {
                 children: [
                   Expanded(
                     child: Text(
-                      widget.word.english,
+                      widget.word.textFor(widget.learningLanguageCode),
                       style: theme.textTheme.headlineSmall?.copyWith(
                         fontWeight: FontWeight.w700,
                       ),
@@ -129,28 +150,19 @@ class _WordDetailsSheetState extends State<WordDetailsSheet> {
                 ],
               ),
               const SizedBox(height: 20),
-              _DetailRow(
-                label: l10n.english,
-                value: widget.word.english,
-                languageCode: 'en',
-                speech: widget.speech,
+              for (final code in languageCodes) ...[
+                _DetailRow(
+                  label: l10n.languageName(code),
+                  value: widget.word.textFor(code),
+                  languageCode: code,
+                  speech: widget.speech,
+                ),
+                const Divider(height: 24),
+              ],
+              _VerbFormsSection(
+                verb: widget.verb,
+                languageCodes: languageCodes.toSet(),
               ),
-              const Divider(height: 24),
-              _DetailRow(
-                label: l10n.german,
-                value: widget.word.german,
-                languageCode: 'de',
-                speech: widget.speech,
-              ),
-              const Divider(height: 24),
-              _DetailRow(
-                label: l10n.russian,
-                value: widget.word.russian,
-                languageCode: 'ru',
-                speech: widget.speech,
-              ),
-              const Divider(height: 24),
-              _VerbFormsSection(verb: widget.verb),
               const SizedBox(height: 24),
               if (widget.onMemorizationToggle != null) ...[
                 SizedBox(
@@ -202,9 +214,10 @@ class _WordDetailsSheetState extends State<WordDetailsSheet> {
 
 /// Shows the conjugation table of a verb in all three languages.
 class _VerbFormsSection extends StatelessWidget {
-  const _VerbFormsSection({required this.verb});
+  const _VerbFormsSection({required this.verb, required this.languageCodes});
 
   final VerbForms? verb;
+  final Set<String> languageCodes;
 
   @override
   Widget build(BuildContext context) {
@@ -240,35 +253,41 @@ class _VerbFormsSection extends StatelessWidget {
             ),
           )
         else ...[
-          _FormGroup(
-            title: l10n.englishForms,
-            entries: <(String, String)>[
-              (l10n.infinitive, forms.infinitiveEn),
-              (l10n.pastSimple, forms.pastSimple),
-              (l10n.pastParticiple, forms.pastParticiple),
-            ],
-          ),
-          const SizedBox(height: 10),
-          _FormGroup(
-            title: l10n.germanForms,
-            entries: <(String, String)>[
-              (l10n.infinitive, forms.infinitivDe),
-              (l10n.praesens, forms.praesensErSieEs),
-              (l10n.praeteritum, forms.praeteritum),
-              (l10n.partizipII, forms.partizipII),
-              (l10n.hilfsverb, forms.hilfsverb),
-            ],
-          ),
-          const SizedBox(height: 10),
-          _FormGroup(
-            title: l10n.russianForms,
-            entries: <(String, String)>[
-              (l10n.russianInfinitive, forms.russianInf),
-              (l10n.russianPresent, forms.ruPresentYa),
-              (l10n.russianPast, forms.ruPastOn),
-              (l10n.russianFuture, forms.ruFutureYa),
-            ],
-          ),
+          if (languageCodes.contains('en'))
+            _FormGroup(
+              title: l10n.englishForms,
+              entries: <(String, String)>[
+                (l10n.infinitive, forms.infinitiveEn),
+                (l10n.pastSimple, forms.pastSimple),
+                (l10n.pastParticiple, forms.pastParticiple),
+              ],
+            ),
+          if (languageCodes.contains('de')) ...[
+            if (languageCodes.contains('en')) const SizedBox(height: 10),
+            _FormGroup(
+              title: l10n.germanForms,
+              entries: <(String, String)>[
+                (l10n.infinitive, forms.infinitivDe),
+                (l10n.praesens, forms.praesensErSieEs),
+                (l10n.praeteritum, forms.praeteritum),
+                (l10n.partizipII, forms.partizipII),
+                (l10n.hilfsverb, forms.hilfsverb),
+              ],
+            ),
+          ],
+          if (languageCodes.contains('ru')) ...[
+            if (languageCodes.contains('en') || languageCodes.contains('de'))
+              const SizedBox(height: 10),
+            _FormGroup(
+              title: l10n.russianForms,
+              entries: <(String, String)>[
+                (l10n.russianInfinitive, forms.russianInf),
+                (l10n.russianPresent, forms.ruPresentYa),
+                (l10n.russianPast, forms.ruPastOn),
+                (l10n.russianFuture, forms.ruFutureYa),
+              ],
+            ),
+          ],
         ],
       ],
     );

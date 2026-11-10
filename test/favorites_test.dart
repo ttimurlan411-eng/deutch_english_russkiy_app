@@ -75,5 +75,30 @@ void main() {
       expect(controller.isLoaded, isTrue);
       expect(controller.ids, <String>{'A2|to remember'});
     });
+
+    test('adds favorites in bulk without duplicates', () async {
+      final controller = FavoritesController(FavoritesRepository());
+      await controller.load();
+      var notifications = 0;
+      controller.addListener(() => notifications++);
+
+      await controller.addAll(<String>[
+        'A1|mother',
+        'A1|mother',
+        'B1|to achieve',
+      ]);
+
+      expect(controller.ids, <String>{'A1|mother', 'B1|to achieve'});
+      expect(controller.count, 2);
+      expect(notifications, 1);
+      expect(
+        await FavoritesRepository().load(),
+        <String>{'A1|mother', 'B1|to achieve'},
+      );
+
+      await controller.add('A1|mother');
+      expect(notifications, 1);
+      expect(controller.count, 2);
+    });
   });
 }

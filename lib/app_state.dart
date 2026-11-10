@@ -1,5 +1,6 @@
 import 'package:flutter/foundation.dart';
 
+import '../models/example_sentence.dart';
 import '../models/verb_forms.dart';
 import '../models/word.dart';
 import '../services/dictionary_data_service.dart';
@@ -62,6 +63,8 @@ class AppState extends ChangeNotifier {
   List<Word> _words = const <Word>[];
   List<VerbForms> _verbs = const <VerbForms>[];
   Map<String, VerbForms> _verbsByWordId = const <String, VerbForms>{};
+  Map<String, ExampleSentence> _examplesByWordId =
+      const <String, ExampleSentence>{};
   bool _disposed = false;
 
   LoadStatus get status => _status;
@@ -85,6 +88,9 @@ class AppState extends ChangeNotifier {
   /// Returns the verb record attached to [word], if the dataset contains one.
   VerbForms? verbFor(Word word) => _verbsByWordId[word.id];
 
+  /// Returns the example sentence attached to [word], if one exists.
+  ExampleSentence? exampleFor(Word word) => _examplesByWordId[word.id];
+
   /// Learning statistics derived from the dataset and the persisted state.
   LearningStatistics get statistics => LearningStatistics(
     words: _words,
@@ -96,6 +102,9 @@ class AppState extends ChangeNotifier {
   void _applySpeechSettings() {
     speech.enabled = settings.speechEnabled;
     speech.rate = settings.speechRate;
+    // Language preferences affect every word card, so screens listening to
+    // the app state have to rebuild when they change.
+    if (!_disposed) notifyListeners();
   }
 
   /// Propagates memorization changes to every listening screen.
@@ -167,6 +176,7 @@ class AppState extends ChangeNotifier {
     _words = data.words;
     _verbs = data.verbs;
     _verbsByWordId = data.verbsByWordId();
+    _examplesByWordId = data.examplesByWordId();
 
     try {
       await _favorites.load();

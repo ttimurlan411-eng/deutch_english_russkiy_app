@@ -60,4 +60,23 @@ class FavoritesController extends ChangeNotifier {
     notifyListeners();
     await _repository.save(_ids);
   }
+
+  /// Adds a single favorite without toggling an existing one.
+  Future<void> add(String id) => addAll(<String>[id]);
+
+  /// Adds every id of [ids] to the favorites.
+  ///
+  /// The operation is idempotent: ids that are already favorites are kept
+  /// once and no duplicate is ever created. Nothing is written when the
+  /// favorites did not change.
+  Future<void> addAll(Iterable<String> ids) async {
+    var changed = false;
+    for (final id in ids) {
+      if (id.isEmpty) continue;
+      if (_ids.add(id)) changed = true;
+    }
+    if (!changed) return;
+    notifyListeners();
+    await _repository.save(_ids);
+  }
 }

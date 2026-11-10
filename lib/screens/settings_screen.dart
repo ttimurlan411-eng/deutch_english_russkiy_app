@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../app_state.dart';
 import '../l10n/app_localizations.dart';
 import '../models/app_settings.dart';
+import '../models/learning_languages.dart';
 import '../theme/app_theme.dart';
 import '../widgets/app_card.dart';
 
@@ -28,6 +29,13 @@ class SettingsScreen extends StatelessWidget {
       listenable: state.settings,
       builder: (context, _) {
         final settings = state.settings;
+        final translationCodes = <String>[
+          for (final code in LearningLanguages.all)
+            if (code != settings.learningLanguageCode) code,
+        ];
+        final allLanguagesSelected = translationCodes.every(
+          settings.translationLanguageCodes.contains,
+        );
         return Scaffold(
           appBar: AppBar(title: Text(l10n.settings)),
           body: SafeArea(
@@ -60,6 +68,87 @@ class SettingsScreen extends StatelessWidget {
                           ),
                           showCheckmark: false,
                         ),
+                    ],
+                  ),
+                ),
+                const SizedBox(height: 24),
+                _SectionHeader(
+                  icon: Icons.school_outlined,
+                  title: l10n.learningLanguage,
+                  subtitle: l10n.learningLanguageSubtitle,
+                ),
+                const SizedBox(height: 12),
+                AppCard(
+                  child: Wrap(
+                    spacing: 8,
+                    runSpacing: 8,
+                    children: <Widget>[
+                      for (final code in LearningLanguages.all)
+                        ChoiceChip(
+                          key: ValueKey<String>('learning-language-$code'),
+                          label: Text(l10n.languageName(code)),
+                          selected: settings.learningLanguageCode == code,
+                          onSelected: (_) => settings.setLearningLanguage(code),
+                          selectedColor: AppTheme.primary,
+                          labelStyle: TextStyle(
+                            color: settings.learningLanguageCode == code
+                                ? Colors.white
+                                : AppTheme.textPrimary,
+                            fontWeight: FontWeight.w600,
+                          ),
+                          showCheckmark: false,
+                        ),
+                    ],
+                  ),
+                ),
+                const SizedBox(height: 24),
+                _SectionHeader(
+                  icon: Icons.translate_rounded,
+                  title: l10n.translationLanguages,
+                  subtitle: l10n.translationLanguagesSubtitle,
+                ),
+                const SizedBox(height: 12),
+                AppCard(
+                  child: Column(
+                    children: <Widget>[
+                      CheckboxListTile(
+                        key: const ValueKey<String>(
+                          'all-translation-languages',
+                        ),
+                        value: allLanguagesSelected,
+                        onChanged: (enabled) => settings
+                            .setAllTranslationsEnabled(enabled ?? false),
+                        contentPadding: EdgeInsets.zero,
+                        controlAffinity: ListTileControlAffinity.leading,
+                        title: Text(
+                          l10n.allLanguages,
+                          style: Theme.of(context).textTheme.titleMedium
+                              ?.copyWith(fontWeight: FontWeight.w600),
+                        ),
+                        subtitle: Text(
+                          l10n.allLanguagesSubtitle,
+                          style: Theme.of(context).textTheme.bodySmall
+                              ?.copyWith(color: AppTheme.textSecondary),
+                        ),
+                      ),
+                      const Divider(height: 16),
+                      for (final code in LearningLanguages.all)
+                        if (code != settings.learningLanguageCode)
+                          CheckboxListTile(
+                            key: ValueKey<String>('translation-language-$code'),
+                            value: settings.translationLanguageCodes.contains(
+                              code,
+                            ),
+                            onChanged: (enabled) => settings
+                                .setTranslationEnabled(code, enabled ?? false),
+                            contentPadding: EdgeInsets.zero,
+                            controlAffinity: ListTileControlAffinity.leading,
+                            title: Text(
+                              l10n.languageName(code),
+                              style: Theme.of(context).textTheme.titleMedium
+                                  ?.copyWith(fontWeight: FontWeight.w600),
+                            ),
+                          ),
                     ],
                   ),
                 ),
@@ -101,6 +190,7 @@ class SettingsScreen extends StatelessWidget {
                           children: <Widget>[
                             for (final rate in SpeechRates.all)
                               ChoiceChip(
+                                key: ValueKey<String>('speech-rate-$rate'),
                                 label: Text(_rateLabel(l10n, rate)),
                                 selected: settings.speechRate == rate,
                                 onSelected: (_) => settings.setSpeechRate(rate),

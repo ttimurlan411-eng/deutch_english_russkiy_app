@@ -45,6 +45,20 @@ class AppLocalizations {
   String get english => _t('english');
   String get german => _t('german');
   String get russian => _t('russian');
+
+  /// Localized name of a learning language code (`en`, `de`, `ru`).
+  String languageName(String languageCode) {
+    switch (languageCode) {
+      case 'de':
+        return german;
+      case 'ru':
+        return russian;
+      case 'en':
+      default:
+        return english;
+    }
+  }
+
   String get verbs => _t('verbs');
   String get forms => _t('forms');
   String get close => _t('close');
@@ -139,10 +153,44 @@ class AppLocalizations {
   String get filterByLevel => _t('filterByLevel');
   String get noVerbData => _t('noVerbData');
 
+  // Example sentences.
+  String get exampleSentences => _t('exampleSentences');
+  String get noExampleSentence => _t('noExampleSentence');
+
+  // Bulk selection.
+  String get selectMode => _t('selectMode');
+  String get exitSelectMode => _t('exitSelectMode');
+  String get selectAll => _t('selectAll');
+  String get deselectAll => _t('deselectAll');
+  String get markSelectedLearned => _t('markSelectedLearned');
+  String get addSelectedToFavorites => _t('addSelectedToFavorites');
+  String get clearSelected => _t('clearSelected');
+
+  /// Label with the number of selected words, e.g. `3 тандалды`.
+  String selectedCount(int count) {
+    return _t('selectedCount').replaceAll('{count}', '$count');
+  }
+
+  /// Confirmation after a bulk "mark as learned" action.
+  String bulkLearnedDone(int count) {
+    return _t('bulkLearnedDone').replaceAll('{count}', '$count');
+  }
+
+  /// Confirmation after a bulk "add to favorites" action.
+  String bulkFavoritesDone(int count) {
+    return _t('bulkFavoritesDone').replaceAll('{count}', '$count');
+  }
+
   // Settings screen.
   String get settings => _t('settings');
   String get interfaceLanguage => _t('interfaceLanguage');
   String get interfaceLanguageSubtitle => _t('interfaceLanguageSubtitle');
+  String get learningLanguage => _t('learningLanguage');
+  String get learningLanguageSubtitle => _t('learningLanguageSubtitle');
+  String get translationLanguages => _t('translationLanguages');
+  String get translationLanguagesSubtitle => _t('translationLanguagesSubtitle');
+  String get allLanguages => _t('allLanguages');
+  String get allLanguagesSubtitle => _t('allLanguagesSubtitle');
   String get speech => _t('speech');
   String get speechSubtitle => _t('speechSubtitle');
   String get speechEnabled => _t('speechEnabled');
@@ -226,9 +274,28 @@ class AppLocalizations {
     'clearSearch': 'Тазалоо',
     'filterByLevel': 'Деңгээл боюнча чүүртүү',
     'noVerbData': 'Бул сөздүн этиш формасы жок',
+    'exampleSentences': 'Мисал сүйлөм',
+    'noExampleSentence': 'Мисал азырынча жок',
+    'selectMode': 'Тандоо',
+    'exitSelectMode': 'Тандоодон чыгуу',
+    'selectAll': 'Баарын тандоо',
+    'deselectAll': 'Тандоону алып салуу',
+    'markSelectedLearned': 'Үйрөндүм деп белгилөө',
+    'addSelectedToFavorites': 'Сүйүктүүлөргө кошуу',
+    'clearSelected': 'Тандалгандарды алып салуу',
+    'selectedCount': '{count} тандалды',
+    'bulkLearnedDone': '{count} сөз үйрөнүлдү деп белгиленди',
+    'bulkFavoritesDone': '{count} сөз сүйүктүүлөргө кошулду',
     'settings': 'Жөндөөлөр',
     'interfaceLanguage': 'Интерфейс тили',
     'interfaceLanguageSubtitle': 'Колдонмонун тилин тандаңыз',
+    'learningLanguage': 'Үйрөнүүчү тил',
+    'learningLanguageSubtitle':
+        'Кайсы тилди үйрөнөсүз? Башкы сөз ушул тилде көрүнөт',
+    'translationLanguages': 'Котормо тилдери',
+    'translationLanguagesSubtitle': 'Кошумча көрсөтүлүүчү тилдерди тандаңыз',
+    'allLanguages': 'Үч тилдин баары',
+    'allLanguagesSubtitle': 'Үйрөнүүчү тил жана эки котормо бирге',
     'speech': 'Үн',
     'speechSubtitle': 'Сөздөрдү угуу мүмкүнчүлүгү',
     'speechEnabled': 'Окуу мүмкүн',
@@ -344,9 +411,28 @@ class AppLocalizations {
     'clearSearch': 'Clear',
     'filterByLevel': 'Filter by level',
     'noVerbData': 'No verb forms for this word',
+    'exampleSentences': 'Example sentence',
+    'noExampleSentence': 'No example yet',
+    'selectMode': 'Select',
+    'exitSelectMode': 'Exit selection',
+    'selectAll': 'Select all',
+    'deselectAll': 'Clear selection',
+    'markSelectedLearned': 'Mark as learned',
+    'addSelectedToFavorites': 'Add to favorites',
+    'clearSelected': 'Remove selected',
+    'selectedCount': '{count} selected',
+    'bulkLearnedDone': '{count} words marked as learned',
+    'bulkFavoritesDone': '{count} words added to favorites',
     'settings': 'Settings',
     'interfaceLanguage': 'Interface language',
     'interfaceLanguageSubtitle': 'Choose the language of the app',
+    'learningLanguage': 'Learning language',
+    'learningLanguageSubtitle':
+        'The language you are studying; shown as the main word',
+    'translationLanguages': 'Translation languages',
+    'translationLanguagesSubtitle': 'Choose the additional languages to show',
+    'allLanguages': 'All three languages',
+    'allLanguagesSubtitle': 'Show the learning language and both translations',
     'speech': 'Speech',
     'speechSubtitle': 'Pronouncing the words',
     'speechEnabled': 'Enable pronunciation',
@@ -460,9 +546,28 @@ class AppLocalizations {
     'clearSearch': 'Очистить',
     'filterByLevel': 'Фильтр по уровню',
     'noVerbData': 'Форм глагола для этого слова нет',
+    'exampleSentences': 'Пример предложения',
+    'noExampleSentence': 'Примера пока нет',
+    'selectMode': 'Выбор',
+    'exitSelectMode': 'Выйти из режима выбора',
+    'selectAll': 'Выбрать все',
+    'deselectAll': 'Снять выделение',
+    'markSelectedLearned': 'Отметить выученными',
+    'addSelectedToFavorites': 'Добавить в избранное',
+    'clearSelected': 'Убрать выбранные',
+    'selectedCount': 'Выбрано: {count}',
+    'bulkLearnedDone': '{count} слов отмечено как выученные',
+    'bulkFavoritesDone': '{count} слов добавлено в избранное',
     'settings': 'Настройки',
     'interfaceLanguage': 'Язык интерфейса',
     'interfaceLanguageSubtitle': 'Выберите язык приложения',
+    'learningLanguage': 'Изучаемый язык',
+    'learningLanguageSubtitle':
+        'Язык, который вы учите; показывается как основное слово',
+    'translationLanguages': 'Языки перевода',
+    'translationLanguagesSubtitle': 'Выберите дополнительные языки для показа',
+    'allLanguages': 'Все три языка',
+    'allLanguagesSubtitle': 'Показать изучаемый язык и оба перевода',
     'speech': 'Произношение',
     'speechSubtitle': 'Чтение слов вслух',
     'speechEnabled': 'Включить озвучивание',

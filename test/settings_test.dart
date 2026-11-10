@@ -1,5 +1,6 @@
 import 'package:english_deutch_ruskiy/l10n/app_localizations.dart';
 import 'package:english_deutch_ruskiy/models/app_settings.dart';
+import 'package:english_deutch_ruskiy/models/learning_languages.dart';
 import 'package:english_deutch_ruskiy/services/settings_repository.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shared_preferences/shared_preferences.dart';
@@ -16,8 +17,28 @@ void main() {
       final settings = await SettingsRepository().load();
 
       expect(settings.languageCode, 'ky');
+      expect(settings.learningLanguageCode, LearningLanguages.english);
+      expect(settings.displayLanguageCodes, LearningLanguages.all);
       expect(settings.speechEnabled, isTrue);
       expect(settings.speechRate, SpeechRates.normal);
+    });
+
+    test('reads the stored learning languages', () async {
+      SharedPreferences.setMockInitialValues(<String, Object>{
+        SettingsRepository.learningLanguageKey: 'de',
+        SettingsRepository.translationLanguagesKey: <String>[
+          'en',
+          'ru',
+          'de',
+          'xx',
+        ],
+      });
+
+      final settings = await SettingsRepository().load();
+
+      expect(settings.learningLanguageCode, 'de');
+      expect(settings.translationLanguageCodes, <String>{'en', 'ru'});
+      expect(settings.displayLanguageCodes, <String>['de', 'en', 'ru']);
     });
 
     test('reads the stored values', () async {
@@ -86,6 +107,58 @@ void main() {
       // Setting the same language again changes nothing.
       await controller.setLanguage('en');
       expect(notifications, 1);
+    });
+
+    test('keeps the previous learning language as a translation', () async {
+      final repository = SettingsRepository();
+      final controller = SettingsController(repository);
+      await controller.load();
+
+      await controller.setLearningLanguage('de');
+
+      expect(controller.learningLanguageCode, 'de');
+      expect(controller.translationLanguageCodes, <String>{'en', 'ru'});
+      expect(controller.displayLanguageCodes, <String>['de', 'en', 'ru']);
+
+      final reloaded = await repository.load();
+      expect(reloaded.learningLanguageCode, 'de');
+      expect(reloaded.displayLanguageCodes, <String>['de', 'en', 'ru']);
+    });
+
+    test(
+      'toggles translations and never hides the learning language',
+      () async {
+        final repository = SettingsRepository();
+        final controller = SettingsController(repository);
+        await controller.load();
+
+        await controller.setTranslationEnabled('ru', false);
+        expect(controller.translationLanguageCodes, <String>{'de'});
+
+        await controller.setTranslationEnabled('en', false);
+        expect(controller.translationLanguageCodes, <String>{'de'});
+
+        final reloaded = await repository.load();
+        expect(reloaded.translationLanguageCodes, <String>{'de'});
+        expect(reloaded.displayLanguageCodes, <String>['en', 'de']);
+      },
+    );
+
+    test('selects and clears all three languages at once', () async {
+      final repository = SettingsRepository();
+      final controller = SettingsController(repository);
+      await controller.load();
+
+      await controller.setLearningLanguage('de');
+      await controller.setAllTranslationsEnabled(false);
+      expect(controller.displayLanguageCodes, <String>['de']);
+
+      await controller.setAllTranslationsEnabled(true);
+      expect(controller.translationLanguageCodes, <String>{'en', 'ru'});
+      expect(controller.displayLanguageCodes, <String>['de', 'en', 'ru']);
+
+      final reloaded = await repository.load();
+      expect(reloaded.displayLanguageCodes, <String>['de', 'en', 'ru']);
     });
 
     test('persists the speech preferences', () async {

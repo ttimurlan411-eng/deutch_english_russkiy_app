@@ -2,8 +2,10 @@ import 'package:flutter/material.dart';
 
 import '../app_state.dart';
 import '../l10n/app_localizations.dart';
+import '../services/bulk_selection_controller.dart';
 import '../services/word_search.dart';
 import '../theme/app_theme.dart';
+import '../widgets/bulk_selection.dart';
 import '../widgets/level_filter.dart';
 import '../widgets/loading_view.dart';
 import '../widgets/state_views.dart';
@@ -26,11 +28,13 @@ class LearnedWordsScreen extends StatefulWidget {
 
 class _LearnedWordsScreenState extends State<LearnedWordsScreen> {
   final TextEditingController _searchController = TextEditingController();
+  final BulkSelectionController _selection = BulkSelectionController();
   String _query = '';
   String? _level;
 
   @override
   void dispose() {
+    _selection.dispose();
     _searchController.dispose();
     super.dispose();
   }
@@ -49,12 +53,24 @@ class _LearnedWordsScreenState extends State<LearnedWordsScreen> {
         widget.state,
         widget.state.favorites,
         widget.state.memorization,
+        _selection,
       ]),
       builder: (context, _) {
         return Scaffold(
           appBar: AppBar(
             title: Text(l10n.learnedWords),
             actions: <Widget>[
+              IconButton(
+                tooltip: _selection.isActive
+                    ? l10n.exitSelectMode
+                    : l10n.selectMode,
+                onPressed: _selection.toggleMode,
+                icon: Icon(
+                  _selection.isActive
+                      ? Icons.close_rounded
+                      : Icons.checklist_rounded,
+                ),
+              ),
               IconButton(
                 tooltip: l10n.openStatistics,
                 onPressed: () => Navigator.of(context).push(
@@ -139,8 +155,19 @@ class _LearnedWordsScreenState extends State<LearnedWordsScreen> {
       );
     }
 
+    final visibleIds = results.map((word) => word.id).toSet();
+    final selectedVisibleIds = visibleIds.where(_selection.contains).toSet();
+    final allSelected =
+        results.isNotEmpty && selectedVisibleIds.length == results.length;
+
     return Column(
       children: <Widget>[
+        if (_selection.isActive)
+          BulkSelectionHeader(
+            selectedCount: selectedVisibleIds.length,
+            allSelected: allSelected,
+            onToggleAll: () => _selection.toggleAll(visibleIds),
+          ),
         Padding(
           padding: const EdgeInsets.fromLTRB(16, 4, 16, 8),
           child: Align(
@@ -163,14 +190,27 @@ class _LearnedWordsScreenState extends State<LearnedWordsScreen> {
               final isFav = widget.state.favorites.contains(word.id);
               return WordCard(
                 word: word,
+                learningLanguageCode:
+                    widget.state.settings.learningLanguageCode,
+                translationLanguageCodes:
+                    widget.state.settings.translationLanguageCodes,
                 isFavorite: isFav,
                 isLearned: true,
+                example: widget.state.exampleFor(word),
+                selectionMode: _selection.isActive,
+                isSelected: _selection.contains(word.id),
+                onSelectionChanged: (selected) =>
+                    _selection.setSelected(word.id, selected ?? false),
                 onFavoriteToggle: () => widget.state.favorites.toggle(word.id),
                 onLearnedToggle: () =>
                     widget.state.memorization.markNew(word.id),
                 onTap: () => WordDetailsSheet.show(
                   context,
                   word: word,
+                  learningLanguageCode:
+                      widget.state.settings.learningLanguageCode,
+                  translationLanguageCodes:
+                      widget.state.settings.translationLanguageCodes,
                   isFavorite: isFav,
                   isLearned: true,
                   onFavoriteToggle: () =>
@@ -185,7 +225,38 @@ class _LearnedWordsScreenState extends State<LearnedWordsScreen> {
             },
           ),
         ),
+        if (_selection.isActive)
+          BulkSelectionActions(
+            enabled: selectedVisibleIds.isNotEmpty,
+            onMarkLearned: () => _markSelectedLearned(selectedVisibleIds),
+            onAddToFavorites: () => _addSelectedToFavorites(selectedVisibleIds),
+            onClearSelected: _selection.clear,
+          ),
       ],
     );
+  }
+
+  Future<void> _markSelectedLearned(Set<String> ids) async {
+    if (ids.isEmpty) return;
+    await widget.state.memorization.markLearnedAll(ids);
+    if (!mounted) return;
+    _selection.clear();
+    final l10n = AppLocalizations.of(context);
+    ScaffoldMessenger.of(context)
+      ..hideCurrentSnackBar()
+      ..showSnackBar(SnackBar(content: Text(l10n.bulkLearnedDone(ids.length))));
+  }
+
+  Future<void> _addSelectedToFavorites(Set<String> ids) async {
+    if (ids.isEmpty) return;
+    await widget.state.favorites.addAll(ids);
+    if (!mounted) return;
+    _selection.clear();
+    final l10n = AppLocalizations.of(context);
+    ScaffoldMessenger.of(context)
+      ..hideCurrentSnackBar()
+      ..showSnackBar(
+        SnackBar(content: Text(l10n.bulkFavoritesDone(ids.length))),
+      );
   }
 }

@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 import '../l10n/app_localizations.dart';
+import '../models/example_sentence.dart';
+import '../models/learning_languages.dart';
 import '../models/word.dart';
 import '../services/speech_service.dart';
 import '../theme/app_theme.dart';
@@ -15,15 +17,28 @@ class WordCard extends StatelessWidget {
   const WordCard({
     super.key,
     required this.word,
+    required this.learningLanguageCode,
+    required this.translationLanguageCodes,
     required this.isFavorite,
     required this.onFavoriteToggle,
     required this.onTap,
     required this.speech,
     this.isLearned = false,
     this.onLearnedToggle,
+    this.selectionMode = false,
+    this.isSelected = false,
+    this.onSelectionChanged,
+    this.example,
   });
 
   final Word word;
+
+  /// Language shown as the main word and pronounced by the speaker button.
+  final String learningLanguageCode;
+
+  /// Additional languages shown as translations of the main word.
+  final Set<String> translationLanguageCodes;
+
   final bool isFavorite;
   final VoidCallback onFavoriteToggle;
   final VoidCallback onTap;
@@ -35,91 +50,262 @@ class WordCard extends StatelessWidget {
   /// Marks the word as learned or moves it back to the new words.
   final VoidCallback? onLearnedToggle;
 
+  /// Whether the list is in selection mode.
+  final bool selectionMode;
+
+  /// Whether the word is selected in selection mode.
+  final bool isSelected;
+
+  /// Called when the checkbox of the card is toggled.
+  final ValueChanged<bool?>? onSelectionChanged;
+
+  /// Example sentence attached to the word, if the dataset contains one.
+  final ExampleSentence? example;
+
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
     final l10n = AppLocalizations.of(context);
+    final translationCodes = <String>[
+      for (final code in LearningLanguages.all)
+        if (code != learningLanguageCode &&
+            translationLanguageCodes.contains(code))
+          code,
+    ];
 
     return Material(
-      color: AppTheme.surface,
+      color: selectionMode && isSelected ? AppTheme.tint : AppTheme.surface,
       borderRadius: BorderRadius.circular(20),
       clipBehavior: Clip.antiAlias,
-      child: InkWell(
-        onTap: onTap,
-        child: Padding(
-          padding: const EdgeInsets.fromLTRB(16, 14, 8, 14),
-          child: Row(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Expanded(
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Row(
-                      children: [
-                        Flexible(
-                          child: Text(
-                            word.english,
-                            style: theme.textTheme.titleMedium?.copyWith(
-                              fontWeight: FontWeight.w700,
-                            ),
-                          ),
-                        ),
-                        const SizedBox(width: 8),
-                        _LevelBadge(level: word.level),
-                      ],
-                    ),
-                    const SizedBox(height: 6),
-                    _TranslationLine(
-                      language: l10n.german,
-                      value: word.german,
-                      color: AppTheme.primary,
-                    ),
-                    const SizedBox(height: 3),
-                    _TranslationLine(
-                      language: l10n.russian,
-                      value: word.russian,
-                      color: AppTheme.secondary,
+      child: Column(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          InkWell(
+            onTap: selectionMode
+                ? () => onSelectionChanged?.call(!isSelected)
+                : onTap,
+            child: Padding(
+              padding: const EdgeInsets.fromLTRB(16, 14, 8, 14),
+              child: Row(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  if (selectionMode) ...<Widget>[
+                    Padding(
+                      padding: const EdgeInsets.only(right: 8),
+                      child: Checkbox(
+                        key: ValueKey<String>('word-checkbox-${word.id}'),
+                        value: isSelected,
+                        onChanged: onSelectionChanged,
+                        activeColor: AppTheme.primary,
+                        visualDensity: VisualDensity.compact,
+                      ),
                     ),
                   ],
-                ),
-              ),
-              const SizedBox(width: 4),
-              SpeakerButton(text: word.english, speechService: speech),
-              if (onLearnedToggle != null)
-                IconButton(
-                  onPressed: onLearnedToggle,
-                  tooltip: isLearned ? l10n.markAsNew : l10n.markAsLearned,
-                  style: IconButton.styleFrom(
-                    foregroundColor: isLearned
-                        ? AppTheme.success
-                        : AppTheme.textSecondary,
-                    minimumSize: const Size(40, 40),
-                    padding: EdgeInsets.zero,
+                  Expanded(
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Row(
+                          children: [
+                            Flexible(
+                              child: Text(
+                                word.textFor(learningLanguageCode),
+                                style: theme.textTheme.titleMedium?.copyWith(
+                                  fontWeight: FontWeight.w700,
+                                ),
+                              ),
+                            ),
+                            const SizedBox(width: 8),
+                            _LevelBadge(level: word.level),
+                          ],
+                        ),
+                        for (var i = 0; i < translationCodes.length; i++) ...[
+                          SizedBox(height: i == 0 ? 6 : 3),
+                          _TranslationLine(
+                            language: l10n.languageName(translationCodes[i]),
+                            value: word.textFor(translationCodes[i]),
+                            color: _languageColor(translationCodes[i]),
+                          ),
+                        ],
+                      ],
+                    ),
                   ),
-                  icon: Icon(
-                    isLearned
-                        ? Icons.check_circle_rounded
-                        : Icons.check_circle_outline_rounded,
-                    size: 22,
-                  ),
-                ),
-              IconButton(
-                onPressed: onFavoriteToggle,
-                tooltip: l10n.favorites,
-                style: IconButton.styleFrom(
-                  foregroundColor: isFavorite
-                      ? const Color(0xFFE96443)
-                      : AppTheme.textSecondary,
-                ),
-                icon: Icon(
-                  isFavorite ? Icons.favorite : Icons.favorite_border,
-                  size: 22,
-                ),
+                  if (!selectionMode) ...<Widget>[
+                    const SizedBox(width: 4),
+                    SpeakerButton(
+                      text: word.textFor(learningLanguageCode),
+                      languageCode: learningLanguageCode,
+                      speechService: speech,
+                    ),
+                    if (onLearnedToggle != null)
+                      IconButton(
+                        onPressed: onLearnedToggle,
+                        tooltip: isLearned
+                            ? l10n.markAsNew
+                            : l10n.markAsLearned,
+                        style: IconButton.styleFrom(
+                          foregroundColor: isLearned
+                              ? AppTheme.success
+                              : AppTheme.textSecondary,
+                          minimumSize: const Size(40, 40),
+                          padding: EdgeInsets.zero,
+                        ),
+                        icon: Icon(
+                          isLearned
+                              ? Icons.check_circle_rounded
+                              : Icons.check_circle_outline_rounded,
+                          size: 22,
+                        ),
+                      ),
+                    IconButton(
+                      onPressed: onFavoriteToggle,
+                      tooltip: l10n.favorites,
+                      style: IconButton.styleFrom(
+                        foregroundColor: isFavorite
+                            ? const Color(0xFFE96443)
+                            : AppTheme.textSecondary,
+                      ),
+                      icon: Icon(
+                        isFavorite ? Icons.favorite : Icons.favorite_border,
+                        size: 22,
+                      ),
+                    ),
+                  ],
+                ],
               ),
-            ],
+            ),
+          ),
+          const Divider(height: 1),
+          _ExampleSection(
+            example: example,
+            speech: speech,
+            languageCodes: <String>[learningLanguageCode, ...translationCodes],
+          ),
+        ],
+      ),
+    );
+  }
+}
+
+/// Collapsible example sentence block shown at the bottom of a word card.
+class _ExampleSection extends StatelessWidget {
+  const _ExampleSection({
+    required this.example,
+    required this.speech,
+    required this.languageCodes,
+  });
+
+  final ExampleSentence? example;
+  final SpeechService speech;
+  final List<String> languageCodes;
+
+  @override
+  Widget build(BuildContext context) {
+    final theme = Theme.of(context);
+    final l10n = AppLocalizations.of(context);
+    final sentence = example;
+    final lines = <Widget>[
+      if (sentence != null)
+        for (final code in languageCodes)
+          if (sentence.textFor(code).trim().isNotEmpty)
+            _ExampleLine(
+              label: l10n.languageName(code),
+              text: sentence.textFor(code),
+              languageCode: code,
+              wordId: sentence.wordId,
+              speech: speech,
+            ),
+    ];
+
+    return Theme(
+      data: theme.copyWith(dividerColor: Colors.transparent),
+      child: ExpansionTile(
+        tilePadding: const EdgeInsets.symmetric(horizontal: 16),
+        childrenPadding: const EdgeInsets.fromLTRB(16, 0, 16, 14),
+        leading: const Icon(
+          Icons.chat_bubble_outline_rounded,
+          size: 20,
+          color: AppTheme.primary,
+        ),
+        title: Text(
+          l10n.exampleSentences,
+          style: theme.textTheme.labelLarge?.copyWith(
+            color: AppTheme.primary,
+            fontWeight: FontWeight.w700,
           ),
         ),
+        shape: const Border(),
+        collapsedShape: const Border(),
+        children: <Widget>[
+          if (lines.isEmpty)
+            Align(
+              alignment: Alignment.centerLeft,
+              child: Text(
+                l10n.noExampleSentence,
+                style: theme.textTheme.bodyMedium?.copyWith(
+                  color: AppTheme.textSecondary,
+                ),
+              ),
+            )
+          else
+            Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: lines,
+            ),
+        ],
+      ),
+    );
+  }
+}
+
+class _ExampleLine extends StatelessWidget {
+  const _ExampleLine({
+    required this.label,
+    required this.text,
+    required this.languageCode,
+    required this.wordId,
+    required this.speech,
+  });
+
+  final String label;
+  final String text;
+  final String languageCode;
+  final String wordId;
+  final SpeechService speech;
+
+  @override
+  Widget build(BuildContext context) {
+    final theme = Theme.of(context);
+    if (text.trim().isEmpty) return const SizedBox.shrink();
+
+    return Padding(
+      padding: const EdgeInsets.only(bottom: 8),
+      child: Row(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: <Widget>[
+          Expanded(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: <Widget>[
+                Text(
+                  label,
+                  style: theme.textTheme.labelSmall?.copyWith(
+                    color: AppTheme.textSecondary,
+                  ),
+                ),
+                const SizedBox(height: 2),
+                Text(text, style: theme.textTheme.bodyMedium),
+              ],
+            ),
+          ),
+          SpeakerButton(
+            key: ValueKey<String>('example-$wordId-$languageCode'),
+            text: text,
+            languageCode: languageCode,
+            speechService: speech,
+            size: 18,
+          ),
+        ],
       ),
     );
   }
@@ -159,6 +345,18 @@ class _TranslationLine extends StatelessWidget {
         ),
       ],
     );
+  }
+}
+
+Color _languageColor(String languageCode) {
+  switch (languageCode) {
+    case 'de':
+      return AppTheme.secondary;
+    case 'ru':
+      return AppTheme.success;
+    case 'en':
+    default:
+      return AppTheme.primary;
   }
 }
 

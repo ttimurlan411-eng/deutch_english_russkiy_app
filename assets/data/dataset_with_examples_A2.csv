@@ -1,0 +1,2817 @@
+﻿level,english,german,russian,example_en,example_de,example_ru
+A1,mother,die Mutter,мама,My mother is a teacher.,Meine Mutter ist Lehrerin.,Моя мама — учительница.
+A1,father,der Vater,папа,My father works in a bank.,Mein Vater arbeitet in einer Bank.,Мой папа работает в банке.
+A1,parents,die Eltern,родители,My parents live in the village.,Meine Eltern wohnen im Dorf.,Мои родители живут в деревне.
+A1,brother,der Bruder,брат,I have one brother.,Ich habe einen Bruder.,У меня один брат.
+A1,sister,die Schwester,сестра,My sister is ten years old.,Meine Schwester ist zehn Jahre alt.,Моей сестре десять лет.
+A1,son,der Sohn,сын,Their son plays football.,Ihr Sohn spielt Fußball.,Их сын играет в футбол.
+A1,daughter,die Tochter,дочь,Her daughter is at school.,Ihre Tochter ist in der Schule.,Её дочь в школе.
+A1,child,das Kind,ребёнок,The child is sleeping.,Das Kind schläft.,Ребёнок спит.
+A1,grandmother,die Oma,бабушка,My grandmother cooks well.,Meine Oma kocht gut.,Моя бабушка хорошо готовит.
+A1,grandfather,der Opa,дедушка,My grandfather reads the newspaper.,Mein Opa liest die Zeitung.,Мой дедушка читает газету.
+A1,husband,der Ehemann,муж,Her husband is a doctor.,Ihr Ehemann ist Arzt.,Её муж — врач.
+A1,wife,die Ehefrau,жена,His wife is very nice.,Seine Ehefrau ist sehr nett.,Его жена очень приятная.
+A1,friend,der Freund,друг,He is my best friend.,Er ist mein bester Freund.,Он мой лучший друг.
+A1,man,der Mann,мужчина,The man is old.,Der Mann ist alt.,Мужчина старый.
+A1,woman,die Frau,женщина,The woman is reading a book.,Die Frau liest ein Buch.,Женщина читает книгу.
+A1,boy,der Junge,мальчик,The boy is playing.,Der Junge spielt.,Мальчик играет.
+A1,girl,das Mädchen,девочка,The girl is singing.,Das Mädchen singt.,Девочка поёт.
+A1,bread,das Brot,хлеб,I buy bread every day.,Ich kaufe jeden Tag Brot.,Я каждый день покупаю хлеб.
+A1,water,das Wasser,вода,Can I have some water?,Kann ich Wasser haben?,Можно мне воды?
+A1,milk,die Milch,молоко,The milk is cold.,Die Milch ist kalt.,Молоко холодное.
+A1,coffee,der Kaffee,кофе,I drink coffee in the morning.,Ich trinke morgens Kaffee.,Утром я пью кофе.
+A1,tea,der Tee,чай,Do you want tea?,Willst du Tee?,Ты хочешь чай?
+A1,juice,der Saft,сок,The juice is sweet.,Der Saft ist süß.,Сок сладкий.
+A1,beer,das Bier,пиво,He drinks a beer.,Er trinkt ein Bier.,Он пьёт пиво.
+A1,wine,der Wein,вино,We drink red wine.,Wir trinken Rotwein.,Мы пьём красное вино.
+A1,apple,der Apfel,яблоко,The apple is red.,Der Apfel ist rot.,Яблоко красное.
+A1,banana,die Banane,банан,I like bananas.,Ich mag Bananen.,Я люблю бананы.
+A1,orange,die Orange,апельсин,She eats an orange.,Sie isst eine Orange.,Она ест апельсин.
+A1,potato,die Kartoffel,картофель,We cook potatoes.,Wir kochen Kartoffeln.,Мы варим картошку.
+A1,tomato,die Tomate,помидор,The tomato is fresh.,Die Tomate ist frisch.,Помидор свежий.
+A1,cheese,der Käse,сыр,I want cheese.,Ich will Käse.,Я хочу сыр.
+A1,egg,das Ei,яйцо,I eat an egg for breakfast.,Ich esse ein Ei zum Frühstück.,На завтрак я ем яйцо.
+A1,meat,das Fleisch,мясо,He does not eat meat.,Er isst kein Fleisch.,Он не ест мясо.
+A1,fish,der Fisch,рыба,We eat fish on Fridays.,Wir essen freitags Fisch.,По пятницам мы едим рыбу.
+A1,rice,der Reis,рис,Rice is cheap.,Reis ist billig.,Рис дешёвый.
+A1,soup,die Suppe,суп,The soup is hot.,Die Suppe ist heiß.,Суп горячий.
+A1,salad,der Salat,салат,I make a salad.,Ich mache einen Salat.,Я делаю салат.
+A1,sugar,der Zucker,сахар,"No sugar, please.","Keinen Zucker, bitte.","Без сахара, пожалуйста."
+A1,salt,das Salz,соль,The salt is on the table.,Das Salz steht auf dem Tisch.,Соль на столе.
+A1,butter,die Butter,масло,"Bread and butter, please.","Brot und Butter, bitte.","Хлеб и масло, пожалуйста."
+A1,breakfast,das Frühstück,завтрак,Breakfast is at eight.,Das Frühstück ist um acht.,Завтрак в восемь.
+A1,lunch,das Mittagessen,обед,Lunch is at one o'clock.,Das Mittagessen ist um eins.,Обед в час.
+A1,dinner,das Abendessen,ужин,Dinner is ready.,Das Abendessen ist fertig.,Ужин готов.
+A1,restaurant,das Restaurant,ресторан,The restaurant is full.,Das Restaurant ist voll.,Ресторан полный.
+A1,menu,die Speisekarte,меню,Can I see the menu?,Kann ich die Speisekarte sehen?,Можно посмотреть меню?
+A1,bill,die Rechnung,счёт,"The bill, please.","Die Rechnung, bitte.","Счёт, пожалуйста."
+A1,house,das Haus,дом,Our house is big.,Unser Haus ist groß.,Наш дом большой.
+A1,flat,die Wohnung,квартира,My flat is small.,Meine Wohnung ist klein.,Моя квартира маленькая.
+A1,room,das Zimmer,комната,The room is clean.,Das Zimmer ist sauber.,Комната чистая.
+A1,kitchen,die Küche,кухня,She is in the kitchen.,Sie ist in der Küche.,Она на кухне.
+A1,bathroom,das Badezimmer,ванная,The bathroom is on the left.,Das Badezimmer ist links.,Ванная слева.
+A1,bedroom,das Schlafzimmer,спальня,My bedroom is small.,Mein Schlafzimmer ist klein.,Моя спальня маленькая.
+A1,door,die Tür,дверь,"Open the door, please.","Öffne die Tür, bitte.","Открой дверь, пожалуйста."
+A1,window,das Fenster,окно,The window is open.,Das Fenster ist offen.,Окно открыто.
+A1,table,der Tisch,стол,The book is on the table.,Das Buch liegt auf dem Tisch.,Книга лежит на столе.
+A1,chair,der Stuhl,стул,Take a chair.,Nimm einen Stuhl.,Возьми стул.
+A1,bed,das Bett,кровать,The bed is new.,Das Bett ist neu.,Кровать новая.
+A1,garden,der Garten,сад,We have a garden.,Wir haben einen Garten.,У нас есть сад.
+A1,key,der Schlüssel,ключ,Where is my key?,Wo ist mein Schlüssel?,Где мой ключ?
+A1,lamp,die Lampe,лампа,The lamp is on the table.,Die Lampe steht auf dem Tisch.,Лампа стоит на столе.
+A1,street,die Straße,улица,The street is long.,Die Straße ist lang.,Улица длинная.
+A1,city,die Stadt,город,I live in a big city.,Ich wohne in einer großen Stadt.,Я живу в большом городе.
+A1,village,das Dorf,деревня,My grandmother lives in a village.,Meine Oma wohnt in einem Dorf.,Моя бабушка живёт в деревне.
+A1,country,das Land,страна,My country is beautiful.,Mein Land ist schön.,Моя страна красивая.
+A1,school,die Schule,школа,School starts at eight.,Die Schule beginnt um acht.,Школа начинается в восемь.
+A1,university,die Universität,университет,She is at the university.,Sie ist an der Universität.,Она в университете.
+A1,shop,das Geschäft,магазин,The shop is closed.,Das Geschäft ist geschlossen.,Магазин закрыт.
+A1,supermarket,der Supermarkt,супермаркет,I go to the supermarket.,Ich gehe zum Supermarkt.,Я иду в супермаркет.
+A1,bank,die Bank,банк,The bank is here.,Die Bank ist hier.,Банк здесь.
+A1,hospital,das Krankenhaus,больница,He is in the hospital.,Er ist im Krankenhaus.,Он в больнице.
+A1,pharmacy,die Apotheke,аптека,The pharmacy is open.,Die Apotheke ist offen.,Аптека открыта.
+A1,post office,die Post,почта,The post office is there.,Die Post ist dort.,Почта там.
+A1,station,der Bahnhof,вокзал,The station is big.,Der Bahnhof ist groß.,Вокзал большой.
+A1,airport,der Flughafen,аэропорт,We are at the airport.,Wir sind am Flughafen.,Мы в аэропорту.
+A1,hotel,das Hotel,гостиница,The hotel is good.,Das Hotel ist gut.,Гостиница хорошая.
+A1,park,der Park,парк,We walk in the park.,Wir gehen im Park spazieren.,Мы гуляем в парке.
+A1,market,der Markt,рынок,I buy apples at the market.,Ich kaufe Äpfel auf dem Markt.,Я покупаю яблоки на рынке.
+A1,car,das Auto,машина,My car is new.,Mein Auto ist neu.,Моя машина новая.
+A1,bus,der Bus,автобус,The bus comes late.,Der Bus kommt spät.,Автобус приходит поздно.
+A1,train,der Zug,поезд,The train is fast.,Der Zug ist schnell.,Поезд быстрый.
+A1,bicycle,das Fahrrad,велосипед,I ride my bicycle.,Ich fahre Fahrrad.,Я езжу на велосипеде.
+A1,plane,das Flugzeug,самолёт,The plane is big.,Das Flugzeug ist groß.,Самолёт большой.
+A1,ticket,die Fahrkarte,билет,I need a ticket.,Ich brauche eine Fahrkarte.,Мне нужен билет.
+A1,taxi,das Taxi,такси,We take a taxi.,Wir nehmen ein Taxi.,Мы берём такси.
+A1,day,der Tag,день,It is a nice day.,Es ist ein schöner Tag.,Сегодня хороший день.
+A1,week,die Woche,неделя,A week has seven days.,Eine Woche hat sieben Tage.,В неделе семь дней.
+A1,month,der Monat,месяц,This month is cold.,Dieser Monat ist kalt.,Этот месяц холодный.
+A1,year,das Jahr,год,A year has twelve months.,Ein Jahr hat zwölf Monate.,В году двенадцать месяцев.
+A1,hour,die Stunde,час,I wait one hour.,Ich warte eine Stunde.,Я жду один час.
+A1,minute,die Minute,минута,Wait a minute.,Warte eine Minute.,Подожди минуту.
+A1,morning,der Morgen,утро,I get up in the morning.,Ich stehe morgens auf.,Я встаю утром.
+A1,evening,der Abend,вечер,We eat in the evening.,Wir essen am Abend.,Вечером мы едим.
+A1,night,die Nacht,ночь,The night is dark.,Die Nacht ist dunkel.,Ночь тёмная.
+A1,today,heute,сегодня,Today I work.,Heute arbeite ich.,Сегодня я работаю.
+A1,tomorrow,morgen,завтра,Tomorrow I have a test.,Morgen habe ich einen Test.,Завтра у меня тест.
+A1,yesterday,gestern,вчера,Yesterday I was at home.,Gestern war ich zu Hause.,Вчера я был дома.
+A1,now,jetzt,сейчас,I am eating now.,Ich esse jetzt.,Сейчас я ем.
+A1,Monday,der Montag,понедельник,On Monday I work.,Am Montag arbeite ich.,В понедельник я работаю.
+A1,Tuesday,der Dienstag,вторник,On Tuesday I learn German.,Am Dienstag lerne ich Deutsch.,Во вторник я учу немецкий.
+A1,Wednesday,der Mittwoch,среда,On Wednesday I go to school.,Am Mittwoch gehe ich zur Schule.,В среду я иду в школу.
+A1,Thursday,der Donnerstag,четверг,On Thursday we play football.,Am Donnerstag spielen wir Fußball.,В четверг мы играем в футбол.
+A1,Friday,der Freitag,пятница,On Friday we eat fish.,Am Freitag essen wir Fisch.,В пятницу мы едим рыбу.
+A1,Saturday,der Samstag,суббота,On Saturday I sleep long.,Am Samstag schlafe ich lange.,В субботу я долго сплю.
+A1,Sunday,der Sonntag,воскресенье,On Sunday we visit grandma.,Am Sonntag besuchen wir Oma.,В воскресенье мы навещаем бабушку.
+A1,January,der Januar,январь,January is cold.,Der Januar ist kalt.,Январь холодный.
+A1,February,der Februar,февраль,February is short.,Der Februar ist kurz.,Февраль короткий.
+A1,March,der März,март,In March it is warm.,Im März ist es warm.,В марте тепло.
+A1,April,der April,апрель,In April it rains.,Im April regnet es.,В апреле идёт дождь.
+A1,May,der Mai,май,May is beautiful.,Der Mai ist schön.,Май прекрасный.
+A1,June,der Juni,июнь,June is hot.,Der Juni ist heiß.,Июнь жаркий.
+A1,July,der Juli,июль,In July we travel.,Im Juli reisen wir.,В июле мы путешествуем.
+A1,August,der August,август,August is warm.,Der August ist warm.,Август тёплый.
+A1,September,der September,сентябрь,School starts in September.,Die Schule beginnt im September.,Школа начинается в сентябре.
+A1,October,der Oktober,октябрь,October is cold.,Der Oktober ist kalt.,Октябрь холодный.
+A1,November,der November,ноябрь,In November it is dark.,Im November ist es dunkel.,В ноябре темно.
+A1,December,der Dezember,декабрь,December has snow.,Im Dezember gibt es Schnee.,В декабре бывает снег.
+A1,red,rot,красный,I have a red car.,Ich habe ein rotes Auto.,У меня красная машина.
+A1,blue,blau,синий,The sky is blue.,Der Himmel ist blau.,Небо синее.
+A1,green,grün,зелёный,The tree is green.,Der Baum ist grün.,Дерево зелёное.
+A1,yellow,gelb,жёлтый,The sun is yellow.,Die Sonne ist gelb.,Солнце жёлтое.
+A1,black,schwarz,чёрный,The cat is black.,Die Katze ist schwarz.,Кошка чёрная.
+A1,white,weiß,белый,The snow is white.,Der Schnee ist weiß.,Снег белый.
+A1,one,eins,один,One and one is two.,Eins und eins ist zwei.,Один и один — два.
+A1,two,zwei,два,I have two dogs.,Ich habe zwei Hunde.,У меня две собаки.
+A1,three,drei,три,I have three cats.,Ich habe drei Katzen.,У меня три кошки.
+A1,four,vier,четыре,The table has four legs.,Der Tisch hat vier Beine.,У стола четыре ножки.
+A1,five,fünf,пять,Five students are here.,Fünf Studenten sind hier.,Здесь пять студентов.
+A1,six,sechs,шесть,It is six o'clock.,Es ist sechs Uhr.,Сейчас шесть часов.
+A1,seven,sieben,семь,A week has seven days.,Eine Woche hat sieben Tage.,В неделе семь дней.
+A1,eight,acht,восемь,School starts at eight.,Die Schule beginnt um acht.,Школа начинается в восемь.
+A1,nine,neun,девять,I sleep until nine.,Ich schlafe bis neun.,Я сплю до девяти.
+A1,ten,zehn,десять,I am ten years old.,Ich bin zehn Jahre alt.,Мне десять лет.
+A1,twenty,zwanzig,двадцать,The book costs twenty euros.,Das Buch kostet zwanzig Euro.,Книга стоит двадцать евро.
+A1,hundred,hundert,сто,The house is a hundred years old.,Das Haus ist hundert Jahre alt.,Дому сто лет.
+A1,thousand,tausend,тысяча,A thousand people are here.,Tausend Menschen sind hier.,Здесь тысяча человек.
+A1,head,der Kopf,голова,My head hurts.,Mein Kopf tut weh.,У меня болит голова.
+A1,hand,die Hand,рука (кисть),My hand is cold.,Meine Hand ist kalt.,Моя рука холодная.
+A1,eye,das Auge,глаз,She has blue eyes.,Sie hat blaue Augen.,У неё голубые глаза.
+A1,ear,das Ohr,ухо,My ear hurts.,Mein Ohr tut weh.,У меня болит ухо.
+A1,mouth,der Mund,рот,Open your mouth.,Mach den Mund auf.,Открой рот.
+A1,nose,die Nase,нос,His nose is big.,Seine Nase ist groß.,Его нос большой.
+A1,foot,der Fuß,нога (стопа),My foot hurts.,Mein Fuß tut weh.,У меня болит нога.
+A1,arm,der Arm,рука,His arm is strong.,Sein Arm ist stark.,Его рука сильная.
+A1,leg,das Bein,нога,My leg hurts.,Mein Bein tut weh.,У меня болит нога.
+A1,heart,das Herz,сердце,I love you with all my heart.,Ich liebe dich von Herzen.,Я люблю тебя всем сердцем.
+A1,hair,das Haar,волосы,She has long hair.,Sie hat lange Haare.,У неё длинные волосы.
+A1,to be,sein,быть,I am at home.,Ich bin zu Hause.,Я дома.
+A1,to have,haben,иметь,I have a car.,Ich habe ein Auto.,У меня есть машина.
+A1,to go,gehen,идти,I go to school.,Ich gehe zur Schule.,Я иду в школу.
+A1,to come,kommen,приходить,She comes at eight.,Sie kommt um acht.,Она приходит в восемь.
+A1,"to do, to make",machen,делать,What are you doing?,Was machst du?,Что ты делаешь?
+A1,to say,sagen,сказать,He says hello.,Er sagt Hallo.,Он говорит «привет».
+A1,to speak,sprechen,говорить,I speak German.,Ich spreche Deutsch.,Я говорю по-немецки.
+A1,to see,sehen,видеть,I see a dog.,Ich sehe einen Hund.,Я вижу собаку.
+A1,to eat,essen,есть,We eat bread.,Wir essen Brot.,Мы едим хлеб.
+A1,to drink,trinken,пить,I drink water.,Ich trinke Wasser.,Я пью воду.
+A1,to sleep,schlafen,спать,The baby sleeps.,Das Baby schläft.,Малыш спит.
+A1,to live (reside),wohnen,жить,We live in Bishkek.,Wir wohnen in Bischkek.,Мы живём в Бишкеке.
+A1,to work,arbeiten,работать,My father works.,Mein Vater arbeitet.,Мой папа работает.
+A1,to learn,lernen,учить,I learn German.,Ich lerne Deutsch.,Я учу немецкий.
+A1,to read,lesen,читать,She reads a book.,Sie liest ein Buch.,Она читает книгу.
+A1,to write,schreiben,писать,I write a letter.,Ich schreibe einen Brief.,Я пишу письмо.
+A1,to buy,kaufen,покупать,I buy bread.,Ich kaufe Brot.,Я покупаю хлеб.
+A1,to know (a fact),wissen,знать,I know his name.,Ich weiß seinen Namen.,Я знаю его имя.
+A1,to like,mögen,"любить, нравиться",I like tea.,Ich mag Tee.,Я люблю чай.
+A1,to want,wollen,хотеть,I want water.,Ich will Wasser.,Я хочу воды.
+A1,to be able to,können,"мочь, уметь",I can swim.,Ich kann schwimmen.,Я умею плавать.
+A1,to have to,müssen,быть должным,I must work.,Ich muss arbeiten.,Я должен работать.
+A1,to give,geben,давать,Give me the book.,Gib mir das Buch.,Дай мне книгу.
+A1,to take,nehmen,брать,I take an apple.,Ich nehme einen Apfel.,Я беру яблоко.
+A1,to ask,fragen,спрашивать,I ask the teacher.,Ich frage den Lehrer.,Я спрашиваю учителя.
+A1,to answer,antworten,отвечать,He answers the question.,Er antwortet auf die Frage.,Он отвечает на вопрос.
+A1,to play,spielen,играть,The children play.,Die Kinder spielen.,Дети играют.
+A1,to help,helfen,помогать,Can you help me?,Kannst du mir helfen?,Можешь мне помочь?
+A1,to wait,warten,ждать,I wait for the bus.,Ich warte auf den Bus.,Я жду автобус.
+A1,to open,öffnen,открывать,Open the window.,Öffne das Fenster.,Открой окно.
+A1,to close,schließen,закрывать,Close the door.,Schließe die Tür.,Закрой дверь.
+A1,to love,lieben,любить,I love my mother.,Ich liebe meine Mutter.,Я люблю свою маму.
+A1,to find,finden,находить,I find my key.,Ich finde meinen Schlüssel.,Я нахожу свой ключ.
+A1,to stay,bleiben,оставаться,I stay at home.,Ich bleibe zu Hause.,Я остаюсь дома.
+A1,to drive,fahren,ехать,He drives to work.,Er fährt zur Arbeit.,Он едет на работу.
+A1,to call (phone),anrufen,звонить,I call my mother.,Ich rufe meine Mutter an.,Я звоню маме.
+A1,to hear,hören,слышать,I hear music.,Ich höre Musik.,Я слышу музыку.
+A1,to cook,kochen,готовить,She cooks soup.,Sie kocht Suppe.,Она готовит суп.
+A1,to pay,bezahlen,платить,I pay the bill.,Ich bezahle die Rechnung.,Я плачу по счёту.
+A1,to begin,anfangen,начинать,The lesson begins now.,Der Unterricht fängt jetzt an.,Урок начинается сейчас.
+A1,to understand,verstehen,понимать,I understand German.,Ich verstehe Deutsch.,Я понимаю немецкий.
+A1,to run,laufen,бежать,He runs in the park.,Er läuft im Park.,Он бежит в парке.
+A1,to sit,sitzen,сидеть,I sit on the chair.,Ich sitze auf dem Stuhl.,Я сижу на стуле.
+A1,to stand,stehen,стоять,He stands at the door.,Er steht an der Tür.,Он стоит у двери.
+A1,to think,denken,думать,I think of you.,Ich denke an dich.,Я думаю о тебе.
+A1,to be called,heißen,называться,My name is Aibek.,Ich heiße Aibek.,Меня зовут Айбек.
+A1,to sing,singen,петь,She sings well.,Sie singt gut.,Она хорошо поёт.
+A1,to dance,tanzen,танцевать,We dance.,Wir tanzen.,Мы танцуем.
+A1,to swim,schwimmen,плавать,I swim in the lake.,Ich schwimme im See.,Я плаваю в озере.
+A1,to repeat,wiederholen,повторять,Please repeat.,Bitte wiederholen Sie.,"Повторите, пожалуйста."
+A1,to visit,besuchen,посещать,We visit our grandmother.,Wir besuchen unsere Oma.,Мы навещаем нашу бабушку.
+A1,to meet,treffen,встречать,I meet my friend.,Ich treffe meinen Freund.,Я встречаю своего друга.
+A1,big,groß,большой,The house is big.,Das Haus ist groß.,Дом большой.
+A1,small,klein,маленький,The room is small.,Das Zimmer ist klein.,Комната маленькая.
+A1,good,gut,хороший,The soup is good.,Die Suppe ist gut.,Суп хороший.
+A1,bad,schlecht,плохой,The weather is bad.,Das Wetter ist schlecht.,Погода плохая.
+A1,new,neu,новый,I have a new phone.,Ich habe ein neues Handy.,У меня новый телефон.
+A1,old,alt,старый,My car is old.,Mein Auto ist alt.,Моя машина старая.
+A1,young,jung,молодой,My sister is young.,Meine Schwester ist jung.,Моя сестра молодая.
+A1,beautiful,schön,красивый,The city is beautiful.,Die Stadt ist schön.,Город красивый.
+A1,fast,schnell,быстрый,The train is fast.,Der Zug ist schnell.,Поезд быстрый.
+A1,slow,langsam,медленный,The bus is slow.,Der Bus ist langsam.,Автобус медленный.
+A1,hot,heiß,горячий,The tea is hot.,Der Tee ist heiß.,Чай горячий.
+A1,cold,kalt,холодный,The water is cold.,Das Wasser ist kalt.,Вода холодная.
+A1,warm,warm,тёплый,It is warm today.,Heute ist es warm.,Сегодня тепло.
+A1,long,lang,длинный,The road is long.,Der Weg ist lang.,Дорога длинная.
+A1,short,kurz,короткий,The film is short.,Der Film ist kurz.,Фильм короткий.
+A1,cheap,billig,дешёвый,The bread is cheap.,Das Brot ist billig.,Хлеб дешёвый.
+A1,expensive,teuer,дорогой,The car is expensive.,Das Auto ist teuer.,Машина дорогая.
+A1,easy,leicht,лёгкий,The test is easy.,Der Test ist leicht.,Тест лёгкий.
+A1,difficult,schwer,трудный,German is difficult.,Deutsch ist schwer.,Немецкий трудный.
+A1,happy,glücklich,счастливый,I am happy.,Ich bin glücklich.,Я счастлив.
+A1,sad,traurig,грустный,She is sad.,Sie ist traurig.,Она грустная.
+A1,tired,müde,усталый,I am tired.,Ich bin müde.,Я устал.
+A1,hungry,hungrig,голодный,The child is hungry.,Das Kind ist hungrig.,Ребёнок голоден.
+A1,thirsty,durstig,жаждущий,I am thirsty.,Ich bin durstig.,Я хочу пить.
+A1,sick,krank,больной,My father is sick.,Mein Vater ist krank.,Мой папа болен.
+A1,healthy,gesund,здоровый,The food is healthy.,Das Essen ist gesund.,Еда полезная.
+A1,"right, correct",richtig,правильный,Your answer is correct.,Deine Antwort ist richtig.,Твой ответ правильный.
+A1,wrong,falsch,неправильный,This word is wrong.,Dieses Wort ist falsch.,Это слово неправильное.
+A1,clean,sauber,чистый,The kitchen is clean.,Die Küche ist sauber.,Кухня чистая.
+A1,dirty,schmutzig,грязный,The shoes are dirty.,Die Schuhe sind schmutzig.,Обувь грязная.
+A1,important,wichtig,важный,This is important.,Das ist wichtig.,Это важно.
+A1,"nice, kind",nett,приятный,Your friend is nice.,Dein Freund ist nett.,Твой друг приятный.
+A1,I,ich,я,I am a student.,Ich bin Student.,Я студент.
+A1,you (informal),du,ты,You are my friend.,Du bist mein Freund.,Ты мой друг.
+A1,he,er,он,He is at work.,Er ist bei der Arbeit.,Он на работе.
+A1,she,sie,она,She is at home.,Sie ist zu Hause.,Она дома.
+A1,it,es,оно,It is cold.,Es ist kalt.,Холодно.
+A1,we,wir,мы,We live here.,Wir wohnen hier.,Мы живём здесь.
+A1,you (plural),ihr,вы,You are my friends.,Ihr seid meine Freunde.,Вы мои друзья.
+A1,they,sie,они,They are in the park.,Sie sind im Park.,Они в парке.
+A1,you (formal),Sie,Вы,Are you the teacher?,Sind Sie der Lehrer?,Вы учитель?
+A1,and,und,и,I have a cat and a dog.,Ich habe eine Katze und einen Hund.,У меня есть кошка и собака.
+A1,but,aber,но,"I am tired, but happy.","Ich bin müde, aber glücklich.","Я устал, но счастлив."
+A1,or,oder,или,Tea or coffee?,Tee oder Kaffee?,Чай или кофе?
+A1,because,weil,потому что,I stay home because I am sick.,"Ich bleibe zu Hause, weil ich krank bin.","Я остаюсь дома, потому что болен."
+A1,yes,ja,да,"Yes, I understand.","Ja, ich verstehe.","Да, я понимаю."
+A1,no,nein,нет,"No, thank you.","Nein, danke.","Нет, спасибо."
+A1,please,bitte,пожалуйста,"Water, please.","Wasser, bitte.","Воды, пожалуйста."
+A1,thank you,danke,спасибо,Thank you very much.,Vielen Dank.,Большое спасибо.
+A1,"sorry, excuse me",Entschuldigung,извините,"Excuse me, where is the station?","Entschuldigung, wo ist der Bahnhof?","Извините, где вокзал?"
+A1,hello,Hallo,привет,"Hello, my name is Aibek.","Hallo, ich heiße Aibek.","Привет, меня зовут Айбек."
+A1,goodbye,Auf Wiedersehen,до свидания,"Goodbye, see you soon.","Auf Wiedersehen, bis bald.","До свидания, до скорого."
+A1,good morning,Guten Morgen,доброе утро,"Good morning, Mr. Müller.","Guten Morgen, Herr Müller.","Доброе утро, господин Мюллер."
+A1,good night,Gute Nacht,спокойной ночи,"Good night, mother.","Gute Nacht, Mutter.","Спокойной ночи, мама."
+A1,what,was,что,What is this?,Was ist das?,Что это?
+A1,who,wer,кто,Who is that?,Wer ist das?,Кто это?
+A1,where,wo,где,Where is the bank?,Wo ist die Bank?,Где банк?
+A1,when,wann,когда,When does the lesson start?,Wann beginnt der Unterricht?,Когда начинается урок?
+A1,why,warum,почему,Why are you late?,Warum bist du spät?,Почему ты опоздал?
+A1,how,wie,как,How are you?,Wie geht es dir?,Как у тебя дела?
+A1,how much,wie viel,сколько,How much is the bread?,Wie viel kostet das Brot?,Сколько стоит хлеб?
+A1,here,hier,здесь,The book is here.,Das Buch ist hier.,Книга здесь.
+A1,there,dort,там,The shop is there.,Das Geschäft ist dort.,Магазин там.
+A1,very,sehr,очень,The food is very good.,Das Essen ist sehr gut.,Еда очень вкусная.
+A1,also,auch,тоже,I also like tea.,Ich mag auch Tee.,Я тоже люблю чай.
+A1,not,nicht,не,I am not tired.,Ich bin nicht müde.,Я не устал.
+A1,always,immer,всегда,She is always late.,Sie ist immer spät.,Она всегда опаздывает.
+A1,never,nie,никогда,I never drink beer.,Ich trinke nie Bier.,Я никогда не пью пиво.
+A1,often,oft,часто,We often eat fish.,Wir essen oft Fisch.,Мы часто едим рыбу.
+A1,sometimes,manchmal,иногда,Sometimes I walk.,Manchmal gehe ich zu Fuß.,Иногда я хожу пешком.
+A1,again,wieder,снова,Please say it again.,Bitte sag es wieder.,"Пожалуйста, скажи ещё раз."
+A1,only,nur,только,I have only one book.,Ich habe nur ein Buch.,У меня только одна книга.
+A1,with,mit,с,I go with my friend.,Ich gehe mit meinem Freund.,Я иду с другом.
+A1,without,ohne,без,Tea without sugar.,Tee ohne Zucker.,Чай без сахара.
+A1,for,für,для,This book is for you.,Dieses Buch ist für dich.,Эта книга для тебя.
+A1,name,der Name,имя,My name is Aibek.,Mein Name ist Aibek.,Моё имя Айбек.
+A1,address,die Adresse,адрес,What is your address?,Wie ist deine Adresse?,Какой у тебя адрес?
+A1,telephone,das Telefon,телефон,The telephone is on the table.,Das Telefon liegt auf dem Tisch.,Телефон лежит на столе.
+A1,mobile phone,das Handy,мобильный телефон,My mobile phone is new.,Mein Handy ist neu.,Мой мобильный новый.
+A1,computer,der Computer,компьютер,I work on the computer.,Ich arbeite am Computer.,Я работаю за компьютером.
+A1,book,das Buch,книга,I read a book.,Ich lese ein Buch.,Я читаю книгу.
+A1,pen,der Kugelschreiber,ручка,I need a pen.,Ich brauche einen Kugelschreiber.,Мне нужна ручка.
+A1,paper,das Papier,бумага,I need paper.,Ich brauche Papier.,Мне нужна бумага.
+A1,bag,die Tasche,сумка,My bag is heavy.,Meine Tasche ist schwer.,Моя сумка тяжёлая.
+A1,money,das Geld,деньги,I have no money.,Ich habe kein Geld.,У меня нет денег.
+A1,price,der Preis,цена,The price is low.,Der Preis ist niedrig.,Цена низкая.
+A1,"job, profession",der Beruf,профессия,What is your profession?,Was ist dein Beruf?,Кем ты работаешь?
+A1,work (noun),die Arbeit,работа,I have a lot of work.,Ich habe viel Arbeit.,У меня много работы.
+A1,teacher,der Lehrer,учитель,The teacher is nice.,Der Lehrer ist nett.,Учитель приятный.
+A1,doctor,der Arzt,врач,The doctor helps me.,Der Arzt hilft mir.,Врач мне помогает.
+A1,student,der Student,студент,My brother is a student.,Mein Bruder ist Student.,Мой брат студент.
+A1,weather,das Wetter,погода,The weather is good.,Das Wetter ist gut.,Погода хорошая.
+A1,sun,die Sonne,солнце,The sun is hot.,Die Sonne ist heiß.,Солнце жаркое.
+A1,rain,der Regen,дождь,The rain is cold.,Der Regen ist kalt.,Дождь холодный.
+A1,snow,der Schnee,снег,The snow is white.,Der Schnee ist weiß.,Снег белый.
+A1,wind,der Wind,ветер,The wind is strong.,Der Wind ist stark.,Ветер сильный.
+A1,animal,das Tier,животное,A dog is an animal.,Ein Hund ist ein Tier.,Собака — животное.
+A1,dog,der Hund,собака,The dog is big.,Der Hund ist groß.,Собака большая.
+A1,cat,die Katze,кошка,The cat sleeps.,Die Katze schläft.,Кошка спит.
+A1,bird,der Vogel,птица,The bird sings.,Der Vogel singt.,Птица поёт.
+A1,clothes,die Kleidung,одежда,I buy new clothes.,Ich kaufe neue Kleidung.,Я покупаю новую одежду.
+A1,shirt,das Hemd,рубашка,The shirt is white.,Das Hemd ist weiß.,Рубашка белая.
+A1,trousers,die Hose,брюки,The trousers are long.,Die Hose ist lang.,Брюки длинные.
+A1,shoes,die Schuhe,обувь,My shoes are new.,Meine Schuhe sind neu.,Моя обувь новая.
+A1,dress,das Kleid,платье,The dress is beautiful.,Das Kleid ist schön.,Платье красивое.
+A1,jacket,die Jacke,куртка,I wear a jacket.,Ich trage eine Jacke.,Я ношу куртку.
+A1,hat,der Hut,шляпа,He wears a hat.,Er trägt einen Hut.,Он носит шляпу.
+A1,birthday,der Geburtstag,день рождения,Today is my birthday.,Heute ist mein Geburtstag.,Сегодня мой день рождения.
+A1,"holiday, vacation",der Urlaub,отпуск,I am on holiday.,Ich habe Urlaub.,Я в отпуске.
+A1,party,die Party,вечеринка,We have a party.,Wir haben eine Party.,У нас вечеринка.
+A1,music,die Musik,музыка,I like music.,Ich mag Musik.,Я люблю музыку.
+A1,film,der Film,фильм,The film is good.,Der Film ist gut.,Фильм хороший.
+A1,sport,der Sport,спорт,I like sport.,Ich mag Sport.,Я люблю спорт.
+A1,football,der Fußball,футбол,We play football.,Wir spielen Fußball.,Мы играем в футбол.
+A1,newspaper,die Zeitung,газета,He reads the newspaper.,Er liest die Zeitung.,Он читает газету.
+A1,letter,der Brief,письмо,I write a letter.,Ich schreibe einen Brief.,Я пишу письмо.
+A1,email,die E-Mail,электронная почта,I send an email.,Ich schicke eine E-Mail.,Я отправляю электронное письмо.
+A1,photo,das Foto,фото,This is a photo of my family.,Das ist ein Foto von meiner Familie.,Это фото моей семьи.
+A1,"present, gift",das Geschenk,подарок,This is a gift for you.,Das ist ein Geschenk für dich.,Это подарок для тебя.
+A1,problem,das Problem,проблема,I have a problem.,Ich habe ein Problem.,У меня проблема.
+A1,question,die Frage,вопрос,I have a question.,Ich habe eine Frage.,У меня вопрос.
+A1,answer,die Antwort,ответ,The answer is right.,Die Antwort ist richtig.,Ответ правильный.
+A1,language,die Sprache,язык,German is a language.,Deutsch ist eine Sprache.,Немецкий — это язык.
+A1,word,das Wort,слово,I learn a new word.,Ich lerne ein neues Wort.,Я учу новое слово.
+A1,sentence,der Satz,предложение,This sentence is short.,Dieser Satz ist kurz.,Это предложение короткое.
+A1,exam,die Prüfung,экзамен,The exam is difficult.,Die Prüfung ist schwer.,Экзамен трудный.
+A1,lesson,der Unterricht,урок,The lesson is long.,Der Unterricht ist lang.,Урок длинный.
+A1,to arrive,ankommen,прибывать,The train arrives at six.,Der Zug kommt um sechs an.,Поезд прибывает в шесть.
+A1,to depart,abfahren,отправляться,The bus leaves at eight.,Der Bus fährt um acht ab.,Автобус отправляется в восемь.
+A1,to get up,aufstehen,вставать,I get up at seven.,Ich stehe um sieben auf.,Я встаю в семь.
+A1,to wash,waschen,мыть,I wash my hands.,Ich wasche meine Hände.,Я мою руки.
+A1,to shower,duschen,принимать душ,I shower in the morning.,Ich dusche morgens.,Утром я принимаю душ.
+A1,to clean,putzen,убирать,She cleans the room.,Sie putzt das Zimmer.,Она убирает комнату.
+A1,to bring,bringen,приносить,I bring water.,Ich bringe Wasser.,Я приношу воду.
+A1,to send,schicken,посылать,I send a letter.,Ich schicke einen Brief.,Я посылаю письмо.
+A1,"to receive, to get",bekommen,получать,I get a letter.,Ich bekomme einen Brief.,Я получаю письмо.
+A1,to rent,mieten,снимать,We rent a flat.,Wir mieten eine Wohnung.,Мы снимаем квартиру.
+A1,to pick up,abholen,забирать,I pick up my child.,Ich hole mein Kind ab.,Я забираю своего ребёнка.
+A1,to invite,einladen,приглашать,I invite my friends.,Ich lade meine Freunde ein.,Я приглашаю своих друзей.
+A1,to celebrate,feiern,праздновать,We celebrate his birthday.,Wir feiern seinen Geburtstag.,Мы празднуем его день рождения.
+A1,to travel,reisen,путешествовать,We travel in summer.,Im Sommer reisen wir.,Летом мы путешествуем.
+A1,to fly,fliegen,летать,The bird flies.,Der Vogel fliegt.,Птица летит.
+A1,to go for a walk,spazieren gehen,гулять,We go for a walk.,Wir gehen spazieren.,Мы идём гулять.
+A1,to count,zählen,считать,I count to ten.,Ich zähle bis zehn.,Я считаю до десяти.
+A1,to try,versuchen,пытаться,I try again.,Ich versuche es noch einmal.,Я пробую ещё раз.
+A1,to use,benutzen,использовать,I use a pen.,Ich benutze einen Kugelschreiber.,Я пользуюсь ручкой.
+A1,to need,brauchen,нуждаться,I need water.,Ich brauche Wasser.,Мне нужна вода.
+A1,to show,zeigen,показывать,Show me the book.,Zeig mir das Buch.,Покажи мне книгу.
+A1,to explain,erklären,объяснять,The teacher explains the word.,Der Lehrer erklärt das Wort.,Учитель объясняет слово.
+A1,to forget,vergessen,забывать,I forget my key.,Ich vergesse meinen Schlüssel.,Я забываю свой ключ.
+A1,to sell,verkaufen,продавать,He sells bread.,Er verkauft Brot.,Он продаёт хлеб.
+A1,to cost,kosten,стоить,The book costs ten euros.,Das Buch kostet zehn Euro.,Книга стоит десять евро.
+A1,to look,schauen,смотреть,Look at the picture.,Schau das Bild an.,Посмотри на картинку.
+A1,to watch TV,fernsehen,смотреть телевизор,I watch TV in the evening.,Abends sehe ich fern.,Вечером я смотрю телевизор.
+A1,to put (lay),legen,класть,I put the book on the table.,Ich lege das Buch auf den Tisch.,Я кладу книгу на стол.
+A1,to put (stand upright),stellen,ставить,I put the bottle on the table.,Ich stelle die Flasche auf den Tisch.,Я ставлю бутылку на стол.
+A1,to lie,liegen,лежать,The book lies on the table.,Das Buch liegt auf dem Tisch.,Книга лежит на столе.
+A1,to ring (doorbell),klingeln,звонить в дверь,Someone rings the doorbell.,Es klingelt an der Tür.,Звонят в дверь.
+A1,to thank,danken,благодарить,I thank you.,Ich danke dir.,Я благодарю тебя.
+A1,to wish,wünschen,желать,I wish you luck.,Ich wünsche dir Glück.,Я желаю тебе удачи.
+A1,to hope,hoffen,надеяться,I hope you are well.,"Ich hoffe, es geht dir gut.","Надеюсь, у тебя всё хорошо."
+A1,to believe,glauben,верить,I believe you.,Ich glaube dir.,Я верю тебе.
+A1,to mean,meinen,иметь в виду,What do you mean?,Was meinst du?,Что ты имеешь в виду?
+A1,to belong to,gehören,принадлежать,The car belongs to my father.,Das Auto gehört meinem Vater.,Машина принадлежит моему отцу.
+A1,to wear,tragen,носить,She wears a red dress.,Sie trägt ein rotes Kleid.,Она носит красное платье.
+A1,to marry,heiraten,жениться,They marry in May.,Sie heiraten im Mai.,Они женятся в мае.
+A1,to study (university),studieren,учиться в вузе,He studies in Berlin.,Er studiert in Berlin.,Он учится в Берлине.
+A1,to listen to,zuhören,слушать,I listen to the teacher.,Ich höre dem Lehrer zu.,Я слушаю учителя.
+A1,to fill out,ausfüllen,заполнять,I fill out the form.,Ich fülle das Formular aus.,Я заполняю бланк.
+A1,to spell,buchstabieren,говорить по буквам,Please spell your name.,Bitte buchstabieren Sie Ihren Namen.,"Назовите, пожалуйста, своё имя по буквам."
+A1,to book,buchen,бронировать,I book a room.,Ich buche ein Zimmer.,Я бронирую комнату.
+A1,to order,bestellen,заказывать,I order a coffee.,Ich bestelle einen Kaffee.,Я заказываю кофе.
+A1,to taste,schmecken,быть вкусным,The soup tastes good.,Die Suppe schmeckt gut.,Суп вкусный.
+A1,to switch off,ausmachen,выключать,Switch off the light.,Mach das Licht aus.,Выключи свет.
+A1,to switch on,anmachen,включать,Switch on the lamp.,Mach die Lampe an.,Включи лампу.
+A1,to change (money),wechseln,менять,I change money.,Ich wechsle Geld.,Я меняю деньги.
+A1,to lose,verlieren,терять,I lose my key.,Ich verliere meinen Schlüssel.,Я теряю свой ключ.
+A1,to win,gewinnen,побеждать,We win the game.,Wir gewinnen das Spiel.,Мы выигрываем игру.
+A1,to leave,verlassen,покидать,I leave the house at eight.,Ich verlasse um acht das Haus.,Я выхожу из дома в восемь.
+A1,time,die Zeit,время,I have no time.,Ich habe keine Zeit.,У меня нет времени.
+A1,moment,der Moment,момент,"One moment, please.","Einen Moment, bitte.","Один момент, пожалуйста."
+A1,date,das Datum,дата,What is the date today?,Welches Datum ist heute?,Какое сегодня число?
+A1,appointment,der Termin,назначенная встреча,I have an appointment.,Ich habe einen Termin.,У меня назначена встреча.
+A1,"clock, watch",die Uhr,часы,The clock is on the wall.,Die Uhr hängt an der Wand.,Часы висят на стене.
+A1,half,halb,половина,It is half past two.,Es ist halb drei.,Сейчас половина третьего.
+A1,quarter,das Viertel,четверть,A quarter of an hour.,Eine Viertelstunde.,Четверть часа.
+A1,midday,der Mittag,полдень,At midday we eat.,Am Mittag essen wir.,В полдень мы едим.
+A1,afternoon,der Nachmittag,после обеда,In the afternoon I work.,Am Nachmittag arbeite ich.,После обеда я работаю.
+A1,weekend,das Wochenende,выходные,At the weekend I sleep long.,Am Wochenende schlafe ich lange.,В выходные я долго сплю.
+A1,season,die Jahreszeit,время года,Summer is my favourite season.,Der Sommer ist meine Lieblingsjahreszeit.,Лето — моё любимое время года.
+A1,spring,der Frühling,весна,Spring is warm.,Der Frühling ist warm.,Весна тёплая.
+A1,summer,der Sommer,лето,Summer is hot.,Der Sommer ist heiß.,Лето жаркое.
+A1,autumn,der Herbst,осень,Autumn is beautiful.,Der Herbst ist schön.,Осень красивая.
+A1,winter,der Winter,зима,Winter is cold.,Der Winter ist kalt.,Зима холодная.
+A1,building,das Gebäude,здание,The building is old.,Das Gebäude ist alt.,Здание старое.
+A1,museum,das Museum,музей,We visit the museum.,Wir besuchen das Museum.,Мы посещаем музей.
+A1,cinema,das Kino,кинотеатр,We go to the cinema.,Wir gehen ins Kino.,Мы идём в кино.
+A1,theatre,das Theater,театр,The theatre is big.,Das Theater ist groß.,Театр большой.
+A1,library,die Bibliothek,библиотека,I read in the library.,Ich lese in der Bibliothek.,Я читаю в библиотеке.
+A1,swimming pool,das Schwimmbad,бассейн,We swim in the swimming pool.,Wir schwimmen im Schwimmbad.,Мы плаваем в бассейне.
+A1,church,die Kirche,церковь,The church is old.,Die Kirche ist alt.,Церковь старая.
+A1,bridge,die Brücke,мост,The bridge is long.,Die Brücke ist lang.,Мост длинный.
+A1,square,der Platz,площадь,The square is big.,Der Platz ist groß.,Площадь большая.
+A1,corner,die Ecke,угол,The shop is on the corner.,Das Geschäft ist an der Ecke.,Магазин на углу.
+A1,"way, path",der Weg,"путь, дорога",Which way is it?,Welchen Weg gehst du?,Какой дорогой ты идёшь?
+A1,"floor, storey",der Stock,этаж,I live on the third floor.,Ich wohne im dritten Stock.,Я живу на третьем этаже.
+A1,lift,der Aufzug,лифт,The lift is broken.,Der Aufzug ist kaputt.,Лифт сломан.
+A1,stairs,die Treppe,лестница,I take the stairs.,Ich nehme die Treppe.,Я иду по лестнице.
+A1,entrance,der Eingang,вход,The entrance is there.,Der Eingang ist dort.,Вход там.
+A1,exit,der Ausgang,выход,Where is the exit?,Wo ist der Ausgang?,Где выход?
+A1,toilet,die Toilette,туалет,Where is the toilet?,Wo ist die Toilette?,Где туалет?
+A1,balcony,der Balkon,балкон,We sit on the balcony.,Wir sitzen auf dem Balkon.,Мы сидим на балконе.
+A1,wall,die Wand,стена,The picture is on the wall.,Das Bild hängt an der Wand.,Картина висит на стене.
+A1,"ground, floor",der Boden,"пол, земля",The book is on the floor.,Das Buch liegt auf dem Boden.,Книга лежит на полу.
+A1,roof,das Dach,крыша,The roof is red.,Das Dach ist rot.,Крыша красная.
+A1,cup,die Tasse,чашка,I drink from a cup.,Ich trinke aus einer Tasse.,Я пью из чашки.
+A1,glass,das Glas,стакан,"A glass of water, please.","Ein Glas Wasser, bitte.","Стакан воды, пожалуйста."
+A1,plate,der Teller,тарелка,The plate is clean.,Der Teller ist sauber.,Тарелка чистая.
+A1,knife,das Messer,нож,The knife is sharp.,Das Messer ist scharf.,Нож острый.
+A1,fork,die Gabel,вилка,I need a fork.,Ich brauche eine Gabel.,Мне нужна вилка.
+A1,spoon,der Löffel,ложка,I eat soup with a spoon.,Ich esse die Suppe mit einem Löffel.,Я ем суп ложкой.
+A1,bottle,die Flasche,бутылка,The bottle is empty.,Die Flasche ist leer.,Бутылка пустая.
+A1,picture,das Bild,картина,The picture is beautiful.,Das Bild ist schön.,Картина красивая.
+A1,television,der Fernseher,телевизор,The television is on.,Der Fernseher ist an.,Телевизор включён.
+A1,radio,das Radio,радио,I listen to the radio.,Ich höre Radio.,Я слушаю радио.
+A1,glasses,die Brille,очки,I wear glasses.,Ich trage eine Brille.,Я ношу очки.
+A1,umbrella,der Regenschirm,зонт,I take an umbrella.,Ich nehme einen Regenschirm.,Я беру зонт.
+A1,suitcase,der Koffer,чемодан,My suitcase is heavy.,Mein Koffer ist schwer.,Мой чемодан тяжёлый.
+A1,passport,der Pass,паспорт,I need my passport.,Ich brauche meinen Pass.,Мне нужен мой паспорт.
+A1,card,die Karte,"карта, открытка",I pay with a card.,Ich zahle mit Karte.,Я плачу картой.
+A1,credit card,die Kreditkarte,кредитная карта,I have a credit card.,Ich habe eine Kreditkarte.,У меня есть кредитная карта.
+A1,stamp,die Briefmarke,марка,I buy a stamp.,Ich kaufe eine Briefmarke.,Я покупаю марку.
+A1,page,die Seite,страница,Open page ten.,Öffne Seite zehn.,Открой страницу десять.
+A1,notebook,das Heft,тетрадь,My notebook is blue.,Mein Heft ist blau.,Моя тетрадь синяя.
+A1,dictionary,das Wörterbuch,словарь,I use a dictionary.,Ich benutze ein Wörterbuch.,Я пользуюсь словарём.
+A1,exercise,die Übung,упражнение,This exercise is easy.,Diese Übung ist leicht.,Это упражнение лёгкое.
+A1,pizza,die Pizza,пицца,I eat pizza.,Ich esse Pizza.,Я ем пиццу.
+A1,sausage,die Wurst,колбаса,He eats a sausage.,Er isst eine Wurst.,Он ест колбасу.
+A1,ham,der Schinken,ветчина,"Bread with ham, please.","Brot mit Schinken, bitte.","Хлеб с ветчиной, пожалуйста."
+A1,chicken,das Hähnchen,курица,We eat chicken today.,Wir essen heute Hähnchen.,Сегодня мы едим курицу.
+A1,noodles,die Nudeln,"лапша, макароны",I cook noodles.,Ich koche Nudeln.,Я варю лапшу.
+A1,vegetables,das Gemüse,овощи,I like vegetables.,Ich mag Gemüse.,Я люблю овощи.
+A1,fruit,das Obst,фрукты,Fruit is healthy.,Obst ist gesund.,Фрукты полезны.
+A1,cake,der Kuchen,"торт, пирог",The cake is sweet.,Der Kuchen ist süß.,Торт сладкий.
+A1,chocolate,die Schokolade,шоколад,I like chocolate.,Ich mag Schokolade.,Я люблю шоколад.
+A1,ice cream,das Eis,мороженое,The children eat ice cream.,Die Kinder essen Eis.,Дети едят мороженое.
+A1,jam,die Marmelade,джем,I like jam on bread.,Ich mag Marmelade auf Brot.,Я люблю джем на хлебе.
+A1,honey,der Honig,мёд,Honey is sweet.,Honig ist süß.,Мёд сладкий.
+A1,oil,das Öl,масло (растительное),I need oil for cooking.,Ich brauche Öl zum Kochen.,Мне нужно масло для готовки.
+A1,carrot,die Karotte,морковь,The carrot is orange.,Die Karotte ist orange.,Морковь оранжевая.
+A1,onion,die Zwiebel,лук,I cut an onion.,Ich schneide eine Zwiebel.,Я режу лук.
+A1,lemon,die Zitrone,лимон,The lemon is sour.,Die Zitrone ist sauer.,Лимон кислый.
+A1,strawberry,die Erdbeere,клубника,The strawberry is red.,Die Erdbeere ist rot.,Клубника красная.
+A1,grape,die Traube,виноград,The grapes are sweet.,Die Trauben sind süß.,Виноград сладкий.
+A1,bread roll,das Brötchen,булочка,I eat a bread roll.,Ich esse ein Brötchen.,Я ем булочку.
+A1,pepper,der Pfeffer,перец,"Salt and pepper, please.","Salz und Pfeffer, bitte.","Соль и перец, пожалуйста."
+A1,mineral water,das Mineralwasser,минеральная вода,I drink mineral water.,Ich trinke Mineralwasser.,Я пью минеральную воду.
+A1,people,die Leute,люди,Many people are here.,Viele Leute sind hier.,Здесь много людей.
+A1,person,die Person,человек,He is a nice person.,Er ist eine nette Person.,Он приятный человек.
+A1,guest,der Gast,гость,We have a guest.,Wir haben einen Gast.,У нас гость.
+A1,neighbour,der Nachbar,сосед,My neighbour is old.,Mein Nachbar ist alt.,Мой сосед старый.
+A1,colleague,der Kollege,коллега,My colleague is nice.,Mein Kollege ist nett.,Мой коллега приятный.
+A1,boss,der Chef,начальник,My boss is in the office.,Mein Chef ist im Büro.,Мой начальник в офисе.
+A1,customer,der Kunde,клиент,The customer is waiting.,Der Kunde wartet.,Клиент ждёт.
+A1,waiter,der Kellner,официант,The waiter brings the menu.,Der Kellner bringt die Speisekarte.,Официант приносит меню.
+A1,policeman,der Polizist,полицейский,The policeman helps us.,Der Polizist hilft uns.,Полицейский нам помогает.
+A1,driver,der Fahrer,водитель,The driver is nice.,Der Fahrer ist nett.,Водитель приятный.
+A1,cook,der Koch,повар,The cook makes soup.,Der Koch macht Suppe.,Повар готовит суп.
+A1,worker,der Arbeiter,рабочий,The worker is tired.,Der Arbeiter ist müde.,Рабочий устал.
+A1,engineer,der Ingenieur,инженер,My uncle is an engineer.,Mein Onkel ist Ingenieur.,Мой дядя — инженер.
+A1,nurse,die Krankenschwester,медсестра,The nurse is nice.,Die Krankenschwester ist nett.,Медсестра приятная.
+A1,lady,die Dame,дама,The lady is old.,Die Dame ist alt.,Дама пожилая.
+A1,gentleman,der Herr,господин,The gentleman is waiting.,Der Herr wartet.,Господин ждёт.
+A1,life,das Leben,жизнь,Life is beautiful.,Das Leben ist schön.,Жизнь прекрасна.
+A1,world,die Welt,мир,The world is big.,Die Welt ist groß.,Мир большой.
+A1,idea,die Idee,идея,That is a good idea.,Das ist eine gute Idee.,Это хорошая идея.
+A1,"story, history",die Geschichte,история,I read a story.,Ich lese eine Geschichte.,Я читаю историю.
+A1,news,die Nachricht,новость,I read the news.,Ich lese die Nachrichten.,Я читаю новости.
+A1,reason,der Grund,причина,What is the reason?,Was ist der Grund?,В чём причина?
+A1,example,das Beispiel,пример,Here is an example.,Hier ist ein Beispiel.,Вот пример.
+A1,number,die Nummer,номер,What is your number?,Wie ist deine Nummer?,Какой у тебя номер?
+A1,telephone number,die Telefonnummer,номер телефона,My telephone number is new.,Meine Telefonnummer ist neu.,Мой номер телефона новый.
+A1,age,das Alter,возраст,What is your age?,Wie ist dein Alter?,Какой у тебя возраст?
+A1,family,die Familie,семья,My family is big.,Meine Familie ist groß.,Моя семья большая.
+A1,married,verheiratet,"женатый, замужем",He is married.,Er ist verheiratet.,Он женат.
+A1,single (unmarried),ledig,"холостой, незамужняя",She is single.,Sie ist ledig.,Она не замужем.
+A1,surname,der Nachname,фамилия,My surname is Karimov.,Mein Nachname ist Karimov.,Моя фамилия Каримов.
+A1,first name,der Vorname,имя,My first name is Aibek.,Mein Vorname ist Aibek.,Моё имя Айбек.
+A1,place of residence,der Wohnort,место жительства,My place of residence is Bishkek.,Mein Wohnort ist Bischkek.,Моё место жительства — Бишкек.
+A1,signature,die Unterschrift,подпись,"Your signature, please.","Ihre Unterschrift, bitte.","Ваша подпись, пожалуйста."
+A1,form,das Formular,"бланк, форма",I fill out a form.,Ich fülle ein Formular aus.,Я заполняю бланк.
+A1,pain,der Schmerz,боль,I have pain.,Ich habe Schmerzen.,У меня боль.
+A1,headache,die Kopfschmerzen,головная боль,I have a headache.,Ich habe Kopfschmerzen.,У меня болит голова.
+A1,fever,das Fieber,"температура, жар",The child has a fever.,Das Kind hat Fieber.,У ребёнка температура.
+A1,cold (illness),die Erkältung,простуда,I have a cold.,Ich habe eine Erkältung.,У меня простуда.
+A1,medicine,das Medikament,лекарство,I take the medicine.,Ich nehme das Medikament.,Я принимаю лекарство.
+A1,thin,dünn,тонкий,The book is thin.,Das Buch ist dünn.,Книга тонкая.
+A1,"fat, thick",dick,толстый,The book is thick.,Das Buch ist dick.,Книга толстая.
+A1,strong,stark,сильный,My father is strong.,Mein Vater ist stark.,Мой папа сильный.
+A1,weak,schwach,слабый,The tea is weak.,Der Tee ist schwach.,Чай слабый.
+A1,heavy,schwer,тяжёлый,The bag is heavy.,Die Tasche ist schwer.,Сумка тяжёлая.
+A1,full,voll,полный,The bus is full.,Der Bus ist voll.,Автобус полный.
+A1,empty,leer,пустой,The glass is empty.,Das Glas ist leer.,Стакан пустой.
+A1,open,offen,открытый,The shop is open.,Das Geschäft ist offen.,Магазин открыт.
+A1,closed,geschlossen,закрытый,The bank is closed.,Die Bank ist geschlossen.,Банк закрыт.
+A1,early,früh,рано,I get up early.,Ich stehe früh auf.,Я встаю рано.
+A1,late,spät,поздно,The train is late.,Der Zug ist spät.,Поезд опаздывает.
+A1,near,nah,близкий,The station is near.,Der Bahnhof ist nah.,Вокзал близко.
+A1,far,weit,далёкий,The school is far.,Die Schule ist weit.,Школа далеко.
+A1,next,nächste,следующий,The next bus comes at eight.,Der nächste Bus kommt um acht.,Следующий автобус приходит в восемь.
+A1,last,letzte,последний,This is the last bus.,Das ist der letzte Bus.,Это последний автобус.
+A1,first,erste,первый,This is my first lesson.,Das ist meine erste Stunde.,Это мой первый урок.
+A1,whole,ganz,целый,I read the whole book.,Ich lese das ganze Buch.,Я читаю всю книгу.
+A1,other,andere,другой,I take the other bag.,Ich nehme die andere Tasche.,Я беру другую сумку.
+A1,same,gleich,одинаковый,We have the same book.,Wir haben das gleiche Buch.,У нас одна и та же книга.
+A1,free of charge,kostenlos,бесплатный,The tea is free.,Der Tee ist kostenlos.,Чай бесплатный.
+A1,possible,möglich,возможный,That is possible.,Das ist möglich.,Это возможно.
+A1,ready,fertig,готовый,Dinner is ready.,Das Essen ist fertig.,Ужин готов.
+A1,angry,böse,злой,My father is angry.,Mein Vater ist böse.,Мой папа сердится.
+A1,friendly,freundlich,дружелюбный,The teacher is friendly.,Der Lehrer ist freundlich.,Учитель дружелюбный.
+A1,funny,lustig,весёлый,The film is funny.,Der Film ist lustig.,Фильм смешной.
+A1,interesting,interessant,интересный,The book is interesting.,Das Buch ist interessant.,Книга интересная.
+A1,boring,langweilig,скучный,The lesson is boring.,Der Unterricht ist langweilig.,Урок скучный.
+A1,wonderful,wunderbar,чудесный,The day is wonderful.,Der Tag ist wunderbar.,День чудесный.
+A1,great,toll,классный,The film is great.,Der Film ist toll.,Фильм классный.
+A1,sweet,süß,сладкий,The cake is sweet.,Der Kuchen ist süß.,Торт сладкий.
+A1,sour,sauer,кислый,The lemon is sour.,Die Zitrone ist sauer.,Лимон кислый.
+A1,fresh,frisch,свежий,The bread is fresh.,Das Brot ist frisch.,Хлеб свежий.
+A1,delicious,lecker,вкусный,The soup is delicious.,Die Suppe ist lecker.,Суп вкусный.
+A1,loud,laut,громкий,The music is loud.,Die Musik ist laut.,Музыка громкая.
+A1,quiet,leise,тихий,The room is quiet.,Das Zimmer ist leise.,В комнате тихо.
+A1,bright,hell,светлый,The room is bright.,Das Zimmer ist hell.,Комната светлая.
+A1,dark,dunkel,тёмный,The night is dark.,Die Nacht ist dunkel.,Ночь тёмная.
+A1,wet,nass,мокрый,The street is wet.,Die Straße ist nass.,Улица мокрая.
+A1,dry,trocken,сухой,The bread is dry.,Das Brot ist trocken.,Хлеб сухой.
+A1,rich,reich,богатый,He is rich.,Er ist reich.,Он богатый.
+A1,poor,arm,бедный,The family is poor.,Die Familie ist arm.,Семья бедная.
+A1,alone,allein,один (в одиночестве),I am alone at home.,Ich bin allein zu Hause.,Я один дома.
+A1,in,in,в,The book is in the bag.,Das Buch ist in der Tasche.,Книга в сумке.
+A1,on,auf,на,The cup is on the table.,Die Tasse steht auf dem Tisch.,Чашка стоит на столе.
+A1,under,unter,под,The cat is under the table.,Die Katze ist unter dem Tisch.,Кошка под столом.
+A1,"over, above",über,над,The lamp hangs over the table.,Die Lampe hängt über dem Tisch.,Лампа висит над столом.
+A1,behind,hinter,за,The garden is behind the house.,Der Garten ist hinter dem Haus.,Сад за домом.
+A1,in front of,vor,перед,The car is in front of the house.,Das Auto steht vor dem Haus.,Машина стоит перед домом.
+A1,next to,neben,рядом с,The bank is next to the shop.,Die Bank ist neben dem Geschäft.,Банк рядом с магазином.
+A1,between,zwischen,между,The park is between two streets.,Der Park ist zwischen zwei Straßen.,Парк между двумя улицами.
+A1,"at, with (someone)",bei,у,I am at my grandmother's.,Ich bin bei meiner Oma.,Я у бабушки.
+A1,to,zu,к,I go to the shop.,Ich gehe zum Geschäft.,Я иду в магазин.
+A1,from,von,от,The gift is from my friend.,Das Geschenk ist von meinem Freund.,Подарок от моего друга.
+A1,from (origin),aus,из,I come from Kyrgyzstan.,Ich komme aus Kirgisistan.,Я родом из Кыргызстана.
+A1,after,nach,после,After school I go home.,Nach der Schule gehe ich nach Hause.,После школы я иду домой.
+A1,until,bis,до,I work until six.,Ich arbeite bis sechs.,Я работаю до шести.
+A1,since,seit,с (какого времени),I live here since May.,Ich wohne seit Mai hier.,Я живу здесь с мая.
+A1,around,um,вокруг,We walk around the park.,Wir gehen um den Park.,Мы идём вокруг парка.
+A1,against,gegen,против,I am against the idea.,Ich bin gegen die Idee.,Я против этой идеи.
+A1,left,links,налево,Turn left.,Gehen Sie links.,Поверните налево.
+A1,right,rechts,направо,Turn right.,Gehen Sie rechts.,Поверните направо.
+A1,straight ahead,geradeaus,прямо,Go straight ahead.,Gehen Sie geradeaus.,Идите прямо.
+A1,"up, above",oben,наверху,The lamp is up there.,Die Lampe ist oben.,Лампа наверху.
+A1,"down, below",unten,внизу,The shop is downstairs.,Das Geschäft ist unten.,Магазин внизу.
+A1,inside,drinnen,внутри,It is warm inside.,Drinnen ist es warm.,Внутри тепло.
+A1,outside,draußen,снаружи,It is cold outside.,Draußen ist es kalt.,Снаружи холодно.
+A1,soon,bald,скоро,See you soon.,Bis bald.,До скорого.
+A1,then,dann,потом,"First I eat, then I work.","Zuerst esse ich, dann arbeite ich.","Сначала я ем, потом работаю."
+A1,at first,zuerst,сначала,At first I read the text.,Zuerst lese ich den Text.,Сначала я читаю текст.
+A1,later,später,позже,I call you later.,Ich rufe dich später an.,Я позвоню тебе позже.
+A1,more,mehr,больше,I want more water.,Ich will mehr Wasser.,Я хочу больше воды.
+A1,less,weniger,меньше,I eat less bread.,Ich esse weniger Brot.,Я ем меньше хлеба.
+A1,enough,genug,достаточно,That is enough.,Das ist genug.,Этого достаточно.
+A1,all,alle,все,All students are here.,Alle Studenten sind hier.,Все студенты здесь.
+A1,every,jeder,каждый,Every day I learn words.,Jeder Tag bringt neue Wörter.,Каждый день приносит новые слова.
+A1,nothing,nichts,ничего,I have nothing.,Ich habe nichts.,У меня ничего нет.
+A1,something,etwas,что-то,I want something.,Ich will etwas.,Я хочу что-нибудь.
+A1,everything,alles,всё,Everything is good.,Alles ist gut.,Всё хорошо.
+A1,nobody,niemand,никто,Nobody is here.,Niemand ist hier.,Никого нет.
+A1,perhaps,vielleicht,возможно,Perhaps he comes.,Vielleicht kommt er.,"Возможно, он придёт."
+A1,really,wirklich,действительно,Is that really true?,Ist das wirklich wahr?,Это правда?
+A1,too (excessively),zu,слишком,The tea is too hot.,Der Tee ist zu heiß.,Чай слишком горячий.
+A1,quite,ziemlich,довольно,The film is quite good.,Der Film ist ziemlich gut.,Фильм довольно хороший.
+A1,almost,fast,почти,I am almost ready.,Ich bin fast fertig.,Я почти готов.
+A1,exactly,genau,точно,That is exactly right.,Das ist genau richtig.,Это совершенно верно.
+A1,together,zusammen,вместе,We learn together.,Wir lernen zusammen.,Мы учимся вместе.
+A1,which,welcher,какой,Which book do you want?,Welches Buch willst du?,Какую книгу ты хочешь?
+A1,you're welcome,gern geschehen,пожалуйста (в ответ),Thank you! — You're welcome.,Danke! — Gern geschehen.,Спасибо! — Пожалуйста.
+A1,good day,Guten Tag,добрый день,"Good day, Mrs. Weber.","Guten Tag, Frau Weber.","Добрый день, госпожа Вебер."
+A1,good evening,Guten Abend,добрый вечер,"Good evening, everyone.","Guten Abend, alle zusammen.",Добрый вечер всем.
+A1,bye,Tschüs,пока,"Bye, see you tomorrow.","Tschüs, bis morgen.","Пока, до завтра."
+A1,see you later,bis später,до скорого,"See you later, friend.","Bis später, Freund.","До скорого, друг."
+A1,welcome,Willkommen,добро пожаловать,Welcome to Germany.,Willkommen in Deutschland.,Добро пожаловать в Германию.
+A1,congratulations,Herzlichen Glückwunsch,поздравляю,Congratulations on your birthday.,Herzlichen Glückwunsch zum Geburtstag.,Поздравляю с днём рождения.
+A1,all the best,Alles Gute,всего хорошего,All the best for the exam.,Alles Gute für die Prüfung.,Всего хорошего на экзамене.
+A1,cheers,Prost,за здоровье,"Cheers, my friends.","Prost, meine Freunde.","За здоровье, друзья."
+A1,enjoy your meal,Guten Appetit,приятного аппетита,Enjoy your meal.,Guten Appetit.,Приятного аппетита.
+A1,how are you,Wie geht's?,как дела?,"Hello, how are you?","Hallo, wie geht's?","Привет, как дела?"
+A1,never mind,macht nichts,ничего страшного,"Never mind, no problem.","Macht nichts, kein Problem.","Ничего страшного, не проблема."
+A1,of course,natürlich,конечно,Of course I help you.,Natürlich helfe ich dir.,"Конечно, я тебе помогу."
+A1,zero,null,ноль,The temperature is zero.,Die Temperatur ist null.,Температура ноль.
+A1,eleven,elf,одиннадцать,It is eleven o'clock.,Es ist elf Uhr.,Сейчас одиннадцать часов.
+A1,twelve,zwölf,двенадцать,A year has twelve months.,Ein Jahr hat zwölf Monate.,В году двенадцать месяцев.
+A1,thirteen,dreizehn,тринадцать,He is thirteen years old.,Er ist dreizehn Jahre alt.,Ему тринадцать лет.
+A1,fourteen,vierzehn,четырнадцать,The bus comes in fourteen minutes.,Der Bus kommt in vierzehn Minuten.,Автобус придёт через четырнадцать минут.
+A1,fifteen,fünfzehn,пятнадцать,I wait fifteen minutes.,Ich warte fünfzehn Minuten.,Я жду пятнадцать минут.
+A1,sixteen,sechzehn,шестнадцать,She is sixteen.,Sie ist sechzehn.,Ей шестнадцать.
+A1,seventeen,siebzehn,семнадцать,I have seventeen books.,Ich habe siebzehn Bücher.,У меня семнадцать книг.
+A1,eighteen,achtzehn,восемнадцать,He is eighteen years old.,Er ist achtzehn Jahre alt.,Ему восемнадцать лет.
+A1,nineteen,neunzehn,девятнадцать,There are nineteen students.,Es gibt neunzehn Studenten.,Там девятнадцать студентов.
+A1,thirty,dreißig,тридцать,The book costs thirty euros.,Das Buch kostet dreißig Euro.,Книга стоит тридцать евро.
+A1,forty,vierzig,сорок,My father is forty.,Mein Vater ist vierzig.,Моему папе сорок.
+A1,fifty,fünfzig,пятьдесят,The ticket costs fifty euros.,Die Fahrkarte kostet fünfzig Euro.,Билет стоит пятьдесят евро.
+A1,sixty,sechzig,шестьдесят,My grandfather is sixty.,Mein Opa ist sechzig.,Моему дедушке шестьдесят.
+A1,seventy,siebzig,семьдесят,My grandmother is seventy.,Meine Oma ist siebzig.,Моей бабушке семьдесят.
+A1,eighty,achtzig,восемьдесят,The house is eighty years old.,Das Haus ist achtzig Jahre alt.,Дому восемьдесят лет.
+A1,ninety,neunzig,девяносто,The book has ninety pages.,Das Buch hat neunzig Seiten.,В книге девяносто страниц.
+A1,brown,braun,коричневый,The dog is brown.,Der Hund ist braun.,Собака коричневая.
+A1,grey,grau,серый,The sky is grey.,Der Himmel ist grau.,Небо серое.
+A1,pink,rosa,розовый,The dress is pink.,Das Kleid ist rosa.,Платье розовое.
+A1,purple,lila,фиолетовый,The flower is purple.,Die Blume ist lila.,Цветок фиолетовый.
+A1,Germany,Deutschland,Германия,I want to go to Germany.,Ich will nach Deutschland fahren.,Я хочу поехать в Германию.
+A1,Russia,Russland,Россия,Russia is big.,Russland ist groß.,Россия большая.
+A1,Kyrgyzstan,Kirgisistan,Кыргызстан,I live in Kyrgyzstan.,Ich wohne in Kirgisistan.,Я живу в Кыргызстане.
+A1,Kazakhstan,Kasachstan,Казахстан,Kazakhstan is near.,Kasachstan ist nah.,Казахстан близко.
+A1,Uzbekistan,Usbekistan,Узбекистан,My friend is from Uzbekistan.,Mein Freund kommt aus Usbekistan.,Мой друг из Узбекистана.
+A1,England,England,Англия,England is in Europe.,England liegt in Europa.,Англия находится в Европе.
+A1,Europe,Europa,Европа,Europe is big.,Europa ist groß.,Европа большая.
+A1,Austria,Österreich,Австрия,Austria is beautiful.,Österreich ist schön.,Австрия красивая.
+A1,Switzerland,die Schweiz,Швейцария,Switzerland has mountains.,Die Schweiz hat Berge.,В Швейцарии есть горы.
+A1,Turkey,die Türkei,Турция,We travel to Turkey.,Wir reisen in die Türkei.,Мы едем в Турцию.
+A1,China,China,Китай,China is big.,China ist groß.,Китай большой.
+A1,America,Amerika,Америка,My uncle lives in America.,Mein Onkel wohnt in Amerika.,Мой дядя живёт в Америке.
+A1,Asia,Asien,Азия,Kyrgyzstan is in Asia.,Kirgisistan liegt in Asien.,Кыргызстан находится в Азии.
+A1,tooth,der Zahn,зуб,My tooth hurts.,Mein Zahn tut weh.,У меня болит зуб.
+A1,finger,der Finger,палец,My finger hurts.,Mein Finger tut weh.,У меня болит палец.
+A1,back,der Rücken,спина,My back hurts.,Mein Rücken tut weh.,У меня болит спина.
+A1,"stomach, belly",der Bauch,живот,My stomach hurts.,Mein Bauch tut weh.,У меня болит живот.
+A1,face,das Gesicht,лицо,She has a nice face.,Sie hat ein nettes Gesicht.,У неё приятное лицо.
+A1,neck,der Hals,шея,My neck hurts.,Mein Hals tut weh.,У меня болит шея.
+A1,tree,der Baum,дерево,The tree is big.,Der Baum ist groß.,Дерево большое.
+A1,flower,die Blume,цветок,The flower is red.,Die Blume ist rot.,Цветок красный.
+A1,river,der Fluss,река,The river is long.,Der Fluss ist lang.,Река длинная.
+A1,mountain,der Berg,гора,The mountain is high.,Der Berg ist hoch.,Гора высокая.
+A1,lake,der See,озеро,The lake is blue.,Der See ist blau.,Озеро синее.
+A1,sea,das Meer,море,The sea is big.,Das Meer ist groß.,Море большое.
+A1,sky,der Himmel,небо,The sky is blue.,Der Himmel ist blau.,Небо голубое.
+A1,moon,der Mond,луна,The moon is bright.,Der Mond ist hell.,Луна яркая.
+A1,star,der Stern,звезда,I see a star.,Ich sehe einen Stern.,Я вижу звезду.
+A1,forest,der Wald,лес,We walk in the forest.,Wir gehen im Wald spazieren.,Мы гуляем в лесу.
+A1,horse,das Pferd,лошадь,The horse is fast.,Das Pferd ist schnell.,Лошадь быстрая.
+A1,cow,die Kuh,корова,The cow gives milk.,Die Kuh gibt Milch.,Корова даёт молоко.
+A1,sheep,das Schaf,овца,The sheep is white.,Das Schaf ist weiß.,Овца белая.
+A1,mouse,die Maus,мышь,The mouse is small.,Die Maus ist klein.,Мышь маленькая.
+A1,internet,das Internet,интернет,I use the internet.,Ich benutze das Internet.,Я пользуюсь интернетом.
+A1,text message,die SMS,СМС,I send a text message.,Ich schicke eine SMS.,Я отправляю СМС.
+A1,hobby,das Hobby,хобби,My hobby is music.,Mein Hobby ist Musik.,Моё хобби — музыка.
+A1,game,das Spiel,игра,The game is fun.,Das Spiel macht Spaß.,Игра весёлая.
+A1,"trip, journey",die Reise,поездка,The trip is long.,Die Reise ist lang.,Поездка долгая.
+A1,walk (noun),der Spaziergang,прогулка,We take a walk.,Wir machen einen Spaziergang.,Мы совершаем прогулку.
+A1,concert,das Konzert,концерт,The concert is tonight.,Das Konzert ist heute Abend.,Концерт сегодня вечером.
+A1,cash,das Bargeld,наличные,I pay in cash.,Ich zahle bar.,Я плачу наличными.
+A1,change (coins),das Wechselgeld,сдача,I have no change.,Ich habe kein Wechselgeld.,У меня нет сдачи.
+A1,carrier bag,die Tüte,пакет,I need a bag.,Ich brauche eine Tüte.,Мне нужен пакет.
+A1,"offer, special offer",das Angebot,предложение,This is a good offer.,Das ist ein gutes Angebot.,Это хорошее предложение.
+A1,receipt,der Kassenbon,чек,Here is your receipt.,Hier ist Ihr Kassenbon.,Вот ваш чек.
+A1,size,die Größe,размер,What size do you have?,Welche Größe haben Sie?,Какой у вас размер?
+A1,class (school),die Klasse,класс,My class is big.,Meine Klasse ist groß.,Мой класс большой.
+A1,pupil,der Schüler,школьник,The pupil reads.,Der Schüler liest.,Школьник читает.
+A1,homework,die Hausaufgabe,домашнее задание,I do my homework.,Ich mache meine Hausaufgabe.,Я делаю домашнее задание.
+A1,"grade, mark",die Note,оценка,I have a good grade.,Ich habe eine gute Note.,У меня хорошая оценка.
+A1,course,der Kurs,курс,I take a German course.,Ich besuche einen Deutschkurs.,Я хожу на курс немецкого.
+A1,test,der Test,тест,The test is tomorrow.,Der Test ist morgen.,Тест завтра.
+A2,to remember,sich erinnern,помнить,I remember his name.,Ich erinnere mich an seinen Namen.,Я помню его имя.
+A2,to decide,sich entscheiden,решаться,I decide to stay.,Ich entscheide mich zu bleiben.,Я решаю остаться.
+A2,to prepare,vorbereiten,"готовить, подготавливать",I prepare dinner.,Ich bereite das Abendessen vor.,Я готовлю ужин.
+A2,to organize,organisieren,организовывать,We organize a party.,Wir organisieren eine Party.,Мы организуем вечеринку.
+A2,to plan,planen,планировать,I plan a trip.,Ich plane eine Reise.,Я планирую поездку.
+A2,to repair,reparieren,ремонтировать,He repairs the car.,Er repariert das Auto.,Он ремонтирует машину.
+A2,to change,ändern,изменять,I change my plans.,Ich ändere meine Pläne.,Я меняю свои планы.
+A2,to move (house),umziehen,переезжать,We move to Berlin.,Wir ziehen nach Berlin um.,Мы переезжаем в Берлин.
+A2,"to arrange, to agree on",vereinbaren,договариваться,We agree on a date.,Wir vereinbaren einen Termin.,Мы договариваемся о встрече.
+A2,to cancel,absagen,отменять,I cancel the meeting.,Ich sage das Treffen ab.,Я отменяю встречу.
+A2,to agree,zustimmen,соглашаться,I agree with you.,Ich stimme dir zu.,Я с тобой согласен.
+A2,to complain,sich beschweren,жаловаться,He complains about the food.,Er beschwert sich über das Essen.,Он жалуется на еду.
+A2,to apologize,sich entschuldigen,извиняться,I apologize for being late.,Ich entschuldige mich für die Verspätung.,Я извиняюсь за опоздание.
+A2,to promise,versprechen,обещать,I promise to come.,Ich verspreche zu kommen.,Я обещаю прийти.
+A2,to allow,erlauben,разрешать,The teacher allows it.,Der Lehrer erlaubt es.,Учитель это разрешает.
+A2,to forbid,verbieten,запрещать,The doctor forbids sugar.,Der Arzt verbietet Zucker.,Врач запрещает сахар.
+A2,to recommend,empfehlen,рекомендовать,I recommend this restaurant.,Ich empfehle dieses Restaurant.,Я рекомендую этот ресторан.
+A2,to advise,raten,советовать,I advise you to wait.,Ich rate dir zu warten.,Я советую тебе подождать.
+A2,to describe,beschreiben,описывать,Describe the picture.,Beschreibe das Bild.,Опиши картину.
+A2,to report,berichten,сообщать,He reports about the trip.,Er berichtet über die Reise.,Он сообщает о поездке.
+A2,"to tell, to narrate",erzählen,рассказывать,She tells a story.,Sie erzählt eine Geschichte.,Она рассказывает историю.
+A2,to discuss,besprechen,обсуждать,We discuss the plan.,Wir besprechen den Plan.,Мы обсуждаем план.
+A2,to introduce,vorstellen,представлять,I introduce my friend.,Ich stelle meinen Freund vor.,Я представляю своего друга.
+A2,to get to know,kennenlernen,знакомиться,I get to know new people.,Ich lerne neue Leute kennen.,Я знакомлюсь с новыми людьми.
+A2,to follow,folgen,следовать,The dog follows me.,Der Hund folgt mir.,Собака следует за мной.
+A2,to lead,führen,вести,He leads the group.,Er führt die Gruppe.,Он ведёт группу.
+A2,to pull,ziehen,тянуть,Pull the door.,Zieh an der Tür.,Потяни дверь.
+A2,"to push, to press",drücken,"нажимать, давить",Press the button.,Drück auf den Knopf.,Нажми на кнопку.
+A2,to throw,werfen,бросать,He throws the ball.,Er wirft den Ball.,Он бросает мяч.
+A2,to catch,fangen,ловить,I catch the ball.,Ich fange den Ball.,Я ловлю мяч.
+A2,to break,brechen,ломать,He breaks the stick.,Er bricht den Stock.,Он ломает палку.
+A2,to cut,schneiden,резать,I cut the bread.,Ich schneide das Brot.,Я режу хлеб.
+A2,to burn,brennen,гореть,The fire burns.,Das Feuer brennt.,Огонь горит.
+A2,to grow,wachsen,расти,The tree grows.,Der Baum wächst.,Дерево растёт.
+A2,to happen,passieren,происходить,What happens here?,Was passiert hier?,Что здесь происходит?
+A2,to appear,erscheinen,появляться,The sun appears.,Die Sonne erscheint.,Появляется солнце.
+A2,to disappear,verschwinden,исчезать,The cat disappears.,Die Katze verschwindet.,Кошка исчезает.
+A2,to fall,fallen,падать,The leaf falls.,Das Blatt fällt.,Лист падает.
+A2,to climb,klettern,лазить,We climb the mountain.,Wir klettern auf den Berg.,Мы лезем на гору.
+A2,to jump,springen,прыгать,The dog jumps.,Der Hund springt.,Собака прыгает.
+A2,to cry,weinen,плакать,The baby cries.,Das Baby weint.,Малыш плачет.
+A2,to laugh,lachen,смеяться,We laugh together.,Wir lachen zusammen.,Мы смеёмся вместе.
+A2,to smile,lächeln,улыбаться,She smiles at me.,Sie lächelt mich an.,Она улыбается мне.
+A2,to shout,schreien,кричать,Do not shout.,Schrei nicht.,Не кричи.
+A2,to kiss,küssen,целовать,He kisses his wife.,Er küsst seine Frau.,Он целует свою жену.
+A2,to hug,umarmen,обнимать,She hugs her mother.,Sie umarmt ihre Mutter.,Она обнимает маму.
+A2,to fight,kämpfen,бороться,They fight for the ball.,Sie kämpfen um den Ball.,Они борются за мяч.
+A2,to worry,sich Sorgen machen,беспокоиться,I worry about my father.,Ich mache mir Sorgen um meinen Vater.,Я беспокоюсь о папе.
+A2,to be afraid,Angst haben,бояться,I am afraid of dogs.,Ich habe Angst vor Hunden.,Я боюсь собак.
+A2,to be pleased,sich freuen,радоваться,I am pleased about the gift.,Ich freue mich über das Geschenk.,Я рад подарку.
+A2,to be interested in,sich interessieren für,интересоваться,I am interested in music.,Ich interessiere mich für Musik.,Я интересуюсь музыкой.
+A2,to be bored,sich langweilen,скучать,I am bored.,Ich langweile mich.,Мне скучно.
+A2,to hurry,sich beeilen,спешить,Hurry up!,Beeil dich!,Поторопись!
+A2,to relax,sich entspannen,расслабляться,I relax at home.,Ich entspanne mich zu Hause.,Я расслабляюсь дома.
+A2,to get dressed,sich anziehen,одеваться,I get dressed quickly.,Ich ziehe mich schnell an.,Я быстро одеваюсь.
+A2,to get undressed,sich ausziehen,раздеваться,The child gets undressed.,Das Kind zieht sich aus.,Ребёнок раздевается.
+A2,to brush teeth,Zähne putzen,чистить зубы,I brush my teeth twice a day.,Ich putze mir zweimal am Tag die Zähne.,Я чищу зубы два раза в день.
+A2,to shave,sich rasieren,бриться,He shaves every morning.,Er rasiert sich jeden Morgen.,Он бреется каждое утро.
+A2,to bathe,baden,купаться,We bathe in the lake.,Wir baden im See.,Мы купаемся в озере.
+A2,to wake up,aufwachen,просыпаться,I wake up at six.,Ich wache um sechs auf.,Я просыпаюсь в шесть.
+A2,to fall asleep,einschlafen,засыпать,I fall asleep quickly.,Ich schlafe schnell ein.,Я быстро засыпаю.
+A2,to dream,träumen,"мечтать, видеть сны",I dream about a trip.,Ich träume von einer Reise.,Я мечтаю о поездке.
+A2,to breathe,atmen,дышать,Breathe slowly.,Atme langsam.,Дыши медленно.
+A2,to cough,husten,кашлять,He coughs a lot.,Er hustet viel.,Он много кашляет.
+A2,to hurt,wehtun,болеть,My back hurts.,Mein Rücken tut weh.,У меня болит спина.
+A2,to recover,sich erholen,"отдыхать, поправляться",I recover after the illness.,Ich erhole mich nach der Krankheit.,Я поправляюсь после болезни.
+A2,to examine,untersuchen,обследовать,The doctor examines me.,Der Arzt untersucht mich.,Врач обследует меня.
+A2,to measure,messen,измерять,I measure the table.,Ich messe den Tisch.,Я измеряю стол.
+A2,to weigh,wiegen,взвешивать,The bag weighs five kilos.,Die Tasche wiegt fünf Kilo.,Сумка весит пять килограммов.
+A2,to choose,wählen,выбирать,I choose a book.,Ich wähle ein Buch.,Я выбираю книгу.
+A2,to collect,sammeln,собирать,He collects stamps.,Er sammelt Briefmarken.,Он собирает марки.
+A2,to save (money),sparen,"копить, экономить",I save money for a trip.,Ich spare Geld für eine Reise.,Я коплю деньги на поездку.
+A2,to spend (money),ausgeben,тратить,I spend a lot of money.,Ich gebe viel Geld aus.,Я трачу много денег.
+A2,to borrow,leihen,одалживать (брать),Can I borrow your pen?,Kann ich deinen Kugelschreiber leihen?,Можно одолжить твою ручку?
+A2,to lend,verleihen,одалживать (давать),I lend him a book.,Ich verleihe ihm ein Buch.,Я одалживаю ему книгу.
+A2,to earn,verdienen,зарабатывать,She earns a lot.,Sie verdient viel.,Она много зарабатывает.
+A2,to deliver,liefern,доставлять,They deliver the pizza.,Sie liefern die Pizza.,Они доставляют пиццу.
+A2,to pack,packen,упаковывать,I pack my suitcase.,Ich packe meinen Koffer.,Я пакую чемодан.
+A2,to unpack,auspacken,распаковывать,I unpack the bag.,Ich packe die Tasche aus.,Я распаковываю сумку.
+A2,to check,kontrollieren,проверять,I check the time.,Ich kontrolliere die Zeit.,Я проверяю время.
+A2,to test,testen,испытывать,We test the new phone.,Wir testen das neue Handy.,Мы тестируем новый телефон.
+A2,to copy,kopieren,копировать,I copy the text.,Ich kopiere den Text.,Я копирую текст.
+A2,to print,drucken,печатать,I print the ticket.,Ich drucke die Fahrkarte.,Я печатаю билет.
+A2,to download,herunterladen,скачивать,I download the app.,Ich lade die App herunter.,Я скачиваю приложение.
+A2,to click,klicken,кликать,Click the link.,Klicke auf den Link.,Нажми на ссылку.
+A2,to save (file),speichern,сохранять,I save the file.,Ich speichere die Datei.,Я сохраняю файл.
+A2,to delete,löschen,удалять,I delete the email.,Ich lösche die E-Mail.,Я удаляю письмо.
+A2,to search for,suchen,искать,I search for my key.,Ich suche meinen Schlüssel.,Я ищу свой ключ.
+A2,to hand in,abgeben,сдавать,I hand in my homework.,Ich gebe meine Hausaufgabe ab.,Я сдаю домашнее задание.
+A2,to take part,teilnehmen,участвовать,I take part in the course.,Ich nehme am Kurs teil.,Я участвую в курсе.
+A2,to apply,sich bewerben,подавать заявку,I apply for a job.,Ich bewerbe mich um eine Stelle.,Я подаю заявку на работу.
+A2,to hire,einstellen,нанимать,The company hires workers.,Die Firma stellt Arbeiter ein.,Фирма нанимает рабочих.
+A2,"to resign, to cancel",kündigen,"увольняться, расторгать",He resigns from his job.,Er kündigt seine Arbeit.,Он увольняется с работы.
+A2,to train,trainieren,тренироваться,We train twice a week.,Wir trainieren zweimal pro Woche.,Мы тренируемся два раза в неделю.
+A2,to practise,üben,практиковаться,I practise German every day.,Ich übe jeden Tag Deutsch.,Я каждый день практикую немецкий.
+A2,to correct,korrigieren,исправлять,The teacher corrects the mistakes.,Der Lehrer korrigiert die Fehler.,Учитель исправляет ошибки.
+A2,to translate,übersetzen,переводить,I translate the text.,Ich übersetze den Text.,Я перевожу текст.
+A2,to pronounce,aussprechen,произносить,I pronounce the word.,Ich spreche das Wort aus.,Я произношу слово.
+A2,"to mean, to signify",bedeuten,значить,What does this word mean?,Was bedeutet dieses Wort?,Что значит это слово?
+A2,to seem,scheinen,казаться,He seems tired.,Er scheint müde zu sein.,Он кажется усталым.
+A2,to look like,aussehen,выглядеть,You look happy.,Du siehst glücklich aus.,Ты выглядишь счастливым.
+A2,to sound,klingen,звучать,That sounds good.,Das klingt gut.,Это звучит хорошо.
+A2,to smell,riechen,пахнуть,The soup smells good.,Die Suppe riecht gut.,Суп приятно пахнет.
+A2,to feel,fühlen,чувствовать,I feel good.,Ich fühle mich gut.,Я чувствую себя хорошо.
+A2,to touch,berühren,касаться,Do not touch the picture.,Berühre das Bild nicht.,Не трогай картину.
+A2,to turn (direction),abbiegen,поворачивать,Turn left at the corner.,Biegen Sie an der Ecke links ab.,На углу поверните налево.
+A2,to cross,überqueren,переходить,We cross the street.,Wir überqueren die Straße.,Мы переходим улицу.
+A2,to park,parken,парковать,I park the car here.,Ich parke das Auto hier.,Я паркую машину здесь.
+A2,to refuel,tanken,заправляться,I refuel at the petrol station.,Ich tanke an der Tankstelle.,Я заправляюсь на заправке.
+A2,"to get on, to board",einsteigen,садиться,I board the train.,Ich steige in den Zug ein.,Я сажусь в поезд.
+A2,to get off,aussteigen,выходить (из транспорта),I get off at the station.,Ich steige am Bahnhof aus.,Я выхожу на вокзале.
+A2,to change (trains),umsteigen,делать пересадку,I change trains in Berlin.,Ich steige in Berlin um.,Я делаю пересадку в Берлине.
+A2,"to stop, to hold",halten,"останавливаться, держать",The bus stops here.,Der Bus hält hier.,Автобус останавливается здесь.
+A2,to rest,sich ausruhen,отдыхать,I rest after work.,Ich ruhe mich nach der Arbeit aus.,Я отдыхаю после работы.
+A2,to reserve,reservieren,резервировать,I reserve a table.,Ich reserviere einen Tisch.,Я резервирую столик.
+A2,to pass (an exam),bestehen,сдать (экзамен),I pass the exam.,Ich bestehe die Prüfung.,Я сдаю экзамен.
+A2,to fail,durchfallen,провалиться,He fails the test.,Er fällt durch den Test.,Он проваливает тест.
+A2,to stay overnight,übernachten,ночевать,We stay overnight in a hotel.,Wir übernachten in einem Hotel.,Мы ночуем в гостинице.
+A2,to hike,wandern,ходить в поход,We hike in the mountains.,Wir wandern in den Bergen.,Мы ходим в горы в поход.
+A2,to photograph,fotografieren,фотографировать,I photograph the mountain.,Ich fotografiere den Berg.,Я фотографирую гору.
+A2,to paint,malen,рисовать красками,She paints a picture.,Sie malt ein Bild.,Она рисует картину.
+A2,to draw,zeichnen,рисовать,The child draws a house.,Das Kind zeichnet ein Haus.,Ребёнок рисует дом.
+A2,to bake,backen,печь,I bake a cake.,Ich backe einen Kuchen.,Я пеку торт.
+A2,to fry,braten,жарить,I fry an egg.,Ich brate ein Ei.,Я жарю яйцо.
+A2,to mix,mischen,смешивать,I mix flour and water.,Ich mische Mehl und Wasser.,Я смешиваю муку и воду.
+A2,to pour,gießen,"наливать, лить",I pour milk into the glass.,Ich gieße Milch ins Glas.,Я наливаю молоко в стакан.
+A2,to smoke,rauchen,курить,He does not smoke.,Er raucht nicht.,Он не курит.
+A2,to throw away,wegwerfen,выбрасывать,I throw away the paper.,Ich werfe das Papier weg.,Я выбрасываю бумагу.
+A2,to recycle,recyceln,перерабатывать,We recycle bottles.,Wir recyceln Flaschen.,Мы перерабатываем бутылки.
+A2,doctor's appointment,der Arzttermin,запись к врачу,I have a doctor's appointment.,Ich habe einen Arzttermin.,У меня запись к врачу.
+A2,patient,der Patient,пациент,The patient is waiting.,Der Patient wartet.,Пациент ждёт.
+A2,prescription,das Rezept,рецепт,I need a prescription.,Ich brauche ein Rezept.,Мне нужен рецепт.
+A2,"tablet, pill",die Tablette,таблетка,I take a tablet.,Ich nehme eine Tablette.,Я принимаю таблетку.
+A2,injection,die Spritze,"укол, шприц",The nurse gives an injection.,Die Krankenschwester gibt eine Spritze.,Медсестра делает укол.
+A2,wound,die Wunde,рана,The wound hurts.,Die Wunde tut weh.,Рана болит.
+A2,accident,der Unfall,несчастный случай,There is an accident.,Es gibt einen Unfall.,Произошёл несчастный случай.
+A2,ambulance,der Krankenwagen,скорая помощь,Call an ambulance!,Ruf einen Krankenwagen!,Вызови скорую!
+A2,emergency,der Notfall,экстренный случай,This is an emergency.,Das ist ein Notfall.,Это экстренный случай.
+A2,allergy,die Allergie,аллергия,I have an allergy.,Ich habe eine Allergie.,У меня аллергия.
+A2,blood,das Blut,кровь,I see blood.,Ich sehe Blut.,Я вижу кровь.
+A2,skin,die Haut,кожа,My skin is dry.,Meine Haut ist trocken.,Моя кожа сухая.
+A2,bone,der Knochen,кость,The bone hurts.,Der Knochen tut weh.,Кость болит.
+A2,cough,der Husten,кашель,I have a cough.,Ich habe Husten.,У меня кашель.
+A2,diet,die Diät,диета,I am on a diet.,Ich mache eine Diät.,Я на диете.
+A2,weight,das Gewicht,вес,My weight is sixty kilos.,Mein Gewicht ist sechzig Kilo.,Мой вес шестьдесят килограммов.
+A2,sleep,der Schlaf,сон,I need more sleep.,Ich brauche mehr Schlaf.,Мне нужно больше сна.
+A2,"calm, rest",die Ruhe,покой,I need some rest.,Ich brauche Ruhe.,Мне нужен покой.
+A2,stress,der Stress,стресс,I have a lot of stress.,Ich habe viel Stress.,У меня много стресса.
+A2,gym,das Fitnessstudio,тренажёрный зал,I go to the gym.,Ich gehe ins Fitnessstudio.,Я хожу в тренажёрный зал.
+A2,training,das Training,тренировка,Training starts at six.,Das Training beginnt um sechs.,Тренировка начинается в шесть.
+A2,team,die Mannschaft,команда,Our team is good.,Unsere Mannschaft ist gut.,Наша команда хорошая.
+A2,winner,der Sieger,победитель,He is the winner.,Er ist der Sieger.,Он победитель.
+A2,result,das Ergebnis,результат,What is the result?,Was ist das Ergebnis?,Каков результат?
+A2,goal,das Tor,"гол, ворота",He scores a goal.,Er schießt ein Tor.,Он забивает гол.
+A2,sock,die Socke,носок,I need new socks.,Ich brauche neue Socken.,Мне нужны новые носки.
+A2,underwear,die Unterwäsche,нижнее бельё,I buy underwear.,Ich kaufe Unterwäsche.,Я покупаю нижнее бельё.
+A2,skirt,der Rock,юбка,The skirt is short.,Der Rock ist kurz.,Юбка короткая.
+A2,sweater,der Pullover,свитер,The sweater is warm.,Der Pullover ist warm.,Свитер тёплый.
+A2,coat,der Mantel,пальто,I wear a coat in winter.,Im Winter trage ich einen Mantel.,Зимой я ношу пальто.
+A2,scarf,der Schal,шарф,She wears a scarf.,Sie trägt einen Schal.,Она носит шарф.
+A2,glove,der Handschuh,перчатка,I lose a glove.,Ich verliere einen Handschuh.,Я теряю перчатку.
+A2,belt,der Gürtel,ремень,The belt is black.,Der Gürtel ist schwarz.,Ремень чёрный.
+A2,boot,der Stiefel,сапог,The boot is wet.,Der Stiefel ist nass.,Сапог мокрый.
+A2,jewellery,der Schmuck,украшения,She wears gold jewellery.,Sie trägt Goldschmuck.,Она носит золотые украшения.
+A2,ring,der Ring,кольцо,The ring is beautiful.,Der Ring ist schön.,Кольцо красивое.
+A2,fashion,die Mode,мода,She likes fashion.,Sie mag Mode.,Она любит моду.
+A2,worried,besorgt,обеспокоенный,My mother is worried.,Meine Mutter ist besorgt.,Моя мама обеспокоена.
+A2,nervous,nervös,нервный,I am nervous before the exam.,Ich bin vor der Prüfung nervös.,Я нервничаю перед экзаменом.
+A2,surprised,überrascht,удивлённый,I am surprised.,Ich bin überrascht.,Я удивлён.
+A2,satisfied,zufrieden,довольный,We are satisfied.,Wir sind zufrieden.,Мы довольны.
+A2,disappointed,enttäuscht,разочарованный,He is disappointed.,Er ist enttäuscht.,Он разочарован.
+A2,proud,stolz,гордый,I am proud of you.,Ich bin stolz auf dich.,Я горжусь тобой.
+A2,lonely,einsam,одинокий,She feels lonely.,Sie fühlt sich einsam.,Она чувствует себя одинокой.
+A2,jealous,eifersüchtig,ревнивый,He is jealous.,Er ist eifersüchtig.,Он ревнует.
+A2,shy,schüchtern,застенчивый,The boy is shy.,Der Junge ist schüchtern.,Мальчик застенчивый.
+A2,lazy,faul,ленивый,My brother is lazy.,Mein Bruder ist faul.,Мой брат ленивый.
+A2,hard-working,fleißig,трудолюбивый,She is hard-working.,Sie ist fleißig.,Она трудолюбивая.
+A2,clever,klug,умный,The girl is clever.,Das Mädchen ist klug.,Девочка умная.
+A2,stupid,dumm,глупый,That is a stupid idea.,Das ist eine dumme Idee.,Это глупая идея.
+A2,honest,ehrlich,честный,He is an honest man.,Er ist ein ehrlicher Mann.,Он честный человек.
+A2,polite,höflich,вежливый,The waiter is polite.,Der Kellner ist höflich.,Официант вежливый.
+A2,rude,unhöflich,невежливый,Do not be rude.,Sei nicht unhöflich.,Не будь невежливым.
+A2,patient (adj),geduldig,терпеливый,The teacher is patient.,Der Lehrer ist geduldig.,Учитель терпеливый.
+A2,impatient,ungeduldig,нетерпеливый,I am impatient.,Ich bin ungeduldig.,Я нетерпелив.
+A2,generous,großzügig,щедрый,My uncle is generous.,Mein Onkel ist großzügig.,Мой дядя щедрый.
+A2,curious,neugierig,любопытный,The child is curious.,Das Kind ist neugierig.,Ребёнок любопытный.
+A2,careful,vorsichtig,осторожный,Be careful!,Sei vorsichtig!,Будь осторожен!
+A2,dangerous,gefährlich,опасный,The road is dangerous.,Die Straße ist gefährlich.,Дорога опасная.
+A2,"safe, sure",sicher,"безопасный, уверенный",Are you sure?,Bist du sicher?,Ты уверен?
+A2,pregnant,schwanger,беременная,She is pregnant.,Sie ist schwanger.,Она беременна.
+A2,broken,kaputt,сломанный,The window is broken.,Das Fenster ist kaputt.,Окно разбито.
+A2,wide,breit,широкий,The street is wide.,Die Straße ist breit.,Улица широкая.
+A2,"narrow, tight",eng,"узкий, тесный",The shoes are tight.,Die Schuhe sind eng.,Обувь тесная.
+A2,steep,steil,крутой,The mountain is steep.,Der Berg ist steil.,Гора крутая.
+A2,round,rund,круглый,The table is round.,Der Tisch ist rund.,Стол круглый.
+A2,straight,gerade,прямой,The line is straight.,Die Linie ist gerade.,Линия прямая.
+A2,sharp,scharf,острый,The knife is sharp.,Das Messer ist scharf.,Нож острый.
+A2,soft,weich,мягкий,The bed is soft.,Das Bett ist weich.,Кровать мягкая.
+A2,hard,hart,твёрдый,The bread is hard.,Das Brot ist hart.,Хлеб твёрдый.
+A2,deep,tief,глубокий,The lake is deep.,Der See ist tief.,Озеро глубокое.
+A2,high,hoch,высокий,The tree is high.,Der Baum ist hoch.,Дерево высокое.
+A2,low,niedrig,низкий,The table is low.,Der Tisch ist niedrig.,Стол низкий.
+A2,huge,riesig,огромный,The house is huge.,Das Haus ist riesig.,Дом огромный.
+A2,tiny,winzig,крошечный,The mouse is tiny.,Die Maus ist winzig.,Мышь крошечная.
+A2,modern,modern,современный,The flat is modern.,Die Wohnung ist modern.,Квартира современная.
+A2,traditional,traditionell,традиционный,This is a traditional dish.,Das ist ein traditionelles Gericht.,Это традиционное блюдо.
+A2,typical,typisch,типичный,That is typical.,Das ist typisch.,Это типично.
+A2,special,besonders,особенный,Today is a special day.,Heute ist ein besonderer Tag.,Сегодня особенный день.
+A2,normal,normal,нормальный,It is normal.,Das ist normal.,Это нормально.
+A2,usual,üblich,обычный,It is the usual price.,Das ist der übliche Preis.,Это обычная цена.
+A2,rare,selten,редкий,This bird is rare.,Dieser Vogel ist selten.,Эта птица редкая.
+A2,various,verschieden,разный,We have various books.,Wir haben verschiedene Bücher.,У нас есть разные книги.
+A2,clear,klar,ясный,The answer is clear.,Die Antwort ist klar.,Ответ ясен.
+A2,simple,einfach,простой,The task is simple.,Die Aufgabe ist einfach.,Задача простая.
+A2,complicated,kompliziert,сложный,The problem is complicated.,Das Problem ist kompliziert.,Проблема сложная.
+A2,useful,nützlich,полезный,This book is useful.,Dieses Buch ist nützlich.,Эта книга полезная.
+A2,useless,nutzlos,бесполезный,The tool is useless.,Das Werkzeug ist nutzlos.,Инструмент бесполезный.
+A2,necessary,nötig,необходимый,Water is necessary.,Wasser ist nötig.,Вода необходима.
+A2,free (available),frei,свободный,Is this seat free?,Ist dieser Platz frei?,Это место свободно?
+A2,busy,beschäftigt,занятой,I am busy today.,Ich bin heute beschäftigt.,Сегодня я занят.
+A2,occupied,besetzt,занятый (о месте),The toilet is occupied.,Die Toilette ist besetzt.,Туалет занят.
+A2,public,öffentlich,общественный,This is a public park.,Das ist ein öffentlicher Park.,Это общественный парк.
+A2,private,privat,частный,This is a private room.,Das ist ein privates Zimmer.,Это частная комната.
+A2,international,international,международный,It is an international airport.,Es ist ein internationaler Flughafen.,Это международный аэропорт.
+A2,foreign,fremd,чужой,I speak a foreign language.,Ich spreche eine fremde Sprache.,Я говорю на иностранном языке.
+A2,local,örtlich,местный,I eat local food.,Ich esse örtliches Essen.,Я ем местную еду.
+A2,famous,berühmt,знаменитый,He is a famous singer.,Er ist ein berühmter Sänger.,Он знаменитый певец.
+A2,popular,beliebt,популярный,This song is popular.,Dieses Lied ist beliebt.,Эта песня популярна.
+A2,successful,erfolgreich,успешный,She is successful.,Sie ist erfolgreich.,Она успешна.
+A2,unemployed,arbeitslos,безработный,My neighbour is unemployed.,Mein Nachbar ist arbeitslos.,Мой сосед безработный.
+A2,slim,schlank,стройный,She is slim.,Sie ist schlank.,Она стройная.
+A2,sporty,sportlich,спортивный,My brother is sporty.,Mein Bruder ist sportlich.,Мой брат спортивный.
+A2,elegant,elegant,элегантный,The dress is elegant.,Das Kleid ist elegant.,Платье элегантное.
+A2,comfortable,bequem,удобный,The sofa is comfortable.,Das Sofa ist bequem.,Диван удобный.
+A2,uncomfortable,unbequem,неудобный,The chair is uncomfortable.,Der Stuhl ist unbequem.,Стул неудобный.
+A2,tidy,ordentlich,аккуратный,My room is tidy.,Mein Zimmer ist ordentlich.,Моя комната аккуратная.
+A2,untidy,unordentlich,неаккуратный,His desk is untidy.,Sein Schreibtisch ist unordentlich.,Его стол неаккуратный.
+A2,bitter,bitter,горький,The coffee is bitter.,Der Kaffee ist bitter.,Кофе горький.
+A2,salty,salzig,солёный,The soup is salty.,Die Suppe ist salzig.,Суп солёный.
+A2,raw,roh,сырой,The meat is raw.,Das Fleisch ist roh.,Мясо сырое.
+A2,vegetarian,vegetarisch,вегетарианский,I am vegetarian.,Ich bin Vegetarier.,Я вегетарианец.
+A2,company,die Firma,фирма,The company is big.,Die Firma ist groß.,Фирма большая.
+A2,office,das Büro,офис,I work in an office.,Ich arbeite in einem Büro.,Я работаю в офисе.
+A2,factory,die Fabrik,завод,My father works in a factory.,Mein Vater arbeitet in einer Fabrik.,Мой папа работает на заводе.
+A2,"profession, career",die Karriere,карьера,She wants a good career.,Sie möchte eine gute Karriere.,Она хочет хорошую карьеру.
+A2,salary,das Gehalt,зарплата,The salary is good.,Das Gehalt ist gut.,Зарплата хорошая.
+A2,wage,der Lohn,заработная плата,The wage is low.,Der Lohn ist niedrig.,Заработная плата низкая.
+A2,contract,der Vertrag,договор,I sign the contract.,Ich unterschreibe den Vertrag.,Я подписываю договор.
+A2,application,die Bewerbung,"заявление, отклик на вакансию",I write an application.,Ich schreibe eine Bewerbung.,Я пишу заявление.
+A2,interview,das Vorstellungsgespräch,собеседование,I have an interview tomorrow.,Morgen habe ich ein Vorstellungsgespräch.,Завтра у меня собеседование.
+A2,CV,der Lebenslauf,резюме,I send my CV.,Ich schicke meinen Lebenslauf.,Я отправляю своё резюме.
+A2,experience,die Erfahrung,опыт,I have experience.,Ich habe Erfahrung.,У меня есть опыт.
+A2,qualification,die Qualifikation,квалификация,He has a good qualification.,Er hat eine gute Qualifikation.,У него хорошая квалификация.
+A2,"training, apprenticeship",die Ausbildung,профессиональное обучение,She does an apprenticeship.,Sie macht eine Ausbildung.,Она проходит профессиональное обучение.
+A2,internship,das Praktikum,стажировка,I do an internship.,Ich mache ein Praktikum.,Я прохожу стажировку.
+A2,colleague (female),die Kollegin,коллега (женщина),My colleague is friendly.,Meine Kollegin ist freundlich.,Моя коллега дружелюбная.
+A2,meeting,die Besprechung,совещание,The meeting is at ten.,Die Besprechung ist um zehn.,Совещание в десять.
+A2,conference,die Konferenz,конференция,The conference is in Berlin.,Die Konferenz ist in Berlin.,Конференция в Берлине.
+A2,task,die Aufgabe,задача,This task is easy.,Diese Aufgabe ist leicht.,Это задание лёгкое.
+A2,project,das Projekt,проект,We have a new project.,Wir haben ein neues Projekt.,У нас новый проект.
+A2,plan,der Plan,план,I have a plan.,Ich habe einen Plan.,У меня есть план.
+A2,deadline,die Frist,срок,The deadline is Friday.,Die Frist ist Freitag.,Срок — пятница.
+A2,break,die Pause,перерыв,We have a break.,Wir haben eine Pause.,У нас перерыв.
+A2,overtime,die Überstunden,сверхурочные,I work overtime.,Ich mache Überstunden.,Я работаю сверхурочно.
+A2,holiday (leave),der Urlaub,отпуск,I take two weeks of leave.,Ich nehme zwei Wochen Urlaub.,Я беру двухнедельный отпуск.
+A2,shift,die Schicht,смена,I work the night shift.,Ich arbeite in der Nachtschicht.,Я работаю в ночную смену.
+A2,unemployment,die Arbeitslosigkeit,безработица,Unemployment is a problem.,Arbeitslosigkeit ist ein Problem.,Безработица — это проблема.
+A2,manager,der Leiter,руководитель,The manager is in the office.,Der Leiter ist im Büro.,Руководитель в офисе.
+A2,employee,der Angestellte,сотрудник,The company has fifty employees.,Die Firma hat fünfzig Angestellte.,В фирме пятьдесят сотрудников.
+A2,employer,der Arbeitgeber,работодатель,My employer is good.,Mein Arbeitgeber ist gut.,Мой работодатель хороший.
+A2,tax,die Steuer,налог,I pay tax.,Ich zahle Steuern.,Я плачу налог.
+A2,insurance,die Versicherung,страховка,I have insurance.,Ich habe eine Versicherung.,У меня есть страховка.
+A2,bank account,das Konto,счёт в банке,I have a bank account.,Ich habe ein Konto.,У меня есть счёт в банке.
+A2,loan,der Kredit,кредит,I take a loan.,Ich nehme einen Kredit auf.,Я беру кредит.
+A2,debt,die Schuld,долг,He has debts.,Er hat Schulden.,У него долги.
+A2,cash machine,der Geldautomat,банкомат,Where is the cash machine?,Wo ist der Geldautomat?,Где банкомат?
+A2,coin,die Münze,монета,I have a coin.,Ich habe eine Münze.,У меня есть монета.
+A2,banknote,der Geldschein,банкнота,I have a banknote.,Ich habe einen Geldschein.,У меня есть банкнота.
+A2,rent,die Miete,аренда,The rent is high.,Die Miete ist hoch.,Аренда высокая.
+A2,deposit,die Kaution,залог,I pay a deposit.,Ich zahle eine Kaution.,Я плачу залог.
+A2,landlord,der Vermieter,арендодатель,The landlord is nice.,Der Vermieter ist nett.,Арендодатель приятный.
+A2,tenant,der Mieter,арендатор,The tenant pays the rent.,Der Mieter zahlt die Miete.,Арендатор платит аренду.
+A2,move,der Umzug,переезд,The move is on Saturday.,Der Umzug ist am Samstag.,Переезд в субботу.
+A2,furniture,die Möbel,мебель,We buy new furniture.,Wir kaufen neue Möbel.,Мы покупаем новую мебель.
+A2,sofa,das Sofa,диван,The sofa is blue.,Das Sofa ist blau.,Диван синий.
+A2,armchair,der Sessel,кресло,I sit in the armchair.,Ich sitze im Sessel.,Я сижу в кресле.
+A2,cupboard,der Schrank,шкаф,The plates are in the cupboard.,Die Teller sind im Schrank.,Тарелки в шкафу.
+A2,shelf,das Regal,полка,The books are on the shelf.,Die Bücher stehen im Regal.,Книги стоят на полке.
+A2,carpet,der Teppich,ковёр,The carpet is soft.,Der Teppich ist weich.,Ковёр мягкий.
+A2,curtain,der Vorhang,занавеска,I close the curtain.,Ich schließe den Vorhang.,Я закрываю занавеску.
+A2,mirror,der Spiegel,зеркало,There is a mirror on the wall.,An der Wand hängt ein Spiegel.,На стене висит зеркало.
+A2,fridge,der Kühlschrank,холодильник,The milk is in the fridge.,Die Milch ist im Kühlschrank.,Молоко в холодильнике.
+A2,oven,der Herd,плита,The cake is in the oven.,Der Kuchen ist im Herd.,Торт в духовке.
+A2,washing machine,die Waschmaschine,стиральная машина,The washing machine is broken.,Die Waschmaschine ist kaputt.,Стиральная машина сломана.
+A2,heating,die Heizung,отопление,The heating is on.,Die Heizung ist an.,Отопление включено.
+A2,electricity,der Strom,электричество,Electricity is expensive.,Strom ist teuer.,Электричество дорогое.
+A2,light,das Licht,свет,Turn on the light.,Mach das Licht an.,Включи свет.
+A2,cellar,der Keller,подвал,The cellar is cold.,Der Keller ist kalt.,Подвал холодный.
+A2,attic,der Dachboden,чердак,The attic is dark.,Der Dachboden ist dunkel.,Чердак тёмный.
+A2,"hall, corridor",der Flur,коридор,The hall is long.,Der Flur ist lang.,Коридор длинный.
+A2,living room,das Wohnzimmer,гостиная,We sit in the living room.,Wir sitzen im Wohnzimmer.,Мы сидим в гостиной.
+A2,dining room,das Esszimmer,столовая,The dining room is big.,Das Esszimmer ist groß.,Столовая большая.
+A2,yard,der Hof,двор,The children play in the yard.,Die Kinder spielen im Hof.,Дети играют во дворе.
+A2,fence,der Zaun,забор,The fence is high.,Der Zaun ist hoch.,Забор высокий.
+A2,neighbourhood,die Nachbarschaft,соседство,I like this neighbourhood.,Ich mag diese Nachbarschaft.,Мне нравится этот район.
+A2,district,der Stadtteil,район города,This district is quiet.,Dieser Stadtteil ist ruhig.,Этот район тихий.
+A2,centre,das Zentrum,центр,The centre is near.,Das Zentrum ist nah.,Центр близко.
+A2,suburb,der Vorort,пригород,We live in a suburb.,Wir wohnen in einem Vorort.,Мы живём в пригороде.
+A2,traffic,der Verkehr,движение,There is a lot of traffic.,Es gibt viel Verkehr.,Большое движение.
+A2,traffic light,die Ampel,светофор,The traffic light is red.,Die Ampel ist rot.,Светофор красный.
+A2,crossing,die Kreuzung,перекрёсток,Turn left at the crossing.,Biegen Sie an der Kreuzung links ab.,На перекрёстке поверните налево.
+A2,pavement,der Bürgersteig,тротуар,Walk on the pavement.,Geh auf dem Bürgersteig.,Иди по тротуару.
+A2,motorway,die Autobahn,автомагистраль,We drive on the motorway.,Wir fahren auf der Autobahn.,Мы едем по автомагистрали.
+A2,petrol station,die Tankstelle,заправка,The petrol station is open.,Die Tankstelle ist offen.,Заправка открыта.
+A2,parking space,der Parkplatz,парковка,I look for a parking space.,Ich suche einen Parkplatz.,Я ищу парковку.
+A2,underground,die U-Bahn,метро,I take the underground.,Ich nehme die U-Bahn.,Я еду на метро.
+A2,tram,die Straßenbahn,трамвай,The tram comes every ten minutes.,Die Straßenbahn kommt alle zehn Minuten.,Трамвай приходит каждые десять минут.
+A2,platform,der Bahnsteig,платформа,The train leaves from platform two.,Der Zug fährt von Gleis zwei ab.,Поезд отправляется с платформы два.
+A2,timetable,der Fahrplan,расписание,I look at the timetable.,Ich schaue auf den Fahrplan.,Я смотрю расписание.
+A2,delay,die Verspätung,опоздание,The train has a delay.,Der Zug hat Verspätung.,Поезд опаздывает.
+A2,departure,die Abfahrt,отправление,The departure is at nine.,Die Abfahrt ist um neun.,Отправление в девять.
+A2,arrival,die Ankunft,прибытие,The arrival is at noon.,Die Ankunft ist am Mittag.,Прибытие в полдень.
+A2,connection,die Verbindung,"пересадка, связь",I miss the connection.,Ich verpasse die Verbindung.,Я пропускаю пересадку.
+A2,single ticket,die einfache Fahrt,билет в один конец,"A single ticket, please.","Eine einfache Fahrt, bitte.","Билет в один конец, пожалуйста."
+A2,return ticket,die Rückfahrkarte,обратный билет,"A return ticket, please.","Eine Rückfahrkarte, bitte.","Обратный билет, пожалуйста."
+A2,luggage,das Gepäck,багаж,My luggage is heavy.,Mein Gepäck ist schwer.,Мой багаж тяжёлый.
+A2,border,die Grenze,граница,We cross the border.,Wir überqueren die Grenze.,Мы пересекаем границу.
+A2,customs,der Zoll,таможня,I go through customs.,Ich gehe durch den Zoll.,Я прохожу таможню.
+A2,visa,das Visum,виза,I need a visa.,Ich brauche ein Visum.,Мне нужна виза.
+A2,flight,der Flug,рейс,The flight is long.,Der Flug ist lang.,Рейс долгий.
+A2,gate,das Gate,выход на посадку,The gate is number five.,Das Gate ist Nummer fünf.,Выход на посадку — номер пять.
+A2,tourist,der Tourist,турист,The tourist takes photos.,Der Tourist macht Fotos.,Турист делает фото.
+A2,sightseeing,die Sehenswürdigkeit,достопримечательность,The castle is a sight.,Das Schloss ist eine Sehenswürdigkeit.,Замок — достопримечательность.
+A2,guide,der Reiseführer,"путеводитель, гид",I buy a guide.,Ich kaufe einen Reiseführer.,Я покупаю путеводитель.
+A2,reservation,die Reservierung,бронь,I have a reservation.,Ich habe eine Reservierung.,У меня есть бронь.
+A2,single room,das Einzelzimmer,одноместный номер,I need a single room.,Ich brauche ein Einzelzimmer.,Мне нужен одноместный номер.
+A2,double room,das Doppelzimmer,двухместный номер,We take a double room.,Wir nehmen ein Doppelzimmer.,Мы берём двухместный номер.
+A2,reception,die Rezeption,стойка регистрации,Go to the reception.,Gehen Sie zur Rezeption.,Идите на стойку регистрации.
+A2,campsite,der Campingplatz,кемпинг,We stay at a campsite.,Wir übernachten auf einem Campingplatz.,Мы ночуем на кемпинге.
+A2,tent,das Zelt,палатка,The tent is small.,Das Zelt ist klein.,Палатка маленькая.
+A2,beach,der Strand,пляж,We lie on the beach.,Wir liegen am Strand.,Мы лежим на пляже.
+A2,island,die Insel,остров,The island is beautiful.,Die Insel ist schön.,Остров красивый.
+A2,coast,die Küste,побережье,We drive along the coast.,Wir fahren an der Küste entlang.,Мы едем вдоль побережья.
+A2,"trip, excursion",der Ausflug,экскурсия,We make a trip.,Wir machen einen Ausflug.,Мы совершаем экскурсию.
+A2,souvenir,das Souvenir,сувенир,I buy a souvenir.,Ich kaufe ein Souvenir.,Я покупаю сувенир.
+A2,postcard,die Postkarte,открытка,I write a postcard.,Ich schreibe eine Postkarte.,Я пишу открытку.
+A2,parcel,das Paket,посылка,I send a parcel.,Ich schicke ein Paket.,Я отправляю посылку.
+A2,address book,das Adressbuch,адресная книга,My address book is old.,Mein Adressbuch ist alt.,Моя адресная книга старая.
+A2,shopping centre,das Einkaufszentrum,торговый центр,We go to the shopping centre.,Wir gehen ins Einkaufszentrum.,Мы идём в торговый центр.
+A2,department store,das Kaufhaus,универмаг,The department store is big.,Das Kaufhaus ist groß.,Универмаг большой.
+A2,bakery,die Bäckerei,пекарня,I buy bread at the bakery.,Ich kaufe Brot in der Bäckerei.,Я покупаю хлеб в пекарне.
+A2,butcher,die Metzgerei,мясная лавка,I buy meat at the butcher.,Ich kaufe Fleisch in der Metzgerei.,Я покупаю мясо в мясной лавке.
+A2,chemist,die Drogerie,аптека-магазин,I buy soap at the chemist.,Ich kaufe Seife in der Drogerie.,Я покупаю мыло в аптеке-магазине.
+A2,bookshop,die Buchhandlung,книжный магазин,The bookshop is near.,Die Buchhandlung ist nah.,Книжный магазин близко.
+A2,cash desk,die Kasse,касса,I pay at the cash desk.,Ich zahle an der Kasse.,Я плачу на кассе.
+A2,trolley,der Einkaufswagen,тележка,I take a trolley.,Ich nehme einen Einkaufswagen.,Я беру тележку.
+A2,shopping list,der Einkaufszettel,список покупок,I write a shopping list.,Ich schreibe einen Einkaufszettel.,Я пишу список покупок.
+A2,discount,der Rabatt,скидка,There is a discount today.,Heute gibt es Rabatt.,Сегодня есть скидка.
+A2,bargain,das Sonderangebot,выгодное предложение,This is a bargain.,Das ist ein Sonderangebot.,Это выгодное предложение.
+A2,brand,die Marke,"марка, бренд",This is a good brand.,Das ist eine gute Marke.,Это хорошая марка.
+A2,quality,die Qualität,качество,The quality is good.,Die Qualität ist gut.,Качество хорошее.
+A2,guarantee,die Garantie,гарантия,The phone has a guarantee.,Das Handy hat eine Garantie.,У телефона есть гарантия.
+A2,complaint,die Beschwerde,жалоба,I make a complaint.,Ich mache eine Beschwerde.,Я подаю жалобу.
+A2,refund,die Rückerstattung,возврат денег,I want a refund.,Ich möchte eine Rückerstattung.,Я хочу возврат денег.
+A2,packaging,die Verpackung,упаковка,The packaging is damaged.,Die Verpackung ist beschädigt.,Упаковка повреждена.
+A2,weight (goods),das Gewicht,вес,The weight is two kilos.,Das Gewicht ist zwei Kilo.,Вес — два килограмма.
+A2,kilo,das Kilo,килограмм,"One kilo of apples, please.","Ein Kilo Äpfel, bitte.","Килограмм яблок, пожалуйста."
+A2,litre,der Liter,литр,"A litre of milk, please.","Einen Liter Milch, bitte.","Литр молока, пожалуйста."
+A2,metre,der Meter,метр,The room is five metres long.,Das Zimmer ist fünf Meter lang.,Комната длиной пять метров.
+A2,kilometre,der Kilometer,километр,It is ten kilometres.,Es sind zehn Kilometer.,Это десять километров.
+A2,piece,das Stück,"штука, кусок","A piece of cake, please.","Ein Stück Kuchen, bitte.","Кусок торта, пожалуйста."
+A2,pair,das Paar,пара,I need a pair of shoes.,Ich brauche ein Paar Schuhe.,Мне нужна пара обуви.
+A2,dozen,das Dutzend,дюжина,"A dozen eggs, please.","Ein Dutzend Eier, bitte.","Дюжину яиц, пожалуйста."
+A2,newspaper article,der Artikel,статья,I read an article.,Ich lese einen Artikel.,Я читаю статью.
+A2,magazine,die Zeitschrift,журнал,I buy a magazine.,Ich kaufe eine Zeitschrift.,Я покупаю журнал.
+A2,programme,das Programm,программа,The programme starts at eight.,Das Programm beginnt um acht.,Программа начинается в восемь.
+A2,channel,der Sender,канал,I change the channel.,Ich wechsle den Sender.,Я переключаю канал.
+A2,advertisement,die Werbung,реклама,I see an advertisement.,Ich sehe eine Werbung.,Я вижу рекламу.
+A2,interview (media),das Interview,интервью,The interview is on TV.,Das Interview ist im Fernsehen.,Интервью по телевизору.
+A2,report (news),der Bericht,"репортаж, отчёт",I read a report.,Ich lese einen Bericht.,Я читаю репортаж.
+A2,website,die Webseite,веб-сайт,The website is new.,Die Webseite ist neu.,Сайт новый.
+A2,password,das Passwort,пароль,I forget my password.,Ich vergesse mein Passwort.,Я забываю свой пароль.
+A2,app,die App,приложение,I use this app.,Ich benutze diese App.,Я пользуюсь этим приложением.
+A2,file,die Datei,файл,I open the file.,Ich öffne die Datei.,Я открываю файл.
+A2,keyboard,die Tastatur,клавиатура,The keyboard is new.,Die Tastatur ist neu.,Клавиатура новая.
+A2,screen,der Bildschirm,экран,The screen is big.,Der Bildschirm ist groß.,Экран большой.
+A2,mouse (computer),die Maus,мышь (компьютерная),I need a mouse.,Ich brauche eine Maus.,Мне нужна мышь.
+A2,printer,der Drucker,принтер,The printer is broken.,Der Drucker ist kaputt.,Принтер сломан.
+A2,charger,das Ladegerät,зарядное устройство,I need a charger.,Ich brauche ein Ladegerät.,Мне нужно зарядное устройство.
+A2,battery,die Batterie,батарея,The battery is empty.,Die Batterie ist leer.,Батарея села.
+A2,message,die Nachricht,сообщение,I have a message.,Ich habe eine Nachricht.,У меня сообщение.
+A2,society,die Gesellschaft,общество,Society is changing.,Die Gesellschaft verändert sich.,Общество меняется.
+A2,government,die Regierung,правительство,The government decides.,Die Regierung entscheidet.,Правительство решает.
+A2,law,das Gesetz,закон,This is a new law.,Das ist ein neues Gesetz.,Это новый закон.
+A2,rule,die Regel,правило,This is the rule.,Das ist die Regel.,Это правило.
+A2,duty,die Pflicht,обязанность,It is my duty.,Es ist meine Pflicht.,Это моя обязанность.
+A2,police,die Polizei,полиция,I call the police.,Ich rufe die Polizei.,Я вызываю полицию.
+A2,court,das Gericht,суд,He is in court.,Er ist vor Gericht.,Он в суде.
+A2,crime,das Verbrechen,преступление,The crime is serious.,Das Verbrechen ist ernst.,Преступление серьёзное.
+A2,war,der Krieg,война,The war is over.,Der Krieg ist vorbei.,Война закончилась.
+A2,peace,der Frieden,мир (отсутствие войны),We want peace.,Wir wollen Frieden.,Мы хотим мира.
+A2,election,die Wahl,выборы,The election is on Sunday.,Die Wahl ist am Sonntag.,Выборы в воскресенье.
+A2,president,der Präsident,президент,The president speaks.,Der Präsident spricht.,Президент выступает.
+A2,mayor,der Bürgermeister,мэр,The mayor opens the park.,Der Bürgermeister eröffnet den Park.,Мэр открывает парк.
+A2,citizen,der Bürger,гражданин,He is a citizen.,Er ist ein Bürger.,Он гражданин.
+A2,nationality,die Staatsangehörigkeit,гражданство,What is your nationality?,Welche Staatsangehörigkeit haben Sie?,Какое у вас гражданство?
+A2,religion,die Religion,религия,Religion is important to him.,Religion ist ihm wichtig.,Религия для него важна.
+A2,culture,die Kultur,культура,I like this culture.,Ich mag diese Kultur.,Мне нравится эта культура.
+A2,tradition,die Tradition,традиция,This is an old tradition.,Das ist eine alte Tradition.,Это старая традиция.
+A2,custom,der Brauch,обычай,This is a local custom.,Das ist ein örtlicher Brauch.,Это местный обычай.
+A2,festival,das Fest,праздник,The festival is in July.,Das Fest ist im Juli.,Праздник в июле.
+A2,Christmas,Weihnachten,Рождество,At Christmas we visit grandma.,An Weihnachten besuchen wir Oma.,На Рождество мы навещаем бабушку.
+A2,Easter,Ostern,Пасха,Easter is in spring.,Ostern ist im Frühling.,Пасха весной.
+A2,New Year,Silvester,Новый год (канун),We celebrate New Year.,Wir feiern Silvester.,Мы празднуем Новый год.
+A2,wedding,die Hochzeit,свадьба,The wedding is in May.,Die Hochzeit ist im Mai.,Свадьба в мае.
+A2,funeral,die Beerdigung,похороны,The funeral is on Monday.,Die Beerdigung ist am Montag.,Похороны в понедельник.
+A2,guest (invited),der Besucher,посетитель,We have many visitors.,Wir haben viele Besucher.,У нас много гостей.
+A2,invitation,die Einladung,приглашение,I get an invitation.,Ich bekomme eine Einladung.,Я получаю приглашение.
+A2,surprise,die Überraschung,сюрприз,This is a surprise.,Das ist eine Überraschung.,Это сюрприз.
+A2,wish,der Wunsch,желание,I have a wish.,Ich habe einen Wunsch.,У меня есть желание.
+A2,greeting,der Gruß,привет,Many greetings from Berlin.,Viele Grüße aus Berlin.,Много приветов из Берлина.
+A2,hug,die Umarmung,объятие,A hug for you.,Eine Umarmung für dich.,Объятие для тебя.
+A2,love,die Liebe,любовь,Love is important.,Liebe ist wichtig.,Любовь важна.
+A2,joy,die Freude,радость,I feel joy.,Ich fühle Freude.,Я чувствую радость.
+A2,fear,die Angst,страх,I have fear.,Ich habe Angst.,Мне страшно.
+A2,anger,der Ärger,"досада, злость",I feel anger.,Ich fühle Ärger.,Я чувствую досаду.
+A2,luck,das Glück,"счастье, удача",Good luck!,Viel Glück!,Удачи!
+A2,trust,das Vertrauen,доверие,I have trust in him.,Ich habe Vertrauen zu ihm.,Я доверяю ему.
+A2,hope,die Hoffnung,надежда,I have hope.,Ich habe Hoffnung.,У меня есть надежда.
+A2,memory,die Erinnerung,воспоминание,I have a good memory of the trip.,Ich habe eine gute Erinnerung an die Reise.,У меня хорошее воспоминание о поездке.
+A2,dream,der Traum,"мечта, сон",I have a dream.,Ich habe einen Traum.,У меня есть мечта.
+A2,thought,der Gedanke,мысль,That is a good thought.,Das ist ein guter Gedanke.,Это хорошая мысль.
+A2,feeling,das Gefühl,чувство,I have a good feeling.,Ich habe ein gutes Gefühl.,У меня хорошее предчувствие.
+A2,mood,die Stimmung,настроение,He is in a good mood.,Er hat gute Stimmung.,У него хорошее настроение.
+A2,character,der Charakter,характер,She has a strong character.,Sie hat einen starken Charakter.,У неё сильный характер.
+A2,behaviour,das Verhalten,поведение,His behaviour is strange.,Sein Verhalten ist seltsam.,Его поведение странное.
+A2,habit,die Gewohnheit,привычка,It is a bad habit.,Das ist eine schlechte Gewohnheit.,Это плохая привычка.
+A2,success,der Erfolg,успех,I wish you success.,Ich wünsche dir Erfolg.,Желаю тебе успеха.
+A2,mistake,der Fehler,ошибка,I make a mistake.,Ich mache einen Fehler.,Я делаю ошибку.
+A2,chance,die Chance,шанс,This is a good chance.,Das ist eine gute Chance.,Это хороший шанс.
+A2,decision,die Entscheidung,решение,It is my decision.,Es ist meine Entscheidung.,Это моё решение.
+A2,difference,der Unterschied,разница,What is the difference?,Was ist der Unterschied?,В чём разница?
+A2,solution,die Lösung,решение (проблемы),I find a solution.,Ich finde eine Lösung.,Я нахожу решение.
+A2,information,die Information,информация,I need information.,Ich brauche Information.,Мне нужна информация.
+A2,advice,der Rat,совет,I need your advice.,Ich brauche deinen Rat.,Мне нужен твой совет.
+A2,opinion,die Meinung,мнение,What is your opinion?,Was ist deine Meinung?,Каково твоё мнение?
+A2,discussion,die Diskussion,обсуждение,The discussion is long.,Die Diskussion ist lang.,Обсуждение долгое.
+A2,explanation,die Erklärung,объяснение,I need an explanation.,Ich brauche eine Erklärung.,Мне нужно объяснение.
+A2,description,die Beschreibung,описание,The description is short.,Die Beschreibung ist kurz.,Описание короткое.
+A2,instruction,die Anweisung,указание,I read the instructions.,Ich lese die Anweisung.,Я читаю инструкцию.
+A2,rule of grammar,die Grammatik,грамматика,German grammar is difficult.,Die deutsche Grammatik ist schwer.,Немецкая грамматика трудная.
+A2,pronunciation,die Aussprache,произношение,Your pronunciation is good.,Deine Aussprache ist gut.,У тебя хорошее произношение.
+A2,text,der Text,текст,I read the text.,Ich lese den Text.,Я читаю текст.
+A2,title,der Titel,заглавие,What is the title?,Wie ist der Titel?,Какое название?
+A2,topic,das Thema,тема,The topic is interesting.,Das Thema ist interessant.,Тема интересная.
+A2,content,der Inhalt,содержание,The content is good.,Der Inhalt ist gut.,Содержание хорошее.
+A2,beginning,der Anfang,начало,The beginning is easy.,Der Anfang ist leicht.,Начало лёгкое.
+A2,end,das Ende,конец,The end is sad.,Das Ende ist traurig.,Конец грустный.
+A2,middle,die Mitte,середина,I sit in the middle.,Ich sitze in der Mitte.,Я сижу посередине.
+A2,part,der Teil,часть,This is a part of the book.,Das ist ein Teil des Buches.,Это часть книги.
+A2,side,die Seite,сторона,The shop is on the left side.,Das Geschäft ist auf der linken Seite.,Магазин на левой стороне.
+A2,direction,die Richtung,направление,Which direction?,Welche Richtung?,Какое направление?
+A2,distance,die Entfernung,расстояние,The distance is far.,Die Entfernung ist weit.,Расстояние большое.
+A2,height,die Höhe,высота,The height is two metres.,Die Höhe ist zwei Meter.,Высота — два метра.
+A2,length,die Länge,длина,The length is five metres.,Die Länge ist fünf Meter.,Длина — пять метров.
+A2,width,die Breite,ширина,The width is three metres.,Die Breite ist drei Meter.,Ширина — три метра.
+A2,speed,die Geschwindigkeit,скорость,The speed is high.,Die Geschwindigkeit ist hoch.,Скорость высокая.
+A2,temperature,die Temperatur,температура,The temperature is low.,Die Temperatur ist niedrig.,Температура низкая.
+A2,degree,der Grad,градус,It is ten degrees.,Es sind zehn Grad.,Десять градусов.
+A2,percent,das Prozent,процент,Ten percent is cheap.,Zehn Prozent sind wenig.,Десять процентов — немного.
+A2,amount,die Menge,количество,The amount is small.,Die Menge ist klein.,Количество небольшое.
+A2,majority,die Mehrheit,большинство,The majority is for it.,Die Mehrheit ist dafür.,Большинство за.
+A2,group,die Gruppe,группа,We are a group.,Wir sind eine Gruppe.,Мы группа.
+A2,couple,das Paar,пара,A couple sits there.,Ein Paar sitzt dort.,Там сидит пара.
+A2,member,das Mitglied,член,I am a member of the club.,Ich bin Mitglied im Verein.,Я член клуба.
+A2,club,der Verein,"клуб, объединение",I go to the club.,Ich gehe in den Verein.,Я хожу в клуб.
+A2,association,die Organisation,организация,The association helps people.,Die Organisation hilft Menschen.,Организация помогает людям.
+A2,university lecture,die Vorlesung,лекция,The lecture starts at nine.,Die Vorlesung beginnt um neun.,Лекция начинается в девять.
+A2,subject (school),das Fach,предмет,My favourite subject is German.,Mein Lieblingsfach ist Deutsch.,Мой любимый предмет — немецкий.
+A2,timetable (school),der Stundenplan,расписание уроков,I look at the timetable.,Ich schaue auf den Stundenplan.,Я смотрю расписание уроков.
+A2,certificate,das Zeugnis,"аттестат, справка",I get a certificate.,Ich bekomme ein Zeugnis.,Я получаю аттестат.
+A2,degree (university),der Abschluss,"диплом, окончание",He has a degree.,Er hat einen Abschluss.,У него есть диплом.
+A2,teacher (female),die Lehrerin,учительница,The teacher is nice.,Die Lehrerin ist nett.,Учительница приятная.
+A2,student (female),die Studentin,студентка,She is a student.,Sie ist Studentin.,Она студентка.
+A2,classroom,das Klassenzimmer,класс (комната),The classroom is big.,Das Klassenzimmer ist groß.,Класс большой.
+A2,blackboard,die Tafel,доска,The teacher writes on the blackboard.,Die Lehrerin schreibt an die Tafel.,Учительница пишет на доске.
+A2,"rubber, eraser",der Radiergummi,ластик,I need an eraser.,Ich brauche einen Radiergummi.,Мне нужен ластик.
+A2,ruler,das Lineal,линейка,I have a ruler.,Ich habe ein Lineal.,У меня есть линейка.
+A2,pencil,der Bleistift,карандаш,I write with a pencil.,Ich schreibe mit einem Bleistift.,Я пишу карандашом.
+A2,scissors,die Schere,ножницы,I need scissors.,Ich brauche eine Schere.,Мне нужны ножницы.
+A2,glue,der Kleber,клей,I need glue.,Ich brauche Kleber.,Мне нужен клей.
+A2,backpack,der Rucksack,рюкзак,My backpack is heavy.,Mein Rucksack ist schwer.,Мой рюкзак тяжёлый.
+A2,environment,die Umwelt,окружающая среда,We protect the environment.,Wir schützen die Umwelt.,Мы защищаем окружающую среду.
+A2,nature,die Natur,природа,I love nature.,Ich liebe die Natur.,Я люблю природу.
+A2,climate,das Klima,климат,The climate is warm.,Das Klima ist warm.,Климат тёплый.
+A2,air,die Luft,воздух,The air is clean.,Die Luft ist sauber.,Воздух чистый.
+A2,earth,die Erde,земля,The earth is round.,Die Erde ist rund.,Земля круглая.
+A2,rubbish,der Müll,мусор,I throw away the rubbish.,Ich werfe den Müll weg.,Я выбрасываю мусор.
+A2,energy,die Energie,энергия,We need energy.,Wir brauchen Energie.,Нам нужна энергия.
+A2,storm,der Sturm,буря,The storm is strong.,Der Sturm ist stark.,Буря сильная.
+A2,thunderstorm,das Gewitter,гроза,A thunderstorm is coming.,Ein Gewitter kommt.,Приближается гроза.
+A2,fog,der Nebel,туман,There is fog today.,Heute gibt es Nebel.,Сегодня туман.
+A2,cloud,die Wolke,облако,There is a cloud in the sky.,Am Himmel ist eine Wolke.,На небе облако.
+A2,ice,das Eis,лёд,The lake is ice.,Der See ist zugefroren.,Озеро покрыто льдом.
+A2,heat,die Hitze,жара,The heat is strong.,Die Hitze ist stark.,Жара сильная.
+A2,grass,das Gras,трава,The grass is green.,Das Gras ist grün.,Трава зелёная.
+A2,leaf,das Blatt,лист,The leaf is yellow.,Das Blatt ist gelb.,Лист жёлтый.
+A2,plant,die Pflanze,растение,The plant needs water.,Die Pflanze braucht Wasser.,Растению нужна вода.
+A2,stone,der Stein,камень,The stone is heavy.,Der Stein ist schwer.,Камень тяжёлый.
+A2,sand,der Sand,песок,The sand is warm.,Der Sand ist warm.,Песок тёплый.
+A2,road sign,das Schild,знак,I read the road sign.,Ich lese das Schild.,Я читаю знак.
+A2,hill,der Hügel,холм,The hill is green.,Der Hügel ist grün.,Холм зелёный.
+A2,valley,das Tal,долина,The valley is beautiful.,Das Tal ist schön.,Долина красивая.
+A2,village life,das Landleben,сельская жизнь,I like village life.,Ich mag das Landleben.,Мне нравится сельская жизнь.
+A2,farm,der Bauernhof,ферма,We visit a farm.,Wir besuchen einen Bauernhof.,Мы посещаем ферму.
+A2,farmer,der Bauer,"крестьянин, фермер",The farmer works hard.,Der Bauer arbeitet hart.,Фермер много работает.
+A2,pig,das Schwein,свинья,The pig is big.,Das Schwein ist groß.,Свинья большая.
+A2,chicken (hen),das Huhn,курица (птица),The hen lays eggs.,Das Huhn legt Eier.,Курица несёт яйца.
+A2,rabbit,das Kaninchen,кролик,The rabbit is white.,Das Kaninchen ist weiß.,Кролик белый.
+A2,insect,das Insekt,насекомое,The insect is small.,Das Insekt ist klein.,Насекомое маленькое.
+A2,pet,das Haustier,домашнее животное,I have a pet.,Ich habe ein Haustier.,У меня есть домашнее животное.
+A2,therefore,deshalb,поэтому,"I am sick, therefore I stay home.","Ich bin krank, deshalb bleibe ich zu Hause.","Я болен, поэтому остаюсь дома."
+A2,however,aber,однако,"It is cold, however I go out.","Es ist kalt, aber ich gehe raus.","Холодно, но я иду на улицу."
+A2,although,obwohl,хотя,"Although it rains, we go out.","Obwohl es regnet, gehen wir raus.","Хотя идёт дождь, мы идём на улицу."
+A2,if,wenn,если,"If it rains, I stay home.","Wenn es regnet, bleibe ich zu Hause.","Если идёт дождь, я остаюсь дома."
+A2,whether,ob,ли,I ask whether he comes.,"Ich frage, ob er kommt.","Я спрашиваю, придёт ли он."
+A2,that (conjunction),dass,что,I know that he is here.,"Ich weiß, dass er hier ist.","Я знаю, что он здесь."
+A2,"as, when",als,когда (в прошлом),"When I was a child, I lived here.","Als ich Kind war, wohnte ich hier.","Когда я был ребёнком, я жил здесь."
+A2,while,während,в то время как,"While I cook, he reads.","Während ich koche, liest er.","Пока я готовлю, он читает."
+A2,before (conj.),bevor,прежде чем,"Before I eat, I wash my hands.","Bevor ich esse, wasche ich meine Hände.","Прежде чем есть, я мою руки."
+A2,after (conj.),nachdem,после того как,"After I ate, I slept.","Nachdem ich gegessen hatte, schlief ich.","После того как я поел, я спал."
+A2,so that,damit,чтобы,I learn so that I can pass.,"Ich lerne, damit ich bestehe.","Я учусь, чтобы сдать."
+A2,instead,statt,вместо,Instead of tea I drink coffee.,Statt Tee trinke ich Kaffee.,Вместо чая я пью кофе.
+A2,besides,außerdem,кроме,"Besides, I am tired.",Außerdem bin ich müde.,"Кроме того, я устал."
+A2,at least,mindestens,как минимум,I need at least ten euros.,Ich brauche mindestens zehn Euro.,Мне нужно как минимум десять евро.
+A2,at the latest,spätestens,самое позднее,Come on Friday at the latest.,Komm spätestens am Freitag.,Приходи самое позднее в пятницу.
+A2,immediately,sofort,немедленно,Come immediately.,Komm sofort.,Приходи немедленно.
+A2,suddenly,plötzlich,вдруг,Suddenly it rains.,Plötzlich regnet es.,Вдруг идёт дождь.
+A2,recently,neulich,недавно,I was there recently.,Ich war neulich dort.,Я был там недавно.
+A2,usually,normalerweise,обычно,I usually get up at six.,Normalerweise stehe ich um sechs auf.,Обычно я встаю в шесть.
+A2,rarely,selten,редко,I rarely eat meat.,Ich esse selten Fleisch.,Я редко ем мясо.
+A2,mostly,meistens,в основном,I mostly walk.,Meistens gehe ich zu Fuß.,В основном я хожу пешком.
+A2,at the moment,im Moment,в данный момент,At the moment I am busy.,Im Moment bin ich beschäftigt.,В данный момент я занят.
+A2,for a long time,lange,долго,I wait for a long time.,Ich warte lange.,Я долго жду.
+A2,the day after tomorrow,übermorgen,послезавтра,The day after tomorrow I travel.,Übermorgen reise ich.,Послезавтра я еду.
+A2,the day before yesterday,vorgestern,позавчера,The day before yesterday I was ill.,Vorgestern war ich krank.,Позавчера я был болен.
+A2,every day,jeden Tag,каждый день,I learn German every day.,Ich lerne jeden Tag Deutsch.,Я каждый день учу немецкий.
+A2,during,während,во время,During the lesson I write.,Während des Unterrichts schreibe ich.,Во время урока я пишу.
+A2,through,durch,через,We go through the park.,Wir gehen durch den Park.,Мы идём через парк.
+A2,along,entlang,вдоль,We walk along the river.,Wir gehen den Fluss entlang.,Мы идём вдоль реки.
+A2,across,über,через,We go across the street.,Wir gehen über die Straße.,Мы идём через улицу.
+A2,towards,gegen,к (о времени),Towards evening it rains.,Gegen Abend regnet es.,К вечеру идёт дождь.
+A2,opposite,gegenüber,напротив,The bank is opposite the shop.,Die Bank ist gegenüber dem Geschäft.,Банк напротив магазина.
+A2,out of,aus,из,He comes out of the house.,Er kommt aus dem Haus.,Он выходит из дома.
+A2,outside of,außerhalb,за пределами,He lives outside of the city.,Er wohnt außerhalb der Stadt.,Он живёт за городом.
+A2,inside of,innerhalb,внутри,Inside of the house it is warm.,Innerhalb des Hauses ist es warm.,Внутри дома тепло.
+A2,instead of,anstatt,вместо,Instead of coffee I drink tea.,Anstatt Kaffee trinke ich Tee.,Вместо кофе я пью чай.
+A2,because of,wegen,из-за,Because of the rain we stay home.,Wegen des Regens bleiben wir zu Hause.,Из-за дождя мы остаёмся дома.
+A2,despite,trotz,несмотря на,Despite the rain we go out.,Trotz des Regens gehen wir raus.,"Несмотря на дождь, мы идём на улицу."
+A2,each other,einander,друг друга,We help each other.,Wir helfen einander.,Мы помогаем друг другу.
+A2,both,beide,оба,Both are my friends.,Beide sind meine Freunde.,Оба мои друзья.
+A2,several,mehrere,несколько,I have several books.,Ich habe mehrere Bücher.,У меня несколько книг.
+A2,few,wenige,немногие,Few people are here.,Wenige Leute sind hier.,Здесь мало людей.
+A2,many,viele,многие,Many people are here.,Viele Leute sind hier.,Здесь много людей.
+A2,another,ein anderer,другой,I take another book.,Ich nehme ein anderes Buch.,Я беру другую книгу.
+B1,to achieve,erreichen,достигать,,,
+B1,to improve,verbessern,улучшать,,,
+B1,to develop,entwickeln,развивать,,,
+B1,to compare,vergleichen,сравнивать,,,
+B1,to suggest,vorschlagen,предлагать,,,
+B1,to depend on,abhängen von,зависеть от,,,
+B1,"to realize, to recognize",erkennen,"осознавать, узнавать",,,
+B1,to decide (judge),entscheiden,решать,,,
+B1,to criticize,kritisieren,критиковать,,,
+B1,to emphasize,betonen,подчёркивать,,,
+B1,to claim,behaupten,утверждать,,,
+B1,to doubt,zweifeln,сомневаться,,,
+B1,to assume,annehmen,предполагать,,,
+B1,to prove,beweisen,доказывать,,,
+B1,to confirm,bestätigen,подтверждать,,,
+B1,to deny,leugnen,отрицать,,,
+B1,to admit,zugeben,признавать,,,
+B1,"to refuse, to reject",ablehnen,отклонять,,,
+B1,to accept,akzeptieren,принимать,,,
+B1,to approve,genehmigen,одобрять,,,
+B1,to support,unterstützen,поддерживать,,,
+B1,to finance,finanzieren,финансировать,,,
+B1,"to manage, to head",leiten,руководить,,,
+B1,to treat,behandeln,"лечить, обращаться",,,
+B1,to solve,lösen,решать (задачу),,,
+B1,to avoid,vermeiden,избегать,,,
+B1,to prevent,verhindern,предотвращать,,,
+B1,to protect,schützen,защищать,,,
+B1,to threaten,drohen,угрожать,,,
+B1,to risk,riskieren,рисковать,,,
+B1,to damage,beschädigen,повреждать,,,
+B1,to destroy,zerstören,разрушать,,,
+B1,to build,bauen,строить,,,
+B1,to erect,errichten,возводить,,,
+B1,to install,installieren,устанавливать,,,
+B1,"to produce, to manufacture",herstellen,производить,,,
+B1,to invent,erfinden,изобретать,,,
+B1,to discover,entdecken,открывать,,,
+B1,to research,forschen,исследовать,,,
+B1,to investigate,ermitteln,расследовать,,,
+B1,to analyse,analysieren,анализировать,,,
+B1,to calculate,berechnen,рассчитывать,,,
+B1,to estimate,schätzen,оценивать,,,
+B1,to expect,erwarten,ожидать,,,
+B1,to predict,vorhersagen,предсказывать,,,
+B1,to prefer (over),vorziehen,предпочитать,,,
+B1,to demand,fordern,требовать,,,
+B1,to require,verlangen,"требовать, запрашивать",,,
+B1,to oblige,verpflichten,обязывать,,,
+B1,to convince,überzeugen,убеждать,,,
+B1,to persuade,überreden,уговаривать,,,
+B1,to warn,warnen,предупреждать,,,
+B1,to accuse,beschuldigen,обвинять,,,
+B1,to punish,bestrafen,наказывать,,,
+B1,to forgive,verzeihen,прощать,,,
+B1,to trust,vertrauen,доверять,,,
+B1,to rely on,sich verlassen auf,полагаться на,,,
+B1,to count on,rechnen mit,рассчитывать на,,,
+B1,to take care of,sich kümmern um,заботиться о,,,
+B1,to look after,betreuen,присматривать,,,
+B1,"to bring up, to raise",erziehen,воспитывать,,,
+B1,to teach,unterrichten,преподавать,,,
+B1,to complete (a course),abschließen,"завершать, заканчивать",,,
+B1,to enrol,sich anmelden,записываться,,,
+B1,to register,registrieren,регистрировать,,,
+B1,to subscribe,abonnieren,подписываться,,,
+B1,to publish,veröffentlichen,публиковать,,,
+B1,"to broadcast, to send",senden,передавать,,,
+B1,to announce,ankündigen,объявлять,,,
+B1,to inform,informieren,информировать,,,
+B1,to contact,kontaktieren,связываться,,,
+B1,to communicate,kommunizieren,общаться,,,
+B1,to express,ausdrücken,выражать,,,
+B1,to mention,erwähnen,упоминать,,,
+B1,"to establish, to notice",feststellen,констатировать,,,
+B1,to determine,bestimmen,определять,,,
+B1,to define,definieren,определять (понятие),,,
+B1,to include,einschließen,включать,,,
+B1,to contain,enthalten,содержать,,,
+B1,to consist of,bestehen aus,состоять из,,,
+B1,to concern,betreffen,касаться,,,
+B1,to influence,beeinflussen,влиять,,,
+B1,to cause,verursachen,вызывать,,,
+B1,to lead to,führen zu,приводить к,,,
+B1,to occur,vorkommen,встречаться,,,
+B1,to take place,stattfinden,происходить,,,
+B1,to succeed,gelingen,удаваться,,,
+B1,to fail (project),scheitern,терпеть неудачу,,,
+B1,to manage (achieve),schaffen,справляться,,,
+B1,"to increase, to rise",steigen,"расти, подниматься",,,
+B1,"to decrease, to sink",sinken,снижаться,,,
+B1,to reduce,reduzieren,сокращать,,,
+B1,to extend,verlängern,продлевать,,,
+B1,to shorten,verkürzen,сокращать (время),,,
+B1,to postpone,verschieben,переносить,,,
+B1,to move (something),bewegen,двигать,,,
+B1,to transport,transportieren,перевозить,,,
+B1,to hand over,übergeben,передавать,,,
+B1,to take over,übernehmen,принимать на себя,,,
+B1,to accompany,begleiten,сопровождать,,,
+B1,to represent,vertreten,представлять,,,
+B1,to vote,abstimmen,голосовать,,,
+B1,to demonstrate,demonstrieren,демонстрировать,,,
+B1,to protest,protestieren,протестовать,,,
+B1,to strike,streiken,бастовать,,,
+B1,to defend,verteidigen,защищать,,,
+B1,to attack,angreifen,нападать,,,
+B1,to rescue,retten,спасать,,,
+B1,to survive,überleben,выживать,,,
+B1,to die,sterben,умирать,,,
+B1,to be born,geboren werden,родиться,,,
+B1,to grow up,aufwachsen,вырастать,,,
+B1,to get used to,sich gewöhnen an,привыкать,,,
+B1,to adapt,sich anpassen,приспосабливаться,,,
+B1,to integrate,integrieren,интегрировать,,,
+B1,to immigrate,einwandern,иммигрировать,,,
+B1,to emigrate,auswandern,эмигрировать,,,
+B1,to approach,sich nähern,приближаться,,,
+B1,to overtake,überholen,обгонять,,,
+B1,to brake,bremsen,тормозить,,,
+B1,to accelerate,beschleunigen,ускорять,,,
+B1,to collide,zusammenstoßen,сталкиваться,,,
+B1,to steal,stehlen,красть,,,
+B1,"to cheat, to deceive",betrügen,обманывать,,,
+B1,to lie (tell untruth),lügen,лгать,,,
+B1,to swear,schwören,клясться,,,
+B1,to bet,wetten,спорить на деньги,,,
+B1,to rent out,vermieten,сдавать в аренду,,,
+B1,to invest,investieren,инвестировать,,,
+B1,to profit,profitieren,"выигрывать, получать выгоду",,,
+B1,to compete,konkurrieren,конкурировать,,,
+B1,to negotiate,verhandeln,вести переговоры,,,
+B1,to sign,unterschreiben,подписывать,,,
+B1,to attach,anhängen,прикреплять,,,
+B1,to enclose,beilegen,прилагать,,,
+B1,to forward,weiterleiten,пересылать,,,
+B1,to wonder,sich wundern,удивляться,,,
+B1,to marvel,staunen,изумляться,,,
+B1,to enjoy,genießen,наслаждаться,,,
+B1,to suffer,leiden,страдать,,,
+B1,to tolerate,ertragen,переносить,,,
+B1,to endure,aushalten,выдерживать,,,
+B1,to cope with,bewältigen,справляться с,,,
+B1,to deal with,umgehen mit,обращаться с,,,
+B1,to reflect,nachdenken,размышлять,,,
+B1,to consider,überlegen,обдумывать,,,
+B1,to imagine,sich vorstellen,представлять себе,,,
+B1,to resemble,ähneln,походить,,,
+B1,to differ,sich unterscheiden,отличаться,,,
+B1,to correspond,entsprechen,соответствовать,,,
+B1,to fit,passen,подходить,,,
+B1,to dare,wagen,осмеливаться,,,
+B1,to hesitate,zögern,колебаться,,,
+B1,independent,selbstständig,самостоятельный,,,
+B1,available,verfügbar,доступный,,,
+B1,responsible,verantwortlich,ответственный,,,
+B1,reliable,zuverlässig,надёжный,,,
+B1,flexible,flexibel,гибкий,,,
+B1,creative,kreativ,творческий,,,
+B1,efficient,effizient,эффективный,,,
+B1,effective,wirksam,действенный,,,
+B1,economic,wirtschaftlich,экономический,,,
+B1,financial,finanziell,финансовый,,,
+B1,political,politisch,политический,,,
+B1,social,sozial,социальный,,,
+B1,cultural,kulturell,культурный,,,
+B1,historical,historisch,исторический,,,
+B1,technical,technisch,технический,,,
+B1,scientific,wissenschaftlich,научный,,,
+B1,environmentally friendly,umweltfreundlich,экологичный,,,
+B1,sustainable,nachhaltig,устойчивый,,,
+B1,renewable,erneuerbar,возобновляемый,,,
+B1,legal,legal,законный,,,
+B1,illegal,illegal,незаконный,,,
+B1,official,offiziell,официальный,,,
+B1,personal,persönlich,личный,,,
+B1,general,allgemein,общий,,,
+B1,"specific, concrete",konkret,конкретный,,,
+B1,approximate,ungefähr,приблизительный,,,
+B1,essential,wesentlich,существенный,,,
+B1,obvious,offensichtlich,очевидный,,,
+B1,likely,wahrscheinlich,вероятный,,,
+B1,unlikely,unwahrscheinlich,маловероятный,,,
+B1,uncertain,unsicher,"неуверенный, неопределённый",,,
+B1,positive,positiv,положительный,,,
+B1,negative,negativ,отрицательный,,,
+B1,objective,objektiv,объективный,,,
+B1,subjective,subjektiv,субъективный,,,
+B1,logical,logisch,логичный,,,
+B1,emotional,emotional,эмоциональный,,,
+B1,mental,psychisch,психический,,,
+B1,physical,körperlich,физический,,,
+B1,chronic,chronisch,хронический,,,
+B1,mild,mild,"мягкий (о климате, болезни)",,,
+B1,serious,ernst,серьёзный,,,
+B1,temporary,vorübergehend,временный,,,
+B1,permanent,dauerhaft,постоянный,,,
+B1,constant,ständig,постоянный,,,
+B1,regular,regelmäßig,регулярный,,,
+B1,irregular,unregelmäßig,нерегулярный,,,
+B1,gradual,allmählich,постепенный,,,
+B1,current,aktuell,актуальный,,,
+B1,former,ehemalig,бывший,,,
+B1,future,zukünftig,будущий,,,
+B1,previous,vorherig,предыдущий,,,
+B1,following,folgend,следующий,,,
+B1,final,endgültig,окончательный,,,
+B1,complete,vollständig,полный,,,
+B1,partial,teilweise,частичный,,,
+B1,total,gesamt,"общий, совокупный",,,
+B1,additional,zusätzlich,дополнительный,,,
+B1,separate,getrennt,раздельный,,,
+B1,joint,gemeinsam,совместный,,,
+B1,mutual,gegenseitig,взаимный,,,
+B1,similar,ähnlich,похожий,,,
+B1,identical,identisch,идентичный,,,
+B1,different,anders,"другой, иной",,,
+B1,fair,gerecht,справедливый,,,
+B1,unfair,ungerecht,несправедливый,,,
+B1,guilty,schuldig,виновный,,,
+B1,innocent,unschuldig,невиновный,,,
+B1,strict,streng,строгий,,,
+B1,tolerant,tolerant,терпимый,,,
+B1,open-minded,aufgeschlossen,открытый,,,
+B1,ambitious,ehrgeizig,амбициозный,,,
+B1,self-confident,selbstbewusst,уверенный в себе,,,
+B1,sensitive,empfindlich,чувствительный,,,
+B1,calm,ruhig,спокойный,,,
+B1,relaxed,entspannt,расслабленный,,,
+B1,stressed,gestresst,в стрессе,,,
+B1,exhausted,erschöpft,измотанный,,,
+B1,active,aktiv,активный,,,
+B1,passive,passiv,пассивный,,,
+B1,lively,lebhaft,оживлённый,,,
+B1,exciting,spannend,захватывающий,,,
+B1,entertaining,unterhaltsam,занимательный,,,
+B1,disgusting,ekelhaft,отвратительный,,,
+B1,terrible,schrecklich,ужасный,,,
+B1,awful,furchtbar,страшный,,,
+B1,fantastic,fantastisch,фантастический,,,
+B1,excellent,ausgezeichnet,отличный,,,
+B1,perfect,perfekt,идеальный,,,
+B1,ideal,ideal,идеальный (образцовый),,,
+B1,suitable,geeignet,подходящий,,,
+B1,appropriate,angemessen,уместный,,,
+B1,sufficient,ausreichend,достаточный,,,
+B1,limited,begrenzt,ограниченный,,,
+B1,unlimited,unbegrenzt,неограниченный,,,
+B1,enormous,enorm,огромный,,,
+B1,"minor, small",gering,незначительный,,,
+B1,remarkable,bemerkenswert,замечательный,,,
+B1,extraordinary,außergewöhnlich,необыкновенный,,,
+B1,ordinary,gewöhnlich,обычный,,,
+B1,strange,seltsam,странный,,,
+B1,mysterious,geheimnisvoll,таинственный,,,
+B1,secret,geheim,тайный,,,
+B1,hidden,versteckt,скрытый,,,
+B1,visible,sichtbar,видимый,,,
+B1,invisible,unsichtbar,невидимый,,,
+B1,poisonous,giftig,ядовитый,,,
+B1,harmless,harmlos,безвредный,,,
+B1,harmful,schädlich,вредный,,,
+B1,risky,riskant,рискованный,,,
+B1,protected,geschützt,защищённый,,,
+B1,wild,wild,дикий,,,
+B1,fertile,fruchtbar,плодородный,,,
+B1,urban,städtisch,городской,,,
+B1,rural,ländlich,сельский,,,
+B1,regional,regional,региональный,,,
+B1,global,global,глобальный,,,
+B1,European,europäisch,европейский,,,
+B1,nevertheless,trotzdem,тем не менее,,,
+B1,otherwise,sonst,иначе,,,
+B1,furthermore,ferner,кроме того,,,
+B1,consequently,folglich,следовательно,,,
+B1,indeed,tatsächlich,действительно,,,
+B1,actually,eigentlich,собственно,,,
+B1,certainly,sicherlich,несомненно,,,
+B1,possibly,möglicherweise,возможно,,,
+B1,hardly,kaum,едва,,,
+B1,approximately,etwa,приблизительно,,,
+B1,at most,höchstens,самое большее,,,
+B1,even,sogar,даже,,,
+B1,mainly,hauptsächlich,главным образом,,,
+B1,particularly,insbesondere,в особенности,,,
+B1,generally,im Allgemeinen,в целом,,,
+B1,finally,schließlich,наконец,,,
+B1,in the end,letztendlich,в конечном счёте,,,
+B1,meanwhile,inzwischen,тем временем,,,
+B1,afterwards,danach,потом,,,
+B1,previously,früher,раньше,,,
+B1,nowadays,heutzutage,в наше время,,,
+B1,in future,künftig,в будущем,,,
+B1,for the first time,zum ersten Mal,в первый раз,,,
+B1,once,einmal,однажды,,,
+B1,twice,zweimal,дважды,,,
+B1,at the same time,gleichzeitig,одновременно,,,
+B1,in time,rechtzeitig,вовремя,,,
+B1,punctual,pünktlich,пунктуальный,,,
+B1,in advance,im Voraus,заранее,,,
+B1,on the contrary,im Gegenteil,наоборот,,,
+B1,on the other hand,andererseits,с другой стороны,,,
+B1,on the one hand,einerseits,с одной стороны,,,
+B1,for example,zum Beispiel,например,,,
+B1,that is,das heißt,то есть,,,
+B1,in my opinion,meiner Meinung nach,по моему мнению,,,
+B1,according to,laut,согласно,,,
+B1,thanks to,dank,благодаря,,,
+B1,regarding,bezüglich,относительно,,,
+B1,apart from,außer,кроме,,,
+B1,including,einschließlich,включая,,,
+B1,per,pro,"за, на",,,
+B1,community,die Gemeinschaft,сообщество,,,
+B1,generation,die Generation,поколение,,,
+B1,minority,die Minderheit,меньшинство,,,
+B1,population,die Bevölkerung,население,,,
+B1,immigrant,der Einwanderer,иммигрант,,,
+B1,foreigner,der Ausländer,иностранец,,,
+B1,integration,die Integration,интеграция,,,
+B1,discrimination,die Diskriminierung,дискриминация,,,
+B1,equality,die Gleichberechtigung,равноправие,,,
+B1,poverty,die Armut,бедность,,,
+B1,wealth,der Reichtum,богатство,,,
+B1,social security,die Sozialversicherung,социальное страхование,,,
+B1,pension,die Rente,пенсия,,,
+B1,retirement,der Ruhestand,выход на пенсию,,,
+B1,volunteer,der Freiwillige,волонтёр,,,
+B1,donation,die Spende,пожертвование,,,
+B1,protest,der Protest,протест,,,
+B1,demonstration,die Demonstration,демонстрация,,,
+B1,strike,der Streik,забастовка,,,
+B1,trade union,die Gewerkschaft,профсоюз,,,
+B1,political party,die Partei,партия,,,
+B1,parliament,das Parlament,парламент,,,
+B1,minister,der Minister,министр,,,
+B1,"politics, policy",die Politik,политика,,,
+B1,politician,der Politiker,политик,,,
+B1,opposition,die Opposition,оппозиция,,,
+B1,constitution,die Verfassung,конституция,,,
+B1,freedom,die Freiheit,свобода,,,
+B1,democracy,die Demokratie,демократия,,,
+B1,dictatorship,die Diktatur,диктатура,,,
+B1,human rights,die Menschenrechte,права человека,,,
+B1,justice,die Gerechtigkeit,справедливость,,,
+B1,judge,der Richter,судья,,,
+B1,lawyer,der Rechtsanwalt,адвокат,,,
+B1,witness,der Zeuge,свидетель,,,
+B1,"trial, process",der Prozess,"процесс, суд",,,
+B1,"penalty, punishment",die Strafe,наказание,,,
+B1,prison,das Gefängnis,тюрьма,,,
+B1,thief,der Dieb,вор,,,
+B1,theft,der Diebstahl,кража,,,
+B1,murder,der Mord,убийство,,,
+B1,violence,die Gewalt,насилие,,,
+B1,terrorism,der Terrorismus,терроризм,,,
+B1,army,die Armee,армия,,,
+B1,soldier,der Soldat,солдат,,,
+B1,weapon,die Waffe,оружие,,,
+B1,security,die Sicherheit,безопасность,,,
+B1,refugee,der Flüchtling,беженец,,,
+B1,asylum,das Asyl,убежище,,,
+B1,economy,die Wirtschaft,экономика,,,
+B1,industry,die Industrie,промышленность,,,
+B1,trade,der Handel,торговля,,,
+B1,export,der Export,экспорт,,,
+B1,import,der Import,импорт,,,
+B1,competition (economic),die Konkurrenz,конкуренция,,,
+B1,profit,der Gewinn,прибыль,,,
+B1,loss,der Verlust,"потеря, убыток",,,
+B1,turnover,der Umsatz,оборот,,,
+B1,costs,die Kosten,расходы,,,
+B1,budget,das Budget,бюджет,,,
+B1,investment,die Investition,инвестиция,,,
+B1,share (stock),die Aktie,акция,,,
+B1,inflation,die Inflation,инфляция,,,
+B1,crisis,die Krise,кризис,,,
+B1,growth,das Wachstum,рост,,,
+B1,development,die Entwicklung,развитие,,,
+B1,production,die Produktion,производство,,,
+B1,product,das Produkt,продукт,,,
+B1,service,die Dienstleistung,услуга,,,
+B1,supplier,der Lieferant,поставщик,,,
+B1,order (goods),die Bestellung,заказ,,,
+B1,invoice,die Rechnung,счёт-фактура,,,
+B1,delivery,die Lieferung,поставка,,,
+B1,"supply, stock",der Vorrat,запас,,,
+B1,promotion (job),die Beförderung,повышение в должности,,,
+B1,pay rise,die Gehaltserhöhung,повышение зарплаты,,,
+B1,part-time,die Teilzeit,неполная занятость,,,
+B1,full-time,die Vollzeit,полная занятость,,,
+B1,working hours,die Arbeitszeit,рабочее время,,,
+B1,freelancer,der Freiberufler,фрилансер,,,
+B1,teamwork,die Teamarbeit,командная работа,,,
+B1,responsibility,die Verantwortung,ответственность,,,
+B1,competence,die Kompetenz,компетенция,,,
+B1,"skill, ability",die Fähigkeit,способность,,,
+B1,strength (quality),die Stärke,сильная сторона,,,
+B1,weakness,die Schwäche,слабость,,,
+B1,"aim, target",das Ziel,цель,,,
+B1,"achievement, performance",die Leistung,достижение,,,
+B1,motivation,die Motivation,мотивация,,,
+B1,pressure,der Druck,давление,,,
+B1,further training,die Fortbildung,повышение квалификации,,,
+B1,job advertisement,die Stellenanzeige,объявление о вакансии,,,
+B1,period of notice,die Kündigungsfrist,срок уведомления об увольнении,,,
+B1,dismissal,die Entlassung,увольнение,,,
+B1,education,die Bildung,образование,,,
+B1,knowledge,das Wissen,знание,,,
+B1,science,die Wissenschaft,наука,,,
+B1,research,die Forschung,исследование,,,
+B1,studies (degree course),das Studium,учёба в вузе,,,
+B1,seminar,das Seminar,семинар,,,
+B1,thesis,die Abschlussarbeit,выпускная работа,,,
+B1,scholarship,das Stipendium,стипендия,,,
+B1,tuition fees,die Studiengebühren,плата за обучение,,,
+B1,campus,der Campus,кампус,,,
+B1,professor,der Professor,профессор,,,
+B1,primary school,die Grundschule,начальная школа,,,
+B1,school-leaving exam,das Abitur,аттестат зрелости,,,
+B1,kindergarten,der Kindergarten,детский сад,,,
+B1,headmaster,der Schulleiter,директор школы,,,
+B1,talent,das Talent,талант,,,
+B1,intelligence,die Intelligenz,интеллект,,,
+B1,memory (faculty),das Gedächtnis,память,,,
+B1,attention,die Aufmerksamkeit,внимание,,,
+B1,concentration,die Konzentration,концентрация,,,
+B1,imagination,die Fantasie,фантазия,,,
+B1,creativity,die Kreativität,креативность,,,
+B1,curiosity,die Neugier,любопытство,,,
+B1,the media,die Medien,СМИ,,,
+B1,press,die Presse,пресса,,,
+B1,journalist,der Journalist,журналист,,,
+B1,headline,die Schlagzeile,заголовок,,,
+B1,"programme, broadcast",die Sendung,передача,,,
+B1,documentary,die Dokumentation,документальный фильм,,,
+B1,series,die Serie,сериал,,,
+B1,audience,das Publikum,публика,,,
+B1,viewer,der Zuschauer,зритель,,,
+B1,reader,der Leser,читатель,,,
+B1,author,der Autor,автор,,,
+B1,novel,der Roman,роман,,,
+B1,poem,das Gedicht,стихотворение,,,
+B1,fairy tale,das Märchen,сказка,,,
+B1,comedy,die Komödie,комедия,,,
+B1,crime novel,der Krimi,детектив,,,
+B1,actor,der Schauspieler,актёр,,,
+B1,director,der Regisseur,режиссёр,,,
+B1,painting,das Gemälde,картина (живопись),,,
+B1,exhibition,die Ausstellung,выставка,,,
+B1,sculpture,die Skulptur,скульптура,,,
+B1,singer,der Sänger,певец,,,
+B1,band,die Band,группа (музыкальная),,,
+B1,instrument,das Instrument,инструмент,,,
+B1,song,das Lied,песня,,,
+B1,guitar,die Gitarre,гитара,,,
+B1,piano,das Klavier,пианино,,,
+B1,social media,die sozialen Medien,социальные сети,,,
+B1,blog,der Blog,блог,,,
+B1,user account,das Benutzerkonto,учётная запись,,,
+B1,data,die Daten,данные,,,
+B1,software,die Software,программное обеспечение,,,
+B1,network,das Netzwerk,сеть,,,
+B1,link,der Link,ссылка,,,
+B1,search engine,die Suchmaschine,поисковая система,,,
+B1,technology,die Technologie,технология,,,
+B1,invention,die Erfindung,изобретение,,,
+B1,machine,die Maschine,машина (механизм),,,
+B1,device,das Gerät,прибор,,,
+B1,tool,das Werkzeug,инструмент (рабочий),,,
+B1,"engine, motor",der Motor,двигатель,,,
+B1,robot,der Roboter,робот,,,
+B1,artificial intelligence,die künstliche Intelligenz,искусственный интеллект,,,
+B1,progress,der Fortschritt,прогресс,,,
+B1,pollution,die Verschmutzung,загрязнение,,,
+B1,exhaust fumes,die Abgase,выхлопные газы,,,
+B1,climate change,der Klimawandel,изменение климата,,,
+B1,global warming,die Erderwärmung,глобальное потепление,,,
+B1,solar energy,die Sonnenenergie,солнечная энергия,,,
+B1,wind power,die Windkraft,энергия ветра,,,
+B1,nuclear power,die Atomkraft,атомная энергия,,,
+B1,resource,die Ressource,ресурс,,,
+B1,raw material,der Rohstoff,сырьё,,,
+B1,waste,der Abfall,отходы,,,
+B1,recycling,das Recycling,переработка,,,
+B1,drought,die Dürre,засуха,,,
+B1,flood,das Hochwasser,наводнение,,,
+B1,earthquake,das Erdbeben,землетрясение,,,
+B1,fire,das Feuer,огонь,,,
+B1,disaster,die Katastrophe,катастрофа,,,
+B1,species,die Art,вид,,,
+B1,national park,der Nationalpark,национальный парк,,,
+B1,protection,der Schutz,защита,,,
+B1,illness,die Krankheit,болезнь,,,
+B1,symptom,das Symptom,симптом,,,
+B1,treatment,die Behandlung,лечение,,,
+B1,operation,die Operation,операция,,,
+B1,therapy,die Therapie,терапия,,,
+B1,vaccination,die Impfung,прививка,,,
+B1,virus,das Virus,вирус,,,
+B1,infection,die Infektion,инфекция,,,
+B1,health insurance,die Krankenversicherung,медицинская страховка,,,
+B1,waiting room,das Wartezimmer,приёмная,,,
+B1,specialist doctor,der Facharzt,врач-специалист,,,
+B1,dentist,der Zahnarzt,стоматолог,,,
+B1,pharmacist,der Apotheker,фармацевт,,,
+B1,side effect,die Nebenwirkung,побочный эффект,,,
+B1,nutrition,die Ernährung,питание,,,
+B1,vitamin,das Vitamin,витамин,,,
+B1,muscle,der Muskel,мышца,,,
+B1,brain,das Gehirn,мозг,,,
+B1,lung,die Lunge,лёгкое,,,
+B1,disability,die Behinderung,инвалидность,,,
+B1,addiction,die Sucht,зависимость,,,
+B1,alcohol,der Alkohol,алкоголь,,,
+B1,drug,die Droge,наркотик,,,
+B1,cigarette,die Zigarette,сигарета,,,
+B1,personality,die Persönlichkeit,личность,,,
+B1,identity,die Identität,идентичность,,,
+B1,self-confidence,das Selbstbewusstsein,уверенность в себе,,,
+B1,attitude,die Einstellung,"отношение, установка",,,
+B1,"belief, faith",der Glaube,вера,,,
+B1,value,der Wert,ценность,,,
+B1,conscience,das Gewissen,совесть,,,
+B1,pride,der Stolz,гордость,,,
+B1,envy,der Neid,зависть,,,
+B1,jealousy,die Eifersucht,ревность,,,
+B1,"sadness, grief",die Trauer,"печаль, траур",,,
+B1,disappointment,die Enttäuschung,разочарование,,,
+B1,excitement,die Aufregung,волнение,,,
+B1,boredom,die Langeweile,скука,,,
+B1,loneliness,die Einsamkeit,одиночество,,,
+B1,friendship,die Freundschaft,дружба,,,
+B1,relationship,die Beziehung,отношения,,,
+B1,partner,der Partner,партнёр,,,
+B1,marriage,die Ehe,брак,,,
+B1,divorce,die Scheidung,развод,,,
+B1,relative,der Verwandte,родственник,,,
+B1,upbringing,die Erziehung,воспитание,,,
+B1,childhood,die Kindheit,детство,,,
+B1,youth,die Jugend,молодость,,,
+B1,teenager,der Jugendliche,подросток,,,
+B1,adult,der Erwachsene,взрослый,,,
+B1,senior citizen,der Senior,пожилой человек,,,
+B1,advantage,der Vorteil,преимущество,,,
+B1,disadvantage,der Nachteil,недостаток,,,
+B1,possibility,die Möglichkeit,возможность,,,
+B1,"requirement, prerequisite",die Voraussetzung,предпосылка,,,
+B1,condition,die Bedingung,условие,,,
+B1,circumstance,der Umstand,обстоятельство,,,
+B1,situation,die Situation,ситуация,,,
+B1,point of view,der Standpunkt,точка зрения,,,
+B1,purpose,der Zweck,"цель, назначение",,,
+B1,meaning,die Bedeutung,значение,,,
+B1,effect,die Wirkung,"действие, эффект",,,
+B1,consequence,die Folge,последствие,,,
+B1,cause,die Ursache,причина (источник),,,
+B1,influence,der Einfluss,влияние,,,
+B1,change,die Veränderung,изменение,,,
+B1,improvement,die Verbesserung,улучшение,,,
+B1,"decline, decrease",der Rückgang,снижение,,,
+B1,level,das Niveau,уровень,,,
+B1,standard,der Standard,стандарт,,,
+B1,risk,das Risiko,риск,,,
+B1,danger,die Gefahr,опасность,,,
+B1,damage,der Schaden,ущерб,,,
+B1,benefit,der Nutzen,польза,,,
+B1,"proof, evidence",der Beweis,доказательство,,,
+B1,argument,das Argument,аргумент,,,
+B1,conclusion,die Schlussfolgerung,вывод,,,
+B1,comparison,der Vergleich,сравнение,,,
+B1,contrast,der Gegensatz,противоположность,,,
+B1,similarity,die Ähnlichkeit,сходство,,,
+B1,"connection, context",der Zusammenhang,взаимосвязь,,,
+B1,process,der Prozess,процесс,,,
+B1,method,die Methode,метод,,,
+B1,system,das System,система,,,
+B1,structure,die Struktur,структура,,,
+B1,function,die Funktion,функция,,,
+B1,principle,das Prinzip,принцип,,,
+B1,theory,die Theorie,теория,,,
+B1,fact,die Tatsache,факт,,,
+B1,detail,das Detail,деталь,,,
+B1,aspect,der Aspekt,аспект,,,
+B1,factor,der Faktor,фактор,,,
+B1,exception,die Ausnahme,исключение,,,
+B1,"occasion, opportunity",die Gelegenheit,"возможность, случай",,,
+B1,event,das Ereignis,событие,,,
+B1,incident,der Vorfall,происшествие,,,
+B1,effort,die Mühe,усилие,,,
+B1,attempt,der Versuch,попытка,,,
+B1,"need, demand",der Bedarf,потребность,,,
+B1,lack,der Mangel,нехватка,,,
+B1,priority,die Priorität,приоритет,,,
+B1,atmosphere,die Atmosphäre,атмосфера,,,
+B1,reputation,der Ruf,репутация,,,
+B1,honour,die Ehre,честь,,,
+B1,respect,der Respekt,уважение,,,
+B1,patience,die Geduld,терпение,,,
+B1,courage,der Mut,мужество,,,
+B1,power,die Macht,"власть, сила",,,
+B1,control,die Kontrolle,контроль,,,
+B1,permission,die Erlaubnis,разрешение,,,
+B1,ban,das Verbot,запрет,,,
+B1,obligation,die Verpflichtung,обязательство,,,
+B1,"guilt, blame",die Schuld,вина,,,
+B1,tourism,der Tourismus,туризм,,,
+B1,package holiday,die Pauschalreise,комплексный тур,,,
+B1,guided tour,die Führung,экскурсия с гидом,,,
+B1,youth hostel,die Jugendherberge,молодёжный хостел,,,
+B1,luxury,der Luxus,роскошь,,,
+B1,sun cream,die Sonnencreme,солнцезащитный крем,,,
+B1,swimsuit,der Badeanzug,купальник,,,
+B1,adventure,das Abenteuer,приключение,,,
+B1,hiking trail,der Wanderweg,туристическая тропа,,,
+B1,summit,der Gipfel,вершина,,,
+B1,cable car,die Seilbahn,канатная дорога,,,
+B1,ski,der Ski,лыжа,,,
+B1,skiing,das Skifahren,катание на лыжах,,,
+B1,tournament,das Turnier,турнир,,,
+B1,championship,die Meisterschaft,чемпионат,,,
+B1,referee,der Schiedsrichter,судья (спорт),,,
+B1,fan,der Fan,болельщик,,,
+B1,stadium,das Stadion,стадион,,,
+B1,athlete,der Sportler,спортсмен,,,
+B1,to apply for (officially),beantragen,подавать заявление,,,
+B1,to deduct,abziehen,вычитать,,,
+B1,to transfer (money),überweisen,переводить (деньги),,,
+B1,to withdraw (cash),abheben,снимать (деньги),,,
+B1,to pay in,einzahlen,вносить (деньги),,,
+B1,to pay back,zurückzahlen,возвращать долг,,,
+B1,to refund,erstatten,возмещать,,,
+B1,to exchange (goods),umtauschen,обменивать,,,
+B1,"to return, to give back",zurückgeben,возвращать,,,
+B1,to try on,anprobieren,примерять,,,
+B1,"to match, to go together",zusammenpassen,сочетаться,,,
+B1,to iron,bügeln,гладить,,,
+B1,to sew,nähen,шить,,,
+B1,to knit,stricken,вязать,,,
+B1,to tidy up,aufräumen,"убирать, наводить порядок",,,
+B1,to vacuum,staubsaugen,пылесосить,,,
+B1,to wipe,abwischen,вытирать,,,
+B1,to wash up,abspülen,мыть посуду,,,
+B1,to hang up,aufhängen,вешать,,,
+B1,to connect (device),anschließen,подключать,,,
+B1,"to connect, to link",verbinden,соединять,,,
+B1,to separate,trennen,разделять,,,
+B1,"to adjust, to set",einstellen,настраивать,,,
+B1,to charge (battery),aufladen,заряжать,,,
+B1,to scan,scannen,сканировать,,,
+B1,to upload,hochladen,загружать,,,
+B1,to update,aktualisieren,обновлять,,,
+B1,to restart,neu starten,перезапускать,,,
+B1,to crash (computer),abstürzen,"зависать, разбиваться",,,
+B1,to peel,schälen,чистить (овощи),,,
+B1,to stir,rühren,помешивать,,,
+B1,to season,würzen,приправлять,,,
+B1,to serve,servieren,подавать,,,
+B1,to set the table,den Tisch decken,накрывать на стол,,,
+B1,to clear the table,abräumen,убирать со стола,,,
+B1,to grill,grillen,жарить на гриле,,,
+B1,to freeze,einfrieren,замораживать,,,
+B1,to defrost,auftauen,размораживать,,,
+B1,to melt,schmelzen,таять,,,
+B1,to dry,trocknen,сушить,,,
+B1,to plant,pflanzen,сажать,,,
+B1,to harvest,ernten,собирать урожай,,,
+B1,to dig,graben,копать,,,
+B1,"to stick, to glue",kleben,клеить,,,
+B1,to screw,schrauben,завинчивать,,,
+B1,to drill,bohren,сверлить,,,
+B1,to paint (walls),streichen,красить,,,
+B1,to renovate,renovieren,ремонтировать,,,
+B1,to decorate,dekorieren,украшать,,,
+B1,to furnish,einrichten,обставлять,,,
+B1,to move in,einziehen,въезжать,,,
+B1,to move out,ausziehen,съезжать,,,
+B1,to knock,klopfen,стучать,,,
+B1,to enter,betreten,входить,,,
+B1,to stroll,bummeln,прогуливаться,,,
+B1,"to run, to rush",rennen,бежать,,,
+B1,to slip,ausrutschen,поскользнуться,,,
+B1,to trip,stolpern,споткнуться,,,
+B1,to fall over,hinfallen,упасть,,,
+B1,to sit down,sich setzen,садиться,,,
+B1,to lie down,sich legen,ложиться,,,
+B1,to bend down,sich bücken,наклоняться,,,
+B1,to stretch,strecken,вытягивать,,,
+B1,to lift,heben,поднимать,,,
+B1,to shake,schütteln,трясти,,,
+B1,to wave,winken,махать,,,
+B1,to nod,nicken,кивать,,,
+B1,to whistle,pfeifen,свистеть,,,
+B1,to whisper,flüstern,шептать,,,
+B1,to chat,plaudern,болтать,,,
+B1,to gossip,tratschen,сплетничать,,,
+B1,to argue,streiten,"спорить, ссориться",,,
+B1,to make up,sich versöhnen,мириться,,,
+B1,to flirt,flirten,флиртовать,,,
+B1,to fall in love,sich verlieben,влюбляться,,,
+B1,to get engaged,sich verloben,обручаться,,,
+B1,to break up,Schluss machen,расставаться,,,
+B1,to split up,sich trennen,разойтись,,,
+B1,to get divorced,sich scheiden lassen,разводиться,,,
+B1,to babysit,aufpassen,присматривать за детьми,,,
+B1,to bully,mobben,травить,,,
+B1,damp,feucht,влажный,,,
+B1,foggy,neblig,туманный,,,
+B1,cloudy,bewölkt,облачный,,,
+B1,sunny,sonnig,солнечный,,,
+B1,windy,windig,ветреный,,,
+B1,rainy,regnerisch,дождливый,,,
+B1,icy,eisig,ледяной,,,
+B1,"humid, muggy",schwül,душный,,,
+B1,frozen,gefroren,замёрзший,,,
+B1,ripe,reif,спелый,,,
+B1,"spoilt, rotten",verdorben,испорченный,,,
+B1,"spicy, aromatic",würzig,пряный,,,
+B1,greasy,fettig,жирный,,,
+B1,low-fat,fettarm,нежирный,,,
+B1,organic,biologisch,органический,,,
+B1,homemade,selbstgemacht,домашний,,,
+B1,vegan,vegan,веганский,,,
+B1,shiny,glänzend,блестящий,,,
+B1,transparent,durchsichtig,прозрачный,,,
+B1,colourful,bunt,разноцветный,,,
+B1,pale,blass,бледный,,,
+B1,striped,gestreift,полосатый,,,
+B1,checked,kariert,клетчатый,,,
+B1,plain (colour),einfarbig,однотонный,,,
+B1,loose,weit,свободный (об одежде),,,
+B1,fashionable,modisch,модный,,,
+B1,old-fashioned,altmodisch,старомодный,,,
+B1,casual,leger,непринуждённый,,,
+B1,formal,förmlich,официальный (о манере),,,
+B1,well-groomed,gepflegt,ухоженный,,,
+B1,torn,zerrissen,порванный,,,
+B1,second-hand,gebraucht,подержанный,,,
+B1,defective,defekt,неисправный,,,
+B1,crowded,überfüllt,переполненный,,,
+B1,"deserted, abandoned",verlassen,покинутый,,,
+B1,peaceful,friedlich,мирный,,,
+B1,"silent, still",still,"тихий, безмолвный",,,
+B1,spacious,geräumig,просторный,,,
+B1,cosy,gemütlich,уютный,,,
+B1,central,zentral,центральный,,,
+B1,remote,abgelegen,отдалённый,,,
+B1,neighbouring,benachbart,соседний,,,
+B1,ground floor,das Erdgeschoss,первый этаж,,,
+B1,stairwell,das Treppenhaus,лестничная клетка,,,
+B1,doorbell,die Klingel,звонок,,,
+B1,letterbox,der Briefkasten,почтовый ящик,,,
+B1,lock,das Schloss,замок,,,
+B1,socket,die Steckdose,розетка,,,
+B1,plug,der Stecker,вилка (электрическая),,,
+B1,cable,das Kabel,кабель,,,
+B1,switch,der Schalter,выключатель,,,
+B1,light bulb,die Glühbirne,лампочка,,,
+B1,candle,die Kerze,свеча,,,
+B1,matchstick,das Streichholz,спичка,,,
+B1,lighter,das Feuerzeug,зажигалка,,,
+B1,blanket,die Decke,одеяло,,,
+B1,pillow,das Kissen,подушка,,,
+B1,mattress,die Matratze,матрас,,,
+B1,towel,das Handtuch,полотенце,,,
+B1,soap,die Seife,мыло,,,
+B1,shampoo,das Shampoo,шампунь,,,
+B1,toothbrush,die Zahnbürste,зубная щётка,,,
+B1,toothpaste,die Zahnpasta,зубная паста,,,
+B1,comb,der Kamm,расчёска,,,
+B1,razor,der Rasierer,бритва,,,
+B1,perfume,das Parfüm,духи,,,
+B1,tissue,das Taschentuch,носовой платок,,,
+B1,toilet paper,das Toilettenpapier,туалетная бумага,,,
+B1,sponge,der Schwamm,губка,,,
+B1,bucket,der Eimer,ведро,,,
+B1,broom,der Besen,метла,,,
+B1,vacuum cleaner,der Staubsauger,пылесос,,,
+B1,iron (appliance),das Bügeleisen,утюг,,,
+B1,washing powder,das Waschmittel,стиральный порошок,,,
+B1,dishwasher,die Spülmaschine,посудомоечная машина,,,
+B1,microwave,die Mikrowelle,микроволновка,,,
+B1,kettle,der Wasserkocher,чайник электрический,,,
+B1,toaster,der Toaster,тостер,,,
+B1,frying pan,die Pfanne,сковорода,,,
+B1,pot,der Topf,кастрюля,,,
+B1,lid,der Deckel,крышка,,,
+B1,bowl,die Schüssel,миска,,,
+B1,jug,der Krug,кувшин,,,
+B1,tray,das Tablett,поднос,,,
+B1,napkin,die Serviette,салфетка,,,
+B1,tablecloth,die Tischdecke,скатерть,,,
+B1,bottle opener,der Flaschenöffner,открывашка,,,
+B1,corkscrew,der Korkenzieher,штопор,,,
+B1,straw,der Strohhalm,соломинка,,,
+B1,dustbin,der Mülleimer,мусорное ведро,,,
+B1,shopping bag,die Einkaufstasche,сумка для покупок,,,
+B1,purse,das Portemonnaie,кошелёк,,,
+B1,wallet,die Brieftasche,бумажник,,,
+B1,handbag,die Handtasche,женская сумка,,,
+B1,hammer,der Hammer,молоток,,,
+B1,screwdriver,der Schraubenzieher,отвёртка,,,
+B1,nail,der Nagel,гвоздь,,,
+B1,screw,die Schraube,винт,,,
+B1,power drill,der Bohrer,дрель,,,
+B1,ladder,die Leiter,лестница (приставная),,,
+B1,rope,das Seil,верёвка,,,
+B1,chain,die Kette,цепь,,,
+B1,wheel,das Rad,колесо,,,
+B1,tyre,der Reifen,шина,,,
+B1,brake,die Bremse,тормоз,,,
+B1,steering wheel,das Lenkrad,руль,,,
+B1,seat belt,der Sicherheitsgurt,ремень безопасности,,,
+B1,petrol,das Benzin,бензин,,,
+B1,diesel,der Diesel,дизель,,,
+B1,speed limit,die Höchstgeschwindigkeit,ограничение скорости,,,
+B1,driving licence,der Führerschein,водительские права,,,
+B1,fine (penalty),das Bußgeld,штраф,,,
+B1,number plate,das Nummernschild,номерной знак,,,
+B1,motorbike,das Motorrad,мотоцикл,,,
+B1,lorry,der Lastwagen,грузовик,,,
+B1,ship,das Schiff,корабль,,,
+B1,boat,das Boot,лодка,,,
+B1,harbour,der Hafen,порт,,,
+B1,ferry,die Fähre,паром,,,
+B1,pilot,der Pilot,пилот,,,
+B1,passenger,der Passagier,пассажир,,,
+B1,boarding card,die Bordkarte,посадочный талон,,,
+B1,seat,der Sitzplatz,место для сидения,,,
+B1,spice,das Gewürz,специя,,,
+B1,herb,das Kraut,трава (пряная),,,
+B1,garlic,der Knoblauch,чеснок,,,
+B1,cucumber,die Gurke,огурец,,,
+B1,cabbage,der Kohl,капуста,,,
+B1,pepper (vegetable),die Paprika,болгарский перец,,,
+B1,mushroom,der Pilz,гриб,,,
+B1,pea,die Erbse,горошина,,,
+B1,bean,die Bohne,фасоль,,,
+B1,corn,der Mais,кукуруза,,,
+B1,peach,der Pfirsich,персик,,,
+B1,pear,die Birne,груша,,,
+B1,plum,die Pflaume,слива,,,
+B1,cherry,die Kirsche,вишня,,,
+B1,melon,die Melone,дыня,,,
+B1,pineapple,die Ananas,ананас,,,
+B1,nut,die Nuss,орех,,,
+B1,almond,die Mandel,миндаль,,,
+B1,raisin,die Rosine,изюм,,,
+B1,yoghurt,der Joghurt,йогурт,,,
+B1,cream,die Sahne,сливки,,,
+B1,pudding,der Pudding,пудинг,,,
+B1,biscuit,der Keks,печенье,,,
+B1,sweets,die Süßigkeit,сладость,,,
+B1,crisps,die Chips,чипсы,,,
+B1,toast,der Toast,тост,,,
+B1,muesli,das Müsli,мюсли,,,
+B1,pancake,der Pfannkuchen,блин,,,
+B1,dumpling,der Knödel,кнедль,,,
+B1,sauce,die Soße,соус,,,
+B1,vinegar,der Essig,уксус,,,
+B1,mustard,der Senf,горчица,,,
+B1,ketchup,der Ketchup,кетчуп,,,
+B1,mayonnaise,die Mayonnaise,майонез,,,
+B1,lamb,das Lamm,баранина,,,
+B1,beef,das Rindfleisch,говядина,,,
+B1,pork,das Schweinefleisch,свинина,,,
+B1,turkey,die Pute,индейка,,,
+B1,bacon,der Speck,бекон,,,
+B1,steak,das Steak,стейк,,,
+B1,seafood,die Meeresfrüchte,морепродукты,,,
+B1,prawn,die Garnele,креветка,,,
+B1,tuna,der Thunfisch,тунец,,,
+B1,cocktail,der Cocktail,коктейль,,,
+B1,schnapps,der Schnaps,крепкий алкоголь,,,
+B1,lemonade,die Limonade,лимонад,,,
+B1,tap water,das Leitungswasser,водопроводная вода,,,
+B1,tip (money),das Trinkgeld,чаевые,,,
+B2,to acquire,erwerben,приобретать,,,
+B2,to adopt (a child),adoptieren,усыновлять,,,
+B2,to advocate,befürworten,выступать за,,,
+B2,to aim at,abzielen auf,быть нацеленным на,,,
+B2,to allocate,zuweisen,распределять,,,
+B2,to alter,verändern,видоизменять,,,
+B2,to anticipate,vorhersehen,предвидеть,,,
+B2,to arise,entstehen,возникать,,,
+B2,to assess,beurteilen,оценивать,,,
+B2,to assign,zuordnen,"относить, присваивать",,,
+B2,to attribute,zuschreiben,приписывать,,,
+B2,to bother,stören,беспокоить,,,
+B2,to capture,erfassen,"охватывать, фиксировать",,,
+B2,to challenge,herausfordern,бросать вызов,,,
+B2,to clarify,klären,выяснять,,,
+B2,to classify,einordnen,классифицировать,,,
+B2,to coincide,zusammenfallen,совпадать,,,
+B2,to collaborate,zusammenarbeiten,сотрудничать,,,
+B2,to commit (a crime),begehen,совершать,,,
+B2,to commit oneself,sich verpflichten,обязываться,,,
+B2,to compensate,entschädigen,компенсировать,,,
+B2,to compile,zusammenstellen,составлять,,,
+B2,to complicate,erschweren,осложнять,,,
+B2,to comply with,einhalten,соблюдать,,,
+B2,to concentrate on,sich konzentrieren auf,концентрироваться на,,,
+B2,to conclude,folgern,делать вывод,,,
+B2,to condemn,verurteilen,осуждать,,,
+B2,to carry out,durchführen,проводить,,,
+B2,to confront,konfrontieren,противопоставлять,,,
+B2,to consume,konsumieren,потреблять,,,
+B2,to contradict,widersprechen,противоречить,,,
+B2,to contribute,beitragen,вносить вклад,,,
+B2,to convey,vermitteln,"передавать, посредничать",,,
+B2,to cooperate,kooperieren,кооперироваться,,,
+B2,to dedicate,widmen,посвящать,,,
+B2,to deduce,ableiten,выводить,,,
+B2,to derive from,stammen aus,происходить из,,,
+B2,to designate,bezeichnen,обозначать,,,
+B2,to deteriorate,sich verschlechtern,ухудшаться,,,
+B2,to deviate,abweichen,отклоняться,,,
+B2,to differentiate,unterscheiden,различать,,,
+B2,to diminish,verringern,уменьшать,,,
+B2,to disclose,offenlegen,раскрывать,,,
+B2,"to display, to exhibit",ausstellen,выставлять,,,
+B2,to distribute,verteilen,распределять,,,
+B2,to dominate,dominieren,доминировать,,,
+B2,to work out,ausarbeiten,разрабатывать,,,
+B2,to eliminate,beseitigen,устранять,,,
+B2,to emerge,auftauchen,появляться,,,
+B2,to enable,ermöglichen,делать возможным,,,
+B2,to encounter,begegnen,встречаться,,,
+B2,to encourage,ermutigen,ободрять,,,
+B2,to enforce,durchsetzen,добиваться исполнения,,,
+B2,to engage,sich engagieren,вовлекаться,,,
+B2,to enhance,steigern,повышать,,,
+B2,to ensure,sicherstellen,обеспечивать,,,
+B2,"to found, to establish",gründen,основывать,,,
+B2,to evaluate,auswerten,оценивать (данные),,,
+B2,to exceed,übersteigen,превышать,,,
+B2,to exclude,ausschließen,исключать,,,
+B2,to execute,ausführen,выполнять,,,
+B2,to exploit,ausnutzen,использовать,,,
+B2,to explore,erforschen,исследовать,,,
+B2,to expose,aussetzen,подвергать,,,
+B2,to extract,entnehmen,извлекать,,,
+B2,to facilitate,erleichtern,облегчать,,,
+B2,to fulfil,erfüllen,выполнять,,,
+B2,to generate,erzeugen,производить,,,
+B2,to guarantee,garantieren,гарантировать,,,
+B2,to highlight,hervorheben,выделять,,,
+B2,to hinder,hindern,мешать,,,
+B2,to identify,identifizieren,идентифицировать,,,
+B2,to illustrate,veranschaulichen,иллюстрировать,,,
+B2,to imply,andeuten,намекать,,,
+B2,to impose,auferlegen,налагать,,,
+B2,to indicate,hinweisen,указывать,,,
+B2,to inherit,erben,наследовать,,,
+B2,to initiate,einleiten,инициировать,,,
+B2,to inspire,inspirieren,вдохновлять,,,
+B2,to intend,beabsichtigen,намереваться,,,
+B2,to interfere,sich einmischen,вмешиваться,,,
+B2,to interpret,interpretieren,интерпретировать,,,
+B2,to interrupt,unterbrechen,прерывать,,,
+B2,to introduce (a system),einführen,вводить,,,
+B2,to involve (someone),beteiligen,вовлекать,,,
+B2,to isolate,isolieren,изолировать,,,
+B2,to justify,rechtfertigen,оправдывать,,,
+B2,to maintain,aufrechterhalten,поддерживать,,,
+B2,to manipulate,manipulieren,манипулировать,,,
+B2,to merge,zusammenlegen,объединять,,,
+B2,to neglect,vernachlässigen,пренебрегать,,,
+B2,to observe,beobachten,наблюдать,,,
+B2,to obtain,erhalten,получать,,,
+B2,to occupy,besetzen,занимать,,,
+B2,to offend,beleidigen,оскорблять,,,
+B2,to omit,weglassen,пропускать,,,
+B2,to oppose,sich widersetzen,сопротивляться,,,
+B2,to overcome,überwinden,преодолевать,,,
+B2,to overlook,übersehen,упускать из виду,,,
+B2,to participate,sich beteiligen,участвовать,,,
+B2,to perceive,wahrnehmen,воспринимать,,,
+B2,to perform (on stage),aufführen,исполнять,,,
+B2,to permit,gestatten,позволять,,,
+B2,"to pose, to represent",darstellen,представлять,,,
+B2,to possess,besitzen,обладать,,,
+B2,to precede,vorausgehen,предшествовать,,,
+B2,to presume,vermuten,предполагать,,,
+B2,to preserve,bewahren,сохранять,,,
+B2,to pursue,verfolgen,преследовать,,,
+B2,to quote,zitieren,цитировать,,,
+B2,to recognize officially,anerkennen,признавать,,,
+B2,to refer to,sich beziehen auf,ссылаться на,,,
+B2,to reinforce,verstärken,усиливать,,,
+B2,to release,freigeben,освобождать,,,
+B2,to remove,entfernen,удалять,,,
+B2,to replace,ersetzen,заменять,,,
+B2,to resolve,beschließen,постановлять,,,
+B2,to restore,wiederherstellen,восстанавливать,,,
+B2,to restrict,einschränken,ограничивать,,,
+B2,to retain,behalten,сохранять за собой,,,
+B2,to reveal,enthüllen,раскрывать,,,
+B2,to reverse,umkehren,обращать,,,
+B2,to revise,überarbeiten,перерабатывать,,,
+B2,to select,auswählen,отбирать,,,
+B2,to simulate,simulieren,имитировать,,,
+B2,to specify,festlegen,устанавливать,,,
+B2,to stimulate,anregen,стимулировать,,,
+B2,to submit,einreichen,подавать документы,,,
+B2,to suppress,unterdrücken,подавлять,,,
+B2,to surround,umgeben,окружать,,,
+B2,to tackle,angehen,браться за,,,
+B2,to terminate,beenden,завершать,,,
+B2,to transform,verwandeln,превращать,,,
+B2,to undergo,durchmachen,переживать,,,
+B2,to undertake,unternehmen,предпринимать,,,
+B2,to unite,vereinen,объединять,,,
+B2,to utilize,nutzen,использовать,,,
+B2,to verify,überprüfen,проверять,,,
+B2,to violate,verletzen,нарушать,,,
+B2,to withdraw (retreat),sich zurückziehen,отступать,,,
+B2,to withstand,standhalten,выдерживать,,,
+B2,abstract,abstrakt,абстрактный,,,
+B2,absolute,absolut,абсолютный,,,
+B2,accurate,präzise,точный,,,
+B2,aggressive,aggressiv,агрессивный,,,
+B2,alternative,alternativ,альтернативный,,,
+B2,analytical,analytisch,аналитический,,,
+B2,apparent,offenbar,очевидный,,,
+B2,arbitrary,willkürlich,произвольный,,,
+B2,artificial,künstlich,искусственный,,,
+B2,automatic,automatisch,автоматический,,,
+B2,basic,grundlegend,основополагающий,,,
+B2,beneficial,vorteilhaft,выгодный,,,
+B2,capable,fähig,способный,,,
+B2,charming,charmant,обаятельный,,,
+B2,classic,klassisch,классический,,,
+B2,collective,kollektiv,коллективный,,,
+B2,commercial,kommerziell,коммерческий,,,
+B2,compatible,kompatibel,совместимый,,,
+B2,competent,kompetent,компетентный,,,
+B2,complex,komplex,комплексный,,,
+B2,consistent,konsequent,последовательный,,,
+B2,conventional,konventionell,традиционный,,,
+B2,critical,kritisch,критический,,,
+B2,crucial,entscheidend,решающий,,,
+B2,democratic,demokratisch,демократический,,,
+B2,dense,dicht,плотный,,,
+B2,dependent,abhängig,зависимый,,,
+B2,desperate,verzweifelt,отчаявшийся,,,
+B2,detailed,ausführlich,подробный,,,
+B2,digital,digital,цифровой,,,
+B2,diverse,vielfältig,разнообразный,,,
+B2,dramatic,dramatisch,драматический,,,
+B2,dynamic,dynamisch,динамичный,,,
+B2,elementary,elementar,элементарный,,,
+B2,excessive,übermäßig,чрезмерный,,,
+B2,exclusive,exklusiv,эксклюзивный,,,
+B2,explicit,ausdrücklich,явный,,,
+B2,extensive,umfangreich,обширный,,,
+B2,external,extern,внешний,,,
+B2,fundamental,grundsätzlich,принципиальный,,,
+B2,genuine,echt,подлинный,,,
+B2,hostile,feindlich,враждебный,,,
+B2,humorous,humorvoll,юмористический,,,
+B2,imaginary,erfunden,вымышленный,,,
+B2,immediate,unmittelbar,непосредственный,,,
+B2,immense,gewaltig,"огромный, мощный",,,
+B2,impressive,beeindruckend,впечатляющий,,,
+B2,inadequate,unzureichend,недостаточный,,,
+B2,inevitable,unvermeidlich,неизбежный,,,
+B2,informal,zwanglos,непринуждённый,,,
+B2,inner,innere,внутренний,,,
+B2,innovative,innovativ,инновационный,,,
+B2,intense,intensiv,интенсивный,,,
+B2,internal,intern,внутренний (о структуре),,,
+B2,"close, intimate",vertraut,"близкий, знакомый",,,
+B2,invaluable,unschätzbar,бесценный,,,
+B2,irrelevant,irrelevant,нерелевантный,,,
+B2,legitimate,berechtigt,обоснованный,,,
+B2,liberal,liberal,либеральный,,,
+B2,literal,wörtlich,буквальный,,,
+B2,marginal,marginal,маргинальный,,,
+B2,massive,massiv,массивный,,,
+B2,naive,naiv,наивный,,,
+B2,neutral,neutral,нейтральный,,,
+B2,noble,edel,благородный,,,
+B2,numerous,zahlreich,многочисленный,,,
+B2,optimistic,optimistisch,оптимистичный,,,
+B2,pessimistic,pessimistisch,пессимистичный,,,
+B2,original,ursprünglich,первоначальный,,,
+B2,outstanding,hervorragend,выдающийся,,,
+B2,parallel,parallel,параллельный,,,
+B2,passionate,leidenschaftlich,страстный,,,
+B2,plausible,plausibel,правдоподобный,,,
+B2,potential,potenziell,потенциальный,,,
+B2,practical,praktisch,практичный,,,
+B2,predictable,vorhersehbar,предсказуемый,,,
+B2,primary,primär,первичный,,,
+B2,prominent,prominent,видный,,,
+B2,radical,radikal,радикальный,,,
+B2,random,zufällig,случайный,,,
+B2,rational,rational,рациональный,,,
+B2,realistic,realistisch,реалистичный,,,
+B2,reasonable,vernünftig,разумный,,,
+B2,relevant,relevant,релевантный,,,
+B2,reluctant,unwillig,неохотный,,,
+B2,representative,repräsentativ,репрезентативный,,,
+B2,resistant,widerstandsfähig,устойчивый к,,,
+B2,respective,jeweilig,соответствующий,,,
+B2,restricted,eingeschränkt,ограниченный,,,
+B2,revolutionary,revolutionär,революционный,,,
+B2,ridiculous,lächerlich,нелепый,,,
+B2,rigid,starr,"жёсткий, неподвижный",,,
+B2,robust,robust,прочный,,,
+B2,sceptical,skeptisch,скептический,,,
+B2,secondary,sekundär,вторичный,,,
+B2,selective,selektiv,избирательный,,,
+B2,significant,bedeutend,значительный,,,
+B2,sincere,aufrichtig,искренний,,,
+B2,skilled,geschickt,умелый,,,
+B2,sophisticated,anspruchsvoll,"изощрённый, требовательный",,,
+B2,spontaneous,spontan,спонтанный,,,
+B2,stable,stabil,стабильный,,,
+B2,steady,stetig,"устойчивый, ровный",,,
+B2,strategic,strategisch,стратегический,,,
+B2,subsequent,nachfolgend,последующий,,,
+B2,substantial,erheblich,существенный,,,
+B2,superior,überlegen,превосходящий,,,
+B2,suspicious,misstrauisch,подозрительный,,,
+B2,symbolic,symbolisch,символический,,,
+B2,systematic,systematisch,систематический,,,
+B2,tense,angespannt,напряжённый,,,
+B2,theoretical,theoretisch,теоретический,,,
+B2,tough,zäh,"жёсткий, выносливый",,,
+B2,trivial,trivial,тривиальный,,,
+B2,unique,einzigartig,уникальный,,,
+B2,universal,universell,универсальный,,,
+B2,urgent,dringend,срочный,,,
+B2,valid,gültig,действительный,,,
+B2,"verbal, oral",mündlich,устный,,,
+B2,vital,lebenswichtig,жизненно важный,,,
+B2,voluntary,freiwillig,добровольный,,,
+B2,vulnerable,verletzlich,уязвимый,,,
+B2,worthwhile,lohnenswert,стоящий,,,
+B2,abuse,der Missbrauch,злоупотребление,,,
+B2,access,der Zugang,доступ,,,
+B2,accuracy,die Genauigkeit,точность,,,
+B2,adaptation,die Anpassung,адаптация,,,
+B2,administration,die Verwaltung,администрация,,,
+B2,agenda,die Tagesordnung,повестка дня,,,
+B2,agreement,die Vereinbarung,соглашение,,,
+B2,alliance,das Bündnis,союз,,,
+B2,alternative (noun),die Alternative,альтернатива,,,
+B2,ambition,der Ehrgeiz,амбиция,,,
+B2,analysis,die Analyse,анализ,,,
+B2,"attraction, charm",der Reiz,привлекательность,,,
+B2,"application, use",die Anwendung,применение,,,
+B2,approval,die Zustimmung,одобрение,,,
+B2,"arrangement, regulation",die Regelung,урегулирование,,,
+B2,assembly,die Versammlung,собрание,,,
+B2,assessment,die Bewertung,оценка,,,
+B2,"assets, wealth",das Vermögen,имущество,,,
+B2,assumption,die Annahme,допущение,,,
+B2,attendance,die Anwesenheit,присутствие,,,
+B2,authority (agency),die Behörde,ведомство,,,
+B2,authority (power),die Autorität,авторитет,,,
+B2,awareness,das Bewusstsein,сознание,,,
+B2,background,der Hintergrund,"фон, предыстория",,,
+B2,balance,das Gleichgewicht,равновесие,,,
+B2,barrier,die Barriere,барьер,,,
+B2,basis,die Grundlage,основа,,,
+B2,bias,die Voreingenommenheit,предвзятость,,,
+B2,breakthrough,der Durchbruch,прорыв,,,
+B2,"burden, strain",die Belastung,нагрузка,,,
+B2,campaign,die Kampagne,кампания,,,
+B2,candidate,der Kandidat,кандидат,,,
+B2,capacity,die Kapazität,"вместимость, мощность",,,
+B2,category,die Kategorie,категория,,,
+B2,ceremony,die Zeremonie,церемония,,,
+B2,challenge (noun),die Herausforderung,вызов,,,
+B2,characteristic,das Merkmal,признак,,,
+B2,"claim, assertion",die Behauptung,утверждение,,,
+B2,clause,die Klausel,пункт договора,,,
+B2,coalition,die Koalition,коалиция,,,
+B2,code of conduct,der Kodex,кодекс,,,
+B2,collapse,der Zusammenbruch,крах,,,
+B2,combination,die Kombination,сочетание,,,
+B2,commitment,das Engagement,вовлечённость,,,
+B2,committee,der Ausschuss,комитет,,,
+B2,"goods, commodity",die Ware,товар,,,
+B2,communication,die Kommunikation,коммуникация,,,
+B2,compensation,die Entschädigung,компенсация,,,
+B2,component,der Bestandteil,составная часть,,,
+B2,concept,das Konzept,концепция,,,
+B2,"concern, worry",die Sorge,"забота, тревога",,,
+B2,concession,das Zugeständnis,уступка,,,
+B2,conflict,der Konflikt,конфликт,,,
+B2,confusion,die Verwirrung,замешательство,,,
+B2,consensus,der Konsens,консенсус,,,
+B2,preservation,die Erhaltung,сохранение,,,
+B2,consideration,die Überlegung,размышление,,,
+B2,constraint,die Einschränkung,ограничение,,,
+B2,consumer,der Verbraucher,потребитель,,,
+B2,consumption,der Verbrauch,потребление,,,
+B2,context,der Kontext,контекст,,,
+B2,contradiction,der Widerspruch,противоречие,,,
+B2,contribution,der Beitrag,вклад,,,
+B2,controversy,die Kontroverse,полемика,,,
+B2,convention,die Konvention,конвенция,,,
+B2,cooperation,die Zusammenarbeit,сотрудничество,,,
+B2,core,der Kern,ядро,,,
+B2,corruption,die Korruption,коррупция,,,
+B2,criterion,das Kriterium,критерий,,,
+B2,critic,der Kritiker,критик,,,
+B2,criticism,die Kritik,критика,,,
+B2,currency,die Währung,валюта,,,
+B2,curriculum,der Lehrplan,учебный план,,,
+B2,debate,die Debatte,дебаты,,,
+B2,decade,das Jahrzehnt,десятилетие,,,
+B2,definition,die Definition,определение,,,
+B2,delegation,die Delegation,делегация,,,
+B2,demand (economics),die Nachfrage,спрос,,,
+B2,depression,die Depression,депрессия,,,
+B2,destination,das Reiseziel,пункт назначения,,,
+B2,dilemma,das Dilemma,дилемма,,,
+B2,dimension,die Dimension,измерение,,,
+B2,diplomat,der Diplomat,дипломат,,,
+B2,discipline,die Disziplin,дисциплина,,,
+B2,disorder,die Störung,расстройство,,,
+B2,display (screen),die Anzeige,"дисплей, объявление",,,
+B2,dispute,der Streit,спор,,,
+B2,distinction,die Unterscheidung,различие,,,
+B2,distribution,die Verteilung,распределение,,,
+B2,diversity,die Vielfalt,разнообразие,,,
+B2,document,das Dokument,документ,,,
+B2,"field, domain",der Bereich,область,,,
+B2,draft,der Entwurf,"черновик, проект",,,
+B2,duration,die Dauer,продолжительность,,,
+B2,"edition, print run",die Auflage,"тираж, издание",,,
+B2,efficiency,die Effizienz,эффективность,,,
+B2,element,das Element,элемент,,,
+B2,elite,die Elite,элита,,,
+B2,emotion,die Emotion,эмоция,,,
+B2,"emphasis, focus",der Schwerpunkt,"акцент, приоритет",,,
+B2,employment,die Beschäftigung,занятость,,,
+B2,"company, enterprise",das Unternehmen,предприятие,,,
+B2,entrepreneur,der Unternehmer,предприниматель,,,
+B2,equipment,die Ausrüstung,оборудование,,,
+B2,"essence, nature",das Wesen,сущность,,,
+B2,ethics,die Ethik,этика,,,
+B2,evolution,die Evolution,эволюция,,,
+B2,exchange (of ideas),der Austausch,обмен,,,
+B2,expansion,die Expansion,расширение,,,
+B2,expenditure,die Ausgaben,расходы,,,
+B2,expertise,das Fachwissen,экспертиза,,,
+B2,extension,die Verlängerung,продление,,,
+B2,extent,das Ausmaß,масштаб,,,
+B2,facility,die Einrichtung,"учреждение, объект",,,
+B2,failure,das Versagen,"сбой, неудача",,,
+B2,fee,die Gebühr,сбор,,,
+B2,fiction,die Fiktion,вымысел,,,
+B2,finances,die Finanzen,финансы,,,
+B2,flexibility,die Flexibilität,гибкость,,,
+B2,forecast,die Prognose,прогноз,,,
+B2,foundation,die Stiftung,фонд,,,
+B2,framework,der Rahmen,рамки,,,
+B2,fraud,der Betrug,мошенничество,,,
+B2,fund,der Fonds,фонд,,,
+B2,gap,die Lücke,пробел,,,
+B2,"gender, sex",das Geschlecht,пол,,,
+B2,globalization,die Globalisierung,глобализация,,,
+B2,"grant, subsidy",der Zuschuss,субсидия,,,
+B2,guideline,die Richtlinie,директива,,,
+B2,heritage,das Erbe,наследие,,,
+B2,hierarchy,die Hierarchie,иерархия,,,
+B2,hypothesis,die Hypothese,гипотеза,,,
+B2,ideology,die Ideologie,идеология,,,
+B2,illusion,die Illusion,иллюзия,,,
+B2,impact,die Auswirkung,"влияние, последствие",,,
+B2,implication,die Folgerung,вывод,,,
+B2,incentive,der Anreiz,стимул,,,
+B2,income,das Einkommen,доход,,,
+B2,indicator,der Indikator,индикатор,,,
+B2,individual,das Individuum,индивид,,,
+B2,infrastructure,die Infrastruktur,инфраструктура,,,
+B2,inhabitant,der Einwohner,житель,,,
+B2,initiative,die Initiative,инициатива,,,
+B2,innovation,die Innovation,инновация,,,
+B2,insight,die Einsicht,понимание,,,
+B2,instinct,der Instinkt,инстинкт,,,
+B2,institution,die Institution,учреждение,,,
+B2,integrity,die Integrität,"целостность, неподкупность",,,
+B2,interaction,die Interaktion,взаимодействие,,,
+B2,interest (finance),der Zins,процент,,,
+B2,interference,die Einmischung,вмешательство,,,
+B2,interpretation,die Deutung,толкование,,,
+B2,intervention,der Eingriff,вмешательство,,,
+B2,investigation,die Untersuchung,"расследование, обследование",,,
+B2,judgement,das Urteil,"приговор, суждение",,,
+B2,label,das Etikett,этикетка,,,
+B2,landscape,die Landschaft,пейзаж,,,
+B2,legislation,die Gesetzgebung,законодательство,,,
+B2,liability,die Haftung,ответственность,,,
+B2,licence,die Lizenz,лицензия,,,
+B2,lifestyle,der Lebensstil,образ жизни,,,
+B2,limitation,die Beschränkung,ограничение,,,
+B2,literature,die Literatur,литература,,,
+B2,lobby,die Lobby,лобби,,,
+B2,logic,die Logik,логика,,,
+B2,management,das Management,менеджмент,,,
+B2,mandate,das Mandat,мандат,,,
+B2,manufacturer,der Hersteller,производитель,,,
+B2,margin,die Spanne,"разница, запас",,,
+B2,mechanism,der Mechanismus,механизм,,,
+B2,mentality,die Mentalität,менталитет,,,
+B2,merger,die Fusion,слияние,,,
+B2,migration,die Migration,миграция,,,
+B2,military,das Militär,вооружённые силы,,,
+B2,mission,die Mission,миссия,,,
+B2,mixture,die Mischung,смесь,,,
+B2,mobility,die Mobilität,мобильность,,,
+B2,model,das Modell,модель,,,
+B2,monopoly,das Monopol,монополия,,,
+B2,motive,das Motiv,мотив,,,
+B2,negotiation,die Verhandlung,переговоры,,,
+B2,norm,die Norm,норма,,,
+B2,"notion, term",der Begriff,понятие,,,
+B2,"objective, aim",die Zielsetzung,постановка цели,,,
+B2,obstacle,das Hindernis,препятствие,,,
+B2,offence,das Vergehen,проступок,,,
+B2,opponent,der Gegner,противник,,,
+B2,option,die Option,вариант,,,
+B2,orientation,die Orientierung,ориентация,,,
+B2,outline,der Überblick,обзор,,,
+B2,"ownership, property",das Eigentum,собственность,,,
+B2,paradox,das Paradoxon,парадокс,,,
+B2,participant,der Teilnehmer,участник,,,
+B2,participation,die Teilnahme,участие,,,
+B2,partnership,die Partnerschaft,партнёрство,,,
+B2,passion,die Leidenschaft,страсть,,,
+B2,pattern,das Muster,"образец, узор",,,
+B2,perception,die Wahrnehmung,восприятие,,,
+B2,perspective,die Perspektive,перспектива,,,
+B2,phenomenon,das Phänomen,явление,,,
+B2,philosophy,die Philosophie,философия,,,
+B2,potential (noun),das Potenzial,потенциал,,,
+B2,practice,die Praxis,практика,,,
+B2,precedent,der Präzedenzfall,прецедент,,,
+B2,premise,die Prämisse,предпосылка,,,
+B2,prestige,das Ansehen,престиж,,,
+B2,privacy,die Privatsphäre,частная жизнь,,,
+B2,privilege,das Privileg,привилегия,,,
+B2,procedure,das Verfahren,процедура,,,
+B2,prospect,die Aussicht,"перспектива, вид",,,
+B2,protocol,das Protokoll,протокол,,,
+B2,"provision, regulation",die Bestimmung,"положение, постановление",,,
+B2,psychology,die Psychologie,психология,,,
+B2,publication,die Veröffentlichung,публикация,,,
+B2,quota,die Quote,квота,,,
+B2,range,die Bandbreite,диапазон,,,
+B2,rate,die Rate,"ставка, темп",,,
+B2,ratio,das Verhältnis,соотношение,,,
+B2,reaction,die Reaktion,реакция,,,
+B2,reality,die Realität,реальность,,,
+B2,recession,die Rezession,рецессия,,,
+B2,reform,die Reform,реформа,,,
+B2,regime,das Regime,режим,,,
+B2,region,die Region,регион,,,
+B2,regulation,die Vorschrift,предписание,,,
+B2,relevance,die Relevanz,релевантность,,,
+B2,reliability,die Zuverlässigkeit,надёжность,,,
+B2,remedy,das Heilmittel,"лекарство, средство",,,
+B2,"representation, depiction",die Darstellung,изображение,,,
+B2,resistance,der Widerstand,сопротивление,,,
+B2,resolution (decision),die Entschließung,резолюция,,,
+B2,revenue,die Einnahmen,доходы,,,
+B2,reward,die Belohnung,награда,,,
+B2,rhythm,der Rhythmus,ритм,,,
+B2,ritual,das Ritual,ритуал,,,
+B2,role,die Rolle,роль,,,
+B2,routine,die Routine,рутина,,,
+B2,sample,die Stichprobe,выборка,,,
+B2,sanction,die Sanktion,санкция,,,
+B2,"scale, benchmark",der Maßstab,"масштаб, мерило",,,
+B2,scandal,der Skandal,скандал,,,
+B2,scenario,das Szenario,сценарий,,,
+B2,"scope, extent",der Umfang,объём,,,
+B2,sector,der Sektor,сектор,,,
+B2,section,der Abschnitt,раздел,,,
+B2,"sequence, order",die Reihenfolge,порядок следования,,,
+B2,"session, meeting",die Sitzung,заседание,,,
+B2,surroundings,die Umgebung,окружение,,,
+B2,"bottleneck, shortage",der Engpass,"узкое место, дефицит",,,
+B2,sovereignty,die Souveränität,суверенитет,,,
+B2,spectrum,das Spektrum,спектр,,,
+B2,speculation,die Spekulation,спекуляция,,,
+B2,stability,die Stabilität,стабильность,,,
+B2,"stage, phase",das Stadium,стадия,,,
+B2,statistics,die Statistik,статистика,,,
+B2,status,der Status,статус,,,
+B2,stereotype,das Klischee,стереотип,,,
+B2,strategy,die Strategie,стратегия,,,
+B2,subsidy (state),die Subvention,дотация,,,
+B2,substance,die Substanz,вещество,,,
+B2,supervision,die Aufsicht,надзор,,,
+B2,surplus,der Überschuss,избыток,,,
+B2,survey,die Umfrage,опрос,,,
+B2,symbol,das Symbol,символ,,,
+B2,tendency,die Tendenz,тенденция,,,
+B2,tension,die Spannung,напряжение,,,
+B2,territory,das Gebiet,территория,,,
+B2,threat,die Bedrohung,угроза,,,
+B2,threshold,die Schwelle,порог,,,
+B2,transaction,die Transaktion,транзакция,,,
+B2,transition,der Übergang,переход,,,
+B2,transparency,die Transparenz,прозрачность,,,
+B2,trauma,das Trauma,травма (психологическая),,,
+B2,tribe,der Stamm,племя,,,
+B2,unity,die Einheit,единство,,,
+B2,"deviation, variation",die Abweichung,отклонение,,,
+B2,vehicle,das Fahrzeug,транспортное средство,,,
+B2,"venture, risk",das Wagnis,рискованное предприятие,,,
+B2,version,die Version,версия,,,
+B2,victim,das Opfer,жертва,,,
+B2,vision,die Vision,видение,,,
+B2,volume,das Volumen,объём,,,
+B2,"welfare, well-being",das Wohl,благо,,,
+B2,workforce,die Belegschaft,"коллектив, персонал",,,
+B2,in order to,um ... zu,чтобы,,,
+B2,as long as,solange,"пока, до тех пор пока",,,
+B2,as soon as,sobald,как только,,,
+B2,provided that,"vorausgesetzt, dass","при условии, что",,,
+B2,unless,es sei denn,если только не,,,
+B2,even if,selbst wenn,даже если,,,
+B2,in case,falls,в случае если,,,
+B2,since (because),da,так как,,,
+B2,with the result that,sodass,так что,,,
+B2,neither ... nor,weder ... noch,ни ... ни,,,
+B2,either ... or,entweder ... oder,либо ... либо,,,
+B2,both ... and,sowohl ... als auch,как ... так и,,,
+B2,not only ... but also,nicht nur ... sondern auch,не только ... но и,,,
+B2,the more ... the,je ... desto,чем ... тем,,,
+B2,depending on,je nachdem,в зависимости от,,,
+B2,in contrast to,im Gegensatz zu,в отличие от,,,
+B2,compared with,im Vergleich zu,по сравнению с,,,
+B2,in terms of,hinsichtlich,в отношении,,,
+B2,on behalf of,im Auftrag,по поручению,,,
+B2,in favour of,zugunsten,в пользу,,,
+B2,at the expense of,auf Kosten,за счёт,,,
+B2,in the course of,im Laufe,в ходе,,,
+B2,in the event of,im Falle,в случае,,,
+B2,as a result,infolgedessen,вследствие этого,,,
+B2,for this reason,aus diesem Grund,по этой причине,,,
+B2,to sum up,zusammenfassend,подводя итог,,,
+B2,in conclusion,abschließend,в заключение,,,
+B2,first of all,zuallererst,прежде всего,,,
+B2,above all,vor allem,"прежде всего, главным образом",,,
+B2,in any case,jedenfalls,во всяком случае,,,
+B2,at any rate,immerhin,как-никак,,,
+B2,anyway,sowieso,в любом случае,,,
+B2,by the way,übrigens,кстати,,,
+B2,admittedly,zwar,"правда, хотя",,,
+B2,at all,überhaupt,вообще,,,
+B2,on the whole,insgesamt,в целом,,,
+B2,by contrast,dagegen,напротив,,,
+B2,however (formal),jedoch,однако,,,
+B2,whereas,wohingegen,тогда как,,,
+B2,instead (adv.),stattdessen,вместо этого,,,
+B2,likewise,ebenso,так же,,,
+B2,in the same way,auf die gleiche Weise,таким же образом,,,
+B2,accordingly,entsprechend,соответственно,,,
+B2,whatever,was auch immer,что бы ни,,,
+B2,whoever,wer auch immer,кто бы ни,,,
+B2,whenever,wann immer,когда бы ни,,,
+B2,wherever,wo auch immer,где бы ни,,,
+B2,to make sense,Sinn machen,иметь смысл,,,
+B2,to take into account,berücksichtigen,учитывать,,,
+B2,to play a role,eine Rolle spielen,играть роль,,,
+B2,to draw attention to,aufmerksam machen auf,обращать внимание на,,,
+B2,to come to a conclusion,zu dem Schluss kommen,прийти к выводу,,,
+B2,to make a decision,eine Entscheidung treffen,принимать решение,,,
+B2,to make an effort,sich Mühe geben,стараться,,,
+B2,to pay attention to,achten auf,обращать внимание на,,,
+B2,to bear in mind,bedenken,принимать во внимание,,,
+B2,to get in touch,Kontakt aufnehmen,связаться,,,
+B2,to keep in touch,in Kontakt bleiben,поддерживать связь,,,
+B2,to lose touch,den Kontakt verlieren,потерять связь,,,
+B2,to make progress,Fortschritte machen,делать успехи,,,
+B2,to make a mistake,einen Fehler machen,сделать ошибку,,,
+B2,to take a risk,ein Risiko eingehen,идти на риск,,,
+B2,to run out,ausgehen,заканчиваться,,,
+B2,to get along with,auskommen mit,ладить с,,,
+B2,to look forward to,sich freuen auf,ждать с нетерпением,,,
+B2,to find out,herausfinden,выяснять,,,
+B2,to carry on,weitermachen,продолжать,,,
+B2,to give up,aufgeben,"сдаваться, бросать",,,
+B2,"to postpone, to put off",aufschieben,откладывать,,,
+B2,to come up with,sich ausdenken,придумывать,,,
+B2,to turn out,sich herausstellen,оказываться,,,
+B2,to sort out,regeln,улаживать,,,
+B2,to bring about,herbeiführen,вызывать,,,
+B2,to point to,deuten auf,указывать на,,,
+B2,to make use of,Gebrauch machen von,использовать,,,
+B2,to be in charge of,zuständig sein für,отвечать за,,,
+B2,to be responsible for,verantwortlich sein für,быть ответственным за,,,
+B2,to be aware of,sich bewusst sein,осознавать,,,
+B2,to be familiar with,vertraut sein mit,быть знакомым с,,,
+B2,to be supposed to,sollen,должен (по договорённости),,,
+B2,to be about to,im Begriff sein,собираться,,,
+B2,to be willing to,bereit sein,быть готовым,,,
+B2,to be forced to,gezwungen sein,быть вынужденным,,,
+B2,to be entitled to,Anspruch haben auf,иметь право на,,,
+B2,to be keen on,begeistert sein von,увлекаться,,,
+B2,to be good at,gut sein in,хорошо разбираться в,,,
+B2,to be used to,gewöhnt sein an,привыкнуть к,,,
+B2,to be worth,wert sein,стоить того,,,
+B2,to be about (topic),handeln von,быть о,,,
+B2,to be in a hurry,es eilig haben,торопиться,,,
+B2,to have a say,mitreden,иметь право голоса,,,
+B2,to have an impact on,Einfluss haben,влиять на,,,
+B2,to have nothing to do with,nichts zu tun haben,не иметь отношения,,,
+B2,to have the right,das Recht haben,иметь право,,,
+B2,to have in common,gemeinsam haben,иметь общее,,,
+B2,to get the impression,den Eindruck haben,создаётся впечатление,,,
+B2,to get rid of,loswerden,избавляться,,,
+B2,to get on someone's nerves,nerven,действовать на нервы,,,
+B2,to get lost,sich verirren,заблудиться,,,
+B2,to get stuck,feststecken,застрять,,,
+B2,to get ahead,vorankommen,продвигаться,,,
+B2,"to get over (illness, loss)",verkraften,пережить,,,
+B2,to give way,nachgeben,уступать,,,
+B2,to go on,weitergehen,продолжаться,,,
+B2,to go wrong,schiefgehen,пойти не так,,,
+B2,to keep an eye on,im Auge behalten,присматривать,,,
+B2,to keep a secret,ein Geheimnis wahren,хранить секрет,,,
+B2,to keep a promise,ein Versprechen halten,сдержать обещание,,,
+B2,to let down,enttäuschen,подводить,,,
+B2,to look up (in a book),nachschlagen,смотреть в словаре,,,
+B2,to look into,prüfen,"рассматривать, изучать",,,
+B2,to make up one's mind,sich entschließen,решиться,,,
+B2,to make sure,sich vergewissern,убедиться,,,
+B2,to make a difference,einen Unterschied machen,иметь значение,,,
+B2,to pay off,sich auszahlen,окупаться,,,
+B2,to put forward,vorbringen,выдвигать,,,
+B2,to put up with,sich abfinden mit,мириться с,,,
+B2,to run into,stoßen auf,натыкаться на,,,
+B2,to sell out,ausverkaufen,распродавать,,,
+B2,to show off,angeben,хвастаться,,,
+B2,to stand out,hervorstechen,выделяться,,,
+B2,to stick to,sich halten an,придерживаться,,,
+B2,to take after,nachkommen,походить на (родителей),,,
+B2,to wear out,abnutzen,изнашивать,,,
+B2,to wipe out,auslöschen,уничтожать,,,
+B2,to be bound to,zwangsläufig,неизбежно,,,
+B2,once in a while,ab und zu,время от времени,,,
+B2,from time to time,von Zeit zu Zeit,время от времени,,,
+B2,sooner or later,früher oder später,рано или поздно,,,
+B2,in the long run,auf lange Sicht,в долгосрочной перспективе,,,
+B2,in the short term,kurzfristig,в краткосрочной перспективе,,,
+B2,all in all,alles in allem,в общем и целом,,,
+B2,in no way,keineswegs,ни в коем случае,,,
+B2,by all means,auf jeden Fall,в любом случае,,,
+B2,by no means,auf keinen Fall,ни в коем случае,,,
+B2,at all costs,um jeden Preis,любой ценой,,,
+B2,on principle,grundsätzlich,в принципе,,,
+B2,as far as I know,soweit ich weiß,насколько я знаю,,,
+B2,as far as I am concerned,was mich betrifft,что касается меня,,,
+B2,to my mind,meines Erachtens,на мой взгляд,,,
+B2,as a matter of fact,in der Tat,на самом деле,,,
+B2,needless to say,selbstverständlich,само собой разумеется,,,
+B2,for instance,beispielsweise,к примеру,,,
+B2,in other words,mit anderen Worten,другими словами,,,
+B2,that is to say,das heißt,то есть,,,
+B2,in particular,im Besonderen,в частности,,,
+B2,to some extent,in gewissem Maße,в некоторой степени,,,
+B2,to a large extent,weitgehend,в значительной мере,,,
+B2,on the basis of,aufgrund,на основании,,,
+B2,in view of,angesichts,ввиду,,,
+B2,with a view to,im Hinblick auf,с учётом,,,
+B2,in relation to,in Bezug auf,в отношении,,,
+B2,in line with,im Einklang mit,в соответствии с,,,
+B2,in accordance with,gemäß,согласно,,,
+B2,contrary to,entgegen,вопреки,,,
+B2,irrespective of,unabhängig von,независимо от,,,
+B2,as well as,sowie,а также,,,
+B2,in addition to,neben,помимо,,,
+B2,apart from that,abgesehen davon,кроме того,,,
+B2,on account of,aufgrund von,из-за,,,

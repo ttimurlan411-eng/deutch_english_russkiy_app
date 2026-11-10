@@ -123,6 +123,21 @@ void main() {
       expect(index['A1|to be'], isNotNull);
       expect(index['A1|to be']!.infinitivDe, 'sein');
     });
+
+    test('loads example sentences linked by stable word ids', () async {
+      final data = await service.load();
+      final index = data.examplesByWordId();
+      final wordIds = data.words.map((word) => word.id).toSet();
+
+      expect(data.examples, isNotEmpty);
+      expect(index['A1|mother'], isNotNull);
+      expect(index['A1|mother']!.english, contains('mother'));
+      expect(index['A1|mother']!.german, isNotEmpty);
+      expect(index['A1|mother']!.russian, isNotEmpty);
+      for (final example in data.examples) {
+        expect(wordIds, contains(example.wordId));
+      }
+    });
   });
 
   group('DictionaryDataService error handling', () {
@@ -139,6 +154,22 @@ void main() {
 
         expect(data.words, hasLength(6));
         expect(data.verbs, isEmpty);
+      },
+    );
+
+    test(
+      'keeps vocabulary when the optional example dataset is missing',
+      () async {
+        final contents = Map<String, String>.of(SampleData.bundle().contents)
+          ..remove(DictionaryDataService.examplesFile);
+        final service = DictionaryDataService(
+          bundle: FakeAssetBundle(contents),
+        );
+
+        final data = await service.load();
+
+        expect(data.words, hasLength(6));
+        expect(data.examples, isEmpty);
       },
     );
 

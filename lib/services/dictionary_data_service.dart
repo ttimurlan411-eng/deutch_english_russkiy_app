@@ -2,6 +2,7 @@ import 'package:csv/csv.dart';
 import 'package:flutter/foundation.dart' show debugPrint, debugPrintStack;
 import 'package:flutter/services.dart' show AssetBundle, rootBundle;
 
+import '../models/example_sentence.dart';
 import '../models/verb_forms.dart';
 import '../models/word.dart';
 
@@ -41,6 +42,7 @@ class DictionaryDataService {
 
   static const String tensesEnFile = 'assets/data/tenses_en_ru.csv';
   static const String tensesDeFile = 'assets/data/tenses_de_ru.csv';
+  static const String examplesFile = 'assets/data/examples.csv';
 
   /// Columns every `master_*.csv` file must provide.
   static const List<String> wordColumns = <String>[
@@ -75,6 +77,14 @@ class DictionaryDataService {
     'ru_future_ya',
   ];
 
+  /// Columns the optional example sentence file must provide.
+  static const List<String> exampleColumns = <String>[
+    'word_id',
+    'sentence_en',
+    'sentence_de',
+    'sentence_ru',
+  ];
+
   AssetBundle get _bundle => bundle ?? rootBundle;
 
   /// Loads vocabulary and verbs together.
@@ -97,7 +107,20 @@ class DictionaryDataService {
       }
       debugPrintStack(stackTrace: error.stackTrace);
     }
-    return DictionaryData(words: words, verbs: verbs);
+    List<ExampleSentence> examples = const <ExampleSentence>[];
+    try {
+      examples = await loadExamples();
+    } on DataLoadException catch (error) {
+      debugPrint(
+        'DictionaryDataService: optional example data could not be loaded; '
+        'continuing without example sentences. ${error.message}',
+      );
+      if (error.cause != null) {
+        debugPrint('DictionaryDataService: caused by ${error.cause}');
+      }
+      debugPrintStack(stackTrace: error.stackTrace);
+    }
+    return DictionaryData(words: words, verbs: verbs, examples: examples);
   }
 
   /// Parses the four `master_*.csv` files into [Word] records.
@@ -188,6 +211,26 @@ class DictionaryDataService {
     return verbs;
   }
 
+  /// Parses the optional example sentence file into [ExampleSentence] records.
+  ///
+  /// Rows without a [ExampleSentence.wordId] and rows without any sentence
+  /// are ignored. A missing file is reported to the caller as a
+  /// [DataLoadException]; [load] treats it as optional data.
+  Future<List<ExampleSentence>> loadExamples() async {
+    final rows = await _readCsv(examplesFile, exampleColumns);
+    final examples = <ExampleSentence>[];
+    for (final row in rows) {
+      final example = ExampleSentence(
+        wordId: row['word_id']?.trim() ?? '',
+        english: row['sentence_en']?.trim() ?? '',
+        german: row['sentence_de']?.trim() ?? '',
+        russian: row['sentence_ru']?.trim() ?? '',
+      );
+      if (!example.isEmpty) examples.add(example);
+    }
+    return examples;
+  }
+
   /// Reads a CSV asset into a list of header-keyed rows.
   ///
   /// [requiredColumns] must all be present in the header, otherwise a
@@ -274,10 +317,15 @@ class DictionaryDataService {
 
 /// Immutable bundle of everything loaded from the dataset.
 class DictionaryData {
-  const DictionaryData({required this.words, required this.verbs});
+  const DictionaryData({
+    required this.words,
+    required this.verbs,
+    this.examples = const <ExampleSentence>[],
+  });
 
   final List<Word> words;
   final List<VerbForms> verbs;
+  final List<ExampleSentence> examples;
 
   /// Indexes verb records by the `(level, english)` key of their vocabulary
   /// entry so the details view can attach conjugations to a word.
@@ -285,6 +333,17 @@ class DictionaryData {
     final index = <String, VerbForms>{};
     for (final verb in verbs) {
       index['${verb.level}|${verb.infinitiveEn}'] = verb;
+    }
+    return index;
+  }
+
+  /// Indexes example sentences by the stable id of their vocabulary entry.
+  Map<String, ExampleSentence> examplesByWordId() {
+    final index = <String, ExampleSentence>{};
+    for (final example in examples) {
+      if (example.wordId.isNotEmpty) {
+        index[example.wordId] = example;
+      }
     }
     return index;
   }

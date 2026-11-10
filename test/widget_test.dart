@@ -2,6 +2,7 @@ import 'dart:async';
 
 import 'package:english_deutch_ruskiy/app_state.dart';
 import 'package:english_deutch_ruskiy/main.dart';
+import 'package:english_deutch_ruskiy/models/app_settings.dart';
 import 'package:english_deutch_ruskiy/models/verb_forms.dart';
 import 'package:english_deutch_ruskiy/models/word.dart';
 import 'package:english_deutch_ruskiy/screens/favorites_screen.dart';
@@ -374,6 +375,142 @@ void main() {
     });
   });
 
+  group('Example sentences', () {
+    testWidgets('expands the example block and speaks each language', (
+      tester,
+    ) async {
+      usePhoneViewport(tester);
+      final tts = FakeFlutterTts();
+      await tester.pumpWidget(DictionaryApp(state: buildState(null, tts)));
+      await tester.pumpAndSettle();
+
+      await tester.tap(navIcon(Icons.menu_book_outlined));
+      await tester.pumpAndSettle();
+
+      final motherCard = find.ancestor(
+        of: find.text('mother'),
+        matching: find.byType(WordCard),
+      );
+      expect(motherCard, findsOneWidget);
+
+      await tester.tap(
+        find.descendant(of: motherCard, matching: find.text('Мисал сүйлөм')),
+      );
+      await tester.pumpAndSettle();
+
+      expect(
+        find.text('My mother cooks dinner every evening.'),
+        findsOneWidget,
+      );
+      expect(
+        find.text('Meine Mutter kocht jeden Abend das Abendessen.'),
+        findsOneWidget,
+      );
+      expect(find.text('Моя мама готовит ужин каждый вечер.'), findsOneWidget);
+
+      await tester.tap(
+        find.byKey(const ValueKey<String>('example-A1|mother-en')),
+      );
+      await tester.pumpAndSettle();
+      expect(tts.spoken, <String>['My mother cooks dinner every evening.']);
+      expect(tts.requestedLanguages, <String>['en']);
+
+      await tester.tap(
+        find.byKey(const ValueKey<String>('example-A1|mother-de')),
+      );
+      await tester.pumpAndSettle();
+      expect(tts.requestedLanguages, <String>['en', 'de']);
+    });
+
+    testWidgets('shows a placeholder when a word has no example', (
+      tester,
+    ) async {
+      usePhoneViewport(tester);
+      await tester.pumpWidget(DictionaryApp(state: buildState()));
+      await tester.pumpAndSettle();
+
+      await tester.tap(navIcon(Icons.menu_book_outlined));
+      await tester.pumpAndSettle();
+
+      final card = find.ancestor(
+        of: find.text('to do, to make'),
+        matching: find.byType(WordCard),
+      );
+      expect(card, findsOneWidget);
+
+      await tester.tap(
+        find.descendant(of: card, matching: find.text('Мисал сүйлөм')),
+      );
+      await tester.pumpAndSettle();
+
+      expect(
+        find.descendant(of: card, matching: find.text('Мисал азырынча жок')),
+        findsOneWidget,
+      );
+    });
+  });
+
+  group('Learning languages', () {
+    testWidgets('shows only the languages chosen in the settings', (
+      tester,
+    ) async {
+      usePhoneViewport(tester);
+      final state = buildState();
+      await tester.pumpWidget(DictionaryApp(state: state));
+      await tester.pumpAndSettle();
+
+      await state.settings.setLearningLanguage('de');
+      await state.settings.setTranslationEnabled('ru', false);
+      await tester.pumpAndSettle();
+
+      await tester.tap(navIcon(Icons.menu_book_outlined));
+      await tester.pumpAndSettle();
+
+      final card = find.ancestor(
+        of: find.text('die Mutter'),
+        matching: find.byType(WordCard),
+      );
+      expect(card, findsOneWidget);
+      expect(
+        find.descendant(of: card, matching: find.text('mother')),
+        findsOneWidget,
+      );
+      expect(
+        find.descendant(of: card, matching: find.text('мама')),
+        findsNothing,
+      );
+    });
+
+    testWidgets('can show all three languages together', (tester) async {
+      usePhoneViewport(tester);
+      final state = buildState();
+      await tester.pumpWidget(DictionaryApp(state: state));
+      await tester.pumpAndSettle();
+
+      await state.settings.setLearningLanguage('de');
+      await state.settings.setTranslationEnabled('en', true);
+      await state.settings.setTranslationEnabled('ru', true);
+      await tester.pumpAndSettle();
+
+      await tester.tap(navIcon(Icons.menu_book_outlined));
+      await tester.pumpAndSettle();
+
+      final card = find.ancestor(
+        of: find.text('die Mutter'),
+        matching: find.byType(WordCard),
+      );
+      expect(card, findsOneWidget);
+      expect(
+        find.descendant(of: card, matching: find.text('mother')),
+        findsOneWidget,
+      );
+      expect(
+        find.descendant(of: card, matching: find.text('мама')),
+        findsOneWidget,
+      );
+    });
+  });
+
   group('Localization', () {
     testWidgets('uses Kyrgyz by default', (tester) async {
       usePhoneViewport(tester);
@@ -483,6 +620,118 @@ void main() {
     });
   });
 
+  group('Bulk selection', () {
+    Future<void> openWordsAndStartSelection(
+      WidgetTester tester,
+      AppState state,
+    ) async {
+      await tester.pumpWidget(DictionaryApp(state: state));
+      await tester.pumpAndSettle();
+      await tester.tap(navIcon(Icons.menu_book_outlined));
+      await tester.pumpAndSettle();
+      await tester.tap(
+        inScreen(VocabularyScreen, find.byIcon(Icons.checklist_rounded)),
+      );
+      await tester.pumpAndSettle();
+    }
+
+    testWidgets('shows checkboxes and selects all visible words', (
+      tester,
+    ) async {
+      usePhoneViewport(tester);
+      final state = buildState();
+      await openWordsAndStartSelection(tester, state);
+
+      expect(inScreen(VocabularyScreen, find.byType(Checkbox)), findsWidgets);
+      expect(find.text('0 тандалды'), findsOneWidget);
+
+      await tester.tap(find.text('Баарын тандоо'));
+      await tester.pumpAndSettle();
+
+      expect(find.text('6 тандалды'), findsOneWidget);
+
+      await tester.tap(
+        find.descendant(
+          of: inScreen(VocabularyScreen, find.byType(AppBar)),
+          matching: find.byIcon(Icons.close_rounded),
+        ),
+      );
+      await tester.pumpAndSettle();
+
+      expect(inScreen(VocabularyScreen, find.byType(Checkbox)), findsNothing);
+      expect(find.text('6 тандалды'), findsNothing);
+    });
+
+    testWidgets('select all only affects the currently visible words', (
+      tester,
+    ) async {
+      usePhoneViewport(tester);
+      final state = buildState();
+      await openWordsAndStartSelection(tester, state);
+
+      await tester.tap(find.widgetWithText(FilterChip, 'A1'));
+      await tester.pumpAndSettle();
+      await tester.tap(find.text('Баарын тандоо'));
+      await tester.pumpAndSettle();
+
+      expect(find.text('3 тандалды'), findsOneWidget);
+
+      await tester.tap(find.widgetWithText(FilterChip, 'B1'));
+      await tester.pumpAndSettle();
+      expect(find.text('0 тандалды'), findsOneWidget);
+
+      await tester.tap(find.text('Баарын тандоо'));
+      await tester.pumpAndSettle();
+      expect(find.text('1 тандалды'), findsOneWidget);
+    });
+
+    testWidgets('marks the selected words as learned', (tester) async {
+      usePhoneViewport(tester);
+      final state = buildState();
+      await openWordsAndStartSelection(tester, state);
+
+      await tester.tap(find.text('Баарын тандоо'));
+      await tester.pumpAndSettle();
+      await tester.tap(find.text('Үйрөндүм деп белгилөө'));
+      await tester.pumpAndSettle();
+
+      expect(state.memorization.learnedCount, 6);
+      expect(find.text('Бардык сөздөрдү үйрөнгөнүз'), findsOneWidget);
+    });
+
+    testWidgets('adds selected words to favorites and clears the selection', (
+      tester,
+    ) async {
+      usePhoneViewport(tester);
+      final state = buildState();
+      await openWordsAndStartSelection(tester, state);
+
+      await tester.tap(inScreen(VocabularyScreen, find.byType(Checkbox)).first);
+      await tester.pumpAndSettle();
+      expect(find.text('1 тандалды'), findsOneWidget);
+
+      await tester.tap(find.text('Сүйүктүүлөргө кошуу'));
+      await tester.pumpAndSettle();
+
+      expect(state.favorites.count, 1);
+      expect(find.text('0 тандалды'), findsOneWidget);
+
+      // Let the confirmation snackbar disappear so it no longer covers the
+      // bulk action panel at the bottom of the screen.
+      await tester.pump(const Duration(seconds: 5));
+      await tester.pumpAndSettle();
+
+      await tester.tap(inScreen(VocabularyScreen, find.byType(Checkbox)).first);
+      await tester.pumpAndSettle();
+      await tester.tap(find.text('Тандалгандарды алып салуу'));
+      await tester.pumpAndSettle();
+
+      expect(state.favorites.count, 1);
+      expect(state.memorization.learnedCount, 0);
+      expect(find.text('0 тандалды'), findsOneWidget);
+    });
+  });
+
   group('Settings', () {
     testWidgets('switches the interface language', (tester) async {
       usePhoneViewport(tester);
@@ -548,6 +797,16 @@ void main() {
       await tester.tap(navIcon(Icons.settings_outlined));
       await tester.pumpAndSettle();
 
+      await tester.scrollUntilVisible(
+        find.byType(Switch),
+        200,
+        scrollable: find
+            .descendant(
+              of: find.byType(SettingsScreen),
+              matching: find.byType(Scrollable),
+            )
+            .first,
+      );
       await tester.tap(find.byType(Switch));
       await tester.pumpAndSettle();
 
@@ -564,7 +823,23 @@ void main() {
       await tester.tap(navIcon(Icons.settings_outlined));
       await tester.pumpAndSettle();
 
-      await tester.tap(inScreen(SettingsScreen, find.text('Тез')));
+      final fastRate = inScreen(
+        SettingsScreen,
+        find.byKey(ValueKey<String>('speech-rate-${SpeechRates.fast}')),
+      );
+      await tester.scrollUntilVisible(
+        fastRate,
+        200,
+        scrollable: find
+            .descendant(
+              of: find.byType(SettingsScreen),
+              matching: find.byType(Scrollable),
+            )
+            .first,
+      );
+      await tester.ensureVisible(fastRate);
+      await tester.pumpAndSettle();
+      await tester.tap(fastRate);
       await tester.pumpAndSettle();
 
       expect(state.settings.speechRate, 0.6);

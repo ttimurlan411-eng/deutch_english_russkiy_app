@@ -24,7 +24,7 @@ class FakeAssetBundle extends CachingAssetBundle {
   }
 }
 
-/// A tiny but complete dataset covering all six asset files.
+/// A tiny but complete dataset covering all seven asset files.
 ///
 /// The rows deliberately include a UTF-8 BOM, CRLF line endings, a quoted
 /// field containing a comma and an em dash, so the parsing edge cases of the
@@ -54,6 +54,12 @@ B1,to achieve,erreichen,достигать\r
 B2,to acquire,erwerben,приобретать\r
 ''';
 
+  static const String examplesCsv = '''
+word_id,sentence_en,sentence_de,sentence_ru
+A1|mother,"My mother cooks dinner every evening.","Meine Mutter kocht jeden Abend das Abendessen.","Моя мама готовит ужин каждый вечер."
+A1|to be,"I want to be a good teacher.","Ich möchte ein guter Lehrer sein.","Я хочу быть хорошим учителем."
+''';
+
   static const String tensesEnCsv = '''
 \uFEFFlevel,infinitive_en,past_simple,past_participle,russian_inf,ru_present_ya,ru_past_on,ru_future_ya\r
 A1,to be,was/were,been,быть,—,был,буду\r
@@ -73,6 +79,7 @@ A1,sein,ist,war,gewesen,sein,быть,—,был,буду\r
       'assets/data/master_B2.csv': b2Csv,
       'assets/data/tenses_en_ru.csv': tensesEnCsv,
       'assets/data/tenses_de_ru.csv': tensesDeCsv,
+      'assets/data/examples.csv': examplesCsv,
     });
   }
 }
